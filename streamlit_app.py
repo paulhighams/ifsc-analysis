@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 st.title("🎈 Landing page with basic info")
 st.write(
