@@ -1,0 +1,185 @@
+,WChampEvent,Country,Gold,Silver,Bronze,Total
+1,Wchamp 2023,Japan,1,1,2,4
+2,Wchamp 2023,Austria,2,1,0,3
+3,Wchamp 2023,Slovenia,2,1,0,3
+4,Wchamp 2023,France,1,2,0,3
+5,Wchamp 2023,United States of America,0,2,1,3
+6,Wchamp 2023,Indonesia,1,0,1,2
+7,Wchamp 2023,Republic of Korea,0,0,2,2
+8,Wchamp 2023,Italy,1,0,0,1
+9,Wchamp 2023,China,0,1,0,1
+10,Wchamp 2023,Poland,0,0,1,1
+11,Wchamp 2023,Germany,0,0,1,1
+12,Wchamp 2021,United States of America,1,1,1,3
+13,Wchamp 2021,Austria,2,0,0,2
+14,Wchamp 2021,Germany,1,1,0,2
+15,Wchamp 2021,Japan,1,1,0,2
+16,Wchamp 2021,Ukraine,1,0,1,2
+17,Wchamp 2021,Poland,1,0,1,2
+18,Wchamp 2021,Slovenia,0,2,0,2
+19,Wchamp 2021,Italy,0,1,1,2
+20,Wchamp 2021,Republic of Korea,1,0,0,1
+21,Wchamp 2021,Russia,0,1,0,1
+22,Wchamp 2021,Spain,0,1,0,1
+23,Wchamp 2021,Iran (Islamic Republic of),0,0,1,1
+24,Wchamp 2021,United Kingdom,0,0,1,1
+25,Wchamp 2021,Serbia,0,0,1,1
+26,Wchamp 2021,France,0,0,1,1
+27,WChamp 2019 All,Japan,2,2,1,5
+28,WChamp 2019 All,Slovenia,3,1,0,4
+29,WChamp 2019 All,Austria,0,2,1,3
+30,WChamp 2019 All,Czechia,1,1,0,2
+31,WChamp 2019 All,Germany,0,1,1,2
+32,WChamp 2019 All,United Kingdom,0,0,2,2
+33,WChamp 2019 All,Italy,1,0,0,1
+34,WChamp 2019 All,Poland,1,0,0,1
+35,WChamp 2019 All,China,0,1,0,1
+36,WChamp 2019 All,Russia,0,0,1,1
+37,WChamp 2019 All,France,0,0,1,1
+38,WChamp 2019 All,Kazakhstan,0,0,1,1
+39,WChamp 2018 All,Austria,3,0,1,4
+40,WChamp 2018 All,Slovenia,2,1,1,4
+41,WChamp 2018 All,Republic of Korea,0,2,1,3
+42,WChamp 2018 All,Japan,1,1,0,2
+43,WChamp 2018 All,Poland,1,1,0,2
+44,WChamp 2018 All,Czechia,0,2,0,2
+45,WChamp 2018 All,Germany,0,0,2,2
+46,WChamp 2018 All,Russia,0,0,2,2
+47,WChamp 2018 All,Iran (Islamic Republic of),1,0,0,1
+48,WChamp 2018 All,France,0,1,0,1
+49,WChamp 2018 All,Serbia,0,0,1,1
+50,WChamp 2016 All,France,0,2,3,5
+51,WChamp 2016 All,Russia,2,0,2,4
+52,WChamp 2016 All,Japan,1,1,1,3
+53,WChamp 2016 All,Czechia,1,1,0,2
+54,WChamp 2016 All,Slovenia,1,0,1,2
+55,WChamp 2016 All,Poland,1,0,0,1
+56,WChamp 2016 All,Switzerland,1,0,0,1
+57,WChamp 2016 All,Canada,1,0,0,1
+58,WChamp 2016 All,Iran (Islamic Republic of),0,1,0,1
+59,WChamp 2016 All,United States of America,0,1,0,1
+60,WChamp 2016 All,Belgium,0,1,0,1
+61,WChamp 2016 All,Austria,0,1,0,1
+62,WChamp 2016 All,Germany,0,0,1,1
+63,WChamp 2014 Lead Speed Combined,Russia,1,1,0,2
+64,WChamp 2014 Lead Speed Combined,France,1,0,1,2
+65,WChamp 2014 Lead Speed Combined,Slovenia,0,1,1,2
+66,WChamp 2014 Lead Speed Combined,Poland,0,1,1,2
+67,WChamp 2014 Lead Speed Combined,Canada,1,0,0,1
+68,WChamp 2014 Lead Speed Combined,Ukraine,1,0,0,1
+69,WChamp 2014 Lead Speed Combined,Czechia,1,0,0,1
+70,WChamp 2014 Lead Speed Combined,Republic of Korea,1,0,0,1
+71,WChamp 2014 Lead Speed Combined,Switzerland,0,1,0,1
+72,WChamp 2014 Lead Speed Combined,Germany,0,1,0,1
+73,WChamp 2014 Lead Speed Combined,Spain,0,1,0,1
+74,WChamp 2014 Lead Speed Combined,Iran (Islamic Republic of),0,0,1,1
+75,WChamp 2014 Lead Speed Combined,Japan,0,0,1,1
+76,WChamp 2014 Lead Speed Combined,Austria,0,0,1,1
+77,WChamp 2014 Boulder,Germany,1,0,1,2
+78,WChamp 2014 Boulder,Czechia,1,0,0,1
+79,WChamp 2014 Boulder,United States of America,0,1,0,1
+80,WChamp 2014 Boulder,Slovenia,0,1,0,1
+81,WChamp 2014 Boulder,Japan,0,0,1,1
+82,WChamp 2012 All,Russia,2,2,3,7
+83,WChamp 2012 All,Austria,2,1,2,5
+84,WChamp 2012 All,Republic of Korea,1,1,0,2
+85,WChamp 2012 All,France,1,1,0,2
+86,WChamp 2012 All,Canada,1,1,0,2
+87,WChamp 2012 All,Czechia,0,1,1,2
+88,WChamp 2012 All,Switzerland,0,0,2,2
+89,WChamp 2012 All,China,1,0,0,1
+90,WChamp 2012 All,Germany,0,1,0,1
+91,WChamp 2011 All,Russia,2,2,1,5
+92,WChamp 2011 All,Austria,2,1,1,4
+93,WChamp 2011 All,Czechia,0,1,1,2
+94,WChamp 2011 All,Spain,1,0,0,1
+95,WChamp 2011 All,China,1,0,0,1
+96,WChamp 2011 All,United States of America,0,1,0,1
+97,WChamp 2011 All,Republic of Korea,0,1,0,1
+98,WChamp 2011 All,Germany,0,0,1,1
+99,WChamp 2011 All,Kazakhstan,0,0,1,1
+100,WChamp 2011 All,Ukraine,0,0,1,1
+101,WChamp 2009 All,China,2,1,2,5
+102,WChamp 2009 All,Russia,2,2,0,4
+103,WChamp 2009 All,Austria,1,0,2,3
+104,WChamp 2009 All,Spain,1,0,0,1
+105,WChamp 2009 All,Republic of Korea,0,1,0,1
+106,WChamp 2009 All,Czechia,0,1,0,1
+107,WChamp 2009 All,Ukraine,0,1,0,1
+108,WChamp 2009 All,Slovenia,0,0,1,1
+109,WChamp 2009 All,United Kingdom,0,0,1,1
+110,WChamp 2007 All,Russia,2,0,3,5
+111,WChamp 2007 All,Austria,2,0,0,2
+112,WChamp 2007 All,Spain,1,1,0,2
+113,WChamp 2007 All,Czechia,0,1,1,2
+114,WChamp 2007 All,Switzerland,0,0,2,2
+115,WChamp 2007 All,China,1,0,0,1
+116,WChamp 2007 All,Japan,0,1,0,1
+117,WChamp 2007 All,Poland,0,1,0,1
+118,WChamp 2007 All,Venezuela (Bolivarian Republic of),0,1,0,1
+119,WChamp 2007 All,Belgium,0,1,0,1
+120,WChamp 2007 All,Slovenia,0,0,1,1
+121,WChamp 2007 All,Netherlands,0,0,1,1
+122,WChamp 2005 All,Russia,2,2,1,5
+123,WChamp 2005 All,Ukraine,2,1,0,3
+124,WChamp 2005 All,Austria,1,1,0,2
+125,WChamp 2005 All,Czechia,1,0,1,2
+126,WChamp 2005 All,France,0,0,2,2
+127,WChamp 2005 All,United States of America,0,1,0,1
+128,WChamp 2005 All,Spain,0,1,0,1
+129,WChamp 2005 All,Japan,0,0,1,1
+130,WChamp 2005 All,Poland,0,0,1,1
+131,WChamp 2003 All,France,1,2,3,6
+132,WChamp 2003 All,Ukraine,2,1,0,3
+133,WChamp 2003 All,Russia,0,1,2,3
+134,WChamp 2003 All,Poland,0,1,1,2
+135,WChamp 2003 All,Czechia,1,0,0,1
+136,WChamp 2003 All,Italy,1,0,0,1
+137,WChamp 2003 All,Belgium,1,0,0,1
+138,WChamp 2003 All,Spain,0,1,0,1
+139,WChamp 2001 All,France,2,2,2,6
+140,WChamp 2001 All,Ukraine,2,1,1,4
+141,WChamp 2001 All,Italy,1,0,1,2
+142,WChamp 2001 All,Russia,0,1,1,2
+143,WChamp 2001 All,Slovenia,1,0,0,1
+144,WChamp 2001 All,Czechia,0,1,0,1
+145,WChamp 2001 All,Belgium,0,1,0,1
+146,WChamp 2001 All,Poland,0,0,1,1
+147,WChamp 1999 All,Ukraine,2,1,1,4
+148,WChamp 1999 All,Russia,0,1,2,3
+149,WChamp 1999 All,Italy,1,0,0,1
+150,WChamp 1999 All,France,1,0,0,1
+151,WChamp 1999 All,Japan,0,1,0,1
+152,WChamp 1999 All,Belgium,0,1,0,1
+153,WChamp 1999 All,United States of America,0,0,1,1
+154,WChamp 1997 All,Russia,1,1,2,4
+155,WChamp 1997 All,France,2,0,1,3
+156,WChamp 1997 All,Spain,1,0,0,1
+157,WChamp 1997 All,Belgium,0,1,0,1
+158,WChamp 1997 All,Ukraine,0,1,0,1
+159,WChamp 1997 All,United States of America,0,1,0,1
+160,WChamp 1997 All,Germany,0,0,1,1
+161,WChamp 1995 All,France,2,3,1,6
+162,WChamp 1995 All,Ukraine,1,0,0,1
+163,WChamp 1995 All,United States of America,1,0,0,1
+164,WChamp 1995 All,Czechia,0,1,0,1
+165,WChamp 1995 All,Switzerland,0,0,1,1
+166,WChamp 1995 All,Russia,0,0,1,1
+167,WChamp 1995 All,Poland,0,0,1,1
+168,WChamp 1993 All,Russia,2,0,0,2
+169,WChamp 1993 All,France,1,0,1,2
+170,WChamp 1993 All,Ukraine,0,1,1,2
+171,WChamp 1993 All,Switzerland,1,0,0,1
+172,WChamp 1993 All,Belgium,0,1,0,1
+173,WChamp 1993 All,United States of America,0,1,0,1
+174,WChamp 1993 All,Germany,0,1,0,1
+175,WChamp 1993 All,Poland,0,0,1,1
+176,WChamp 1993 All,Japan,0,0,1,1
+177,WChamp 1991 All,France,1,3,0,4
+178,WChamp 1991 All,United States of America,1,0,1,2
+179,WChamp 1991 All,Belgium,1,0,0,1
+180,WChamp 1991 All,Switzerland,1,0,0,1
+181,WChamp 1991 All,Japan,0,1,0,1
+182,WChamp 1991 All,Kazakhstan,0,0,1,1
+183,WChamp 1991 All,Russia,0,0,1,1
+184,WChamp 1991 All,Germany,0,0,1,1

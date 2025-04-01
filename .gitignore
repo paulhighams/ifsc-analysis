@@ -1,5 +1,8 @@
 .streamlit/secrets.toml
 
+# my ignore files
+localrun-instructions.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

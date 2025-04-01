@@ -1,0 +1,900 @@
+Athlete,Country,NumWChamps
+Evgeny OVCHINNIKOV,Russia,10
+Ramón JULIAN PUIGBLANQUE,Spain,10
+Jakob SCHUBERT,Austria,9
+Sean MCCOLL,Canada,9
+Stefano GHISOLFI,Italy,8
+Adam ONDRA,Czechia,8
+Jorg VERHOEVEN,Netherlands,8
+Evgenii ZAZULIN,Russia,8
+Igor GUSAK,Ukraine,8
+Marcello BOMBARDI,Italy,7
+Artyom DEVYATERIKOV,Kazakhstan,7
+Domen SKOFIC,Slovenia,7
+Luca ZARDINI,Italy,7
+François LEGRAND,France,7
+Serik KAZBEKOV,Ukraine,7
+Yuji HIRAYAMA,Japan,7
+Cédric LACHAT,Switzerland,7
+Christian BINDHAMMER,Germany,7
+Romain DESGRANGES,France,7
+Mikhail CHERNIKOV,Russia,7
+Valeriy KRYUKOV,Ukraine,7
+François PETIT,France,6
+Kalin GARBOV,Bulgaria,6
+Luca GIUPPONI,Italy,6
+Yevgen KRYVOSHEYTSEV,Ukraine,6
+Magnus HÖGSTRÖM,Sweden,6
+Patxi USOBIAGA LAKUNZA,Spain,6
+Maksym PETRENKO,Ukraine,6
+Matej SOVA,Slovenia,6
+Jabee KIM,Republic of Korea,6
+Klemen BECAN,Slovenia,6
+Andreas BINDHAMMER,Germany,6
+Sangwon SON,Republic of Korea,6
+Magnus MIDTBOE,Norway,6
+Sascha LEHMANN,Switzerland,5
+Campbell HARRISON,Australia,5
+Nicolas COLLIN,Belgium,5
+Martin STRANIK,Czechia,5
+Yuval SHEMLA,Israel,5
+Jan HOJER,Germany,5
+Hyunbin MIN,Republic of Korea,5
+Marek HAVLIK,Czechia,5
+Salavat RAKHMETOV,Russia,5
+Aljosa GROM,Slovenia,5
+Tomás MRÁZEK,Czechia,5
+David CAUDE,France,5
+Flavio CRESPI,Italy,5
+Mykhaylo SHALAGIN,Ukraine,5
+Hidekazu ITO,Japan,5
+Alexandre CHABOT,France,5
+Jürgen REIS,Austria,5
+David BARRANS,United Kingdom,5
+Tomas BINTER,Czechia,5
+Manuel ROMAIN,France,5
+Kazuma WATANABE,Japan,5
+Sachi AMMA,Japan,5
+Max RUDIGIER,Austria,5
+Jihwan PARK,Republic of Korea,5
+Cesar GROSSO,Brazil,5
+Meichi NARASAKI,Japan,4
+Mickael MAWEM,France,4
+Alex KHAZANOV,Israel,4
+Yannick FLOHÉ,Germany,4
+Hannes PUMAN,Sweden,4
+Jongwon CHON,Republic of Korea,4
+Manuel CORNU,France,4
+Felipe HO FOGANHOLO,Brazil,4
+James POPE,United Kingdom,4
+Santiago DE ALBA FLORES,Mexico,4
+Luka POTOCAR,Slovenia,4
+Mikel Asier LINACISORO MOLINA,Spain,4
+Ram LEVIN,Israel,4
+Tomoa NARASAKI,Japan,4
+Yufei PAN,China,4
+Sean BAILEY,United States of America,4
+Martin BERGANT,Slovenia,4
+William BOSI,United Kingdom,4
+Fedir SAMOILOV,Ukraine,4
+Vladislav SHEVCHENKO,Russia,4
+Sebastian HALENKE,Germany,4
+Jean-baptiste TRIBOUT,France,4
+Simon WANDELER,Switzerland,4
+Elie CHEVIEUX,Switzerland,4
+Christoph BUCHER,Germany,4
+Peter HORNING,Netherlands,4
+Stefano ALIPPI,Italy,4
+Andrey VEDENMEER,Ukraine,4
+Stefan FÜRST,Austria,4
+Pavel KORAN,Czechia,4
+Milen VIDENOVSKI,Bulgaria,4
+Kairat RAKHMETOV,Kazakhstan,4
+Vili GUCEK,Slovenia,4
+Cristian BRENNA,Italy,4
+Tomi NYTORP,Finland,4
+André NERES,Portugal,4
+Tomaz VALJAVEC,Slovenia,4
+Alberto GNERRO,Italy,4
+Casper TEN SIJTHOFF,Netherlands,4
+Juraj REPCIK,Slovakia,4
+Peter BOSMA,Sweden,4
+Eduard MARIN GARCIA,Spain,4
+Sylvain MILLET,France,4
+Erik JACOBS,Netherlands,4
+Akito MATSUSHIMA,Japan,4
+Ivaylo KRASTEV,Bulgaria,4
+Sergei SHAFEROV,Belarus,4
+Hanwool KIM,Republic of Korea,4
+Ivan KAUROV,Russia,4
+Tomas RAVANAL,Chile,4
+Urban PRIMOZIC,Slovenia,4
+Francesco VETTORATA,Italy,4
+Mauricio HUERTA,Mexico,4
+Thomas TAUPORN,Germany,4
+Loïc TIMMERMANS,Belgium,4
+Jaha KIM,Republic of Korea,4
+Eric LOPEZ MATEOS,Spain,4
+John BROSLER,United States of America,4
+Nimrod MARCUS,Israel,3
+Anze PEHARC,Slovenia,3
+Mykhayil TKACHUK,Ukraine,3
+Chingkheinganba MAIBAM,India,3
+Benjamin AYALA,Chile,3
+Hritik MARNE,India,3
+Alexander MEGOS,Germany,3
+Yoshiyuki OGATA,Japan,3
+Michael PICCOLRUAZ,Italy,3
+Gaurav KUMAR,India,3
+Tomas PLEVKO,Slovakia,3
+Christoph HANKE,Germany,3
+Carlos GRANJA,Ecuador,3
+Minyoung LEE,Republic of Korea,3
+William RIDAL,United Kingdom,3
+Kokoro FUJII,Japan,3
+Jean paul FINNE,Belgium,3
+Pavel SAMOILINE,Russia,3
+Patxi AROCENA,Spain,3
+Alexei TCHERTOV,Russia,3
+Matej MEJOVSEK,Slovenia,3
+Tomoki USAMI,Japan,3
+Arnaud PETIT,France,3
+Neil CARSON,United Kingdom,3
+François LOMBARD,France,3
+Martin JAGGI,Switzerland,3
+Reinhard FICHTINGER,Austria,3
+Bernardino LAGNI,Italy,3
+Ondrej SVUB,Slovakia,3
+Frederico SILVA,Portugal,3
+Vadim VINOKUR,United States of America,3
+Daniel WINKLER,Switzerland,3
+Iouri DOULOUB,Russia,3
+Hans FLORINE,United States of America,3
+Johan MUS,Belgium,3
+Christoph FINKEL,Germany,3
+Andrej CHRASTINA,Slovakia,3
+Ionel ENE,Romania,3
+Serguei NOURMAMATOV,Russia,3
+Paul DEWILDE,France,3
+Roman VAN DER WERF,Netherlands,3
+Diego martín MARSELLA,Argentina,3
+César ciudad MANZANEDO,Spain,3
+Gareth PARRY,United Kingdom,3
+Marco antonio JUBES ANGARITA,Spain,3
+Geir SÖDERIN,Sweden,3
+Thomas JOANNES,France,3
+Victor ESTELLER OCAÑA,Spain,3
+Mario LECHNER,Austria,3
+Isaac ESTEVEZ,Ecuador,3
+Joseph GIFFORD,United States of America,3
+Callum HYLAND,Australia,3
+Masahiro HIGUCHI,Japan,3
+Giorgi GABULDANI,Georgia,3
+Anton MARDASHOV,Ukraine,3
+Vanco NAUNOV,The former Yugoslav Republic of Macedonia,3
+Thomas BALLET,France,3
+Yuriy DZYUBYAK,Ukraine,3
+Sergey TERENTYEV,Russia,3
+Rolands RUGENS,Latvia,3
+Julio ARCE,Costa Rica,3
+David ULLOA,Costa Rica,3
+Davoud REKABI,Iran (Islamic Republic of),3
+Gautier SUPPER,France,3
+Or WECHSLER,Israel,3
+André BEREZOSKI,Brazil,3
+Cheung-Chi Shoji CHAN,"China, Hong Kong Special Administrative Region",3
+Ka-chun YAU,"China, Hong Kong Special Administrative Region",3
+Jakub KONECNY,Czechia,3
+Javier CANO BLAZQUEZ,Spain,3
+Blagovest LAZAROV,Bulgaria,3
+Rishat KHAIBULLIN,Kazakhstan,3
+Guy MCNAMEE,Canada,2
+Alexey PANFILOV,Kazakhstan,2
+Simon POTUCEK,Czechia,2
+Hamish MCARTHUR,United Kingdom,2
+Philipp MARTIN,Germany,2
+Geva LEVIN,Israel,2
+Alberto GINÉS LÓPEZ,Spain,2
+Paul JENFT,France,2
+Teeraphon BOONDECH,Thailand,2
+Nino GRÜNENFELDER,Switzerland,2
+Zach GALLA,United States of America,2
+Dimitri VOGT,Switzerland,2
+Edvards GRUZITIS,Latvia,2
+Peter KURIC,Slovakia,2
+Maximillian MILNE,United Kingdom,2
+Filip SCHENK,Italy,2
+Stepan POTUCEK,Czechia,2
+Ties VANCRAEYNEST,Belgium,2
+Kindar MCNAMEE,Canada,2
+Joaquin URRUTIA,Chile,2
+Fredrik SERLACHIUS,Sweden,2
+Gabriele MORONI,Italy,2
+Viktor TRPOVSKI,The former Yugoslav Republic of Macedonia,2
+Benjamin VARGAS,Chile,2
+Dohyun LEE,Republic of Korea,2
+Simon LORENZI,Belgium,2
+Reza KOLASANGIAN,Iran (Islamic Republic of),2
+Tomoaki TAKATA,Japan,2
+Ben ABEL,Australia,2
+Milan PRESKAR,Slovenia,2
+Mathias POSCH,Austria,2
+Galo HERNANDEZ,Ecuador,2
+Winai RUANGRIT,Thailand,2
+Sergei TIUPYSHEV,Russia,2
+Nickolaie RIVADENEIRA,Ecuador,2
+Benjamin HANNA,United States of America,2
+Dmitrii POPOV,Russia,2
+Mark BRAND,Netherlands,2
+Jae-yong LEE,Republic of Korea,2
+Dong-hyun KIM,Republic of Korea,2
+Florian HAGE,Germany,2
+Boris CUJIC,Croatia,2
+Martin REIMERS,Norway,2
+Timmy FAIRFIELD,Canada,2
+Frédéric COROLLER,France,2
+Vincent ALBRAND,France,2
+Mauro CALIBANI,Italy,2
+Ivica MATKOVIC,Croatia,2
+Tomasz OLEKSY,Poland,2
+Milan BENIAN,Czechia,2
+Michael LEA,United Kingdom,2
+Alexander ADLER,Germany,2
+Johnny SCHELKER,Switzerland,2
+Hans MILEWSKI,Austria,2
+Franci JENSTERLE,Slovenia,2
+Frederic SARKANY,Belgium,2
+Wouter JONGENEELEN,Netherlands,2
+Min woo CHAE,Republic of Korea,2
+C. m. PRAVEEN,India,2
+Keita MOGAKI,Japan,2
+Adrian BAXTER,United Kingdom,2
+Shinta OZAWA,Japan,2
+Anthony SAPEY,Switzerland,2
+Mikhail PEKAREV,Russia,2
+Takaaki TSUIKI,Japan,2
+Atsushi SAGA,Japan,2
+Gérome POUVREAU,France,2
+Filip BABICZ,Italy,2
+Filip BABICZ,Poland,2
+Donato LELLA,Italy,2
+Said BELHAJ,Sweden,2
+Vasil TASEVSKI,The former Yugoslav Republic of Macedonia,2
+Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,2
+Kilian FISCHHUBER,Austria,2
+Martin FELIX,Switzerland,2
+Sampo KIESILÄINEN,Finland,2
+Thøger VILSTRUP,Denmark,2
+Timo PREUSSLE,Germany,2
+José ABREU,Portugal,2
+Scott FRANKLIN,United States of America,2
+Guido KÖSTERMEYER,Germany,2
+Stefan GLOWACZ,Germany,2
+Vasil KIROV,Bulgaria,2
+Severino SCASSA,Italy,2
+Tony RYAN,United Kingdom,2
+Michael MATLSCHWAIGER,Austria,2
+Frédéric NICOLE,Switzerland,2
+Hannes RIESER,Austria,2
+Doug ENGLEKIRK,United States of America,2
+Marcel TOMAN,Czechia,2
+Ferdinand SCHULTE,Netherlands,2
+Pablo BARBERO ALFONSO,Spain,2
+Marek REPCIK,Slovakia,2
+Marcin WSZOLEK,Poland,2
+Paal benum REITEN,Norway,2
+Dai KOYAMADA,Japan,2
+Daniel ANDRADA JIMENEZ,Spain,2
+Urs SCHÖNENBERGER,Switzerland,2
+Anton JOHANSONN,Finland,2
+Lukasz MÜLLER,Poland,2
+Tomas LUNDGREN,Sweden,2
+Guy SHAFIR,Israel,2
+Andreas PFANNER,Austria,2
+Yoshinobu SHINOZAKI,Japan,2
+Jurij GOLOB,Slovenia,2
+Henrik BOLANDER,Sweden,2
+Nikita SUYUSHKIN,Russia,2
+Silvio REFFO,Italy,2
+Boyko LALOV,Bulgaria,2
+Shane PUCCIO,United States of America,2
+Seungwoon CHO,Republic of Korea,2
+Jurgen LIS,Belgium,2
+Truong NGO,Netherlands,2
+Andres QUINTEROS,Ecuador,2
+Jure RAZTRESEN,Slovenia,2
+Petr CERMAK,Czechia,2
+Lucas GAONA,Chile,2
+Hafzanizam BOKHARI,Malaysia,2
+Reinaldo CAMACHO,Venezuela (Bolivarian Republic of),2
+Sungbo SEO,Republic of Korea,2
+Dmitrii FAKIRIANOV,Russia,2
+Elko SCHELLINGERHOUT,Netherlands,2
+Anthony GULLSTEN,Finland,2
+Kevin HEINIGER,Switzerland,2
+Ethan PRINGLE,United States of America,2
+Eirik birkelund OLSEN,Norway,2
+Esteban EGUEZ,Ecuador,2
+Krešimir MORIĆ,Croatia,2
+Jiacuo SUOLANG,China,2
+Alexey MOLCHANOV,Kazakhstan,2
+Soso KATSITADZE,Georgia,2
+Gholamali BARATZADEH,Iran (Islamic Republic of),2
+Ugur YILMAZ,Turkey,2
+Zorbey AKTUYUN,Turkey,2
+Qinghua WANG,China,2
+Juan Sebastian ARBOLEDA HENAO,Colombia,2
+Josh LEVIN,United States of America,2
+Carlo TRAVERSI,United States of America,2
+Denis ZHENDINSKIY,Kazakhstan,2
+Lukas KÖB,Austria,2
+Thilo jeldrik SCHRÖTER,Norway,2
+Elan JONASMCRAE,Canada,2
+Ronny ESCOBAR,Chile,2
+Niraj KARKI,Nepal,2
+Stefan BEDNAR,Slovakia,2
+Sebastian PRIETO PERILLA,Colombia,2
+Iñaki ARANTZAMENDI IRUETA,Spain,2
+Sergei BYDTAEV,Russia,2
+Martin JECH,Czechia,2
+Dmitrii FAKIRYANOV,Russia,2
+Keiichiro KORENAGA,Japan,2
+Georg PARMA,Austria,2
+Yiftach KUSHNIR,Israel,2
+Chi-fung AU,"China, Hong Kong Special Administrative Region",2
+Naoki SHIMATANI,Japan,2
+Gregory Raymond BORMAN,South Africa,2
+Stephane HANSSENS,Belgium,2
+Sébastien BERTHE,Belgium,2
+Tim REUSER,Netherlands,2
+Leopoldo FARIA,Portugal,2
+Arman SALADA,Philippines,2
+Lester JUÁREZ,Guatemala,2
+Christian EHLERT,Mexico,2
+Michaël FUSELIER,France,2
+Fernando Javier CICCONI,Argentina,2
+Manuel ESCOBAR,Venezuela (Bolivarian Republic of),2
+Timo TAK,Netherlands,2
+Fabien DUGIT,France,2
+Markus HOPPE,Germany,2
+Janghyuk KIM,Republic of Korea,2
+Bálint KUCSERA,Hungary,2
+Dmitrii SHARAFUTDINOV,Russia,2
+Or MINIELY,Israel,2
+Jason HOLOWACH,Canada,2
+George SANDERS,New Zealand,2
+Kai HARADA,Japan,2
+Danny VALENCIA,Ecuador,2
+Jernej KRUDER,Slovenia,2
+Nathaniel COLEMAN,United States of America,2
+Marcin DZIENSKI,Poland,2
+Bassa MAWEM,France,2
+Calrin CURTIS,South Africa,2
+Rudolph RUANA,United States of America,2
+Ludovico FOSSALI,Italy,2
+Lucas UCHIDA,Canada,2
+Santiago GARCIA,Argentina,2
+Yarden PILPEL,Israel,2
+Ka-wai CHU,"China, Hong Kong Special Administrative Region",2
+Tomas GREKSAK,Slovakia,2
+Haibin QU,China,2
+Zida MA,China,2
+Sefton PRIESTLEY,New Zealand,2
+Lucas PRETI,Italy,2
+Luka KIVELA,Croatia,2
+David LAMA,Austria,2
+Ivaylo RADKOV,Bulgaria,2
+Nicky DE LEEUW,Netherlands,2
+Jesse GRUPPER,United States of America,1
+Sorato ANRAKU,Japan,1
+Emilio FLORES,Guatemala,1
+Colin DUFFY,United States of America,1
+Jair octavio MORENO MONTOYA,Mexico,1
+Tulio OBREGON,Ecuador,1
+Emiliano TORRIJO,Chile,1
+Dillon COUNTRYMAN,United States of America,1
+Oscar BAUDRAND,Canada,1
+Maxim PARE,Australia,1
+Gabriel KERN,Sweden,1
+Toby ROBERTS,United Kingdom,1
+Ao YURIKUSA,Japan,1
+Giorgio TOMATIS,Italy,1
+Lovre ČULIĆ,Croatia,1
+Azat MAIKOTOV,Kazakhstan,1
+Hannes VAN DUYSEN,Belgium,1
+Stefan SCHERZ,Austria,1
+Dylan SOIN,Australia,1
+Nikolay RUSEV,Bulgaria,1
+Nimród sebestyén TUSNÁDY,Hungary,1
+Bautista GREGORINI,Argentina,1
+Ardch INTRACHUPONGSE,Thailand,1
+Dylan PARKS,Australia,1
+León PINO,Chile,1
+Birgir óli SNORRASON,Iceland,1
+Hector LOPEZ VALDEZ,Mexico,1
+Gergő VÁLYI,Hungary,1
+Matej MARKOV,The former Yugoslav Republic of Macedonia,1
+Jack MACDOUGALL,United Kingdom,1
+Alejo SUTER,Argentina,1
+Gianstefano DI NINO,Venezuela (Bolivarian Republic of),1
+Slav KIROV,Bulgaria,1
+Dohyeon KIM,Republic of Korea,1
+Minsung HAN,Republic of Korea,1
+Mejdi SCHALCK,France,1
+Jachym CINK,Czechia,1
+Yunchan SONG,Republic of Korea,1
+Musauwir MUSAUWIR,Indonesia,1
+Jovan IVANOV,The former Yugoslav Republic of Macedonia,1
+Mel JANSE VAN RENSBURG,South Africa,1
+Luis CASTELLANOS,Venezuela (Bolivarian Republic of),1
+Sigrid BIM,Indonesia,1
+Boyan KIROV,Bulgaria,1
+Sam AVEZOU,France,1
+Diego ernesto VÁZQUEZ,Mexico,1
+Muhammad ferza fernada ABDI,Indonesia,1
+Victor BAUDRAND,Canada,1
+Nicolai UZNIK,Austria,1
+Jonas UTELLI,Switzerland,1
+Putra TRI RAMADANI,Indonesia,1
+Roman VASKO,Ukraine,1
+Kenu PUERTA WONG,Peru,1
+Guðmundur freyr ARNARSON,Iceland,1
+Nathan MARTIN,Luxembourg,1
+Nathan MARTIN,France,1
+Dimitri FLICK,Switzerland,1
+Muhammad RIZKY SYAHRAFLI SIMATUPANG,Indonesia,1
+Thor VILLEGAS GARCÍA,Mexico,1
+Luke GOH WEN BIN,Singapore,1
+Mateus RODRIGUES BELLOTTO,Brazil,1
+Zan LOVENJAK SUDAR,Slovenia,1
+Lautaro nicolás SORIA SANCHEZ,Argentina,1
+Roman SIVAKOV,Lithuania,1
+Chia hsiang LIN,Taiwan,1
+Sergii TOPISHKO,Ukraine,1
+Nichol TOMAS,Thailand,1
+Dzmitry NIKANORAU,Belarus,1
+Yaroslav TKACH,Ukraine,1
+Vin SUKAPANPOTHARAM,Thailand,1
+Julien CLÉMENCE,Switzerland,1
+Muhammet ali̇ KESKİN,Turkey,1
+Isaac LEFF,United States of America,1
+Davide marco COLOMBO,Italy,1
+Vadim MALSHCHUKOV,Russia,1
+Wonwoo HAN,Republic of Korea,1
+Satone YOSHIDA,Japan,1
+Ferhat BEKMEZ,Turkey,1
+Samuel carlos DA SILVA,Brazil,1
+Kostiantyn PAVLENKO,Ukraine,1
+Radin FOROUGHIAN,Iran (Islamic Republic of),1
+Kipras BALTRUNAS,Lithuania,1
+Aaron PEÑARANDA,Ecuador,1
+Ti̇mur TAŞ,Turkey,1
+Alex MENDES JÚNIOR,Brazil,1
+Jonas LEFFECK,Brazil,1
+Pedro EGG,Brazil,1
+Matin BAYAT,Iran (Islamic Republic of),1
+Ellis ERNSBERGER,United States of America,1
+Ross FULKERSON,United States of America,1
+Joshua BRUYNS,South Africa,1
+Leonid OSADCHYI,Ukraine,1
+Dylan CHUAT,Switzerland,1
+Jae-hun HAN,Republic of Korea,1
+Kyu-bog CHO,Republic of Korea,1
+Takehiko YAMAZAKI,Japan,1
+Nenco DUNEV,Bulgaria,1
+Imre SEDEVI,Romania,1
+David VILLIEN,France,1
+Phillipe MUSSATTO,France,1
+Hakon HANSEN,Norway,1
+Andreas LUDESCHER,Austria,1
+Grzgorz KIMLA,Poland,1
+Daniel NIKOV,Bulgaria,1
+Pascal GISLER,Switzerland,1
+Yves PHILIPONA,Switzerland,1
+Malcolm SMITH,United Kingdom,1
+Robert MATE,Germany,1
+Filip SILHAN,Czechia,1
+Sebastian ZASADZKI,Poland,1
+Andrei KRIVONOS,Ukraine,1
+Dave CUTHBERTSON,United Kingdom,1
+David CARRETERO PEREZ,Spain,1
+Ciprian CHELARIN,Romania,1
+Oleg BOULAVKO,Russia,1
+Marko ROZMAN,Croatia,1
+François COFFY,France,1
+Pedro PONS,Spain,1
+Claus vedel JENSEN,Denmark,1
+Henrik SVENDSEN,Denmark,1
+François AUCLAIR,France,1
+Andrzej MECHERZYNSKI-WIKTOR,Poland,1
+Gil TENE,Israel,1
+Luka ZAZVONIL,Slovenia,1
+Nicolas FAVRESSE,Belgium,1
+Modrzejewski CEZARY,Poland,1
+Zoran PEJKOVSKI,The former Yugoslav Republic of Macedonia,1
+Cody ROTH,United States of America,1
+Blaz RANT,Slovenia,1
+Martin FOJTIK,Czechia,1
+Takuya TAKEDA,Japan,1
+Martin CHRISTENSEN,Denmark,1
+Francisco ATAIDE,Portugal,1
+Alexandre KOVALEVSKJ,Russia,1
+Peter DOLEZAJ,Slovakia,1
+Robin RAY,India,1
+Nathan BANCROFT,United States of America,1
+Ief SPINCERAILLE,Belgium,1
+Ivan TEMELKOV,Bulgaria,1
+Fabien MAZUER,France,1
+Alexander SISINTSEV,Russia,1
+Vladimir ZAKHAROV,Ukraine,1
+Ian VICKERS,United Kingdom,1
+Igor KOLLAR,Slovakia,1
+Seong-Jo LEE,Republic of Korea,1
+Ben MOON,United Kingdom,1
+Vlado PAUSIC,Croatia,1
+Tae-Woo KWAK,Republic of Korea,1
+Tomas SEDLACEK,Czechia,1
+Kai FUJINO,Japan,1
+Miyuki TAZUSHI,Japan,1
+Tihomir KATHAUNOV,Bulgaria,1
+Rudolf MIHAL,Slovakia,1
+Nicola SARTORI,Italy,1
+Mateusz KILARSKI,Poland,1
+Günther UNTERRAINER,Austria,1
+Scott MILTON,Canada,1
+Stefan ADRIAN,Romania,1
+Jacek JURKOWSKI,Poland,1
+Stefan BÖSCHENSTEIN,Switzerland,1
+Rae-kyung PARK,Republic of Korea,1
+Jacky GODOFFE,France,1
+Glenn SUTCLIFFE,United Kingdom,1
+Werner HOFMANS,Belgium,1
+Thomas FICKERT,Germany,1
+Serge BLEIN,France,1
+Arnould T'KINT,Belgium,1
+Marko LUKIC,Slovenia,1
+Kelly WILSON,Canada,1
+Heinz GUT,Switzerland,1
+Anton PACEK,Slovakia,1
+Jim KARN,United States of America,1
+Tomasz SAMITOWSKI,Poland,1
+Hira VERICK,Australia,1
+Bernabe FERNANDEZ,Spain,1
+Thomasz REGWELSKI,Poland,1
+Leszek MILCZAREK,Poland,1
+Josef SCHWAIGER,Austria,1
+Mark DELAFIELD,United Kingdom,1
+Seung-Kwon CHUNG,Republic of Korea,1
+Vladimir JOURKIN,Russia,1
+Andrea GALLO,Italy,1
+Carlos BRASCO,Spain,1
+Philippe STEULET,Switzerland,1
+Petrov PLAMEN,Bulgaria,1
+Juri LISSOVOI,Russia,1
+Tadej SLABE,Slovenia,1
+Andrzej MARCISZ,Poland,1
+Klaus BÜCHELE,Germany,1
+Dale GODDARD,United States of America,1
+Jindrich HUDECEK,Czechia,1
+Michael FADINGER,Austria,1
+Yoshihiko TERASHIMA,Japan,1
+Didier RABOUTOU,France,1
+Mark BAKER,Australia,1
+Kevin WILSON,Canada,1
+Geoff WEIGAND,Australia,1
+Jung-hee HAN,Republic of Korea,1
+Jan fredrick PRYTZ,Norway,1
+Jiri LAUTNER,Czechia,1
+Martin IDEGREN,Sweden,1
+Alexander MEIKL,Austria,1
+Roman FELIX,Switzerland,1
+Andre NOREL,Netherlands,1
+Martin MOBRÅTEN,Norway,1
+Thomas ACHERMANN,Switzerland,1
+Robert ELLIOTT,United Kingdom,1
+Todor DJAMBAZOV,Bulgaria,1
+Mizuno HIDEHARU,Japan,1
+Alexei ZEMSKI,Russia,1
+Denis CHARAFOUTDINOV,Russia,1
+Petr SOLANSKY,Czechia,1
+Martin DECKER,Germany,1
+Dhe-Hee LEE,Republic of Korea,1
+Adam DEWHURST,United Kingdom,1
+Liam SILAN,New Zealand,1
+Byung tae KIM,Republic of Korea,1
+Dong-sik KIM,Republic of Korea,1
+Guy DIXON,United Kingdom,1
+Oleg TCHERECHNEV,Russia,1
+Jussi KOIVULAHTI,Finland,1
+Martina TRAJKOVSKI,The former Yugoslav Republic of Macedonia,1
+David GISLER,Switzerland,1
+Kihito KUROZUMI,Japan,1
+Dmitrii BYCHKOV,Russia,1
+Josep TERRADES,Spain,1
+Dan SCORTEA,Romania,1
+Davide ZAVAGNIN,Italy,1
+Gregorz GROCHAL,Poland,1
+Dejan PETROVSKI,The former Yugoslav Republic of Macedonia,1
+Enrico SANGANAS,Germany,1
+Juan Jose IBARRA,Chile,1
+Adam HOCKING,United Kingdom,1
+Chris FOSSLI,Norway,1
+Markus BOCK,Germany,1
+Urh CEHOVIN,Slovenia,1
+Andreas GONZALEZ,Colombia,1
+Shigeshisa FUJII,Japan,1
+Maxi KLAUS,Germany,1
+Ioan MOLDOVAN,Romania,1
+Juha SAATSI,Finland,1
+Christopher CUBITT,United Kingdom,1
+Michal CIENCALA,Czechia,1
+David leandro SAIKIN,Argentina,1
+Jaime hendrik QUINTANA,Peru,1
+Jakob heber NORUM,Norway,1
+John henry NILSSEN,Norway,1
+Zul fadzli SHAFIEE,Malaysia,1
+Khairul hafiz ABU HASSAN,Malaysia,1
+Almatsgir KVITSIANI,Georgia,1
+Kire SERAFIMOVSKI,The former Yugoslav Republic of Macedonia,1
+Andres PAZMINO,Ecuador,1
+Ilham ISRAFILOV,Azerbaijan,1
+Babek IBADOV,Azerbaijan,1
+Michal ROZEK,Czechia,1
+Aziz FTIS,Costa Rica,1
+Vasya VOROTNIKOV,United States of America,1
+Ajij SHAIKH,India,1
+Bjørn ARNEL IISAGER,Denmark,1
+Gerard RULL FLORES,Spain,1
+Gulbala SAFAROV,Azerbaijan,1
+Dominic LABARGE,United States of America,1
+Robert STEWART-PATTERSON,Canada,1
+Lasha MITAISHVILI,Georgia,1
+Cingiz TAGIZADE,Azerbaijan,1
+Aspar JAELOLO,Indonesia,1
+Benjamin DE CHARMONY,South Africa,1
+Facundo LANGBEHN,Chile,1
+Emiliyan KOLEVSKI,Bulgaria,1
+Edward HAMER,United Kingdom,1
+Nikola KRAMARIC,Croatia,1
+Kin-wing LAU,"China, Hong Kong Special Administrative Region",1
+Juan josé FERDANDEZ,Chile,1
+Daisuke INOUE,Japan,1
+Lars TERJESEN,Norway,1
+Carol CERNY,Czechia,1
+Kenji IIYAMA,Japan,1
+Wolfgang WIDDER,Germany,1
+Paul BOBOC,Romania,1
+Man-Hin LAU,"China, Hong Kong Special Administrative Region",1
+Serguei CHEMOULINKINE,Russia,1
+Christian CORE,Italy,1
+Roman STEFANEK,Czechia,1
+Nicklas WINKLER,Sweden,1
+Adam LIANA,Poland,1
+Garth MILLER,Australia,1
+Ben BRANSBY,United Kingdom,1
+Jakub ROZBICKI,Poland,1
+Oliver COENEN,Belgium,1
+Chris SHARMA,United States of America,1
+Marius ONIGA,Romania,1
+Alexandr PAUKAEV,Ukraine,1
+Ricardo OTEGUI ZUBIYAGA,Spain,1
+Neil TRAVERS,United Kingdom,1
+Bosse SÄTTARE,Sweden,1
+Jan VERSCHOTEN,Belgium,1
+Thomas FEUERSTEIN,Austria,1
+Alex JOHNSON,United States of America,1
+Jaime amiel PAHATI,Philippines,1
+Miguel angel HERNANDEZ MEDINA,Mexico,1
+Jesus alberto GONZALEZ ABARCA,Chile,1
+Kuei chi PENG,Taiwan,1
+Geoffray DE FLAUGERGUES,France,1
+Daniel MORENO DE LOS HUERTO,Spain,1
+Mateo CARDENAS,Colombia,1
+Akin TASKIRAN,Turkey,1
+Mojtaba KHODAEIDAMERCHIDARSI,Iran (Islamic Republic of),1
+Seolbin SIM,Republic of Korea,1
+Rudi MORODER,Italy,1
+Ben SPANNUTH,United States of America,1
+Franz KRAKENBERGER,Switzerland,1
+Erick CÓRDOVA A.,Honduras,1
+Nikita DEVYATERIKOV,Kazakhstan,1
+Yannick LIS,Belgium,1
+Pavlo VEKLA,Ukraine,1
+Stanislav PEKAREK,Czechia,1
+Sandro DEUTSCHMANN,Austria,1
+Emanuel MOOSBURGER,Austria,1
+Amirhamzeh POURSHAFIE,Iran (Islamic Republic of),1
+Erekle MIKELADZE,Georgia,1
+Ivan PEVEC,Croatia,1
+Martin KLEMSA,Czechia,1
+Matty HONG,United States of America,1
+Patrik GAJDOSIK,Slovakia,1
+Sergej EPIH,Slovenia,1
+Khosro HASHEMZADEH,Iran (Islamic Republic of),1
+Mark PUGH-WILLIAMS,New Zealand,1
+Andrey MATA VELASQUEZ,Peru,1
+Eduardo MORA PARIENTE,Mexico,1
+Alon REINER,Israel,1
+Ricardo NEVES,Portugal,1
+Sushi FIRAS,Jordan,1
+Martino ISCHIA,Italy,1
+Rolf -martin BJØRNGAARD,Norway,1
+Bozhidar LYUBENOV,Bulgaria,1
+Daniel UNGUREANU,Romania,1
+Austin GEIMAN,United States of America,1
+Nathan SMITH,Canada,1
+Joonha SHIN,Republic of Korea,1
+Matthew WELLINGTON,Canada,1
+David FIRNENBURG,Germany,1
+Ali ŞEN,Turkey,1
+Brendan MITCHELL,United States of America,1
+Tosh SHERKAT,Canada,1
+Diego LEQUERICA,Peru,1
+Antoine KAUFFMANN,Belgium,1
+Àlex HERNÁNDEZ CASTILLA,Spain,1
+Ruben FIRNENBURG,Germany,1
+Martin TEKLES,Germany,1
+Kevin HUSER,Switzerland,1
+Oğuz Kaan BEĞEÇ,Turkey,1
+Nikola PETROV,Bulgaria,1
+Petar IVANOV,Bulgaria,1
+Alberto GOTTA,Italy,1
+Alistair EARLEY,Australia,1
+Sergei LUZHETSKII,Russia,1
+Stefano CARNATI,Italy,1
+Oliver MARX,South Africa,1
+Kyle MURDOCH,Canada,1
+Luis felix PEREZ,Spain,1
+H. c. KARTHIK,India,1
+Paul BROUARD,South Africa,1
+Julius BUCHEN,Slovakia,1
+Richárd BOZSIK,Hungary,1
+Lei ZHAO,China,1
+Jose Napoleon GUARDADO VILLANUEVA,El Salvador,1
+Aleko DOLIACHVILI,Georgia,1
+Mikhail GOGOL,Russia,1
+Mark AMANN,Austria,1
+Fabrizio DROETTO,Italy,1
+Johan GROSS,Sweden,1
+Patrick CASSIDAY,United States of America,1
+Václav MALINA,Czechia,1
+Sören ANDERSEN,Denmark,1
+Alexandr NIGMATULIN,Kazakhstan,1
+Aristomenes THANOPOULOS,Greece,1
+Petros LAPPAS,Greece,1
+Thomas SCHMID,Switzerland,1
+Athanasios HTENAS,Greece,1
+Changzhong LIU,China,1
+Andres FAJARDO,Colombia,1
+Björn STRÖMBERG,Sweden,1
+Igor ARANAZ,Spain,1
+Giorgi KOMAKHIKZE,Georgia,1
+Brett ASHTON,United States of America,1
+Rafael OLIVARES,Venezuela (Bolivarian Republic of),1
+Daniel JUNG,Germany,1
+Tom BOLGER,United Kingdom,1
+Loukas NTOURNTOUREKAS,Greece,1
+Jan ZBRANEK,Czechia,1
+Ioannis KOLOKAS,Greece,1
+Thomas NEYER,Austria,1
+Juan Gabriel ESTELLANO SCHULZE,Bolivia (Plurinational State of),1
+Rasmus NORGAARD,Denmark,1
+Esteban CRESPO,Ecuador,1
+Gerardo HUERTAS,Costa Rica,1
+Hualong SONG,China,1
+Pedro ferreira NICOLOSO,Brazil,1
+Aleksei RUBTSOV,Russia,1
+Donghyun JANG,Republic of Korea,1
+Vojtech TROJAN,Czechia,1
+Giga JANKHOTELI,Georgia,1
+Matthaios VALSAMIDIS,Greece,1
+Yongsu LEE,Republic of Korea,1
+Rei SUGIMOTO,Japan,1
+Noah RIDGE,United States of America,1
+Bittor ESPARTA FRADE,Spain,1
+Jonatan FLOR VAZQUEZ,Spain,1
+Robert LUBY,Slovakia,1
+Šimon POTŮČEK,Czechia,1
+Pietro BIAGINI,Italy,1
+Bharath PEREIRA,India,1
+Jean OURIQUES,Brazil,1
+Pedro BELLO,Chile,1
+Maciej DOBRZANSKI,Poland,1
+Shuta TANAKA,Japan,1
+Semen OVCHINNIKOV,Russia,1
+Orfeas TSIAOUSIS,Greece,1
+Oleksii KRYNETSKYI,Ukraine,1
+Borja FARAH,Chile,1
+Qixin ZHONG,China,1
+Thattana RAKSACHAT,Thailand,1
+Ying-Chieh WEN,Taiwan,1
+Tom O'HALLORAN,Australia,1
+Sam LAVENDER,Australia,1
+Javier Iván MOLINA FRANCO,Mexico,1
+Long CAO,China,1
+Emilio VALDEZ GARDUÑO,Mexico,1
+Damien BLOKKER,South Africa,1
+Nikolai IARILOVETS,Russia,1
+Thomas WALDIN,New Zealand,1
+Jan KRIZ,Czechia,1
+Aleksandr SHIKOV,Russia,1
+Singh ADARSH,India,1
+Emmanuel ESTRADA DE ARTOLA,Mexico,1
+Joe GOODACRE,United States of America,1
+Chia Hsiang LIN,Taiwan,1
+Danyil BOLDYREV,Ukraine,1
+Sahil KHAN,India,1
+Sirapob JIRAJATURAPAK,Thailand,1
+Keita DOHI,Japan,1
+Akmal JUMANIYAZOV,Uzbekistan,1
+Hidemasa NISHIDA,Japan,1
+Yeu-shiang CHANG,Taiwan,1
+Jinyu PAN,China,1
+Peter WÜRTH,Germany,1
+Victor KOZLOV,Russia,1
+Xiangyang YE,China,1
+Luka TRUMBIC,Croatia,1
+Fabien COMINA,France,1
+Flavien GUERIMAND,France,1
+Tatsumi NITTA,Japan,1
+Prashant AALLAY,India,1
+Vilimantas PETRASIUNAS,Lithuania,1
+Andreas ANDREOU,Cyprus,1
+Samsuding DOLOH,Thailand,1
+Alban LEVIER,France,1
+Connor BYRNE,United Kingdom,1
+Arman TER-MINASYAN,Russia,1
+Shivalinga M MAHADEVA K,India,1
+Mikhail KOCHETKOV,Russia,1
+Kaya OTAKA,Japan,1
+Samuel FERNANDEZ,Colombia,1
+Anghelo BERNAL,Colombia,1
+Cesar ORJUELA,Colombia,1
+Leonardo DE RIVERO HUAMAN,Peru,1
+Brad WEAVER,United States of America,1
+Jan JELIGA,Czechia,1
+Daniel RODENKO,Israel,1
+Recep GÜR,Turkey,1
+Josh LARSON,United States of America,1
+Luke DAWSON,United Kingdom,1
+Kristoffer kvamme THORBJOERNSEN,Norway,1
+Rafet serkan ERCAN,Turkey,1
+"Kien seong, francis LOW",Malaysia,1
+Danilo PEREYRA,Argentina,1
+Luis Federico ZAMBRANO,Argentina,1
+Edrick FREYRIA,Mexico,1
+Gianfranco DUSIC,Croatia,1
+Ricardo BELCHIOR,Portugal,1
+Matej SVUB,Slovakia,1
+Balint KAMVAS,Hungary,1
+Cemil Çağlar BILDIRCIN,Turkey,1
+Enrique GUILLÉN,Venezuela (Bolivarian Republic of),1
+Bernat ESCORIHUELA,Andorra,1
+Thomas FARRELL,Australia,1
+Roberto Antonio ZELAYA DIAZ,Honduras,1
+Frederic BONNET,Australia,1
+Mümin KARABAS,Turkey,1
+Andrew TROTTER,New Zealand,1
+Andres MEDINA,Mexico,1
+Tsukuru HORI,Japan,1
+Bence GÁL,Hungary,1
+Chih-Wei CHANG,Taiwan,1
+Gabor SZEKELY,Hungary,1
+Athanasios CHTENAS,Greece,1
+Ivan LISICA,Croatia,1
+Aleksey PEROV,Kazakhstan,1
+Konstantinos ZAMPAS,Greece,1
+Mincho PETKOV,Bulgaria,1
+Ricardo VARA,Mexico,1
+Leonel DE LAS SALAS,Venezuela (Bolivarian Republic of),1
+Igor SOLOVEY,Ukraine,1
+Boris ZOKIC,Croatia,1
+Sílvio MORGADO,Portugal,1
+Murat SEVINDIK,Turkey,1
+Tumur OCH,Mongolia,1
+Stefan DANKER,Germany,1
+Erik CARLSSON,Sweden,1
+Jonathan URBINA,Venezuela (Bolivarian Republic of),1
+Hiroki TSUNODA,Japan,1
+Felipe CAMARGO,Brazil,1
+Daniel WOODS,United States of America,1

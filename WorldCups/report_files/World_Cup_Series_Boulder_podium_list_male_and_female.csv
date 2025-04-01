@@ -1,0 +1,28 @@
+Gender,Female,Female,Female,Male,Male,Male
+Position,1,2,3,1,2,3
+Year,,,,,,
+2024,['Natalia GROSSMAN'],['Oceania MACKENZIE'],['Mao NAKAMURA'],['Sorato ANRAKU'],['Meichi NARASAKI'],['Tomoa NARASAKI']
+2023,['Natalia GROSSMAN'],['Miho NONAKA'],['Brooke RABOUTOU'],['Sorato ANRAKU'],['Dohyun LEE'],['Tomoa NARASAKI']
+2022,['Natalia GROSSMAN'],['Miho NONAKA'],['Brooke RABOUTOU'],['Yoshiyuki OGATA'],['Tomoa NARASAKI'],['Kokoro FUJII']
+2021,['Natalia GROSSMAN'],['Janja GARNBRET'],['Oriane BERTONE'],['Yoshiyuki OGATA'],['Kokoro FUJII'],['Adam ONDRA']
+2019,['Janja GARNBRET'],['Akiyo NOGUCHI'],['Fanny GIBERT'],['Tomoa NARASAKI'],['Adam ONDRA'],['Yoshiyuki OGATA']
+2018,['Miho NONAKA'],['Akiyo NOGUCHI'],['Fanny GIBERT'],['Jernej KRUDER'],['Tomoa NARASAKI'],['Rei SUGIMOTO']
+2017,['Shauna COXSEY'],['Janja GARNBRET'],['Akiyo NOGUCHI'],['Jongwon CHON'],['Tomoa NARASAKI'],['Aleksei RUBTSOV']
+2016,['Shauna COXSEY'],['Miho NONAKA'],['Melissa LE NEVE'],['Tomoa NARASAKI'],['Kokoro FUJII'],['Aleksei RUBTSOV']
+2015,['Akiyo NOGUCHI'],['Shauna COXSEY'],['Miho NONAKA'],['Jongwon CHON'],['Jan HOJER'],['Adam ONDRA']
+2014,['Akiyo NOGUCHI'],['Shauna COXSEY'],['Anna STÖHR'],['Jan HOJER'],['Dmitrii SHARAFUTDINOV'],['Guillaume GLAIRON MONDET']
+2013,['Anna STÖHR'],['Akiyo NOGUCHI'],['Alex PUCCIO'],['Dmitrii SHARAFUTDINOV'],['Jakob SCHUBERT'],['Sean MCCOLL']
+2012,['Anna STÖHR'],['Akiyo NOGUCHI'],['Shauna COXSEY'],['Rustam GELMANOV'],['Kilian FISCHHUBER'],['Jakob SCHUBERT']
+2011,['Anna STÖHR'],['Akiyo NOGUCHI'],['Alex PUCCIO'],['Kilian FISCHHUBER'],['Dmitrii SHARAFUTDINOV'],['Guillaume GLAIRON MONDET']
+2010,['Akiyo NOGUCHI'],['Anna STÖHR'],['Chloé GRAFTIAUX'],['Adam ONDRA'],['Kilian FISCHHUBER'],['Tsukuru HORI']
+2009,['Akiyo NOGUCHI'],['Anna STÖHR'],['Natalija GROS'],['Kilian FISCHHUBER'],['Rustam GELMANOV'],['Gabriele MORONI']
+2008,['Anna STÖHR'],['Akiyo NOGUCHI'],['Yulia ABRAMCHUK'],['Kilian FISCHHUBER'],['David LAMA'],['Dmitrii SHARAFUTDINOV']
+2007,['Juliette DANION'],['Olga SHALAGINA'],['Natalija GROS'],['Kilian FISCHHUBER'],['Dmitrii SHARAFUTDINOV'],['Stephane JULIEN']
+2006,['Olga BIBIK'],['Juliette DANION'],['Anna STÖHR'],['Jérôme MEYER'],['Kilian FISCHHUBER'],['Gérome POUVREAU']
+2005,['Sandrine LEVET'],['Olga BIBIK'],['Yulia ABRAMCHUK'],['Kilian FISCHHUBER'],['Jérôme MEYER'],['Daniel DU LAC']
+2004,['Sandrine LEVET'],['Olga BIBIK'],['Yulia ABRAMCHUK'],['Daniel DU LAC'],['Kilian FISCHHUBER'],['Jérôme MEYER']
+2003,['Sandrine LEVET'],['Olga BIBIK'],['Nataliya PERLOVA'],['Jérôme MEYER'],['Salavat RAKHMETOV'],['Daniel DU LAC']
+2002,"['Myriam MOTTEAU', 'Lisa RANDS', 'Nataliya PERLOVA']",,,"['Christian CORE', 'Malcolm SMITH', 'Jérôme MEYER']",,
+2001,['Sandrine LEVET'],['Myriam MOTTEAU'],['Corinne THEROUX'],['Jérôme MEYER'],['Mauro CALIBANI'],['Daniel ANDRADA JIMENEZ']
+2000,['Sandrine LEVET'],['Elena CHOUMILOVA'],['Delphine MARTIN'],['Pedro PONS'],['Salavat RAKHMETOV'],['Daniel DU LAC']
+1999,['Stéphanie BODET'],['Elena CHOUMILOVA'],['Sandrine LEVET'],['Christian CORE'],['Serik KAZBEKOV'],['Jérôme MEYER']
