@@ -1,0 +1,90 @@
+,WChampEvent,Country,Discipline,Gold,Silver,Bronze,Total
+1,Wchamp 2023,Japan,Lead,1,1,0,2
+2,Wchamp 2023,Austria,Lead,1,0,0,1
+3,Wchamp 2023,Slovenia,Lead,0,1,0,1
+4,Wchamp 2023,Republic of Korea,Lead,0,0,1,1
+5,Wchamp 2023,Germany,Lead,0,0,1,1
+6,Wchamp 2021,Republic of Korea,Lead,1,0,0,1
+7,Wchamp 2021,Austria,Lead,1,0,0,1
+8,Wchamp 2021,United States of America,Lead,0,1,0,1
+9,Wchamp 2021,Slovenia,Lead,0,1,0,1
+10,Wchamp 2021,Italy,Lead,0,0,1,1
+11,Wchamp 2021,United Kingdom,Lead,0,0,1,1
+12,WChamp 2019 All,Slovenia,Lead,1,1,0,2
+13,WChamp 2019 All,Czechia,Lead,1,0,0,1
+14,WChamp 2019 All,Germany,Lead,0,1,0,1
+15,WChamp 2019 All,Japan,Lead,0,0,1,1
+16,WChamp 2019 All,Austria,Lead,0,0,1,1
+17,WChamp 2018 All,Austria,Lead,2,0,0,2
+18,WChamp 2018 All,Slovenia,Lead,0,1,0,1
+19,WChamp 2018 All,Czechia,Lead,0,1,0,1
+20,WChamp 2018 All,Republic of Korea,Lead,0,0,1,1
+21,WChamp 2018 All,Germany,Lead,0,0,1,1
+22,WChamp 2016 All,Slovenia,Lead,1,0,1,2
+23,WChamp 2016 All,Czechia,Lead,1,0,0,1
+24,WChamp 2016 All,Belgium,Lead,0,1,0,1
+25,WChamp 2016 All,Austria,Lead,0,1,0,1
+26,WChamp 2016 All,France,Lead,0,0,1,1
+27,WChamp 2014 Lead Speed Combined,Czechia,Lead,1,0,0,1
+28,WChamp 2014 Lead Speed Combined,Republic of Korea,Lead,1,0,0,1
+29,WChamp 2014 Lead Speed Combined,Spain,Lead,0,1,0,1
+30,WChamp 2014 Lead Speed Combined,Slovenia,Lead,0,1,0,1
+31,WChamp 2014 Lead Speed Combined,Japan,Lead,0,0,1,1
+32,WChamp 2014 Lead Speed Combined,Austria,Lead,0,0,1,1
+33,WChamp 2012 All,Austria,Lead,2,0,1,3
+34,WChamp 2012 All,Republic of Korea,Lead,0,1,0,1
+35,WChamp 2012 All,Canada,Lead,0,1,0,1
+36,WChamp 2012 All,Czechia,Lead,0,0,1,1
+37,WChamp 2011 All,Austria,Lead,1,1,1,3
+38,WChamp 2011 All,Spain,Lead,1,0,0,1
+39,WChamp 2011 All,Republic of Korea,Lead,0,1,0,1
+40,WChamp 2011 All,Czechia,Lead,0,0,1,1
+41,WChamp 2009 All,Austria,Lead,1,0,1,2
+42,WChamp 2009 All,Spain,Lead,1,0,0,1
+43,WChamp 2009 All,Republic of Korea,Lead,0,1,0,1
+44,WChamp 2009 All,Czechia,Lead,0,1,0,1
+45,WChamp 2009 All,Slovenia,Lead,0,0,1,1
+46,WChamp 2007 All,Spain,Lead,1,1,0,2
+47,WChamp 2007 All,Austria,Lead,1,0,0,1
+48,WChamp 2007 All,Belgium,Lead,0,1,0,1
+49,WChamp 2007 All,Slovenia,Lead,0,0,1,1
+50,WChamp 2007 All,Czechia,Lead,0,0,1,1
+51,WChamp 2007 All,Switzerland,Lead,0,0,1,1
+52,WChamp 2007 All,Netherlands,Lead,0,0,1,1
+53,WChamp 2005 All,Austria,Lead,1,0,0,1
+54,WChamp 2005 All,Czechia,Lead,1,0,0,1
+55,WChamp 2005 All,United States of America,Lead,0,1,0,1
+56,WChamp 2005 All,Spain,Lead,0,1,0,1
+57,WChamp 2005 All,Japan,Lead,0,0,1,1
+58,WChamp 2005 All,France,Lead,0,0,1,1
+59,WChamp 2003 All,France,Lead,0,1,2,3
+60,WChamp 2003 All,Czechia,Lead,1,0,0,1
+61,WChamp 2003 All,Belgium,Lead,1,0,0,1
+62,WChamp 2003 All,Spain,Lead,0,1,0,1
+63,WChamp 2001 All,France,Lead,1,0,2,3
+64,WChamp 2001 All,Slovenia,Lead,1,0,0,1
+65,WChamp 2001 All,Czechia,Lead,0,1,0,1
+66,WChamp 2001 All,Belgium,Lead,0,1,0,1
+67,WChamp 1999 All,Italy,Lead,1,0,0,1
+68,WChamp 1999 All,France,Lead,1,0,0,1
+69,WChamp 1999 All,Japan,Lead,0,1,0,1
+70,WChamp 1999 All,Belgium,Lead,0,1,0,1
+71,WChamp 1999 All,Ukraine,Lead,0,0,1,1
+72,WChamp 1999 All,United States of America,Lead,0,0,1,1
+73,WChamp 1997 All,France,Lead,2,0,1,3
+74,WChamp 1997 All,Belgium,Lead,0,1,0,1
+75,WChamp 1997 All,United States of America,Lead,0,1,0,1
+76,WChamp 1997 All,Germany,Lead,0,0,1,1
+77,WChamp 1995 All,France,Lead,1,2,1,4
+78,WChamp 1995 All,United States of America,Lead,1,0,0,1
+79,WChamp 1995 All,Switzerland,Lead,0,0,1,1
+80,WChamp 1993 All,France,Lead,1,0,1,2
+81,WChamp 1993 All,Switzerland,Lead,1,0,0,1
+82,WChamp 1993 All,United States of America,Lead,0,1,0,1
+83,WChamp 1993 All,Germany,Lead,0,1,0,1
+84,WChamp 1993 All,Japan,Lead,0,0,1,1
+85,WChamp 1991 All,France,Lead,1,1,0,2
+86,WChamp 1991 All,Switzerland,Lead,1,0,0,1
+87,WChamp 1991 All,Japan,Lead,0,1,0,1
+88,WChamp 1991 All,United States of America,Lead,0,0,1,1
+89,WChamp 1991 All,Germany,Lead,0,0,1,1

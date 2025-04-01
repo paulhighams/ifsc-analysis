@@ -1,0 +1,23 @@
+,Country,EventName,Start,Finish,Venue,NumComps
+0,Germany,EuroChamp Frankfurt 1992,1992-09-17,1992-09-18,Frankfurt,4
+1,France,EuroChamp Paris 1996,1996-01-27,1996-01-28,Paris,4
+2,Germany,EuroChamp Nurnberg 1998,1998-04-02,1998-04-03,Nurnberg,4
+3,Germany,EuroChamp Munich 2000,2000-10-06,2000-10-07,Munich,4
+4,France,EuroChamp Paris 2002,2002-07-11,2002-07-14,Paris,8
+5,Italy,EuroChamp Lecco 2004,2004-06-21,2004-06-27,Lecco,6
+6,Russia,EuroChamp Yekaterinburg 2006,2006-06-29,2006-07-03,Yekaterinburg,6
+7,United Kingdom,EuroChamp Boulder Birmingham 2007,2007-03-16,2007-03-18,Birmingham,2
+8,France,EuroChamp Paris 2008,2008-10-15,2008-10-18,Paris,6
+9,Austria,EuroChamp Imst/Innsbruck 2010,2010-09-14,2010-09-18,Innsbruck,6
+10,Austria,EuroChamp Imst/Innsbruck 2010,2010-09-14,2010-09-18,Imst,6
+11,France,EuroChamp Lead and Speed Chamonix 2013,2013-07-10,2013-07-13,Chamonix,4
+12,Netherlands,EuroChamp Boulder Eindhoven 2013,2013-08-31,2013-09-01,Eindhoven,2
+13,Austria,EuroChamp Boulder Innsbruck 2015,2015-05-14,2015-05-16,Innsbruck,2
+14,France,EuroChamp Lead and Speed Chamonix 2015,2015-07-10,2015-07-12,Chamonix,4
+15,Italy,EuroChamp Lead and Speed Campitello di Fassa 2017,2017-06-30,2017-07-01,Campitello di Fassa,4
+16,Germany,EuroChamp Boulder and Combined Munich 2017,2017-08-18,2017-08-19,Munich,4
+17,Poland,EuroChamp Boulder Zakopane 2019,2019-09-05,2019-09-07,Zakopane,2
+18,United Kingdom,EuroChamp Lead and Speed Edinburgh 2019,2019-10-04,2019-10-06,Edinburgh,4
+19,Russia,EuroChamp Moscow 2020,2020-11-21,2020-11-29,Moscow,8
+20,Germany,EuroChamp Munich 2022,2022-08-11,2022-08-18,Munich,8
+21,Switzerland,EuroChamp Villars 2024,2024-08-27,2022-09-01,Villars,8

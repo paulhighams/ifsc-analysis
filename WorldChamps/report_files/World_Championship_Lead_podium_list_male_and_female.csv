@@ -1,0 +1,21 @@
+Gender,Female,Female,Female,Male,Male,Male
+Position,1,2,3,1,2,3
+Year,,,,,,
+2023,['Ai MORI'],['Janja GARNBRET'],['Chaehyun SEO'],['Jakob SCHUBERT'],['Sorato ANRAKU'],['Alexander MEGOS']
+2021,['Chaehyun SEO'],['Natalia GROSSMAN'],['Laura ROGORA'],['Jakob SCHUBERT'],['Luka POTOCAR'],['Hamish MCARTHUR']
+2019,['Janja GARNBRET'],['Mia KRAMPL'],['Ai MORI'],['Adam ONDRA'],['Alexander MEGOS'],['Jakob SCHUBERT']
+2018,['Jessica PILZ'],['Janja GARNBRET'],['Jain KIM'],['Jakob SCHUBERT'],['Adam ONDRA'],['Alexander MEGOS']
+2016,['Janja GARNBRET'],['Anak VERHOEVEN'],['Mina MARKOVIC'],['Adam ONDRA'],['Jakob SCHUBERT'],['Gautier SUPPER']
+2014,['Jain KIM'],['Mina MARKOVIC'],['Magdalena RÖCK'],['Adam ONDRA'],['Ramón JULIAN PUIGBLANQUE'],['Sachi AMMA']
+2012,['Angela EITER'],['Jain KIM'],['Johanna ERNST'],['Jakob SCHUBERT'],['Sean MCCOLL'],['Adam ONDRA']
+2011,['Angela EITER'],['Jain KIM'],['Magdalena RÖCK'],['Ramón JULIAN PUIGBLANQUE'],['Jakob SCHUBERT'],['Adam ONDRA']
+2009,['Johanna ERNST'],['Jain KIM'],['Maja VIDMAR'],['Patxi USOBIAGA LAKUNZA'],['Adam ONDRA'],['David LAMA']
+2007,['Angela EITER'],['Muriel SARKANY'],['Maja VIDMAR'],['Ramón JULIAN PUIGBLANQUE'],['Patxi USOBIAGA LAKUNZA'],"['Tomás MRÁZEK', 'Cédric LACHAT', 'Jorg VERHOEVEN']"
+2005,['Angela EITER'],['Emily HARRINGTON'],['Akiyo NOGUCHI'],['Tomás MRÁZEK'],['Patxi USOBIAGA LAKUNZA'],['Alexandre CHABOT']
+2003,['Muriel SARKANY'],['Emilie POUGET'],['Sandrine LEVET'],['Tomás MRÁZEK'],['Patxi USOBIAGA LAKUNZA'],['David CAUDE']
+2001,['Martina CUFAR'],['Muriel SARKANY'],['Chloé MINORET'],['Gérome POUVREAU'],['Tomás MRÁZEK'],['François PETIT']
+1999,['Liv SANSOZ'],['Muriel SARKANY'],['Elena OVTCHINNIKOVA'],['Bernardino LAGNI'],['Yuji HIRAYAMA'],['Maksym PETRENKO']
+1997,['Liv SANSOZ'],['Muriel SARKANY'],['Marietta UHDEN'],['François PETIT'],['Chris SHARMA'],['François LEGRAND']
+1995,['Robyn ERBESFIELD'],['Laurence GUYON'],['Liv SANSOZ'],['François LEGRAND'],['Arnaud PETIT'],['Elie CHEVIEUX']
+1993,['Susi GOOD'],['Robyn ERBESFIELD'],['Isabelle PATISSIER'],['François LEGRAND'],['Stefan GLOWACZ'],['Yuji HIRAYAMA']
+1991,['Susi GOOD'],['Isabelle PATISSIER'],['Robyn ERBESFIELD'],['François LEGRAND'],['Yuji HIRAYAMA'],['Guido KÖSTERMEYER']
