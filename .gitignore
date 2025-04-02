@@ -2,6 +2,7 @@
 
 # my ignore files
 localrun-instructions.txt
+AllComps/report_files/IFSC-WCup-last-3-years-results-generate-v1.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
