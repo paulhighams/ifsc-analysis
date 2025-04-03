@@ -40,39 +40,63 @@ tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs (["Boulder","Lead","Speed","Combine
 with tab1:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_num_attend_female_boulder, height=800)
+		st.dataframe (df_num_attend_female_boulder,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 	with col2:
-		st.dataframe (df_num_attend_male_boulder, height=800)
+		st.dataframe (df_num_attend_male_boulder,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 with tab2:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_num_attend_female_lead, height=800)
+		st.dataframe (df_num_attend_female_lead,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 	with col2:
-		st.dataframe (df_num_attend_male_lead, height=800)
+		st.dataframe (df_num_attend_male_lead,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 with tab3:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_num_attend_female_speed, height=800)
+		st.dataframe (df_num_attend_female_speed,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 	with col2:
-		st.dataframe (df_num_attend_male_speed, height=800)
+		st.dataframe (df_num_attend_male_speed,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 with tab4:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_num_attend_female_combined, height=800)
+		st.dataframe (df_num_attend_female_combined,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 	with col2:
-		st.dataframe (df_num_attend_male_combined, height=800)
+		st.dataframe (df_num_attend_male_combined,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 with tab5:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_num_attend_female_boulder_lead, height=800)
+		st.dataframe (df_num_attend_female_boulder_lead,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 	with col2:
-		st.dataframe (df_num_attend_male_boulder_lead, height=800)
+		st.dataframe (df_num_attend_male_boulder_lead,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 with tab6:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_num_attend_female_all_disciplines, height=800)
+		st.dataframe (df_num_attend_female_all_disciplines,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 	with col2:
-		st.dataframe (df_num_attend_male_all_disciplines, height=800)
+		st.dataframe (df_num_attend_male_all_disciplines,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 st.divider ()
 
 st.caption("# You can sort any of the tables by clicking on the column header and choosing the sort direction")

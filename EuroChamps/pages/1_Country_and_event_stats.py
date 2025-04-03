@@ -16,13 +16,31 @@ st.header ("Country and Event Statistics")
 col1, col2, col3 = st.columns([4, 1, 1])
 with col1:
 	st.caption(":blue[European Championship event details]")
-	st.dataframe (df_euro_champs, height=850, width=1300, hide_index=True)
+	st.dataframe (df_euro_champs,
+		column_order=("Country","EventName","Start","Finish","Venue","NumComps"),
+		height=850, width=1300, hide_index=True)
 with col2:
 	st.caption(":blue[Number of countries per event]")
-	st.dataframe (df_country_count, height=700, hide_index=True)
+	st.dataframe (df_country_count,
+		column_order=("Year","NumCountries"),
+		column_config={
+			"Year": st.column_config.NumberColumn(
+				"Year",
+				format="%d",
+			)
+		},
+		height=700, hide_index=True)
 with col3:
 	st.caption(":blue[Number of athletes per event]")
-	st.dataframe (df_athlete_count, height=700, hide_index=True)
+	st.dataframe (df_athlete_count,
+		column_order=("Year","NumAthletes"),
+		column_config={
+			"Year": st.column_config.NumberColumn(
+				"Year",
+				format="%d",
+			)
+		},
+		height=700, hide_index=True)
 
 st.divider ()
 
