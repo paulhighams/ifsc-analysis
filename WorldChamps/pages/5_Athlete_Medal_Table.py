@@ -59,23 +59,59 @@ with tab1:
 	col2.dataframe (df_Boulder_wins_and_podiums_male,
 		column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 		height=800, hide_index=True)
-	col1.dataframe (df_Boulder_podium_list_male_and_female, height=800, width=1300, hide_index=True)
+	col1.dataframe (df_Boulder_podium_list_male_and_female,
+		column_config={
+			"Gender": st.column_config.Column(""),
+			"Female.1": st.column_config.Column(""),
+			"Female.2": st.column_config.Column(""),
+			"Male.1": st.column_config.Column(""),
+			"Male.2": st.column_config.Column("")
+		},
+		height=600, width=1300, hide_index=True)
 with tab2:
 	col1, col2 = st.columns(2)
-	col1.dataframe (df_Lead_wins_and_podiums_female, height=800)
-	col2.dataframe (df_Lead_wins_and_podiums_male, height=800)
-	col1.dataframe (df_Lead_podium_list_male_and_female, height=800)
+	col1.dataframe (df_Lead_wins_and_podiums_female,
+		column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		height=800, hide_index=True)
+	col2.dataframe (df_Lead_wins_and_podiums_male,
+		column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		height=800, hide_index=True)
+	col1.dataframe (df_Lead_podium_list_male_and_female,
+		column_config={
+			"Gender": st.column_config.Column(""),
+			"Female.1": st.column_config.Column(""),
+			"Female.2": st.column_config.Column(""),
+			"Male.1": st.column_config.Column(""),
+			"Male.2": st.column_config.Column("")
+		},
+		height=600, width=1300, hide_index=True)
 with tab3:
 	col1, col2 = st.columns(2)
-	col1.dataframe (df_Speed_wins_and_podiums_female, height=800)
-	col2.dataframe (df_Speed_wins_and_podiums_male, height=800)
-	col1.dataframe (df_Speed_podium_list_male_and_female, height=800)
+	col1.dataframe (df_Speed_wins_and_podiums_female,
+		column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		height=800, hide_index=True)
+	col2.dataframe (df_Speed_wins_and_podiums_male,
+		column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		height=800, hide_index=True)
+	col1.dataframe (df_Speed_podium_list_male_and_female,
+		column_config={
+			"Gender": st.column_config.Column(""),
+			"Female.1": st.column_config.Column(""),
+			"Female.2": st.column_config.Column(""),
+			"Male.1": st.column_config.Column(""),
+			"Male.2": st.column_config.Column("")
+		},
+		height=600, width=1300, hide_index=True)
 with tab4:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_Combined_wins_and_podiums_female)
+		st.dataframe (df_Combined_wins_and_podiums_female,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=600, hide_index=True)
 	with col2:
-		st.dataframe (df_Combined_wins_and_podiums_male)
+		st.dataframe (df_Combined_wins_and_podiums_male,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=600, hide_index=True)
 with tab5:
 	col1, col2 = st.columns(2)
 	with col1:
@@ -87,9 +123,13 @@ with tab5:
 with tab6:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.dataframe (df_All_Disciplines_wins_and_podiums_female, height=800)
+		st.dataframe (df_All_Disciplines_wins_and_podiums_female,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 	with col2:
-		st.dataframe (df_All_Disciplines_wins_and_podiums_male, height=800)
+		st.dataframe (df_All_Disciplines_wins_and_podiums_male,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, hide_index=True)
 with tab7:
     #st.dataframe (df_youngest_athletes, height=800)
     #st.dataframe (df_oldest_athletes, height=800)
