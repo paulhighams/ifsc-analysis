@@ -6,10 +6,8 @@ st.set_page_config(
 	layout="wide",
 )
 
-st.header ("this is a header")
+st.header ("to be added later")
 
 st.divider ()
 
-st.subheader ("this is a subheader")
 
-st.write("# Welcome to page three! :first_place_medal:")
