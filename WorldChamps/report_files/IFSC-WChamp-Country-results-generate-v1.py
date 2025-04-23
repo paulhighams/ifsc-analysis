@@ -803,53 +803,53 @@ if  __name__ == '__main__':
 	dtf_39.index = dtf_39.index + 1
 
 	#merge all the winners, sort out the columns and tidy
-	frames = [dtf_40f_boulder,dtf_40m_boulder,dtf_40f_lead,dtf_40m_lead,dtf_40f_speed,dtf_40m_speed]
-	dtf_40 = pd.concat(frames)
-	dtf_40['MonthsObj'] = dtf_40['Age'].str.slice(0, 1)
-	dtf_40['MonthsStr'] = dtf_40['MonthsObj'].astype('string')
-	dtf_40['MonthsInt'] = dtf_40.MonthsStr.str.slice(1,4).astype('Int32')
-	dtf_40['Years'] = dtf_40.MonthsInt.div(12).astype('Int32')
-	dtf_40['Months'] = dtf_40.MonthsInt.mod(12)
-	dtf_40['Winner'] = dtf_40['Athlete'].map(str) + ' Age: ' + dtf_40['Years'].map(str) + 'y '+ dtf_40['Months'].map(str) + 'm'
-	dtf_40.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	#frames = [dtf_40f_boulder,dtf_40m_boulder,dtf_40f_lead,dtf_40m_lead,dtf_40f_speed,dtf_40m_speed]
+	#dtf_40 = pd.concat(frames)
+	#dtf_40['MonthsObj'] = dtf_40['Age'].str.slice(0, 1)
+	#dtf_40['MonthsStr'] = dtf_40['MonthsObj'].astype('string')
+	#dtf_40['MonthsInt'] = dtf_40.MonthsStr.str.slice(1,4).astype('Int32')
+	#dtf_40['Years'] = dtf_40.MonthsInt.div(12).astype('Int32')
+	#dtf_40['Months'] = dtf_40.MonthsInt.mod(12)
+	#dtf_40['Winner'] = dtf_40['Athlete'].map(str) + ' Age: ' + dtf_40['Years'].map(str) + 'y '+ dtf_40['Months'].map(str) + 'm'
+	#dtf_40.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the podiums, sort out the columns and tidy
-	frames = [dtf_41f_boulder,dtf_41m_boulder,dtf_41f_lead,dtf_41m_lead,dtf_41f_speed,dtf_41m_speed]
-	dtf_41 = pd.concat(frames)
-	dtf_41['MonthsObj'] = dtf_41['Age'].str.slice(0, 1)
-	dtf_41['MonthsStr'] = dtf_41['MonthsObj'].astype('string')
-	dtf_41['MonthsInt'] = dtf_41.MonthsStr.str.slice(1,4).astype('Int32')
-	dtf_41['Years'] = dtf_41.MonthsInt.div(12).astype('Int32')
-	dtf_41['Months'] = dtf_41.MonthsInt.mod(12)
-	dtf_41['Podium'] = dtf_41['Athlete'].map(str) + ' Age: ' + dtf_41['Years'].map(str) + 'y '+ dtf_41['Months'].map(str) + 'm'
-	dtf_41.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	#frames = [dtf_41f_boulder,dtf_41m_boulder,dtf_41f_lead,dtf_41m_lead,dtf_41f_speed,dtf_41m_speed]
+	#dtf_41 = pd.concat(frames)
+	#dtf_41['MonthsObj'] = dtf_41['Age'].str.slice(0, 1)
+	#dtf_41['MonthsStr'] = dtf_41['MonthsObj'].astype('string')
+	#dtf_41['MonthsInt'] = dtf_41.MonthsStr.str.slice(1,4).astype('Int32')
+	#dtf_41['Years'] = dtf_41.MonthsInt.div(12).astype('Int32')
+	#dtf_41['Months'] = dtf_41.MonthsInt.mod(12)
+	#dtf_41['Podium'] = dtf_41['Athlete'].map(str) + ' Age: ' + dtf_41['Years'].map(str) + 'y '+ dtf_41['Months'].map(str) + 'm'
+	#dtf_41.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the finals, sort out the columns and tidy
-	frames = [dtf_42f_boulder,dtf_42m_boulder,dtf_42f_lead,dtf_42m_lead,dtf_42f_speed,dtf_42m_speed]
-	dtf_42 = pd.concat(frames)
-	dtf_42['MonthsObj'] = dtf_42['Age'].str.slice(0, 1)
-	dtf_42['MonthsStr'] = dtf_42['MonthsObj'].astype('string')
-	dtf_42['MonthsInt'] = dtf_42.MonthsStr.str.slice(1,4).astype('Int32')
-	dtf_42['Years'] = dtf_42.MonthsInt.div(12).astype('Int32')
-	dtf_42['Months'] = dtf_42.MonthsInt.mod(12)
-	dtf_42['Finalist'] = dtf_42['Athlete'].map(str) + ' Age: ' + dtf_42['Years'].map(str) + 'y '+ dtf_42['Months'].map(str) + 'm'
-	dtf_42.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	#frames = [dtf_42f_boulder,dtf_42m_boulder,dtf_42f_lead,dtf_42m_lead,dtf_42f_speed,dtf_42m_speed]
+	#dtf_42 = pd.concat(frames)
+	#dtf_42['MonthsObj'] = dtf_42['Age'].str.slice(0, 1)
+	#dtf_42['MonthsStr'] = dtf_42['MonthsObj'].astype('string')
+	#dtf_42['MonthsInt'] = dtf_42.MonthsStr.str.slice(1,4).astype('Int32')
+	#dtf_42['Years'] = dtf_42.MonthsInt.div(12).astype('Int32')
+	#dtf_42['Months'] = dtf_42.MonthsInt.mod(12)
+	#dtf_42['Finalist'] = dtf_42['Athlete'].map(str) + ' Age: ' + dtf_42['Years'].map(str) + 'y '+ dtf_42['Months'].map(str) + 'm'
+	#dtf_42.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the attends, sort out the columns and tidy
-	frames = [dtf_43f_boulder,dtf_43m_boulder,dtf_43f_lead,dtf_43m_lead,dtf_43f_speed,dtf_43m_speed]
-	dtf_43 = pd.concat(frames)
-	dtf_43['MonthsObj'] = dtf_43['Age'].str.slice(0, 1)
-	dtf_43['MonthsStr'] = dtf_43['MonthsObj'].astype('string')
-	dtf_43['MonthsInt'] = dtf_43.MonthsStr.str.slice(1,4).astype('Int32')
-	dtf_43['Years'] = dtf_43.MonthsInt.div(12).astype('Int32')
-	dtf_43['Months'] = dtf_43.MonthsInt.mod(12)
-	dtf_43['Attendee'] = dtf_43['Athlete'].map(str) + ' Age: ' + dtf_43['Years'].map(str) + 'y '+ dtf_43['Months'].map(str) + 'm'
-	dtf_43.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	#frames = [dtf_43f_boulder,dtf_43m_boulder,dtf_43f_lead,dtf_43m_lead,dtf_43f_speed,dtf_43m_speed]
+	#dtf_43 = pd.concat(frames)
+	#dtf_43['MonthsObj'] = dtf_43['Age'].str.slice(0, 1)
+	#dtf_43['MonthsStr'] = dtf_43['MonthsObj'].astype('string')
+	#dtf_43['MonthsInt'] = dtf_43.MonthsStr.str.slice(1,4).astype('Int32')
+	#dtf_43['Years'] = dtf_43.MonthsInt.div(12).astype('Int32')
+	#dtf_43['Months'] = dtf_43.MonthsInt.mod(12)
+	#dtf_43['Attendee'] = dtf_43['Athlete'].map(str) + ' Age: ' + dtf_43['Years'].map(str) + 'y '+ dtf_43['Months'].map(str) + 'm'
+	#dtf_43.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the yougest dataframes together
-	dtf_44a = pd.merge(dtf_40, dtf_41, how="inner", on=["Discipline", "Gender"])
-	dtf_44b = pd.merge(dtf_42, dtf_43, how="inner", on=["Discipline", "Gender"])
-	dtf_44 = pd.merge(dtf_44a, dtf_44b, how="inner", on=["Discipline", "Gender"])
+	#dtf_44a = pd.merge(dtf_40, dtf_41, how="inner", on=["Discipline", "Gender"])
+	#dtf_44b = pd.merge(dtf_42, dtf_43, how="inner", on=["Discipline", "Gender"])
+	#dtf_44 = pd.merge(dtf_44a, dtf_44b, how="inner", on=["Discipline", "Gender"])
 
 	#merge all the winners, sort out the columns and tidy
 	frames = [dtf_45f_boulder,dtf_45m_boulder,dtf_45f_lead,dtf_45m_lead,dtf_45f_speed,dtf_45m_speed]
