@@ -6,7 +6,10 @@ df_Female_athlete_stats = pd.read_csv('AllComps/report_files/athlete_stats_speed
 df_Male_athlete_stats = pd.read_csv('AllComps/report_files/athlete_stats_speed_male.csv')
 df_wins_by_athlete_by_country = pd.read_csv('AllComps/report_files/speed_wins_by_athlete_by_country.csv')
 df_last_3_years_world_cups = pd.read_csv('AllComps/report_files/last_3_years_world_cups_speed.csv') 
-df_last_3_years_world_champs = pd.read_csv('AllComps/report_files/last_3_years_world_champs_speed.csv') 
+df_last_3_years_world_champs = pd.read_csv('AllComps/report_files/last_3_years_world_champs_speed.csv')
+df_world_speed_records = pd.read_csv('AllComps/report_files/speed_world_records.csv')
+df_region_male_speed_records = pd.read_csv('AllComps/report_files/speed_regional_records_male.csv')
+df_region_female_speed_records = pd.read_csv('AllComps/report_files/speed_regional_records_female.csv')
 
 # set the indexes to start at 1
 df_Female_athlete_stats.index = df_Female_athlete_stats.index + 1
@@ -29,7 +32,7 @@ st.set_page_config(
 
 st.header ("Speed Athlete Statistics")
 
-tab1, tab2, tab3, tab4 = st.tabs (["Female alltime","Male alltime","Tree Map","Last 3 years World cups and Championships Podiums"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs (["Female alltime","Male alltime","Tree Map","Last 3 years World cups and Championships Podiums","Speed Records"])
 
 with tab1:
 	st.dataframe (df_Female_athlete_stats,
@@ -69,6 +72,13 @@ with tab4:
 			"Male.2": st.column_config.Column("3rd"),
 		},
 		height=500, hide_index=True)
+with tab5:
+	st.subheader ("World Records")
+	st.dataframe (df_world_speed_records, hide_index=True)
+	st.subheader ("Male regional records")
+	st.dataframe (df_region_male_speed_records,  hide_index=True)
+	st.subheader ("Female regional records")
+	st.dataframe (df_region_female_speed_records, hide_index=True)
 
 
 st.divider ()

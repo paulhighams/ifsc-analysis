@@ -1,12 +1,6 @@
 Gender,,,Female,Female,Female,Male,Male,Male
 Position,,,1,2,3,1,2,3
 Year,StartDate,Event,,,,,,
-2022,2022-04-08,WC Meiringen 2022,Janja GARNBRET,Natalia GROSSMAN,Andrea KÜMIN,Tomoa NARASAKI,Yoshiyuki OGATA,Mejdi SCHALCK
-2022,2022-05-06,WC Seoul 2022,Natalia GROSSMAN,Oriane BERTONE,Brooke RABOUTOU,Kokoro FUJII,Tomoa NARASAKI,Yoshiyuki OGATA
-2022,2022-05-20,WC Salt Lake City 2022-1,Natalia GROSSMAN,Brooke RABOUTOU,Miho NONAKA,Mejdi SCHALCK,Yoshiyuki OGATA,Rei KAWAMATA
-2022,2022-05-27,WC Salt Lake City 2022-2,Natalia GROSSMAN,Miho NONAKA,Brooke RABOUTOU,Yoshiyuki OGATA,Anze PEHARC,Kokoro FUJII
-2022,2022-06-10,WC Brixen 2022,Natalia GROSSMAN,Hannah MEUL,Zhilu LUO,Yannick FLOHÉ,Maximillian MILNE,Tomoa NARASAKI
-2022,2022-06-22,WC Innsbruck 2022,Natalia GROSSMAN,Hannah MEUL,Miho NONAKA,Colin DUFFY,Dohyun LEE,Yoshiyuki OGATA
 2023,2023-04-21,WC Hachioji 2023,Brooke RABOUTOU,Hannah MEUL,Anon MATSUFUJI,Mejdi SCHALCK,Hannes VAN DUYSEN,Paul JENFT
 2023,2023-04-28,WC Seoul 2023,Miho NONAKA,Oriane BERTONE,Brooke RABOUTOU,Mejdi SCHALCK,Tomoa NARASAKI,Jongwon CHON
 2023,2023-05-19,WC Salt Lake City 2023,Natalia GROSSMAN,Oriane BERTONE,Brooke RABOUTOU,Tomoa NARASAKI,Sorato ANRAKU,Toby ROBERTS
@@ -18,3 +12,4 @@ Year,StartDate,Event,,,,,,
 2024,2024-06-26,WC Innsbruck 2024,Janja GARNBRET,Jennifer Eucharia BUCKLEY,Annie SANDERS,Sohta AMAGASA,Meichi NARASAKI,Sorato ANRAKU
 2024,2024-09-20,WC Prague 2024,Natalia GROSSMAN,Naïlé MEIGNAN,Oceania MACKENZIE,Dohyun LEE,Manuel CORNU,Toby ROBERTS
 2024,2024-10-02,WC Seoul 2024,Annie SANDERS,Zélia AVEZOU,Erin MCNEICE,Dohyun LEE,Maximillian MILNE,Sohta AMAGASA
+2025,2025-04-18,WC Keqiao 2025,Annie SANDERS,Oriane BERTONE,Erin MCNEICE,Sorato ANRAKU,Dohyun LEE,Meichi NARASAKI
