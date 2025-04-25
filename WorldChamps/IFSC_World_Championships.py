@@ -1,4 +1,8 @@
 import streamlit as st
+import pandas as pd
+
+df_latest_comps = pd.read_csv('WorldChamps/report_files/latest_comps.csv')
+df_world_champs = df_latest_comps[df_latest_comps['theEventType'] == 'World Championship']
 
 st.set_page_config(
     page_title="World Championships",
@@ -6,9 +10,13 @@ st.set_page_config(
 	layout="centered"
 )
 
-st.write("# Welcome to statistics about the World Championships for sport Climbing! 👋")
+st.write("# Welcome to statistics about the World Championships for sport Climbing! :person_climbing:")
 
 st.sidebar.success("Select an analysis above.")
+
+st.subheader ("Latest event results included")
+
+st.dataframe (df_world_champs, height=300, width=1300, hide_index=True)
 
 st.markdown(
     """
