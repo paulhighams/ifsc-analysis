@@ -1,4 +1,7 @@
 import streamlit as st
+import pandas as pd
+
+df_latest_comps = pd.read_csv('AllComps/report_files/latest_comps.csv')
 
 st.set_page_config(
     page_title="All comps",
@@ -6,9 +9,14 @@ st.set_page_config(
 	layout="centered"
 )
 
-st.write("# Welcome to statistics about Athletes for sport Climbing! 👋")
+st.write("# Welcome to statistics about Athletes for sport Climbing! :person_climbing:")
 
 st.sidebar.success("Select an analysis above.")
+
+st.subheader ("Latest event results included")
+
+st.dataframe (df_latest_comps, height=850, width=1300, hide_index=True)
+
 
 st.markdown(
     """
