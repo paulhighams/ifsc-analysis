@@ -9,7 +9,7 @@
 9,Jürgen REIS,Austria,63
 10,Mario LECHNER,Austria,61
 14,Loïc TIMMERMANS,Belgium,52
-15,Nicolas COLLIN (Current),Belgium,40
+15,Nicolas COLLIN (Current),Belgium,41
 16,Simon LORENZI (Current),Belgium,26
 17,Cesar GROSSO,Brazil,19
 18,Felipe HO FOGANHOLO (Current),Brazil,14
@@ -21,7 +21,7 @@
 27,Tomas RAVANAL,Chile,19
 28,Benjamin VARGAS (Current),Chile,10
 29,Benjamin AYALA (Current),Chile,10
-30,Yufei PAN (Current),China,19
+30,Yufei PAN (Current),China,20
 31,Haibin QU,China,17
 32,Qinghua WANG,China,13
 33,Chi-Fung AU (Current),"China, Hong Kong Special Administrative Region",18
@@ -31,14 +31,14 @@
 45,Christos SOFOKLEOUS (Current),Cyprus,1
 46,Tomás MRÁZEK,Czechia,66
 47,Adam ONDRA (Current),Czechia,41
-48,Tomas BINTER,Czechia,33
+48,Martin STRANIK (Current),Czechia,33
 52,Carlos GRANJA (Current),Ecuador,8
 53,Danny VALENCIA,Ecuador,5
 54,Galo HERNANDEZ,Ecuador,4
 55,Marcelo ignacio VARGAS CLAROS (Current),El Salvador,2
 65,Christian BINDHAMMER,Germany,68
 66,Andreas BINDHAMMER,Germany,65
-67,Christoph HANKE (Current),Germany,60
+67,Christoph HANKE (Current),Germany,61
 68,Aristomenes THANOPOULOS,Greece,5
 69,Michail VOLYRAKIS (Current),Greece,4
 70,Matthaios VALSAMIDIS (Current),Greece,3
@@ -56,7 +56,7 @@
 82,Gaurav KUMAR,India,2
 83,Raviandi RAMADHAN (Current),Indonesia,8
 84,Ravianto RAMADHAN (Current),Indonesia,7
-85,Amri AMRI,Indonesia,6
+85,Musauwir MUSAUWIR (Current),Indonesia,6
 86,Radin FOROUGHIAN (Current),Iran (Islamic Republic of),3
 87,Seyedmohammadzaniar EBRAHIMI (Current),Iran (Islamic Republic of),3
 88,Gholamali BARATZADEH (Current),Iran (Islamic Republic of),3
@@ -74,7 +74,7 @@
 102,Kairat RAKHMETOV,Kazakhstan,18
 103,Rishat KHAIBULLIN (Current),Kazakhstan,6
 104,Alexey PANFILOV (Current),Kazakhstan,4
-105,Edvards GRUZITIS (Current),Latvia,3
+105,Edvards GRUZITIS (Current),Latvia,4
 106,Rolands RUGENS (Current),Latvia,1
 107,Michael PIETKEVICH,Latvia,1
 110,Vaidotas MONSTAVICIUS (Current),Lithuania,3
@@ -83,7 +83,7 @@
 113,Noé BERGER,Luxembourg,5
 114,Jacques WELTER,Luxembourg,4
 115,Hafzanizam BOKHARI,Malaysia,5
-116,Qun Tao KE (Current),Malaysia,4
+116,Qun Tao KE (Current),Malaysia,5
 117,Khairul hafiz ABU HASSAN,Malaysia,3
 118,Mauricio HUERTA,Mexico,17
 119,Santiago DE ALBA FLORES (Current),Mexico,16
@@ -101,27 +101,29 @@
 151,Ionel ENE,Romania,13
 152,Stefan ADRIAN,Romania,6
 153,Darius RAPA (Current),Romania,5
-157,Taher ALHADDAD (Current),Saudi Arabia,1
-158,Nidhal DAQNAH (Current),Saudi Arabia,1
-162,Luke GOH WEN BIN (Current),Singapore,4
-169,Oliver MARX,South Africa,6
-170,Mel JANSE VAN RENSBURG (Current),South Africa,5
-171,Andy DAVIES,South Africa,3
-175,Hannes PUMAN (Current),Sweden,43
-176,Peter BOSMA,Sweden,25
-177,Magnus HÖGSTRÖM,Sweden,19
-178,Cédric LACHAT,Switzerland,52
-179,Sascha LEHMANN (Current),Switzerland,44
-180,Elie CHEVIEUX,Switzerland,35
-184,Auswin AUEAREECHIT (Current),Thailand,6
-185,Winai RUANGRIT,Thailand,2
-186,Dhansarit MEESEAT,Thailand,1
-187,Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,4
-188,Matej MARKOV (Current),The former Yugoslav Republic of Macedonia,2
-189,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,2
-196,James POPE (Current),United Kingdom,31
-197,Ian VICKERS,United Kingdom,25
-198,Christopher CUBITT,United Kingdom,19
-199,Vadim VINOKUR,United States of America,37
-200,Sean BAILEY (Current),United States of America,33
-201,Jesse GRUPPER (Current),United States of America,19
+157,Taher ALHADDAD (Current),Saudi Arabia,2
+158,Yousef FATANI (Current),Saudi Arabia,1
+159,Nidhal DAQNAH (Current),Saudi Arabia,1
+163,Luke GOH WEN BIN (Current),Singapore,5
+164,Gerald BAYO VEROSIL (Current),Singapore,1
+171,Oliver MARX,South Africa,6
+172,Mel JANSE VAN RENSBURG (Current),South Africa,5
+173,Andy DAVIES,South Africa,3
+177,Hannes PUMAN (Current),Sweden,43
+178,Peter BOSMA,Sweden,25
+179,Magnus HÖGSTRÖM,Sweden,19
+180,Cédric LACHAT,Switzerland,52
+181,Sascha LEHMANN (Current),Switzerland,45
+182,Elie CHEVIEUX,Switzerland,35
+186,Auswin AUEAREECHIT (Current),Thailand,7
+187,Winai RUANGRIT,Thailand,2
+188,Dhansarit MEESEAT,Thailand,1
+189,Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,4
+190,Matej MARKOV (Current),The former Yugoslav Republic of Macedonia,2
+191,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,2
+198,James POPE (Current),United Kingdom,31
+199,Ian VICKERS,United Kingdom,25
+200,Christopher CUBITT,United Kingdom,19
+201,Vadim VINOKUR,United States of America,37
+202,Sean BAILEY (Current),United States of America,33
+203,Jesse GRUPPER (Current),United States of America,20
