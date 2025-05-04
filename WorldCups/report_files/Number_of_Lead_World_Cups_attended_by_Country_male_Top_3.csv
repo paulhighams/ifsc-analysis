@@ -4,7 +4,7 @@
 4,Bautista GREGORINI (Current),Argentina,4
 5,Campbell HARRISON (Current),Australia,30
 6,Mark BAKER,Australia,6
-7,Hira VERICK,Australia,5
+7,Garth MILLER,Australia,5
 8,Jakob SCHUBERT (Current),Austria,86
 9,Jürgen REIS,Austria,63
 10,Mario LECHNER,Austria,61
@@ -12,16 +12,16 @@
 15,Nicolas COLLIN (Current),Belgium,41
 16,Simon LORENZI (Current),Belgium,26
 17,Cesar GROSSO,Brazil,19
-18,Felipe HO FOGANHOLO (Current),Brazil,14
+18,Felipe HO FOGANHOLO (Current),Brazil,15
 19,Felipe CAMARGO,Brazil,13
 23,Pheaktra SAMBATH (Current),Cambodia,2
 24,Sean MCCOLL (Current),Canada,67
 25,Elan JONASMCRAE,Canada,37
-26,Oscar BAUDRAND (Current),Canada,19
+26,Victor BAUDRAND (Current),Canada,19
 27,Tomas RAVANAL,Chile,19
 28,Benjamin VARGAS (Current),Chile,10
 29,Benjamin AYALA (Current),Chile,10
-30,Yufei PAN (Current),China,20
+30,Yufei PAN (Current),China,21
 31,Haibin QU,China,17
 32,Qinghua WANG,China,13
 33,Chi-Fung AU (Current),"China, Hong Kong Special Administrative Region",18
@@ -31,14 +31,14 @@
 45,Christos SOFOKLEOUS (Current),Cyprus,1
 46,Tomás MRÁZEK,Czechia,66
 47,Adam ONDRA (Current),Czechia,41
-48,Martin STRANIK (Current),Czechia,33
+48,Martin STRANIK (Current),Czechia,34
 52,Carlos GRANJA (Current),Ecuador,8
 53,Danny VALENCIA,Ecuador,5
 54,Galo HERNANDEZ,Ecuador,4
 55,Marcelo ignacio VARGAS CLAROS (Current),El Salvador,2
 65,Christian BINDHAMMER,Germany,68
 66,Andreas BINDHAMMER,Germany,65
-67,Christoph HANKE (Current),Germany,61
+67,Christoph HANKE (Current),Germany,62
 68,Aristomenes THANOPOULOS,Greece,5
 69,Michail VOLYRAKIS (Current),Greece,4
 70,Matthaios VALSAMIDIS (Current),Greece,3
@@ -54,9 +54,9 @@
 80,Hritik MARNE (Current),India,8
 81,Chingkheinganba MAIBAM (Current),India,3
 82,Gaurav KUMAR,India,2
-83,Raviandi RAMADHAN (Current),Indonesia,8
-84,Ravianto RAMADHAN (Current),Indonesia,7
-85,Musauwir MUSAUWIR (Current),Indonesia,6
+83,Raviandi RAMADHAN (Current),Indonesia,9
+84,Ravianto RAMADHAN (Current),Indonesia,8
+85,Musauwir MUSAUWIR (Current),Indonesia,7
 86,Radin FOROUGHIAN (Current),Iran (Islamic Republic of),3
 87,Seyedmohammadzaniar EBRAHIMI (Current),Iran (Islamic Republic of),3
 88,Gholamali BARATZADEH (Current),Iran (Islamic Republic of),3
@@ -104,26 +104,27 @@
 157,Taher ALHADDAD (Current),Saudi Arabia,2
 158,Yousef FATANI (Current),Saudi Arabia,1
 159,Nidhal DAQNAH (Current),Saudi Arabia,1
-163,Luke GOH WEN BIN (Current),Singapore,5
-164,Gerald BAYO VEROSIL (Current),Singapore,1
-171,Oliver MARX,South Africa,6
-172,Mel JANSE VAN RENSBURG (Current),South Africa,5
-173,Andy DAVIES,South Africa,3
-177,Hannes PUMAN (Current),Sweden,43
-178,Peter BOSMA,Sweden,25
-179,Magnus HÖGSTRÖM,Sweden,19
-180,Cédric LACHAT,Switzerland,52
-181,Sascha LEHMANN (Current),Switzerland,45
-182,Elie CHEVIEUX,Switzerland,35
-186,Auswin AUEAREECHIT (Current),Thailand,7
-187,Winai RUANGRIT,Thailand,2
-188,Dhansarit MEESEAT,Thailand,1
-189,Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,4
-190,Matej MARKOV (Current),The former Yugoslav Republic of Macedonia,2
-191,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,2
-198,James POPE (Current),United Kingdom,31
-199,Ian VICKERS,United Kingdom,25
-200,Christopher CUBITT,United Kingdom,19
-201,Vadim VINOKUR,United States of America,37
-202,Sean BAILEY (Current),United States of America,33
-203,Jesse GRUPPER (Current),United States of America,20
+163,Luke GOH WEN BIN (Current),Singapore,6
+164,Yong Kang DYLAN SEOW (Current),Singapore,1
+165,Gerald BAYO VEROSIL (Current),Singapore,1
+172,Oliver MARX,South Africa,6
+173,Mel JANSE VAN RENSBURG (Current),South Africa,5
+174,Andy DAVIES,South Africa,3
+178,Hannes PUMAN (Current),Sweden,43
+179,Peter BOSMA,Sweden,25
+180,Magnus HÖGSTRÖM,Sweden,19
+181,Cédric LACHAT,Switzerland,52
+182,Sascha LEHMANN (Current),Switzerland,46
+183,Elie CHEVIEUX,Switzerland,35
+187,Auswin AUEAREECHIT (Current),Thailand,8
+188,Winai RUANGRIT,Thailand,2
+189,Dhansarit MEESEAT,Thailand,1
+190,Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,4
+191,Matej MARKOV (Current),The former Yugoslav Republic of Macedonia,2
+192,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,2
+199,James POPE (Current),United Kingdom,31
+200,Ian VICKERS,United Kingdom,25
+201,Christopher CUBITT,United Kingdom,19
+202,Vadim VINOKUR,United States of America,37
+203,Sean BAILEY (Current),United States of America,33
+204,Jesse GRUPPER (Current),United States of America,21

@@ -467,10 +467,11 @@ if  __name__ == '__main__':
 	Countries8 = list(dtf_8['Country'].unique())
 	NumCountries = len(Countries8)
 	Years8 = list(dtf_8['Year'].unique())
-	dtf_8all = pd.DataFrame ()
+	dts_8all = []
 	for i in Years8:
 		for j in Countries8:
-			dtf_8all = dtf_8all.append({'Year' : i, 'Country' : j}, ignore_index = True)
+			dts_8all.append({'Year' : i, 'Country' : j})
+	dtf_8all = pd.DataFrame(dts_8all)
 	dtf_8all['NumAthletes'] = 0
 	dtf_8all.sort_values(by=['Year','Country'], inplace=True)
 	dtf_8all['Year'] = dtf_8all['Year'].astype(int)
