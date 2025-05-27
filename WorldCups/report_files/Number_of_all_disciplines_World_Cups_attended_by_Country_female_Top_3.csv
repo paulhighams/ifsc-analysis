@@ -1,15 +1,15 @@
 ,Athlete,Country,NumWCups
-0,Valentina AGUADO (Current),Argentina,54
+0,Valentina AGUADO (Current),Argentina,55
 1,Zoe GARCIA MOLINA (Current),Argentina,7
 2,Rocio ailen BECERRA (Current),Argentina,6
-3,Oceania MACKENZIE (Current),Australia,43
+3,Oceania MACKENZIE (Current),Australia,44
 4,Lucinda ann STIRLING,Australia,26
 5,Samantha BERRY,Australia,25
 6,Barbara BACHER,Austria,161
-7,Katharina SAURWEIN,Austria,119
+7,Katharina SAURWEIN,Austria,118
 8,Jessica PILZ (Current),Austria,95
 15,Muriel SARKANY,Belgium,95
-16,Chloe CAULIER (Current),Belgium,83
+16,Chloe CAULIER (Current),Belgium,84
 17,Chloé GRAFTIAUX,Belgium,52
 18,Antonieta Esmeralda PARRA VEIZAGA (Current),Bolivia (Plurinational State of),1
 19,Janine CARDOSO,Brazil,20
@@ -28,6 +28,9 @@
 32,Lamu RENQING,China,45
 33,Rong JIANG,China,45
 34,Yuetong ZHANG (Current),China,43
+35,Hiu ying LIU,"China, Hong Kong Special Administrative Region",15
+36,Tseng-Shun WONG (Current),"China, Hong Kong Special Administrative Region",11
+37,Shun-yuk CHOI,"China, Hong Kong Special Administrative Region",11
 38,Si Wan LEI (Current),"China, Macao Special Administrative Region",3
 39,Ka Kei CHU (Current),"China, Macao Special Administrative Region",2
 40,Pak Chi SOU (Current),"China, Macao Special Administrative Region",1
@@ -42,14 +45,14 @@
 52,Carolina ROSERO,Ecuador,5
 53,Grecia daniela HERNANDEZ GUERRERO (Current),El Salvador,4
 55,Laura LOIKAS (Current),Finland,13
-56,Iris HEIKKINEN (Current),Finland,9
+56,Iris HEIKKINEN (Current),Finland,10
 57,Anna LAITINEN,Finland,7
 58,Sandrine LEVET,France,86
 59,Hélène JANICOT (Current),France,80
-60,Fanny GIBERT (Current),France,79
-64,Juliane WURM,Germany,61
-65,Marietta UHDEN,Germany,47
-66,Afra HÖNIG (Current),Germany,46
+60,Fanny GIBERT (Current),France,78
+64,Juliane WURM,Germany,60
+65,Afra HÖNIG (Current),Germany,47
+66,Marietta UHDEN,Germany,47
 67,Danai VALSAMIDI (Current),Greece,4
 68,Evdoxia-aikaterini KALLIA (Current),Greece,4
 69,Evdoxia - aikaterini KALLIA,Greece,3
@@ -74,9 +77,9 @@
 94,Jenny LAVARDA,Italy,156
 95,Laura ROGORA (Current),Italy,68
 96,Luisa IOVANE,Italy,62
-97,Akiyo NOGUCHI,Japan,149
+97,Akiyo NOGUCHI,Japan,148
 98,Yuka KOBAYASHI,Japan,89
-99,Miho NONAKA (Current),Japan,80
+99,Miho NONAKA (Current),Japan,81
 100,Tamara KUZNETSOVA,Kazakhstan,23
 101,Assel MARLENOVA (Current),Kazakhstan,20
 102,Tamara ULZHABAYEVA (Current),Kazakhstan,17
@@ -85,8 +88,8 @@
 105,Elza elizabete BARAKA,Latvia,3
 115,María fernanda HIDALGO AMEZQUITA (Current),Mexico,14
 116,Valeria MACIAS FERREIRA (Current),Mexico,10
-117,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,6
-123,Vera ZIJLSTRA,Netherlands,96
+117,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,7
+123,Vera ZIJLSTRA,Netherlands,95
 124,Nikki VAN BERGEN,Netherlands,51
 125,Lynn VAN DER MEER (Current),Netherlands,28
 126,Emma HAWKE,New Zealand,23
@@ -117,7 +120,7 @@
 169,RACHELLE DE CHARMOY,South Africa,6
 170,Alyssa MEYER (Current),South Africa,4
 177,Alexandra EYER,Switzerland,92
-178,Petra KLINGLER (Current),Switzerland,84
+178,Petra KLINGLER (Current),Switzerland,83
 179,Anne-sophie KOLLER (Current),Switzerland,54
 180,Hung ying LEE (Current),Taiwan,66
 181,Bai-le HUANG,Taiwan,15
@@ -131,7 +134,7 @@
 192,Ievgeniia KAZBEKOVA (Current),Ukraine,61
 193,Shauna COXSEY,United Kingdom,56
 194,Molly THOMPSON-SMITH (Current),United Kingdom,50
-195,Diane MERRICK,United Kingdom,43
-196,Kyra CONDIE (Current),United States of America,61
+195,Diane MERRICK,United Kingdom,42
+196,Kyra CONDIE (Current),United States of America,62
 197,Brooke RABOUTOU (Current),United States of America,43
 198,Natalia GROSSMAN (Current),United States of America,39

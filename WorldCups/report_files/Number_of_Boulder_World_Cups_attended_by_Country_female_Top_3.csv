@@ -1,16 +1,16 @@
 ,Athlete,Country,NumWCups
-0,Valentina AGUADO (Current),Argentina,22
+0,Valentina AGUADO (Current),Argentina,23
 1,Rocio ailen BECERRA (Current),Argentina,4
 2,Zoe GARCIA MOLINA (Current),Argentina,4
 3,Samantha BERRY,Australia,22
-4,Oceania MACKENZIE (Current),Australia,20
+4,Oceania MACKENZIE (Current),Australia,21
 5,Claire KASSAY,Australia,12
-15,Chloe CAULIER (Current),Belgium,52
+15,Chloe CAULIER (Current),Belgium,53
 16,Chloé GRAFTIAUX,Belgium,33
 17,Magali HAYEN,Belgium,15
 18,Antonieta Esmeralda PARRA VEIZAGA (Current),Bolivia (Plurinational State of),1
-19,Anja KÖHLER (Current),Brazil,5
-20,Laura FARHAT DE ARAUJO FRAGA TIMO (Current),Brazil,4
+19,Laura FARHAT DE ARAUJO FRAGA TIMO (Current),Brazil,5
+20,Anja KÖHLER (Current),Brazil,5
 21,Thais makino SHIRAIWA,Brazil,3
 22,Aleksandra TOTKOVA (Current),Bulgaria,10
 23,Ina DZHAMBAZOVA,Bulgaria,8
@@ -25,8 +25,8 @@
 32,Rong JIANG,China,22
 33,Yuetong ZHANG (Current),China,18
 34,Lamu RENQING,China,14
-35,Wai-ping YU,"China, Hong Kong Special Administrative Region",6
-36,Tseng-shun WONG (Current),"China, Hong Kong Special Administrative Region",5
+35,Tseng-Shun WONG (Current),"China, Hong Kong Special Administrative Region",6
+36,Wai-ping YU,"China, Hong Kong Special Administrative Region",6
 37,Wai-mui LING (Current),"China, Hong Kong Special Administrative Region",3
 38,Ka Kei CHU (Current),"China, Macao Special Administrative Region",2
 39,Si Wan LEI (Current),"China, Macao Special Administrative Region",2
@@ -39,13 +39,13 @@
 52,Grecia daniela HERNANDEZ GUERRERO (Current),El Salvador,2
 54,Laura LOIKAS (Current),Finland,11
 55,Anna LAITINEN,Finland,7
-56,Iris HEIKKINEN (Current),Finland,5
-57,Fanny GIBERT (Current),France,56
-58,Mélanie SANDOZ,France,50
-59,Melissa LE NEVE,France,50
+56,Iris HEIKKINEN (Current),Finland,6
+57,Fanny GIBERT (Current),France,55
+58,Mélanie SANDOZ,France,49
+59,Melissa LE NEVE,France,49
 63,Monika RETSCHY,Germany,45
-64,Juliane WURM,Germany,44
-65,Afra HÖNIG (Current),Germany,38
+64,Juliane WURM,Germany,43
+65,Afra HÖNIG (Current),Germany,39
 66,Evdoxia-aikaterini KALLIA (Current),Greece,4
 67,Danai VALSAMIDI (Current),Greece,2
 68,Alexandra KATERI (Current),Greece,2
@@ -64,10 +64,10 @@
 90,Yael TAUB (Current),Israel,19
 91,Ayala KEREM (Current),Israel,16
 92,Jenny LAVARDA,Italy,43
-93,Giorgia TESIO (Current),Italy,24
+93,Giorgia TESIO (Current),Italy,25
 94,Laura ROGORA (Current),Italy,23
-95,Akiyo NOGUCHI,Japan,86
-96,Miho NONAKA (Current),Japan,52
+95,Akiyo NOGUCHI,Japan,85
+96,Miho NONAKA (Current),Japan,53
 97,Aya ONOE,Japan,36
 98,Tamara KUZNETSOVA,Kazakhstan,7
 99,Margarita AGAMBAYEVA (Current),Kazakhstan,3
@@ -79,8 +79,8 @@
 108,Shareen MOHD NASRAN (Current),Malaysia,1
 109,Shin Yee CHEN (Current),Malaysia,1
 112,Sofia HEINZE CACHO,Mexico,4
-113,Arantza LUNA VELASCO (Current),Mexico,3
-114,María fernanda HIDALGO AMEZQUITA (Current),Mexico,3
+113,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,3
+114,Natalia De Jesús GONZÁLEZ (Current),Mexico,3
 120,Emma HAWKE,New Zealand,11
 121,Sarah TETZLAFF (Current),New Zealand,4
 122,Mayan SMITH-GOBAT,New Zealand,3
@@ -103,7 +103,7 @@
 151,Vanessa Si Yinn TENG (Current),Singapore,5
 152,Natalie GOH SIHUI (Current),Singapore,3
 153,Tan SHI HUI,Singapore,3
-157,Mina MARKOVIC,Slovenia,38
+157,Mina MARKOVIC,Slovenia,37
 158,Natalija GROS,Slovenia,29
 159,Julija KRUDER (Current),Slovenia,28
 160,Ariane JANATA-BURNS (Current),South Africa,3
@@ -112,8 +112,8 @@
 163,Leire AGUIRRE,Spain,20
 164,Berta MARTIN SANCHO,Spain,11
 165,Aida TORRES ILLAMOLA (Current),Spain,10
-169,Petra KLINGLER (Current),Switzerland,66
-170,Sofya YOKOYAMA (Current),Switzerland,31
+169,Petra KLINGLER (Current),Switzerland,65
+170,Sofya YOKOYAMA (Current),Switzerland,32
 171,Andrea KÜMIN (Current),Switzerland,26
 172,Hung ying LEE (Current),Taiwan,28
 173,Ting-Chen YAO (Current),Taiwan,3
@@ -125,8 +125,8 @@
 182,Nataliya PERLOVA,Ukraine,33
 183,Olga SHALAGINA,Ukraine,25
 184,Ievgeniia KAZBEKOVA (Current),Ukraine,23
-188,Alex PUCCIO,United States of America,37
-189,Kyra CONDIE (Current),United States of America,33
+188,Alex PUCCIO,United States of America,36
+189,Kyra CONDIE (Current),United States of America,34
 190,Sierra BLAIR-COYLE,United States of America,29
 191,Lucelia BLANCO,Venezuela (Bolivarian Republic of),2
 192,Lianet CASTILLO (Current),Venezuela (Bolivarian Republic of),1
