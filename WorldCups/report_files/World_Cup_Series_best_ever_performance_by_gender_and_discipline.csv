@@ -1127,7 +1127,7 @@
 1002,USA,Speed,Emma HUNT,Female,WC Series Speed 2024 Senior Female,7
 1003,USA,Speed,Emma HUNT,Female,WC Series Speed 2023 Senior Female,7
 337,INA,Speed,Evi NELIWATI,Female,WC Series Speed 2005 Senior Female,8
-410,ITA,Speed,Giulia RANDI ,Female,WC Series Speed 2024 Senior Female,8
+410,ITA,Speed,Giulia RANDI,Female,WC Series Speed 2024 Senior Female,8
 1040,VEN,Speed,Lucelia BLANCO,Female,WC Series Speed 2007 Senior Female,8
 1039,VEN,Speed,Lucelia BLANCO,Female,WC Series Speed 2006 Senior Female,8
 338,INA,Speed,Nurul IQAMAH,Female,WC Series Speed 2023 Senior Female,9
@@ -1335,29 +1335,29 @@
 229,ESP,Speed,Leslie Adriana ROMERO PÉREZ,Female,WC Series Speed 2022 Senior Female,48
 3,AUS,Speed,Grace CROWLEY,Female,WC Series Speed 2024 Senior Female,49
 41,AZE,Speed,Sima SEFEROVA,Female,WC Series Speed 2014 Senior Female,49
-750,RUS,Speed,Sergei SINITCYN,Male,WC Series Speed 2004 Senior Male,1
-1031,UKR,Speed,Andrey VEDENMEER,Male,WC Series Speed 1998 Senior Male,1
-1032,UKR,Speed,Andrey VEDENMEER,Male,WC Series Speed 2000 Senior Male,1
-1033,UKR,Speed,Maksym STYENKOVYY,Male,WC Series Speed 2001 Senior Male,1
-748,RUS,Speed,Vladislav DEULIN,Male,WC Series Speed 2017 Senior Male,1
-749,RUS,Speed,Alexander PESHEKHONOV,Male,WC Series Speed 2002 Senior Male,1
-751,RUS,Speed,Sergei SINITCYN,Male,WC Series Speed 2007 Senior Male,1
-1030,UKR,Speed,Danyil BOLDYREV,Male,WC Series Speed 2014 Senior Male,1
-752,RUS,Speed,Sergei SINITCYN,Male,WC Series Speed 2009 Senior Male,1
-754,RUS,Speed,Evgenii VAITSEKHOVSKII,Male,WC Series Speed 2005 Senior Male,1
-755,RUS,Speed,Evgenii VAITSEKHOVSKII,Male,WC Series Speed 2006 Senior Male,1
-756,RUS,Speed,Stanislav KOKORIN,Male,WC Series Speed 2013 Senior Male,1
-757,RUS,Speed,Stanislav KOKORIN,Male,WC Series Speed 2010 Senior Male,1
-758,RUS,Speed,Stanislav KOKORIN,Male,WC Series Speed 2012 Senior Male,1
-1145,USA,Speed,Samuel WATSON,Male,WC Series Speed 2024 Senior Male,1
+747,RUS,Speed,Sergei SINITCYN,Male,WC Series Speed 2004 Senior Male,1
+1028,UKR,Speed,Andrey VEDENMEER,Male,WC Series Speed 1998 Senior Male,1
+1029,UKR,Speed,Andrey VEDENMEER,Male,WC Series Speed 2000 Senior Male,1
+1030,UKR,Speed,Maksym STYENKOVYY,Male,WC Series Speed 2001 Senior Male,1
+745,RUS,Speed,Vladislav DEULIN,Male,WC Series Speed 2017 Senior Male,1
+746,RUS,Speed,Alexander PESHEKHONOV,Male,WC Series Speed 2002 Senior Male,1
+748,RUS,Speed,Sergei SINITCYN,Male,WC Series Speed 2007 Senior Male,1
+1027,UKR,Speed,Danyil BOLDYREV,Male,WC Series Speed 2014 Senior Male,1
+749,RUS,Speed,Sergei SINITCYN,Male,WC Series Speed 2009 Senior Male,1
+751,RUS,Speed,Evgenii VAITSEKHOVSKII,Male,WC Series Speed 2005 Senior Male,1
+752,RUS,Speed,Evgenii VAITSEKHOVSKII,Male,WC Series Speed 2006 Senior Male,1
+753,RUS,Speed,Stanislav KOKORIN,Male,WC Series Speed 2013 Senior Male,1
+754,RUS,Speed,Stanislav KOKORIN,Male,WC Series Speed 2010 Senior Male,1
+755,RUS,Speed,Stanislav KOKORIN,Male,WC Series Speed 2012 Senior Male,1
+1142,USA,Speed,Samuel WATSON,Male,WC Series Speed 2024 Senior Male,1
 59,CHN,Speed,Qixin ZHONG,Male,WC Series Speed 2015 Senior Male,1
-674,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 2003 Senior Male,1
-673,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 1999 Senior Male,1
-672,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2016 Senior Male,1
+671,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 2003 Senior Male,1
+670,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 1999 Senior Male,1
+669,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2016 Senior Male,1
 391,INA,Speed,Veddriq LEONARDO,Male,WC Series Speed 2023 Senior Male,1
 392,INA,Speed,Veddriq LEONARDO,Male,WC Series Speed 2021 Senior Male,1
 393,INA,Speed,Veddriq LEONARDO,Male,WC Series Speed 2022 Senior Male,1
-675,POL,Speed,Lukasz SWIRK,Male,WC Series Speed 2011 Senior Male,1
+672,POL,Speed,Lukasz SWIRK,Male,WC Series Speed 2011 Senior Male,1
 245,FRA,Speed,Bassa MAWEM,Male,WC Series Speed 2018 Senior Male,1
 246,FRA,Speed,Bassa MAWEM,Male,WC Series Speed 2019 Senior Male,1
 464,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2017 Senior Male,2
@@ -1368,30 +1368,30 @@
 395,INA,Speed,Kiromal KATIBIN,Male,WC Series Speed 2022 Senior Male,2
 394,INA,Speed,Kiromal KATIBIN,Male,WC Series Speed 2021 Senior Male,2
 60,CHN,Speed,Peng WU,Male,WC Series Speed 2023 Senior Male,2
-1034,UKR,Speed,Danyil BOLDYREV,Male,WC Series Speed 2018 Senior Male,2
-1037,UKR,Speed,Maksym STYENKOVYY,Male,WC Series Speed 2002 Senior Male,2
-1035,UKR,Speed,Danyil BOLDYREV,Male,WC Series Speed 2012 Senior Male,2
-1036,UKR,Speed,Yevgen KRYVOSHEYTSEV,Male,WC Series Speed 1993 Senior Male,2
-1041,UKR,Speed,Vladimir ZAKHAROV,Male,WC Series Speed 1999 Senior Male,3
+1031,UKR,Speed,Danyil BOLDYREV,Male,WC Series Speed 2018 Senior Male,2
+1034,UKR,Speed,Maksym STYENKOVYY,Male,WC Series Speed 2002 Senior Male,2
+1032,UKR,Speed,Danyil BOLDYREV,Male,WC Series Speed 2012 Senior Male,2
+1033,UKR,Speed,Yevgen KRYVOSHEYTSEV,Male,WC Series Speed 1993 Senior Male,2
+1038,UKR,Speed,Vladimir ZAKHAROV,Male,WC Series Speed 1999 Senior Male,3
 194,CZE,Speed,Libor HROZA,Male,WC Series Speed 2010 Senior Male,3
-577,KAZ,Speed,Kairat RAKHMETOV,Male,WC Series Speed 1993 Senior Male,3
-396,INA,Speed,Alfian MUHAMMAD,Male,WC Series Speed 2019 Senior Male,3
-676,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2021 Senior Male,3
-677,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2014 Senior Male,3
-678,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 2005 Senior Male,3
+574,KAZ,Speed,Kairat RAKHMETOV,Male,WC Series Speed 1993 Senior Male,3
+396,INA,Speed,Alfian MUHAMMAD FAJRI,Male,WC Series Speed 2019 Senior Male,3
+673,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2021 Senior Male,3
+674,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2014 Senior Male,3
+675,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 2005 Senior Male,3
 64,CHN,Speed,Jinbao LONG,Male,WC Series Speed 2022 Senior Male,3
 63,CHN,Speed,Qixin ZHONG,Male,WC Series Speed 2013 Senior Male,3
 62,CHN,Speed,Qixin ZHONG,Male,WC Series Speed 2008 Senior Male,3
 61,CHN,Speed,Xinshang WANG,Male,WC Series Speed 2024 Senior Male,3
 490,ITA,Speed,Ludovico FOSSALI,Male,WC Series Speed 2017 Senior Male,3
-1040,UKR,Speed,Vladimir ZAKHAROV,Male,WC Series Speed 2000 Senior Male,3
-1146,USA,Speed,Samuel WATSON,Male,WC Series Speed 2023 Senior Male,3
+1037,UKR,Speed,Vladimir ZAKHAROV,Male,WC Series Speed 2000 Senior Male,3
+1143,USA,Speed,Samuel WATSON,Male,WC Series Speed 2023 Senior Male,3
 236,ESP,Speed,Erik NOYA CARDONA,Male,WC Series Speed 2022 Senior Male,4
-680,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 2004 Senior Male,4
-1147,USA,Speed,John BROSLER,Male,WC Series Speed 2021 Senior Male,4
+677,POL,Speed,Tomasz OLEKSY,Male,WC Series Speed 2004 Senior Male,4
+1144,USA,Speed,John BROSLER,Male,WC Series Speed 2021 Senior Male,4
 308,GBR,Speed,Ben MOON,Male,WC Series Speed 1993 Senior Male,4
-679,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2015 Senior Male,4
-1186,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2007 Senior Male,4
+676,POL,Speed,Marcin DZIENSKI,Male,WC Series Speed 2015 Senior Male,4
+1183,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2007 Senior Male,4
 465,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2018 Senior Male,4
 65,CHN,Speed,Jianguo LONG,Male,WC Series Speed 2023 Senior Male,4
 66,CHN,Speed,Qixin ZHONG,Male,WC Series Speed 2014 Senior Male,4
@@ -1399,22 +1399,22 @@
 247,FRA,Speed,Bassa MAWEM,Male,WC Series Speed 2016 Senior Male,4
 195,CZE,Speed,Libor HROZA,Male,WC Series Speed 2009 Senior Male,4
 67,CHN,Speed,Qixin ZHONG,Male,WC Series Speed 2019 Senior Male,4
-1185,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2006 Senior Male,4
-1187,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2008 Senior Male,5
+1182,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2006 Senior Male,4
+1184,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2008 Senior Male,5
 321,GER,Speed,Christian SCHLESENER,Male,WC Series Speed 1993 Senior Male,5
 196,CZE,Speed,Libor HROZA,Male,WC Series Speed 2011 Senior Male,5
 397,INA,Speed,Rahmad ADI MULYONO,Male,WC Series Speed 2023 Senior Male,5
-683,POL,Speed,Lukasz SWIRK,Male,WC Series Speed 2009 Senior Male,5
+680,POL,Speed,Lukasz SWIRK,Male,WC Series Speed 2009 Senior Male,5
 248,FRA,Speed,Bassa MAWEM,Male,WC Series Speed 2015 Senior Male,5
 249,FRA,Speed,Bassa MAWEM,Male,WC Series Speed 2014 Senior Male,5
-1148,USA,Speed,Samuel WATSON,Male,WC Series Speed 2022 Senior Male,5
+1145,USA,Speed,Samuel WATSON,Male,WC Series Speed 2022 Senior Male,5
 466,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2016 Senior Male,5
 237,ESP,Speed,Erik NOYA CARDONA,Male,WC Series Speed 2024 Senior Male,5
 68,CHN,Speed,Qixin ZHONG,Male,WC Series Speed 2010 Senior Male,5
 467,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2019 Senior Male,6
 238,ESP,Speed,Daniel ANDRADA JIMENEZ,Male,WC Series Speed 1999 Senior Male,6
-1188,VEN,Speed,Leonel DE LAS SALAS,Male,WC Series Speed 2007 Senior Male,6
-578,KAZ,Speed,Amir MAIMURATOV,Male,WC Series Speed 2024 Senior Male,6
+1185,VEN,Speed,Leonel DE LAS SALAS,Male,WC Series Speed 2007 Senior Male,6
+575,KAZ,Speed,Amir MAIMURATOV,Male,WC Series Speed 2024 Senior Male,6
 398,INA,Speed,Aspar JAELOLO,Male,WC Series Speed 2018 Senior Male,6
 197,CZE,Speed,Libor HROZA,Male,WC Series Speed 2005 Senior Male,6
 370,HUN,Speed,Csaba KOMONDI,Male,WC Series Speed 2002 Senior Male,6
@@ -1428,9 +1428,9 @@
 399,INA,Speed,Firmansyah TONI,Male,WC Series Speed 2001 Senior Male,7
 468,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2015 Senior Male,7
 200,CZE,Speed,Libor HROZA,Male,WC Series Speed 2007 Senior Male,7
-1189,VEN,Speed,Nestor CARVAJAL,Male,WC Series Speed 2006 Senior Male,7
-1190,VEN,Speed,Leonel DE LAS SALAS,Male,WC Series Speed 2008 Senior Male,7
-1149,USA,Speed,John BROSLER,Male,WC Series Speed 2022 Senior Male,7
+1186,VEN,Speed,Nestor CARVAJAL,Male,WC Series Speed 2006 Senior Male,7
+1187,VEN,Speed,Leonel DE LAS SALAS,Male,WC Series Speed 2008 Senior Male,7
+1146,USA,Speed,John BROSLER,Male,WC Series Speed 2022 Senior Male,7
 469,IRI,Speed,Mehdi ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2021 Senior Male,8
 400,INA,Speed,Kiromal KATIBIN,Male,WC Series Speed 2024 Senior Male,8
 495,ITA,Speed,Ludovico FOSSALI,Male,WC Series Speed 2018 Senior Male,8
@@ -1443,131 +1443,131 @@
 371,HUN,Speed,Csaba KOMONDI,Male,WC Series Speed 1999 Senior Male,8
 372,HUN,Speed,Csaba KOMONDI,Male,WC Series Speed 2006 Senior Male,8
 252,FRA,Speed,Guillaume MORO,Male,WC Series Speed 2017 Senior Male,8
-1150,USA,Speed,Merritt ERNSBERGER,Male,WC Series Speed 2021 Senior Male,8
+1147,USA,Speed,Merritt ERNSBERGER,Male,WC Series Speed 2021 Senior Male,8
 253,FRA,Speed,Quentin NAMBOT,Male,WC Series Speed 2016 Senior Male,9
 254,FRA,Speed,Quentin NAMBOT,Male,WC Series Speed 2014 Senior Male,9
-614,KOR,Speed,Euncheol SHIN,Male,WC Series Speed 2023 Senior Male,9
+611,KOR,Speed,Euncheol SHIN,Male,WC Series Speed 2023 Senior Male,9
 497,ITA,Speed,Leonardo GONTERO,Male,WC Series Speed 2012 Senior Male,9
 323,GER,Speed,Tim BARTZIK,Male,WC Series Speed 1998 Senior Male,10
-579,KAZ,Speed,Amir MAIMURATOV,Male,WC Series Speed 2015 Senior Male,10
-561,JPN,Speed,Ryo OMASA,Male,WC Series Speed 2023 Senior Male,10
+576,KAZ,Speed,Amir MAIMURATOV,Male,WC Series Speed 2015 Senior Male,10
+558,JPN,Speed,Ryo OMASA,Male,WC Series Speed 2023 Senior Male,10
 498,ITA,Speed,Leonardo GONTERO,Male,WC Series Speed 2014 Senior Male,10
-1191,VEN,Speed,Nestor CARVAJAL,Male,WC Series Speed 2007 Senior Male,10
-560,JPN,Speed,Ryo OMASA,Male,WC Series Speed 2024 Senior Male,10
-1151,USA,Speed,Noah BRATSCHI,Male,WC Series Speed 2022 Senior Male,11
+1188,VEN,Speed,Nestor CARVAJAL,Male,WC Series Speed 2007 Senior Male,10
+557,JPN,Speed,Ryo OMASA,Male,WC Series Speed 2024 Senior Male,10
+1148,USA,Speed,Noah BRATSCHI,Male,WC Series Speed 2022 Senior Male,11
 15,BEL,Speed,Johan MUS,Male,WC Series Speed 1993 Senior Male,11
 375,HUN,Speed,Csaba KOMONDI,Male,WC Series Speed 2003 Senior Male,11
-562,JPN,Speed,Jun YASUKAWA,Male,WC Series Speed 2021 Senior Male,11
+559,JPN,Speed,Jun YASUKAWA,Male,WC Series Speed 2021 Senior Male,11
 352,HKG,Speed,Chi-wai LAI,Male,WC Series Speed 2006 Senior Male,11
 377,HUN,Speed,Csaba KOMONDI,Male,WC Series Speed 2001 Senior Male,12
 378,HUN,Speed,Csaba KOMONDI,Male,WC Series Speed 2004 Senior Male,12
 376,HUN,Speed,Csaba KOMONDI,Male,WC Series Speed 2005 Senior Male,12
 0,AUT,Speed,Kevin AMON,Male,WC Series Speed 2024 Senior Male,12
-563,JPN,Speed,Jun YASUKAWA,Male,WC Series Speed 2023 Senior Male,13
-39,CAN,Speed,Robert STEWART-PATTERSON,Male,WC Series Speed 2014 Senior Male,13
+560,JPN,Speed,Jun YASUKAWA,Male,WC Series Speed 2023 Senior Male,13
 29,BUL,Speed,Milen VIDENOVSKI,Male,WC Series Speed 1993 Senior Male,13
+39,CAN,Speed,Robert STEWART-PATTERSON,Male,WC Series Speed 2014 Senior Male,13
 1,AUT,Speed,Tobias PLANGGER,Male,WC Series Speed 2022 Senior Male,13
 470,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2013 Senior Male,13
-40,CAN,Speed,Robert STEWART-PATTERSON,Male,WC Series Speed 2015 Senior Male,14
-615,KOR,Speed,Dong-sik KIM,Male,WC Series Speed 2001 Senior Male,14
 324,GER,Speed,Christian HÜMMER,Male,WC Series Speed 1993 Senior Male,14
-1152,USA,Speed,Noah BRATSCHI,Male,WC Series Speed 2024 Senior Male,14
+1149,USA,Speed,Noah BRATSCHI,Male,WC Series Speed 2024 Senior Male,14
+612,KOR,Speed,Dong-sik KIM,Male,WC Series Speed 2001 Senior Male,14
+40,CAN,Speed,Robert STEWART-PATTERSON,Male,WC Series Speed 2015 Senior Male,14
 353,HKG,Speed,Chi-wai LAI,Male,WC Series Speed 2004 Senior Male,14
 16,BEL,Speed,Salah BOULBAHAIEM,Male,WC Series Speed 2004 Senior Male,15
-1192,VEN,Speed,Josmar NIEVES,Male,WC Series Speed 2010 Senior Male,15
+1189,VEN,Speed,Josmar NIEVES,Male,WC Series Speed 2010 Senior Male,15
 325,GER,Speed,Markus BUCHWALD,Male,WC Series Speed 1993 Senior Male,15
-616,KOR,Speed,Yongjun JUNG,Male,WC Series Speed 2022 Senior Male,15
-669,PHI,Speed,Erwin GOZUM,Male,WC Series Speed 2001 Senior Male,15
+666,PHI,Speed,Erwin GOZUM,Male,WC Series Speed 2001 Senior Male,15
+613,KOR,Speed,Yongjun JUNG,Male,WC Series Speed 2022 Senior Male,15
+577,KAZ,Speed,Sayat BOKANOV,Male,WC Series Speed 2011 Senior Male,16
 471,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2014 Senior Male,16
-580,KAZ,Speed,Sayat BOKANOV,Male,WC Series Speed 2011 Senior Male,16
-652,MAS,Speed,Daniel ABDULLAH,Male,WC Series Speed 2001 Senior Male,16
+649,MAS,Speed,Daniel ABDULLAH,Male,WC Series Speed 2001 Senior Male,16
 30,BUL,Speed,Nenco DUNEV,Male,WC Series Speed 1993 Senior Male,16
-1193,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2010 Senior Male,16
-1194,VEN,Speed,Leonel DE LAS SALAS,Male,WC Series Speed 2006 Senior Male,16
+1190,VEN,Speed,Manuel ESCOBAR,Male,WC Series Speed 2010 Senior Male,16
+1191,VEN,Speed,Leonel DE LAS SALAS,Male,WC Series Speed 2006 Senior Male,16
 2,AUT,Speed,Mark AMANN,Male,WC Series Speed 2007 Senior Male,17
 309,GBR,Speed,Nick SELLARS,Male,WC Series Speed 1993 Senior Male,17
-1153,USA,Speed,Zach HAMMER,Male,WC Series Speed 2024 Senior Male,17
-1154,USA,Speed,John BROSLER,Male,WC Series Speed 2023 Senior Male,17
+1150,USA,Speed,Zach HAMMER,Male,WC Series Speed 2024 Senior Male,17
+1151,USA,Speed,John BROSLER,Male,WC Series Speed 2023 Senior Male,17
 41,CAN,Speed,Sean MCCOLL,Male,WC Series Speed 2015 Senior Male,17
-581,KAZ,Speed,Rishat KHAIBULLIN,Male,WC Series Speed 2021 Senior Male,17
-618,KOR,Speed,Myong-hak KIM,Male,WC Series Speed 1999 Senior Male,17
-617,KOR,Speed,Kyu-bog CHO,Male,WC Series Speed 2001 Senior Male,17
-582,KAZ,Speed,Rishat KHAIBULLIN,Male,WC Series Speed 2024 Senior Male,18
-583,KAZ,Speed,Rishat KHAIBULLIN,Male,WC Series Speed 2023 Senior Male,18
-619,KOR,Speed,Seungbeom LEE,Male,WC Series Speed 2022 Senior Male,18
+615,KOR,Speed,Myong-hak KIM,Male,WC Series Speed 1999 Senior Male,17
+614,KOR,Speed,Kyu-bog CHO,Male,WC Series Speed 2001 Senior Male,17
+578,KAZ,Speed,Rishat KHAIBULLIN,Male,WC Series Speed 2021 Senior Male,17
+616,KOR,Speed,Seungbeom LEE,Male,WC Series Speed 2022 Senior Male,18
+580,KAZ,Speed,Rishat KHAIBULLIN,Male,WC Series Speed 2023 Senior Male,18
+579,KAZ,Speed,Rishat KHAIBULLIN,Male,WC Series Speed 2024 Senior Male,18
 317,GEO,Speed,Noukri GVELEBIANI,Male,WC Series Speed 1999 Senior Male,18
 354,HKG,Speed,Chi-wai LAI,Male,WC Series Speed 2001 Senior Male,18
 355,HKG,Speed,Chi-wai LAI,Male,WC Series Speed 2007 Senior Male,18
-620,KOR,Speed,Yongjun JUNG,Male,WC Series Speed 2024 Senior Male,19
-584,KAZ,Speed,Alexey MOLCHANOV,Male,WC Series Speed 2011 Senior Male,19
+617,KOR,Speed,Yongjun JUNG,Male,WC Series Speed 2024 Senior Male,19
+581,KAZ,Speed,Alexey MOLCHANOV,Male,WC Series Speed 2011 Senior Male,19
 17,BEL,Speed,Salah BOULBAHAIEM,Male,WC Series Speed 2009 Senior Male,19
-585,KAZ,Speed,Alexandr NIGMATULIN,Male,WC Series Speed 2011 Senior Male,20
+582,KAZ,Speed,Alexandr NIGMATULIN,Male,WC Series Speed 2011 Senior Male,20
 310,GBR,Speed,Neil CARSON,Male,WC Series Speed 1999 Senior Male,20
-1016,SUI,Speed,Urs SCHÖNENBERGER,Male,WC Series Speed 2000 Senior Male,20
 326,GER,Speed,Jonas BAUMANN,Male,WC Series Speed 2006 Senior Male,20
-1017,SUI,Speed,Diego LAMPUGNANI,Male,WC Series Speed 2000 Senior Male,21
-622,KOR,Speed,Seungbeom LEE,Male,WC Series Speed 2019 Senior Male,21
-586,KAZ,Speed,Alexandr NIGMATULIN,Male,WC Series Speed 2008 Senior Male,21
-621,KOR,Speed,Euncheol SHIN,Male,WC Series Speed 2022 Senior Male,21
-18,BEL,Speed,Ief SPINCERAILLE,Male,WC Series Speed 1993 Senior Male,22
+1013,SUI,Speed,Urs SCHÖNENBERGER,Male,WC Series Speed 2000 Senior Male,20
+1014,SUI,Speed,Diego LAMPUGNANI,Male,WC Series Speed 2000 Senior Male,21
+583,KAZ,Speed,Alexandr NIGMATULIN,Male,WC Series Speed 2008 Senior Male,21
+618,KOR,Speed,Euncheol SHIN,Male,WC Series Speed 2022 Senior Male,21
+619,KOR,Speed,Seungbeom LEE,Male,WC Series Speed 2019 Senior Male,21
 328,GER,Speed,Markus ZÖLL,Male,WC Series Speed 1993 Senior Male,22
+1016,SVK,Speed,Rudolf MIHAL,Male,WC Series Speed 1993 Senior Male,22
 329,GER,Speed,Georg HOFFMANN,Male,WC Series Speed 1993 Senior Male,22
-473,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2022 Senior Male,22
-472,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2021 Senior Male,22
-1019,SVK,Speed,Rudolf MIHAL,Male,WC Series Speed 1993 Senior Male,22
+18,BEL,Speed,Ief SPINCERAILLE,Male,WC Series Speed 1993 Senior Male,22
 42,CAN,Speed,Michael FINN-HENRY,Male,WC Series Speed 2021 Senior Male,22
 239,ESP,Speed,César ciudad MANZANEDO,Male,WC Series Speed 1999 Senior Male,22
 327,GER,Speed,Leander CARMANNS,Male,WC Series Speed 2024 Senior Male,22
+473,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2022 Senior Male,22
+472,IRI,Speed,Reza ALIPOUR SHENAZANDIFARD,Male,WC Series Speed 2021 Senior Male,22
 356,HKG,Speed,Po-fuk NGAI,Male,WC Series Speed 2004 Senior Male,23
-667,NZL,Speed,Tyler CULPEPPER,Male,WC Series Speed 2004 Senior Male,24
-330,GER,Speed,Martin DECKER,Male,WC Series Speed 2000 Senior Male,24
-623,KOR,Speed,Sungjoon CHAE,Male,WC Series Speed 2014 Senior Male,24
 43,CAN,Speed,Sean MCCOLL,Male,WC Series Speed 2012 Senior Male,24
-564,JPN,Speed,Kazuki TANII,Male,WC Series Speed 2024 Senior Male,24
-219,ECU,Speed,Carlos GRANJA,Male,WC Series Speed 2021 Senior Male,25
-357,HKG,Speed,Chi-wai LAI,Male,WC Series Speed 2010 Senior Male,25
+330,GER,Speed,Martin DECKER,Male,WC Series Speed 2000 Senior Male,24
+664,NZL,Speed,Tyler CULPEPPER,Male,WC Series Speed 2004 Senior Male,24
+620,KOR,Speed,Sungjoon CHAE,Male,WC Series Speed 2014 Senior Male,24
+561,JPN,Speed,Kazuki TANII,Male,WC Series Speed 2024 Senior Male,24
 44,CAN,Speed,Ethan PITCHER,Male,WC Series Speed 2022 Senior Male,25
-653,MAS,Speed,Leong wai TAN,Male,WC Series Speed 2003 Senior Male,25
-1026,TPE,Speed,Jiun-jie TZENG,Male,WC Series Speed 2011 Senior Male,25
+1023,TPE,Speed,Jiun-jie TZENG,Male,WC Series Speed 2011 Senior Male,25
+650,MAS,Speed,Leong wai TAN,Male,WC Series Speed 2003 Senior Male,25
+357,HKG,Speed,Chi-wai LAI,Male,WC Series Speed 2010 Senior Male,25
+219,ECU,Speed,Carlos GRANJA,Male,WC Series Speed 2021 Senior Male,25
 358,HKG,Speed,Ka-wai CHU,Male,WC Series Speed 2004 Senior Male,26
+562,JPN,Speed,Ryo OMASA,Male,WC Series Speed 2022 Senior Male,26
+1024,TPE,Speed,Tzu-kai CHAO,Male,WC Series Speed 2001 Senior Male,26
+1017,SWE,Speed,Said BELHAJ,Male,WC Series Speed 2000 Senior Male,26
 3,AUT,Speed,Mark AMANN,Male,WC Series Speed 2006 Senior Male,26
-565,JPN,Speed,Ryo OMASA,Male,WC Series Speed 2022 Senior Male,26
-1027,TPE,Speed,Tzu-kai CHAO,Male,WC Series Speed 2001 Senior Male,26
-1020,SWE,Speed,Said BELHAJ,Male,WC Series Speed 2000 Senior Male,26
-654,MAS,Speed,Khairul hafiz ABU HASSAN,Male,WC Series Speed 2005 Senior Male,26
-670,PHI,Speed,Jaime amiel PAHATI,Male,WC Series Speed 2003 Senior Male,27
+651,MAS,Speed,Khairul hafiz ABU HASSAN,Male,WC Series Speed 2005 Senior Male,26
 4,AUT,Speed,Andreas PFANNER,Male,WC Series Speed 2000 Senior Male,27
-655,MAS,Speed,Azizul BIN AFFANDI,Male,WC Series Speed 2001 Senior Male,27
-45,CAN,Speed,Tristen GOSSELIN,Male,WC Series Speed 2015 Senior Male,28
+667,PHI,Speed,Jaime amiel PAHATI,Male,WC Series Speed 2003 Senior Male,27
+652,MAS,Speed,Azizul BIN AFFANDI,Male,WC Series Speed 2001 Senior Male,27
 220,ECU,Speed,Carlos GRANJA,Male,WC Series Speed 2019 Senior Male,28
+45,CAN,Speed,Tristen GOSSELIN,Male,WC Series Speed 2015 Senior Male,28
 240,ESP,Speed,Erik NOYA CARDONA,Male,WC Series Speed 2023 Senior Male,28
-1021,SWE,Speed,Anders LANZ,Male,WC Series Speed 2000 Senior Male,29
 46,CAN,Speed,Sean MCCOLL,Male,WC Series Speed 2014 Senior Male,29
 221,ECU,Speed,Carlos GRANJA,Male,WC Series Speed 2022 Senior Male,29
-1022,SWE,Speed,Max BOHOLM,Male,WC Series Speed 2000 Senior Male,30
+1018,SWE,Speed,Anders LANZ,Male,WC Series Speed 2000 Senior Male,29
+1019,SWE,Speed,Max BOHOLM,Male,WC Series Speed 2000 Senior Male,30
 47,CAN,Speed,Francis BILODEAU,Male,WC Series Speed 2015 Senior Male,30
-745,RSA,Speed,Joffrey HYMAN,Male,WC Series Speed 2002 Senior Male,31
 48,CAN,Speed,Ethan PITCHER,Male,WC Series Speed 2021 Senior Male,31
-656,MAS,Speed,Hafzanizam BOKHARI,Male,WC Series Speed 2005 Senior Male,31
-746,RSA,Speed,Paul BROUARD,Male,WC Series Speed 2002 Senior Male,32
-222,ECU,Speed,Isaac ESTEVEZ,Male,WC Series Speed 2014 Senior Male,32
+742,RSA,Speed,Joffrey HYMAN,Male,WC Series Speed 2002 Senior Male,31
+653,MAS,Speed,Hafzanizam BOKHARI,Male,WC Series Speed 2005 Senior Male,31
 5,AUT,Speed,Lukas KNAPP,Male,WC Series Speed 2017 Senior Male,32
+26,BRA,Speed,Anderson GOUVEIA,Male,WC Series Speed 2002 Senior Male,32
+222,ECU,Speed,Isaac ESTEVEZ,Male,WC Series Speed 2014 Senior Male,32
 223,ECU,Speed,Andres QUINTEROS,Male,WC Series Speed 2012 Senior Male,32
 19,BEL,Speed,Salah BOULBAHAIEM,Male,WC Series Speed 2003 Senior Male,32
-26,BRA,Speed,Anderson GOUVEIA,Male,WC Series Speed 2002 Senior Male,32
 31,BUL,Speed,Orlin KOLOV,Male,WC Series Speed 1999 Senior Male,32
-1028,TPE,Speed,Yeu-shiang CHANG,Male,WC Series Speed 2007 Senior Male,33
+743,RSA,Speed,Paul BROUARD,Male,WC Series Speed 2002 Senior Male,32
+1025,TPE,Speed,Yeu-shiang CHANG,Male,WC Series Speed 2007 Senior Male,33
 20,BEL,Speed,Jean paul FINNE,Male,WC Series Speed 1993 Senior Male,33
-657,MAS,Speed,"Kien seong, francis LOW",Male,WC Series Speed 2005 Senior Male,34
-566,JPN,Speed,Yudai IKEDA,Male,WC Series Speed 2022 Senior Male,34
-651,LAT,Speed,Rolands RUGENS,Male,WC Series Speed 2008 Senior Male,34
+654,MAS,Speed,"Kien seong, francis LOW",Male,WC Series Speed 2005 Senior Male,34
+563,JPN,Speed,Yudai IKEDA,Male,WC Series Speed 2022 Senior Male,34
+648,LAT,Speed,Rolands RUGENS,Male,WC Series Speed 2008 Senior Male,34
 32,BUL,Speed,Kalin GARBOV,Male,WC Series Speed 2005 Senior Male,34
-567,JPN,Speed,Shuto FUJINO,Male,WC Series Speed 2024 Senior Male,35
+564,JPN,Speed,Shuto FUJINO,Male,WC Series Speed 2024 Senior Male,35
 224,ECU,Speed,Carlos GRANJA,Male,WC Series Speed 2018 Senior Male,35
 311,GBR,Speed,Gareth PARRY,Male,WC Series Speed 1999 Senior Male,35
-747,RSA,Speed,Christopher COSSER,Male,WC Series Speed 2021 Senior Male,35
-671,PHI,Speed,Kristian guerrero HUBBERTH,Male,WC Series Speed 2002 Senior Male,35
-668,NZL,Speed,Julian DAVID,Male,WC Series Speed 2024 Senior Male,36
+744,RSA,Speed,Christopher COSSER,Male,WC Series Speed 2021 Senior Male,35
+668,PHI,Speed,Kristian guerrero HUBBERTH,Male,WC Series Speed 2002 Senior Male,35
+665,NZL,Speed,Julian DAVID,Male,WC Series Speed 2024 Senior Male,36
 6,AUT,Speed,Lukas KNAPP,Male,WC Series Speed 2022 Senior Male,36
 312,GBR,Speed,Glenn SUTCLIFFE,Male,WC Series Speed 1993 Senior Male,36
 242,ESP,Speed,Erik NOYA CARDONA,Male,WC Series Speed 2021 Senior Male,36
@@ -1580,44 +1580,44 @@
 7,AUT,Speed,Matthias ERBER,Male,WC Series Speed 2018 Senior Male,37
 227,ECU,Speed,Carlos GRANJA,Male,WC Series Speed 2017 Senior Male,37
 228,ECU,Speed,Isaac ESTEVEZ,Male,WC Series Speed 2023 Senior Male,37
-658,MAS,Speed,Zakariaya MASDARI,Male,WC Series Speed 2006 Senior Male,38
-569,JPN,Speed,Kokoro FUJII,Male,WC Series Speed 2019 Senior Male,38
-568,JPN,Speed,Shuto FUJINO,Male,WC Series Speed 2022 Senior Male,38
+655,MAS,Speed,Zakariaya MASDARI,Male,WC Series Speed 2006 Senior Male,38
+566,JPN,Speed,Kokoro FUJII,Male,WC Series Speed 2019 Senior Male,38
+565,JPN,Speed,Shuto FUJINO,Male,WC Series Speed 2022 Senior Male,38
 33,BUL,Speed,Ivaylo KRASTEV,Male,WC Series Speed 1999 Senior Male,38
 313,GBR,Speed,Paul SMITH,Male,WC Series Speed 1999 Senior Male,38
 34,BUL,Speed,Milen VIDENOVSKI,Male,WC Series Speed 2005 Senior Male,39
 190,COL,Speed,Daniel TIRADO,Male,WC Series Speed 2010 Senior Male,40
-666,NOR,Speed,Hjarrand JULSRUD,Male,WC Series Speed 1993 Senior Male,40
-1029,TPE,Speed,Yeu-shiang CHANG,Male,WC Series Speed 2012 Senior Male,40
+663,NOR,Speed,Hjarrand JULSRUD,Male,WC Series Speed 1993 Senior Male,40
+1026,TPE,Speed,Yeu-shiang CHANG,Male,WC Series Speed 2012 Senior Male,40
 318,GEO,Speed,Zaza GURCHIANI,Male,WC Series Speed 2002 Senior Male,40
 22,BEL,Speed,David LEDUC,Male,WC Series Speed 2008 Senior Male,40
 8,AUT,Speed,Lukas KNAPP,Male,WC Series Speed 2016 Senior Male,40
 35,BUL,Speed,Marian GEORGIEV,Male,WC Series Speed 1999 Senior Male,41
 36,BUL,Speed,Mincho PETKOV,Male,WC Series Speed 2006 Senior Male,41
-742,ROU,Speed,Dan alexandro BORCEA,Male,WC Series Speed 1993 Senior Male,41
+739,ROU,Speed,Dan alexandro BORCEA,Male,WC Series Speed 1993 Senior Male,41
 243,ESP,Speed,Marco antonio JUBES ANGARITA,Male,WC Series Speed 2007 Senior Male,42
-1023,THA,Speed,Thattana RAKSACHAT,Male,WC Series Speed 2014 Senior Male,42
+1020,THA,Speed,Thattana RAKSACHAT,Male,WC Series Speed 2014 Senior Male,42
 9,AUT,Speed,Tobias PLANGGER,Male,WC Series Speed 2021 Senior Male,42
 244,ESP,Speed,Javier CANO BLAZQUEZ,Male,WC Series Speed 2017 Senior Male,43
-659,MAS,Speed,"Kien seong, francis LOW",Male,WC Series Speed 2002 Senior Male,43
-660,MAS,Speed,Hafzanizam BOKHARI,Male,WC Series Speed 2006 Senior Male,43
+656,MAS,Speed,"Kien seong, francis LOW",Male,WC Series Speed 2002 Senior Male,43
+657,MAS,Speed,Hafzanizam BOKHARI,Male,WC Series Speed 2006 Senior Male,43
 23,BEL,Speed,Salah BOULBAHAIEM,Male,WC Series Speed 2010 Senior Male,44
 27,BRA,Speed,Helmut BECKER,Male,WC Series Speed 1999 Senior Male,44
-743,ROU,Speed,Daniel BELBEA,Male,WC Series Speed 1993 Senior Male,44
+740,ROU,Speed,Daniel BELBEA,Male,WC Series Speed 1993 Senior Male,44
 314,GBR,Speed,Christopher CUBITT,Male,WC Series Speed 1999 Senior Male,44
-663,MGL,Speed,G. JANGAR,Male,WC Series Speed 2003 Senior Male,45
+660,MGL,Speed,G. JANGAR,Male,WC Series Speed 2003 Senior Male,45
 319,GEO,Speed,Giga JANKHOTELI,Male,WC Series Speed 2013 Senior Male,45
-664,MGL,Speed,Tumur OCH,Male,WC Series Speed 2003 Senior Male,46
-661,MAS,Speed,Mohd tarmizi JAAFAR,Male,WC Series Speed 2006 Senior Male,46
+661,MGL,Speed,Tumur OCH,Male,WC Series Speed 2003 Senior Male,46
+658,MAS,Speed,Mohd tarmizi JAAFAR,Male,WC Series Speed 2006 Senior Male,46
 37,BUL,Speed,Kalin GARBOV,Male,WC Series Speed 1999 Senior Male,46
 24,BEL,Speed,Jérôme DE BOECK,Male,WC Series Speed 2008 Senior Male,46
 28,BRA,Speed,Edison kicho SHIMABUKURO JR.,Male,WC Series Speed 1999 Senior Male,47
-744,ROU,Speed,Cristinel constantin PRODAN,Male,WC Series Speed 1993 Senior Male,47
-1024,THA,Speed,Aphiwit LIMPANICHPAKDEE,Male,WC Series Speed 2024 Senior Male,47
-1025,THA,Speed,Terdpol ARTAUI,Male,WC Series Speed 2014 Senior Male,47
+741,ROU,Speed,Cristinel constantin PRODAN,Male,WC Series Speed 1993 Senior Male,47
+1021,THA,Speed,Aphiwit LIMPANICHPAKDEE,Male,WC Series Speed 2024 Senior Male,47
+1022,THA,Speed,Terdpol ARTAUI,Male,WC Series Speed 2014 Senior Male,47
 315,GBR,Speed,Dave CUTHBERTSON,Male,WC Series Speed 1993 Senior Male,47
-665,MGL,Speed,Batkhuu BATSUKH,Male,WC Series Speed 2003 Senior Male,47
+662,MGL,Speed,Batkhuu BATSUKH,Male,WC Series Speed 2003 Senior Male,47
 38,BUL,Speed,Blagovest LAZAROV,Male,WC Series Speed 2005 Senior Male,48
 320,GEO,Speed,Gogi CHARTOLANI,Male,WC Series Speed 2014 Senior Male,48
-1018,SUI,Speed,Martin JAGGI,Male,WC Series Speed 2007 Senior Male,48
+1015,SUI,Speed,Martin JAGGI,Male,WC Series Speed 2007 Senior Male,48
 316,GBR,Speed,Maximillian MILNE,Male,WC Series Speed 2017 Senior Male,49
