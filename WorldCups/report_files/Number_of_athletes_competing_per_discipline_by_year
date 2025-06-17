@@ -43,7 +43,7 @@
 41,China,Speed,112
 42,China,Lead,83
 43,"China, Hong Kong Special Administrative Region",Boulder-Lead,3
-44,"China, Hong Kong Special Administrative Region",Boulder,31
+44,"China, Hong Kong Special Administrative Region",Boulder,32
 45,"China, Hong Kong Special Administrative Region",Lead,40
 46,"China, Hong Kong Special Administrative Region",Speed,19
 47,"China, Macao Special Administrative Region",Boulder,8
@@ -73,7 +73,7 @@
 71,Finland,Boulder,25
 72,Finland,Lead,14
 73,France,Boulder-Lead,5
-74,France,Boulder,266
+74,France,Boulder,267
 75,France,Lead,311
 76,France,Speed,63
 77,Georgia,Speed,17
@@ -102,7 +102,7 @@
 100,Indonesia,Boulder,18
 101,Indonesia,Speed,79
 102,Indonesia,Lead,64
-103,Iran (Islamic Republic of),Boulder,38
+103,Iran (Islamic Republic of),Boulder,39
 104,Iran (Islamic Republic of),Speed,31
 105,Iran (Islamic Republic of),Lead,21
 106,Iraq,Lead,1
@@ -120,9 +120,9 @@
 118,Japan,Speed,46
 119,Japan,Lead,174
 120,Jordan,Lead,1
-121,Kazakhstan,Speed,41
-122,Kazakhstan,Lead,26
-123,Kazakhstan,Boulder,19
+121,Kazakhstan,Boulder,19
+122,Kazakhstan,Speed,41
+123,Kazakhstan,Lead,26
 124,Kuwait,Speed,1
 125,Latvia,Lead,7
 126,Latvia,Boulder,18
@@ -197,21 +197,21 @@
 195,Slovakia,Lead,37
 196,Slovakia,Speed,6
 197,Slovenia,Boulder-Lead,3
-198,Slovenia,Boulder,53
+198,Slovenia,Boulder,54
 199,Slovenia,Lead,106
 200,Slovenia,Speed,12
-201,South Africa,Lead,23
-202,South Africa,Speed,11
-203,South Africa,Boulder,22
+201,South Africa,Boulder,23
+202,South Africa,Lead,23
+203,South Africa,Speed,11
 204,Spain,Boulder,64
 205,Spain,Speed,24
 206,Spain,Lead,89
 207,Sweden,Boulder-Lead,1
-208,Sweden,Boulder,44
+208,Sweden,Boulder,45
 209,Sweden,Lead,48
 210,Sweden,Speed,8
 211,Switzerland,Boulder-Lead,2
-212,Switzerland,Boulder,77
+212,Switzerland,Boulder,82
 213,Switzerland,Lead,93
 214,Switzerland,Speed,14
 215,Taiwan,Boulder-Lead,3
@@ -226,9 +226,9 @@
 224,Turkey,Speed,4
 225,Turkey,Lead,18
 226,Turkey,Boulder,24
-227,Ukraine,Speed,77
-228,Ukraine,Lead,59
-229,Ukraine,Boulder,62
+227,Ukraine,Boulder,61
+228,Ukraine,Speed,77
+229,Ukraine,Lead,59
 230,United Kingdom,Boulder-Lead,1
 231,United Kingdom,Boulder,107
 232,United Kingdom,Speed,39

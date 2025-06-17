@@ -6,82 +6,84 @@
 4,Austria,Kilian FISCHHUBER,21,25
 5,Belgium,Chloé GRAFTIAUX,2,6
 6,Canada,Sean MCCOLL,2,2
-7,Czechia,Adam ONDRA,6,24
-8,Czechia,Tomás MRÁZEK,1,7
-9,France,Alban LEVIER,1,3
-10,France,Daniel DU LAC,3,7
-11,France,Guillaume GLAIRON MONDET,2,3
-12,France,Gérome POUVREAU,2,8
-13,France,Juliette DANION,5,14
-14,France,Jérôme MEYER,11,22
-15,France,Liv SANSOZ,1,50
-16,France,Ludovic LAURENCE,1,2
-17,France,Manuel CORNU,1,2
-18,France,Mejdi SCHALCK,4,22
-19,France,Myriam MOTTEAU,2,10
-20,France,Naïlé MEIGNAN,1,11
-21,France,Oriane BERTONE,2,10
-22,France,Sandrine LEVET,17,45
-23,France,Stephane JULIEN,2,4
-24,France,Stéphan JULIEN,1,2
-25,France,Stéphanie BODET,3,60
-26,Germany,Jan HOJER,6,10
-27,Germany,Jonas BAUMANN,1,1
-28,Germany,Juliane WURM,2,4
-29,Germany,Marietta UHDEN,1,25
-30,Germany,Yannick FLOHÉ,1,4
-31,Israel,Alex KHAZANOV,1,2
-32,Italy,Christian CORE,3,5
-33,Italy,Gabriele MORONI,1,1
-34,Italy,Mauro CALIBANI,1,7
-35,Japan,Akiyo NOGUCHI,20,23
-36,Japan,Keita WATABE,1,3
-37,Japan,Kokoro FUJII,5,9
-38,Japan,Mao NAKAMURA,1,4
-39,Japan,Miho NONAKA,4,7
-40,Japan,Rei SUGIMOTO,2,3
-41,Japan,Sohta AMAGASA,1,7
-42,Japan,Sorato ANRAKU,5,33
-43,Japan,Tomoa NARASAKI,7,12
-44,Japan,Tsukuru HORI,1,1
-45,Japan,Yoshiyuki OGATA,3,5
-46,Poland,Tomasz OLEKSY,2,4
-47,Republic of Korea,Dohyun LEE,3,17
-48,Republic of Korea,Jain KIM,1,2
-49,Republic of Korea,Jongwon CHON,5,9
-50,Russia,Aleksei RUBTSOV,3,5
-51,Russia,Alexandra BALAKIREVA,1,4
-52,Russia,Dmitrii SHARAFUTDINOV,12,19
-53,Russia,Elena CHOUMILOVA,5,35
-54,Russia,Olga BIBIK,6,10
-55,Russia,Rustam GELMANOV,6,8
-56,Russia,Salavat RAKHMETOV,4,12
-57,Russia,Yulia ABRAMCHUK,2,3
-58,Slovenia,Gregor VEZONIK,1,2
-59,Slovenia,Janja GARNBRET,17,68
-60,Slovenia,Jernej KRUDER,2,2
-61,Slovenia,Mina MARKOVIC,2,5
-62,Slovenia,Natalija GROS,2,6
-63,Spain,Daniel ANDRADA JIMENEZ,3,17
-64,Spain,Josune BERECIARTU URRUZOLA,1,50
-65,Spain,Pedro PONS,3,30
-66,Switzerland,Petra KLINGLER,1,1
-67,Ukraine,Mykhaylo SHALAGIN,1,2
-68,Ukraine,Nataliya PERLOVA,1,3
-69,Ukraine,Olga SHALAGINA,2,8
-70,Ukraine,Serik KAZBEKOV,1,3
-71,United Kingdom,Andrew EARL,1,4
-72,United Kingdom,Malcolm SMITH,1,20
-73,United Kingdom,Mark CROXALL,1,3
-74,United Kingdom,Shauna COXSEY,11,22
-75,United Kingdom,Toby ROBERTS,1,8
-76,United States of America,Alex JOHNSON,2,6
-77,United States of America,Alex PUCCIO,2,5
-78,United States of America,Annie SANDERS,2,18
-79,United States of America,Brooke RABOUTOU,1,4
-80,United States of America,Colin DUFFY,1,4
-81,United States of America,Daniel WOODS,1,6
-82,United States of America,Lisa RANDS,1,11
-83,United States of America,Megan MASCARENAS,2,15
-84,United States of America,Natalia GROSSMAN,11,50
-85,United States of America,Sean BAILEY,1,3
+7,China,Yufei PAN,1,3
+8,Czechia,Adam ONDRA,6,24
+9,Czechia,Tomás MRÁZEK,1,7
+10,France,Alban LEVIER,1,3
+11,France,Daniel DU LAC,3,7
+12,France,Guillaume GLAIRON MONDET,2,3
+13,France,Gérome POUVREAU,2,8
+14,France,Juliette DANION,5,14
+15,France,Jérôme MEYER,11,22
+16,France,Liv SANSOZ,1,50
+17,France,Ludovic LAURENCE,1,2
+18,France,Manuel CORNU,1,2
+19,France,Mejdi SCHALCK,4,21
+20,France,Myriam MOTTEAU,2,10
+21,France,Naïlé MEIGNAN,1,11
+22,France,Oriane BERTONE,2,10
+23,France,Sandrine LEVET,17,45
+24,France,Stephane JULIEN,2,4
+25,France,Stéphan JULIEN,1,2
+26,France,Stéphanie BODET,3,60
+27,Germany,Jan HOJER,6,10
+28,Germany,Jonas BAUMANN,1,1
+29,Germany,Juliane WURM,2,4
+30,Germany,Marietta UHDEN,1,25
+31,Germany,Yannick FLOHÉ,1,3
+32,Israel,Alex KHAZANOV,1,2
+33,Italy,Christian CORE,3,5
+34,Italy,Gabriele MORONI,1,1
+35,Italy,Mauro CALIBANI,1,7
+36,Japan,Akiyo NOGUCHI,20,23
+37,Japan,Keita WATABE,1,3
+38,Japan,Kokoro FUJII,5,9
+39,Japan,Mao NAKAMURA,1,3
+40,Japan,Miho NONAKA,4,7
+41,Japan,Rei SUGIMOTO,2,3
+42,Japan,Sohta AMAGASA,1,7
+43,Japan,Sorato ANRAKU,5,31
+44,Japan,Tomoa NARASAKI,7,12
+45,Japan,Tsukuru HORI,1,1
+46,Japan,Yoshiyuki OGATA,3,5
+47,Poland,Tomasz OLEKSY,2,4
+48,Republic of Korea,Dohyun LEE,3,16
+49,Republic of Korea,Jain KIM,1,2
+50,Republic of Korea,Jongwon CHON,5,9
+51,Russia,Aleksei RUBTSOV,3,5
+52,Russia,Alexandra BALAKIREVA,1,4
+53,Russia,Dmitrii SHARAFUTDINOV,12,19
+54,Russia,Elena CHOUMILOVA,5,35
+55,Russia,Olga BIBIK,6,10
+56,Russia,Rustam GELMANOV,6,8
+57,Russia,Salavat RAKHMETOV,4,12
+58,Russia,Yulia ABRAMCHUK,2,3
+59,Slovenia,Gregor VEZONIK,1,2
+60,Slovenia,Janja GARNBRET,17,68
+61,Slovenia,Jernej KRUDER,2,2
+62,Slovenia,Mina MARKOVIC,2,5
+63,Slovenia,Natalija GROS,2,6
+64,Spain,Daniel ANDRADA JIMENEZ,3,17
+65,Spain,Josune BERECIARTU URRUZOLA,1,50
+66,Spain,Pedro PONS,3,30
+67,Switzerland,Petra KLINGLER,1,1
+68,Ukraine,Mykhaylo SHALAGIN,1,2
+69,Ukraine,Nataliya PERLOVA,1,3
+70,Ukraine,Olga SHALAGINA,2,8
+71,Ukraine,Serik KAZBEKOV,1,3
+72,United Kingdom,Andrew EARL,1,4
+73,United Kingdom,Erin MCNEICE,1,10
+74,United Kingdom,Malcolm SMITH,1,20
+75,United Kingdom,Mark CROXALL,1,3
+76,United Kingdom,Shauna COXSEY,11,22
+77,United Kingdom,Toby ROBERTS,1,7
+78,United States of America,Alex JOHNSON,2,6
+79,United States of America,Alex PUCCIO,2,5
+80,United States of America,Annie SANDERS,2,16
+81,United States of America,Brooke RABOUTOU,1,4
+82,United States of America,Colin DUFFY,1,4
+83,United States of America,Daniel WOODS,1,6
+84,United States of America,Lisa RANDS,1,11
+85,United States of America,Megan MASCARENAS,2,15
+86,United States of America,Natalia GROSSMAN,11,50
+87,United States of America,Sean BAILEY,1,3
