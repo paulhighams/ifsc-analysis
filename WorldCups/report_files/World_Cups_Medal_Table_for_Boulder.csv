@@ -1,11 +1,11 @@
 ,Country,Discipline,Gold,Silver,Bronze,Total
-1,France,Boulder,59,66,54,179
-2,Japan,Boulder,50,65,60,175
+1,France,Boulder,59,67,54,180
+2,Japan,Boulder,50,66,61,177
 3,Austria,Boulder,50,28,37,115
 4,Russia,Boulder,39,36,38,113
 5,United States of America,Boulder,24,19,23,66
-6,Slovenia,Boulder,24,18,7,49
-7,United Kingdom,Boulder,16,14,15,45
+6,Slovenia,Boulder,25,18,7,50
+7,United Kingdom,Boulder,17,14,15,46
 8,Germany,Boulder,11,12,12,35
 9,Italy,Boulder,5,15,10,30
 10,Republic of Korea,Boulder,9,8,9,26
@@ -13,7 +13,7 @@
 12,Ukraine,Boulder,5,6,8,19
 13,Canada,Boulder,2,6,7,15
 14,Spain,Boulder,7,3,2,12
-15,Belgium,Boulder,2,3,3,8
+15,Belgium,Boulder,2,3,4,9
 16,Switzerland,Boulder,1,4,3,8
 17,Netherlands,Boulder,0,2,5,7
 18,Poland,Boulder,2,1,3,6
