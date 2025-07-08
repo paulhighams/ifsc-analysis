@@ -1,7 +1,7 @@
 ,Athlete,Country,NumWCups
 2,Diego martín MARSELLA,Argentina,12
-3,Lautaro nicolás SORIA SANCHEZ (Current),Argentina,7
-4,Valentin STERNIK (Current),Argentina,7
+3,Valentin STERNIK (Current),Argentina,8
+4,Lautaro nicolás SORIA SANCHEZ (Current),Argentina,7
 5,Campbell HARRISON (Current),Australia,43
 6,James KASSAY,Australia,22
 7,Ben ABEL,Australia,21
@@ -80,10 +80,10 @@
 100,Hritik MARNE (Current),India,13
 101,Deepu MALLESH (Current),India,7
 102,Sandeep MAITY,India,6
-103,Alfian MUHAMMAD FAJRI (Current),Indonesia,35
+103,Alfian MUHAMMAD FAJRI (Current),Indonesia,36
 104,Aspar JAELOLO,Indonesia,28
-105,Veddriq LEONARDO (Current),Indonesia,22
-106,Reza ALIPOUR SHENAZANDIFARD (Current),Iran (Islamic Republic of),43
+105,Veddriq LEONARDO (Current),Indonesia,23
+106,Reza ALIPOUR SHENAZANDIFARD (Current),Iran (Islamic Republic of),44
 107,Gholamali BARATZADEH (Current),Iran (Islamic Republic of),27
 108,Hossein FAMILROHANI (Current),Iran (Islamic Republic of),15
 110,Michael O'NEILL (Current),Ireland,19
@@ -98,10 +98,10 @@
 119,Kokoro FUJII (Current),Japan,93
 120,Yoshiyuki OGATA (Current),Japan,89
 121,Tomoa NARASAKI (Current),Japan,88
-123,Amir MAIMURATOV (Current),Kazakhstan,33
-124,Rishat KHAIBULLIN (Current),Kazakhstan,30
+123,Amir MAIMURATOV (Current),Kazakhstan,34
+124,Rishat KHAIBULLIN (Current),Kazakhstan,31
 125,Artyom DEVYATERIKOV (Current),Kazakhstan,24
-126,Nasser ABU ERGEEB (Current),Kuwait,3
+126,Nasser ABU ERGEEB (Current),Kuwait,4
 127,Rolands RUGENS (Current),Latvia,45
 128,Edvards GRUZITIS (Current),Latvia,21
 129,Danila YAMCHUK,Latvia,6
@@ -120,7 +120,7 @@
 145,Chuluunbaatar MANDAKHBAYAR (Current),Mongolia,2
 146,Batkhuu BATSUKH,Mongolia,2
 147,G. JANGAR,Mongolia,2
-154,Julian DAVID (Current),New Zealand,11
+154,Julian DAVID (Current),New Zealand,12
 155,George SANDERS,New Zealand,8
 156,Flynn CHISHOLM (Current),New Zealand,7
 157,Olukayode Adeyemi SONUGA (Current),Nigeria,1
@@ -134,7 +134,7 @@
 165,Kenu PUERTA WONG (Current),Peru,6
 166,Yaku Martin GALMEZ SUAREZ (Current),Peru,1
 170,Tomasz OLEKSY,Poland,96
-171,Marcin DZIENSKI (Current),Poland,75
+171,Marcin DZIENSKI (Current),Poland,76
 172,Lukasz SWIRK,Poland,40
 173,André NERES (Current),Portugal,11
 174,José ABREU,Portugal,5
@@ -156,7 +156,7 @@
 199,Klemen BECAN,Slovenia,109
 200,Domen SKOFIC,Slovenia,96
 201,Christopher COSSER (Current),South Africa,16
-202,Joshua BRUYNS (Current),South Africa,13
+202,Joshua BRUYNS (Current),South Africa,14
 203,Calrin CURTIS (Current),South Africa,9
 204,Ramón JULIAN PUIGBLANQUE,Spain,129
 205,Javier CANO BLAZQUEZ (Current),Spain,66
