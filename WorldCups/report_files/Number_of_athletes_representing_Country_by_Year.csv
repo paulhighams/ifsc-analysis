@@ -1985,7 +1985,7 @@
 1983,2011,El Salvador,0
 1984,2011,Estonia,0
 1985,2011,Finland,2
-1986,2011,France,53
+1986,2011,France,54
 1987,2011,Georgia,2
 1988,2011,Germany,27
 1989,2011,Greece,0
@@ -2011,7 +2011,7 @@
 2009,2011,Luxembourg,0
 2010,2011,Malaysia,4
 2011,2011,Mauritius,0
-2012,2011,Mexico,6
+2012,2011,Mexico,7
 2013,2011,Mongolia,0
 2014,2011,Nepal,0
 2015,2011,Netherlands,17
@@ -2026,14 +2026,14 @@
 2024,2011,Puerto Rico,0
 2025,2011,Republic of Korea,10
 2026,2011,Romania,0
-2027,2011,Russia,51
+2027,2011,Russia,52
 2028,2011,Saudi Arabia,0
 2029,2011,Serbia,1
 2030,2011,Singapore,0
 2031,2011,Slovakia,8
 2032,2011,Slovenia,18
 2033,2011,South Africa,3
-2034,2011,Spain,13
+2034,2011,Spain,17
 2035,2011,Sweden,5
 2036,2011,Switzerland,20
 2037,2011,Taiwan,5
@@ -2045,7 +2045,7 @@
 2043,2011,United Kingdom,19
 2044,2011,United States of America,50
 2045,2011,Uzbekistan,0
-2046,2011,Venezuela (Bolivarian Republic of),2
+2046,2011,Venezuela (Bolivarian Republic of),3
 2047,2012,Andorra,0
 2048,2012,Argentina,2
 2049,2012,Australia,2
@@ -3053,7 +3053,7 @@
 3051,2023,El Salvador,2
 3052,2023,Estonia,0
 3053,2023,Finland,6
-3054,2023,France,47
+3054,2023,France,48
 3055,2023,Georgia,2
 3056,2023,Germany,27
 3057,2023,Greece,6
@@ -3142,7 +3142,7 @@
 3140,2024,El Salvador,0
 3141,2024,Estonia,0
 3142,2024,Finland,5
-3143,2024,France,48
+3143,2024,France,49
 3144,2024,Georgia,0
 3145,2024,Germany,32
 3146,2024,Greece,6
@@ -3204,9 +3204,9 @@
 3202,2024,Uzbekistan,0
 3203,2024,Venezuela (Bolivarian Republic of),0
 3204,2025,Andorra,0
-3205,2025,Argentina,6
+3205,2025,Argentina,7
 3206,2025,Australia,7
-3207,2025,Austria,32
+3207,2025,Austria,34
 3208,2025,Azerbaijan,0
 3209,2025,Belarus,0
 3210,2025,Belgium,7
@@ -3216,7 +3216,7 @@
 3214,2025,Brunei Darussalam,0
 3215,2025,Bulgaria,4
 3216,2025,Cambodia,0
-3217,2025,Canada,19
+3217,2025,Canada,22
 3218,2025,Chile,7
 3219,2025,China,39
 3220,2025,"China, Hong Kong Special Administrative Region",9
@@ -3231,23 +3231,23 @@
 3229,2025,El Salvador,0
 3230,2025,Estonia,0
 3231,2025,Finland,6
-3232,2025,France,36
+3232,2025,France,52
 3233,2025,Georgia,0
-3234,2025,Germany,28
+3234,2025,Germany,32
 3235,2025,Greece,3
 3236,2025,Guam,1
 3237,2025,Guatemala,0
 3238,2025,Honduras,2
 3239,2025,Hungary,3
 3240,2025,Iceland,4
-3241,2025,India,3
-3242,2025,Indonesia,31
-3243,2025,Iran (Islamic Republic of),7
+3241,2025,India,4
+3242,2025,Indonesia,32
+3243,2025,Iran (Islamic Republic of),8
 3244,2025,Iraq,0
 3245,2025,Ireland,2
-3246,2025,Israel,10
-3247,2025,Italy,31
-3248,2025,Japan,38
+3246,2025,Israel,12
+3247,2025,Italy,32
+3248,2025,Japan,39
 3249,2025,Jordan,0
 3250,2025,Kazakhstan,10
 3251,2025,Kuwait,1
@@ -3255,19 +3255,19 @@
 3253,2025,Lebanon,0
 3254,2025,Lithuania,4
 3255,2025,Luxembourg,2
-3256,2025,Malaysia,3
+3256,2025,Malaysia,4
 3257,2025,Mauritius,0
-3258,2025,Mexico,14
+3258,2025,Mexico,15
 3259,2025,Mongolia,0
 3260,2025,Nepal,0
-3261,2025,Netherlands,3
+3261,2025,Netherlands,4
 3262,2025,New Zealand,5
 3263,2025,Nigeria,0
-3264,2025,Norway,5
+3264,2025,Norway,6
 3265,2025,Pakistan,0
 3266,2025,Peru,6
 3267,2025,Philippines,0
-3268,2025,Poland,18
+3268,2025,Poland,19
 3269,2025,Portugal,0
 3270,2025,Puerto Rico,0
 3271,2025,Republic of Korea,25
@@ -3278,10 +3278,10 @@
 3276,2025,Singapore,8
 3277,2025,Slovakia,6
 3278,2025,Slovenia,17
-3279,2025,South Africa,6
+3279,2025,South Africa,7
 3280,2025,Spain,13
-3281,2025,Sweden,5
-3282,2025,Switzerland,16
+3281,2025,Sweden,6
+3282,2025,Switzerland,18
 3283,2025,Taiwan,5
 3284,2025,Thailand,4
 3285,2025,The former Yugoslav Republic of Macedonia,0
@@ -3289,6 +3289,6 @@
 3287,2025,Uganda,1
 3288,2025,Ukraine,10
 3289,2025,United Kingdom,16
-3290,2025,United States of America,41
+3290,2025,United States of America,42
 3291,2025,Uzbekistan,0
-3292,2025,Venezuela (Bolivarian Republic of),2
+3292,2025,Venezuela (Bolivarian Republic of),7
