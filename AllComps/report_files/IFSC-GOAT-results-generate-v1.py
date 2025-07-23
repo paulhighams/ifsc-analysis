@@ -324,11 +324,11 @@ if  __name__ == '__main__':
 	#get rid of people with 0 medals
 	dtf_1_trim = dtf_1[(dtf_1.WChampGold != 0) | (dtf_1.WChampSilver != 0) | (dtf_1.WChampBronze != 0)]
 	#split into the 4 disciplines
-	dtf_1_lead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Lead']
-	dtf_1_speed = dtf_1_trim[dtf_1_trim['Discipline'] == 'Speed']
-	dtf_1_boulder = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder']
-	dtf_1_combined = dtf_1_trim[dtf_1_trim['Discipline'] == 'Combined']
-	dtf_1_boulderlead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder-Lead']
+	dtf_1_lead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Lead'].copy()
+	dtf_1_speed = dtf_1_trim[dtf_1_trim['Discipline'] == 'Speed'].copy()
+	dtf_1_boulder = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder'].copy()
+	dtf_1_combined = dtf_1_trim[dtf_1_trim['Discipline'] == 'Combined'].copy()
+	dtf_1_boulderlead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder-Lead'].copy()
 	#drop the discipline column as we dont want to show it
 	dtf_1_lead.drop(columns=['Discipline'], inplace=True)
 	dtf_1_speed.drop(columns=['Discipline'], inplace=True)
@@ -339,11 +339,11 @@ if  __name__ == '__main__':
 	#get rid of people with 0 medals
 	dtf_2_trim = dtf_2[(dtf_2.WChampGold != 0) | (dtf_2.WChampSilver != 0) | (dtf_2.WChampBronze != 0)]
 	#split into the 4 disciplines
-	dtf_2_lead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Lead']
-	dtf_2_speed = dtf_2_trim[dtf_2_trim['Discipline'] == 'Speed']
-	dtf_2_boulder = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder']
-	dtf_2_combined = dtf_2_trim[dtf_2_trim['Discipline'] == 'Combined']
-	dtf_2_boulderlead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder-Lead']
+	dtf_2_lead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Lead'].copy()
+	dtf_2_speed = dtf_2_trim[dtf_2_trim['Discipline'] == 'Speed'].copy()
+	dtf_2_boulder = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder'].copy()
+	dtf_2_combined = dtf_2_trim[dtf_2_trim['Discipline'] == 'Combined'].copy()
+	dtf_2_boulderlead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder-Lead'].copy()
 	#drop the discipline column as we dont want to show it
 	dtf_2_lead.drop(columns=['Discipline'], inplace=True)
 	dtf_2_speed.drop(columns=['Discipline'], inplace=True)

@@ -395,10 +395,25 @@ if  __name__ == '__main__':
 	ORDER BY Gender, Year DESC, Position
 	'''
 
-	#query_43 = '''
-	#'''
-	#query_44 = '''
-	#'''
+	# get male speed fastest and slowest qualifying times
+	query_43 = '''MATCH (ath:Athlete {Sex: "Male"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
+	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
+	WHERE (att.FinalScore IS NOT NULL OR att.EightFinalScore IS NOT NULL OR att.QtrFinalScore IS NOT NULL OR att.SemiFinalScore IS NOT NULL)
+	AND att.QualificationScore IS NOT NULL AND yr.YearName > 2012
+	RETURN yr.YearName AS Year, ev.StartDate AS CompDate, cmp.CompetitionName AS Comp, MIN(toFloat(att.QualificationScore)) AS FastestQual, MAX(toFloat(att.QualificationScore)) AS SlowestQual
+	ORDER BY FastestQual
+	'''
+
+	# get female speed fastest and slowest qualifying times
+	query_44 = '''MATCH (ath:Athlete {Sex: "Female"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
+	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
+	WHERE (att.FinalScore IS NOT NULL OR att.EightFinalScore IS NOT NULL OR att.QtrFinalScore IS NOT NULL OR att.SemiFinalScore IS NOT NULL)
+	AND att.QualificationScore IS NOT NULL AND yr.YearName > 2012
+	RETURN yr.YearName AS Year, ev.StartDate AS CompDate, cmp.CompetitionName AS Comp, MIN(toFloat(att.QualificationScore)) AS FastestQual, MAX(toFloat(att.QualificationScore)) AS SlowestQual
+	ORDER BY FastestQual
+	'''
 	
 	#run the queries and put the answer in dataframes
 	dtf_1 = pd.DataFrame([dict(_) for _ in conn.query(query_1)])
@@ -444,6 +459,8 @@ if  __name__ == '__main__':
 	dtf_40 = pd.DataFrame([dict(_) for _ in conn.query(query_40)])
 	dtf_41 = pd.DataFrame([dict(_) for _ in conn.query(query_41)])
 	dtf_42 = pd.DataFrame([dict(_) for _ in conn.query(query_42)])
+	dtf_43 = pd.DataFrame([dict(_) for _ in conn.query(query_43)])
+	dtf_44 = pd.DataFrame([dict(_) for _ in conn.query(query_44)])
 		
 	WCTotEv = dtf_1.at[0,'Total']
 	
@@ -812,6 +829,8 @@ if  __name__ == '__main__':
 	dtf_39.to_csv('Lead_Tops_in_Semi_Finals_by_Year', header=True, index=True)
 	dtf_38_39.to_csv('Lead_Tops_in_Finals_Semi_Finals_by_Year', header=True, index=True)
 	dtf_7.to_csv('Number_of_athletes_competing_per_discipline_by_year', header=True, index=True)
+	dtf_43.to_csv('Male_Speed_Qualifying_per_Event_fastest_and_slowest.csv', header=True, index=True)
+	dtf_44.to_csv('Female_Speed_Qualifying_per_Event_fastest_and_slowest.csv', header=True, index=True)
 	#
 	# how to close the connection to the database
 	#
