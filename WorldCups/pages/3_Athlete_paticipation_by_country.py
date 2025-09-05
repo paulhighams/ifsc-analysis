@@ -32,6 +32,7 @@ st.set_page_config(
 )
 
 st.header ("Athlete participation Statistics")
+st.subheader (":blue[this only has a subset of countries where there are active athletes - use the Athlete Participation Global option for global rankings]", divider=True)
 
 tab1, tab2, tab3, tab4 = st.tabs (["Boulder World Cup events attended",
     "Lead World Cup events attended",
