@@ -4,8 +4,8 @@
 2,Argentina,Speed,6
 3,Argentina,Boulder,25
 4,Australia,Boulder,44
-5,Australia,Speed,13
-6,Australia,Lead,41
+5,Australia,Lead,41
+6,Australia,Speed,13
 7,Austria,Boulder,102
 8,Austria,Lead,126
 9,Austria,Speed,24
@@ -22,7 +22,7 @@
 20,Bolivia (Plurinational State of),Boulder,2
 21,Botswana,Boulder,1
 22,Brazil,Boulder-Lead,2
-23,Brazil,Lead,28
+23,Brazil,Lead,29
 24,Brazil,Speed,14
 25,Brazil,Boulder,32
 26,Brunei Darussalam,Boulder,1
@@ -33,7 +33,7 @@
 31,Cambodia,Boulder,2
 32,Canada,Boulder-Lead,2
 33,Canada,Boulder,118
-34,Canada,Lead,75
+34,Canada,Lead,77
 35,Canada,Speed,32
 36,Chile,Lead,25
 37,Chile,Speed,11
@@ -51,7 +51,7 @@
 49,Colombia,Lead,7
 50,Colombia,Boulder,4
 51,Colombia,Speed,1
-52,Costa Rica,Lead,4
+52,Costa Rica,Lead,5
 53,Costa Rica,Boulder,3
 54,Croatia,Boulder,18
 55,Croatia,Lead,20
@@ -81,15 +81,15 @@
 79,Georgia,Boulder,9
 80,Germany,Boulder-Lead,5
 81,Germany,Boulder,124
-82,Germany,Lead,139
+82,Germany,Lead,141
 83,Germany,Speed,45
 84,Greece,Lead,28
 85,Greece,Boulder,24
 86,Guam,Boulder,5
 87,Guam,Lead,4
 88,Guatemala,Boulder,9
-89,Honduras,Boulder,5
-90,Honduras,Lead,2
+89,Honduras,Lead,4
+90,Honduras,Boulder,5
 91,Hungary,Lead,32
 92,Hungary,Boulder,27
 93,Hungary,Speed,11
@@ -99,7 +99,7 @@
 97,India,Boulder,31
 98,India,Lead,20
 99,Indonesia,Boulder-Lead,2
-100,Indonesia,Lead,64
+100,Indonesia,Lead,62
 101,Indonesia,Speed,78
 102,Indonesia,Boulder,18
 103,Iran (Islamic Republic of),Lead,21
@@ -109,7 +109,7 @@
 107,Ireland,Lead,3
 108,Ireland,Boulder,10
 109,Israel,Boulder-Lead,1
-110,Israel,Lead,22
+110,Israel,Lead,24
 111,Israel,Boulder,35
 112,Israel,Speed,4
 113,Italy,Lead,137
@@ -175,7 +175,7 @@
 173,Puerto Rico,Boulder,2
 174,Puerto Rico,Speed,1
 175,Republic of Korea,Boulder-Lead,3
-176,Republic of Korea,Lead,117
+176,Republic of Korea,Lead,118
 177,Republic of Korea,Speed,75
 178,Republic of Korea,Boulder,69
 179,Romania,Lead,36
@@ -215,7 +215,7 @@
 213,Switzerland,Lead,94
 214,Switzerland,Speed,15
 215,Taiwan,Boulder-Lead,3
-216,Taiwan,Lead,33
+216,Taiwan,Lead,32
 217,Taiwan,Boulder,20
 218,Taiwan,Speed,8
 219,Thailand,Lead,13
@@ -236,7 +236,7 @@
 234,United Kingdom,Speed,39
 235,United States of America,Boulder-Lead,7
 236,United States of America,Boulder,204
-237,United States of America,Lead,182
+237,United States of America,Lead,183
 238,United States of America,Speed,90
 239,Uzbekistan,Lead,4
 240,Venezuela (Bolivarian Republic of),Boulder,7
