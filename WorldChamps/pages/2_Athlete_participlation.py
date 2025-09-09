@@ -41,60 +41,72 @@ with tab1:
 	col1, col2 = st.columns(2)
 	with col1:
 		st.dataframe (df_num_attend_female_boulder,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 	with col2:
 		st.dataframe (df_num_attend_male_boulder,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab2:
 	col1, col2 = st.columns(2)
 	with col1:
 		st.dataframe (df_num_attend_female_lead,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 	with col2:
 		st.dataframe (df_num_attend_male_lead,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab3:
 	col1, col2 = st.columns(2)
 	with col1:
 		st.dataframe (df_num_attend_female_speed,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 	with col2:
 		st.dataframe (df_num_attend_male_speed,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab4:
 	col1, col2 = st.columns(2)
 	with col1:
 		st.dataframe (df_num_attend_female_combined,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 	with col2:
 		st.dataframe (df_num_attend_male_combined,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab5:
 	col1, col2 = st.columns(2)
 	with col1:
 		st.dataframe (df_num_attend_female_boulderlead,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 	with col2:
 		st.dataframe (df_num_attend_male_boulderlead,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab6:
 	col1, col2 = st.columns(2)
 	with col1:
 		st.dataframe (df_num_attend_female_all_disciplines,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 	with col2:
 		st.dataframe (df_num_attend_male_all_disciplines,
+			column_order=("Athlete","Country","NumWChamps"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 

@@ -242,7 +242,6 @@ if  __name__ == '__main__':
 	query_28 = '''MATCH (ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: 'World Championship'}),
       	(v:Venue)-[:HOSTS]->(ev:Event)-[:CONSISTS_OF]->(cmp:Competition),
       	(v:Venue)-[:IS_PART_OF]->(c:Country)
-		WHERE  ev.StartDate < date("'''+todayStr+'''")
 		RETURN c.CountryName AS Country, ev.EventName AS EventName, ev.StartDate AS Start, ev.EndDate AS Finish,
 		       v.VenueName AS Venue, count(cmp) AS NumComps
 		ORDER by ev.StartDate
@@ -547,16 +546,19 @@ if  __name__ == '__main__':
 	dtf_1_speed = dtf_1_trim[dtf_1_trim['Discipline'] == 'Speed']
 	dtf_1_boulder = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder']
 	dtf_1_combined = dtf_1_trim[dtf_1_trim['Discipline'] == 'Combined']
+	dtf_1_boulderlead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder-Lead']
 	#drop the discipline column as we dont want to show it
 	dtf_1_lead.drop(columns=['Discipline'], inplace=True)
 	dtf_1_speed.drop(columns=['Discipline'], inplace=True)
 	dtf_1_boulder.drop(columns=['Discipline'], inplace=True)
 	dtf_1_combined.drop(columns=['Discipline'], inplace=True)
+	dtf_1_boulderlead.drop(columns=['Discipline'], inplace=True)
 	# reset the index and then add 1, so the index starts at 1 and not zero
 	dtf_1_lead.reset_index(drop=True, inplace=True); dtf_1_lead.index = dtf_1_lead.index +1
 	dtf_1_speed.reset_index(drop=True, inplace=True); dtf_1_speed.index = dtf_1_speed.index + 1
 	dtf_1_boulder.reset_index(drop=True, inplace=True); dtf_1_boulder.index = dtf_1_boulder.index + 1
 	dtf_1_combined.reset_index(drop=True, inplace=True); dtf_1_combined.index = dtf_1_combined.index + 1
+	dtf_1_boulderlead.reset_index(drop=True, inplace=True); dtf_1_boulderlead.index = dtf_1_boulderlead.index + 1
 
 	#get rid of people with 0 medals
 	dtf_2_trim = dtf_2[(dtf_2.NumWChampGold != 0) | (dtf_2.NumWChampSilver != 0) | (dtf_2.NumWChampBronze != 0)]
@@ -565,16 +567,19 @@ if  __name__ == '__main__':
 	dtf_2_speed = dtf_2_trim[dtf_2_trim['Discipline'] == 'Speed']
 	dtf_2_boulder = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder']
 	dtf_2_combined = dtf_2_trim[dtf_2_trim['Discipline'] == 'Combined']
+	dtf_2_boulderlead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder-Lead']
 	#drop the discipline column as we dont want to show it
 	dtf_2_lead.drop(columns=['Discipline'], inplace=True)
 	dtf_2_speed.drop(columns=['Discipline'], inplace=True)
 	dtf_2_boulder.drop(columns=['Discipline'], inplace=True)
 	dtf_2_combined.drop(columns=['Discipline'], inplace=True)
+	dtf_2_boulderlead.drop(columns=['Discipline'], inplace=True)
 	# reset the index and then add 1, so the index starts at 1 and not zero
 	dtf_2_lead.reset_index(drop=True, inplace=True); dtf_2_lead.index = dtf_2_lead.index +1
 	dtf_2_speed.reset_index(drop=True, inplace=True); dtf_2_speed.index = dtf_2_speed.index + 1
 	dtf_2_boulder.reset_index(drop=True, inplace=True); dtf_2_boulder.index = dtf_2_boulder.index + 1
 	dtf_2_combined.reset_index(drop=True, inplace=True); dtf_2_combined.index = dtf_2_combined.index + 1
+	dtf_2_boulderlead.reset_index(drop=True, inplace=True); dtf_2_boulderlead.index = dtf_2_boulderlead.index + 1
 
 	#get rid of people with 0 medals
 	dtf_3_trim = dtf_3[(dtf_3.NumWChampGold != 0) | (dtf_3.NumWChampSilver != 0) | (dtf_3.NumWChampBronze != 0)]
@@ -609,7 +614,7 @@ if  __name__ == '__main__':
 	dtf_13_lead = dtf_13[dtf_13['Discipline'] == 'Lead']
 	dtf_13_speed = dtf_13[dtf_13['Discipline'] == 'Speed']
 	dtf_13_boulder = dtf_13[dtf_13['Discipline'] == 'Boulder']
-	dtf_13_boulderlead = dtf_13[dtf_13['Discipline'] == 'BoulderLead']
+	dtf_13_boulderlead = dtf_13[dtf_13['Discipline'] == 'Boulder-Lead']
 	dtf_13_combined = dtf_13[dtf_13['Discipline'] == 'Combined']
 	# reset the index and then add 1, so the index starts at 1 and not zero
 	dtf_13_lead.reset_index(drop=True, inplace=True); dtf_13_lead.index = dtf_13_lead.index +1
@@ -623,11 +628,13 @@ if  __name__ == '__main__':
 	dtf_14_15_lead = dtf_14_15[dtf_14_15['Discipline'] == 'Lead']
 	dtf_14_15_speed = dtf_14_15[dtf_14_15['Discipline'] == 'Speed']
 	dtf_14_15_boulder = dtf_14_15[dtf_14_15['Discipline'] == 'Boulder']
+	dtf_14_15_boulderlead = dtf_14_15[dtf_14_15['Discipline'] == 'Boulder-Lead']
 	dtf_14_15_combined = dtf_14_15[dtf_14_15['Discipline'] == 'Combined']
 	# reset the index and then add 1, so the index starts at 1 and not zero
 	dtf_14_15_lead.reset_index(drop=True, inplace=True); dtf_14_15_lead.index = dtf_14_15_lead.index + 1
 	dtf_14_15_speed.reset_index(drop=True, inplace=True); dtf_14_15_speed.index = dtf_14_15_speed.index + 1
 	dtf_14_15_boulder.reset_index(drop=True, inplace=True); dtf_14_15_boulder.index = dtf_14_15_boulder.index +1
+	dtf_14_15_boulderlead.reset_index(drop=True, inplace=True); dtf_14_15_boulderlead.index = dtf_14_15_boulderlead.index +1
 	dtf_14_15_combined.reset_index(drop=True, inplace=True); dtf_14_15_combined.index = dtf_14_15_combined.index + 1
 
 	#split into the 4 disciplines
@@ -635,7 +642,7 @@ if  __name__ == '__main__':
 	dtf_17_speed = dtf_17[dtf_17['Discipline'] == 'Speed']
 	dtf_17_boulder = dtf_17[dtf_17['Discipline'] == 'Boulder']
 	dtf_17_combined = dtf_17[dtf_17['Discipline'] == 'Combined']
-	dtf_17_boulderlead = dtf_17[dtf_17['Discipline'] == 'BoulderLead']
+	dtf_17_boulderlead = dtf_17[dtf_17['Discipline'] == 'Boulder-Lead']
 	# reset the index and then add 1, so the index starts at 1 and not zero
 	dtf_17_lead.reset_index(drop=True, inplace=True); dtf_17_lead.index = dtf_17_lead.index +1
 	dtf_17_speed.reset_index(drop=True, inplace=True); dtf_17_speed.index = dtf_17_speed.index + 1
@@ -803,53 +810,53 @@ if  __name__ == '__main__':
 	dtf_39.index = dtf_39.index + 1
 
 	#merge all the winners, sort out the columns and tidy
-	#frames = [dtf_40f_boulder,dtf_40m_boulder,dtf_40f_lead,dtf_40m_lead,dtf_40f_speed,dtf_40m_speed]
-	#dtf_40 = pd.concat(frames)
-	#dtf_40['MonthsObj'] = dtf_40['Age'].str.slice(0, 1)
-	#dtf_40['MonthsStr'] = dtf_40['MonthsObj'].astype('string')
-	#dtf_40['MonthsInt'] = dtf_40.MonthsStr.str.slice(1,4).astype('Int32')
-	#dtf_40['Years'] = dtf_40.MonthsInt.div(12).astype('Int32')
-	#dtf_40['Months'] = dtf_40.MonthsInt.mod(12)
-	#dtf_40['Winner'] = dtf_40['Athlete'].map(str) + ' Age: ' + dtf_40['Years'].map(str) + 'y '+ dtf_40['Months'].map(str) + 'm'
-	#dtf_40.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	frames = [dtf_40f_boulder,dtf_40m_boulder,dtf_40f_lead,dtf_40m_lead,dtf_40f_speed,dtf_40m_speed]
+	dtf_40 = pd.concat(frames)
+	dtf_40['MonthsObj'] = dtf_40['Age'].str.slice(0, 1)
+	dtf_40['MonthsStr'] = dtf_40['MonthsObj'].astype('string')
+	dtf_40['MonthsInt'] = dtf_40.MonthsStr.str.slice(1,4).astype('Int32')
+	dtf_40['Years'] = dtf_40.MonthsInt.div(12).astype('Int32')
+	dtf_40['Months'] = dtf_40.MonthsInt.mod(12)
+	dtf_40['Winner'] = dtf_40['Athlete'].map(str) + ' Age: ' + dtf_40['Years'].map(str) + 'y '+ dtf_40['Months'].map(str) + 'm'
+	dtf_40.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the podiums, sort out the columns and tidy
-	#frames = [dtf_41f_boulder,dtf_41m_boulder,dtf_41f_lead,dtf_41m_lead,dtf_41f_speed,dtf_41m_speed]
-	#dtf_41 = pd.concat(frames)
-	#dtf_41['MonthsObj'] = dtf_41['Age'].str.slice(0, 1)
-	#dtf_41['MonthsStr'] = dtf_41['MonthsObj'].astype('string')
-	#dtf_41['MonthsInt'] = dtf_41.MonthsStr.str.slice(1,4).astype('Int32')
-	#dtf_41['Years'] = dtf_41.MonthsInt.div(12).astype('Int32')
-	#dtf_41['Months'] = dtf_41.MonthsInt.mod(12)
-	#dtf_41['Podium'] = dtf_41['Athlete'].map(str) + ' Age: ' + dtf_41['Years'].map(str) + 'y '+ dtf_41['Months'].map(str) + 'm'
-	#dtf_41.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	frames = [dtf_41f_boulder,dtf_41m_boulder,dtf_41f_lead,dtf_41m_lead,dtf_41f_speed,dtf_41m_speed]
+	dtf_41 = pd.concat(frames)
+	dtf_41['MonthsObj'] = dtf_41['Age'].str.slice(0, 1)
+	dtf_41['MonthsStr'] = dtf_41['MonthsObj'].astype('string')
+	dtf_41['MonthsInt'] = dtf_41.MonthsStr.str.slice(1,4).astype('Int32')
+	dtf_41['Years'] = dtf_41.MonthsInt.div(12).astype('Int32')
+	dtf_41['Months'] = dtf_41.MonthsInt.mod(12)
+	dtf_41['Podium'] = dtf_41['Athlete'].map(str) + ' Age: ' + dtf_41['Years'].map(str) + 'y '+ dtf_41['Months'].map(str) + 'm'
+	dtf_41.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the finals, sort out the columns and tidy
-	#frames = [dtf_42f_boulder,dtf_42m_boulder,dtf_42f_lead,dtf_42m_lead,dtf_42f_speed,dtf_42m_speed]
-	#dtf_42 = pd.concat(frames)
-	#dtf_42['MonthsObj'] = dtf_42['Age'].str.slice(0, 1)
-	#dtf_42['MonthsStr'] = dtf_42['MonthsObj'].astype('string')
-	#dtf_42['MonthsInt'] = dtf_42.MonthsStr.str.slice(1,4).astype('Int32')
-	#dtf_42['Years'] = dtf_42.MonthsInt.div(12).astype('Int32')
-	#dtf_42['Months'] = dtf_42.MonthsInt.mod(12)
-	#dtf_42['Finalist'] = dtf_42['Athlete'].map(str) + ' Age: ' + dtf_42['Years'].map(str) + 'y '+ dtf_42['Months'].map(str) + 'm'
-	#dtf_42.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	frames = [dtf_42f_boulder,dtf_42m_boulder,dtf_42f_lead,dtf_42m_lead,dtf_42f_speed,dtf_42m_speed]
+	dtf_42 = pd.concat(frames)
+	dtf_42['MonthsObj'] = dtf_42['Age'].str.slice(0, 1)
+	dtf_42['MonthsStr'] = dtf_42['MonthsObj'].astype('string')
+	dtf_42['MonthsInt'] = dtf_42.MonthsStr.str.slice(1,4).astype('Int32')
+	dtf_42['Years'] = dtf_42.MonthsInt.div(12).astype('Int32')
+	dtf_42['Months'] = dtf_42.MonthsInt.mod(12)
+	dtf_42['Finalist'] = dtf_42['Athlete'].map(str) + ' Age: ' + dtf_42['Years'].map(str) + 'y '+ dtf_42['Months'].map(str) + 'm'
+	dtf_42.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the attends, sort out the columns and tidy
-	#frames = [dtf_43f_boulder,dtf_43m_boulder,dtf_43f_lead,dtf_43m_lead,dtf_43f_speed,dtf_43m_speed]
-	#dtf_43 = pd.concat(frames)
-	#dtf_43['MonthsObj'] = dtf_43['Age'].str.slice(0, 1)
-	#dtf_43['MonthsStr'] = dtf_43['MonthsObj'].astype('string')
-	#dtf_43['MonthsInt'] = dtf_43.MonthsStr.str.slice(1,4).astype('Int32')
-	#dtf_43['Years'] = dtf_43.MonthsInt.div(12).astype('Int32')
-	#dtf_43['Months'] = dtf_43.MonthsInt.mod(12)
-	#dtf_43['Attendee'] = dtf_43['Athlete'].map(str) + ' Age: ' + dtf_43['Years'].map(str) + 'y '+ dtf_43['Months'].map(str) + 'm'
-	#dtf_43.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
+	frames = [dtf_43f_boulder,dtf_43m_boulder,dtf_43f_lead,dtf_43m_lead,dtf_43f_speed,dtf_43m_speed]
+	dtf_43 = pd.concat(frames)
+	dtf_43['MonthsObj'] = dtf_43['Age'].str.slice(0, 1)
+	dtf_43['MonthsStr'] = dtf_43['MonthsObj'].astype('string')
+	dtf_43['MonthsInt'] = dtf_43.MonthsStr.str.slice(1,4).astype('Int32')
+	dtf_43['Years'] = dtf_43.MonthsInt.div(12).astype('Int32')
+	dtf_43['Months'] = dtf_43.MonthsInt.mod(12)
+	dtf_43['Attendee'] = dtf_43['Athlete'].map(str) + ' Age: ' + dtf_43['Years'].map(str) + 'y '+ dtf_43['Months'].map(str) + 'm'
+	dtf_43.drop(columns=['Age','MonthsObj','MonthsStr','MonthsInt','Athlete','Years','Months'], inplace=True)
 
 	#merge all the yougest dataframes together
-	#dtf_44a = pd.merge(dtf_40, dtf_41, how="inner", on=["Discipline", "Gender"])
-	#dtf_44b = pd.merge(dtf_42, dtf_43, how="inner", on=["Discipline", "Gender"])
-	#dtf_44 = pd.merge(dtf_44a, dtf_44b, how="inner", on=["Discipline", "Gender"])
+	dtf_44a = pd.merge(dtf_40, dtf_41, how="inner", on=["Discipline", "Gender"])
+	dtf_44b = pd.merge(dtf_42, dtf_43, how="inner", on=["Discipline", "Gender"])
+	dtf_44 = pd.merge(dtf_44a, dtf_44b, how="inner", on=["Discipline", "Gender"])
 
 	#merge all the winners, sort out the columns and tidy
 	frames = [dtf_45f_boulder,dtf_45m_boulder,dtf_45f_lead,dtf_45m_lead,dtf_45f_speed,dtf_45m_speed]
@@ -907,8 +914,6 @@ if  __name__ == '__main__':
 	dtf_50B['Speed'] = dtf_50B['Speed'].astype('Int32')
 
 	#create dataframes for 2025 WChamps
-	#data = [["Switzerland","WChamp 2023 All","2023-08-01","2023-08-12","Bern",8]]
-	#dtf_28a = dtf_28.append(pd.DataFrame(data,columns=['Country','EventName','Start','Finish','Venue','NumComps']), ignore_index = True)
 
 	#data = [["WChamp 2023 All",54,nan,nan,nan,nan]]
 	#dtf_24a = dtf_24.append(pd.DataFrame(data,columns=['Event','NumCountries','Boulder','Combined','Lead','Speed']), ignore_index = True)
@@ -963,6 +968,7 @@ if  __name__ == '__main__':
 	dtf_14_15_lead.to_csv('Number_of_athletes_per_Country_with_World_Championship_wins_and_podiums_for_Lead.csv', header=True, index=True)
 	dtf_14_15_speed.to_csv('Number_of_athletes_per_Country_with_World_Championship_wins_and_podiums_for_Speed.csv', header=True, index=True)
 	dtf_14_15_combined.to_csv('Number_of_athletes_per_Country_with_World_Championship_wins_and_podiums_for_Combined.csv', header=True, index=True)
+	dtf_14_15_boulderlead.to_csv('Number_of_athletes_per_Country_with_World_Championship_wins_and_podiums_for_BoulderLead.csv', header=True, index=True)
 	dtf_18_19.to_csv('Number_of_athletes_per_Country_with_World_Championship_wins_and_podiums_all_disciplines.csv', header=True, index=True)
 	dtf_50B.to_csv('Country_best_finishes_by_gender_and_discipline.csv', header=True, index=True)
 
@@ -980,11 +986,9 @@ if  __name__ == '__main__':
 	# --------------------------
 
 	#title="Youngest and Oldest Stats"
-	# dp.Text("Youngest"),
-	# dp.Table(dtf_44.style.hide_index().set_table_styles(mystyles), caption=updateAllCaption),
-	# dp.Text("Oldest"),
-	# dp.Table(dtf_49.style.hide_index().set_table_styles(mystyles), caption=updateAllCaption),
-    # columns=1,
+
+	dtf_44.to_csv('World_Championship_youngest_athletes.csv', header=True, index=True)
+	dtf_49.to_csv('World_Championship_oldest_athletes.csv', header=True, index=True)
 
 	# --------------------------
 
@@ -998,6 +1002,8 @@ if  __name__ == '__main__':
 	dtf_2_speed.to_csv('World_Championship_Speed_wins_and_podiums_female.csv', header=True, index=True)
 	dtf_1_combined.to_csv('World_Championship_Combined_wins_and_podiums_male.csv', header=True, index=True)
 	dtf_2_combined.to_csv('World_Championship_Combined_wins_and_podiums_female.csv', header=True, index=True)
+	dtf_1_boulderlead.to_csv('World_Championship_BoulderLead_wins_and_podiums_male.csv', header=True, index=True)
+	dtf_2_boulderlead.to_csv('World_Championship_BoulderLead_wins_and_podiums_female.csv', header=True, index=True)
 	dtf_3_trim.to_csv('World_Championship_all_disciplines_wins_and_podiums_male.csv', header=True, index=True)
 	dtf_4_trim.to_csv('World_Championship_all_disciplines_wins_and_podiums_female.csv', header=True, index=True)
 	dtf_6B.to_csv('World_Championship_Boulder_podium_list_male_and_female.csv', header=True, index=True)
