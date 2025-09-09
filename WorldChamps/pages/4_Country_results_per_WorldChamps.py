@@ -28,26 +28,32 @@ tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs (["Boulder","Lead","Speed","Combine
 
 with tab1:
 	st.dataframe (df_Medal_Table_per_Boulder,
+			column_order=("WChampEvent","Country","Discipline","Gold","Silver","Bronze","Total"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab2:
 	st.dataframe (df_Medal_Table_per_Lead,
+			column_order=("WChampEvent","Country","Discipline","Gold","Silver","Bronze","Total"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab3:
 	st.dataframe (df_Medal_Table_per_Speed,
+			column_order=("WChampEvent","Country","Discipline","Gold","Silver","Bronze","Total"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab4:
 	st.dataframe (df_Medal_Table_per_Combined,
+			column_order=("WChampEvent","Country","Discipline","Gold","Silver","Bronze","Total"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab5:
     st.dataframe (df_Medal_Table_per_BoulderLead,
+			column_order=("WChampEvent","Country","Discipline","Gold","Silver","Bronze","Total"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
-			height=800, hide_index=True)
+			height=400, hide_index=True)
 with tab6:
 	st.dataframe (df_Medal_Table_per_All_disciplines,
+			column_order=("WChampEvent","Country","Gold","Silver","Bronze","Total"),
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 
