@@ -1,17 +1,16 @@
 ,Country,Discipline,NumAthleteswithChampWins,NumAthleteswithChampPodiums
-1,France,Boulder,7,13
-2,Austria,Boulder,5,8
-3,Slovenia,Boulder,4,7
+1,France,Boulder,7,12
+2,Slovenia,Boulder,4,7
+3,Austria,Boulder,4,6
 4,Russia,Boulder,2,9
 5,Germany,Boulder,2,4
 6,Serbia,Boulder,1,1
-7,Spain,Boulder,1,1
-8,Italy,Boulder,1,4
-9,United Kingdom,Boulder,0,3
-10,Czechia,Boulder,0,3
-11,Switzerland,Boulder,0,2
-12,Ukraine,Boulder,0,2
-13,Israel,Boulder,0,1
-14,Belgium,Boulder,0,1
-15,Norway,Boulder,0,1
-16,Finland,Boulder,0,1
+7,Italy,Boulder,1,4
+8,United Kingdom,Boulder,0,3
+9,Czechia,Boulder,0,3
+10,Switzerland,Boulder,0,2
+11,Ukraine,Boulder,0,2
+12,Israel,Boulder,0,1
+13,Belgium,Boulder,0,1
+14,Norway,Boulder,0,1
+15,Finland,Boulder,0,1

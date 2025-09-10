@@ -1,17 +1,16 @@
 ,Country,Discipline,Gold,Silver,Bronze,Total
-1,France,Boulder,7,2,5,14
-2,Austria,Boulder,5,5,3,13
+1,France,Boulder,7,2,4,13
+2,Austria,Boulder,4,4,2,10
 3,Slovenia,Boulder,4,3,1,8
 4,Germany,Boulder,3,2,0,5
 5,Russia,Boulder,2,3,4,9
 6,Italy,Boulder,1,1,2,4
 7,Serbia,Boulder,1,0,1,2
-8,Spain,Boulder,1,0,0,1
-9,Czechia,Boulder,0,2,3,5
-10,United Kingdom,Boulder,0,2,1,3
-11,Ukraine,Boulder,0,1,1,2
-12,Israel,Boulder,0,1,0,1
-13,Belgium,Boulder,0,1,0,1
-14,Finland,Boulder,0,1,0,1
-15,Switzerland,Boulder,0,0,2,2
-16,Norway,Boulder,0,0,1,1
+8,United Kingdom,Boulder,0,2,1,3
+9,Czechia,Boulder,0,1,3,4
+10,Ukraine,Boulder,0,1,1,2
+11,Israel,Boulder,0,1,0,1
+12,Belgium,Boulder,0,1,0,1
+13,Finland,Boulder,0,1,0,1
+14,Switzerland,Boulder,0,0,2,2
+15,Norway,Boulder,0,0,1,1
