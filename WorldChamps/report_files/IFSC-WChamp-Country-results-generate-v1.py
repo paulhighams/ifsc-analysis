@@ -915,15 +915,15 @@ if  __name__ == '__main__':
 
 	#create dataframes for 2025 WChamps
 
-	#data = [["WChamp 2023 All",54,nan,nan,nan,nan]]
-	#dtf_24a = dtf_24.append(pd.DataFrame(data,columns=['Event','NumCountries','Boulder','Combined','Lead','Speed']), ignore_index = True)
+	data = [["WChamp 2025 All",53,nan,nan,nan,nan,nan]]
+	dtf_24a = dtf_24.append(pd.DataFrame(data,columns=['Event','NumCountries','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
 
-	#data = [["WChamp 2023 All",428,252,nan,261,143]]
-	#dtf_27a = dtf_27.append(pd.DataFrame(data,columns=['Event','NumAthletes','Boulder','Combined','Lead','Speed']), ignore_index = True)
+	data = [["WChamp 2025 All",370,173,nan,nan,165,114]]
+	dtf_27a = dtf_27.append(pd.DataFrame(data,columns=['Event','NumAthletes','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
 
 	myslice = ['WChampEvent','Country']
 
-	mystyles = [dict(selector="", props=[('border','2px solid black')])]
+	#mystyles = [dict(selector="", props=[('border','2px solid black')])]
 
 
 	#print (dtf_2_boulder)
@@ -932,8 +932,8 @@ if  __name__ == '__main__':
 
 	#title="Event and Country Statistics"
 	dtf_28.to_csv('list_of_world_championships.csv', header=True, index=True)
-	dtf_24.to_csv('Countries_competing_at_World_Championships.csv', header=True, index=True)
-	dtf_27.to_csv('Athletes_competing_at_World_Championships.csv', header=True, index=True)
+	dtf_24a.to_csv('Countries_competing_at_World_Championships.csv', header=True, index=True)
+	dtf_27a.to_csv('Athletes_competing_at_World_Championships.csv', header=True, index=True)
 	dtf_21.to_csv('20_Largest_Total_Team_size_at_World_Championships.csv', header=True, index=True)
 	#dp.Group(
 	#dtf_20B.to_csv('20 Largest Teams per Discipline at World Championships', header=True, index=False)
