@@ -7,7 +7,7 @@
 5,Chad HORTON (Current),Australia,2
 6,Lukas KNAPP (Current),Austria,31
 7,Tobias PLANGGER (Current),Austria,16
-8,Kevin AMON (Current),Austria,14
+8,Kevin AMON (Current),Austria,15
 15,Salah BOULBAHAIEM,Belgium,16
 16,Nicolas COLLIN (Current),Belgium,11
 17,Simon LORENZI (Current),Belgium,8
@@ -21,7 +21,7 @@
 28,Emilio RIOS,Chile,3
 29,Jose tomas LEDESMA (Current),Chile,2
 30,Qixin ZHONG,China,50
-31,Jianguo LONG (Current),China,19
+31,Jianguo LONG (Current),China,20
 32,Penghui LIN,China,17
 33,Chi-Fung AU (Current),"China, Hong Kong Special Administrative Region",21
 34,Cheung-Chi Shoji CHAN (Current),"China, Hong Kong Special Administrative Region",20
@@ -40,13 +40,13 @@
 50,Soso KATSITADZE,Georgia,3
 51,Linus BADER (Current),Germany,22
 52,Sebastian LUCKE (Current),Germany,18
-53,Leander CARMANNS (Current),Germany,16
+53,Leander CARMANNS (Current),Germany,17
 57,Deepu MALLESH (Current),India,7
 58,Hritik MARNE (Current),India,3
 59,Ganesh BHUJEL (Current),India,2
-60,Alfian MUHAMMAD FAJRI (Current),Indonesia,28
+60,Alfian MUHAMMAD FAJRI (Current),Indonesia,29
 61,Veddriq LEONARDO (Current),Indonesia,23
-62,Kiromal KATIBIN (Current),Indonesia,20
+62,Kiromal KATIBIN (Current),Indonesia,21
 63,Reza ALIPOUR SHENAZANDIFARD (Current),Iran (Islamic Republic of),45
 64,Morteza MOHAMMADI,Iran (Islamic Republic of),7
 65,Milad ALIPOURSHENAZANDIFARD (Current),Iran (Islamic Republic of),5
@@ -56,17 +56,17 @@
 69,Ludovico FOSSALI (Current),Italy,53
 70,Leonardo GONTERO,Italy,47
 71,Gian Luca ZODDA (Current),Italy,41
-72,Shuto FUJINO (Current),Japan,21
-73,Ryo OMASA (Current),Japan,20
-74,Jun YASUKAWA (Current),Japan,14
-75,Amir MAIMURATOV (Current),Kazakhstan,33
+72,Shuto FUJINO (Current),Japan,22
+73,Ryo OMASA (Current),Japan,21
+74,Jun YASUKAWA (Current),Japan,15
+75,Amir MAIMURATOV (Current),Kazakhstan,34
 76,Rishat KHAIBULLIN (Current),Kazakhstan,21
-77,Alisher MURAT (Current),Kazakhstan,17
+77,Alisher MURAT (Current),Kazakhstan,18
 78,Nasser ABU ERGEEB (Current),Kuwait,5
 79,Rolands RUGENS (Current),Latvia,4
 80,Janis PRIZAVOITS,Latvia,1
 85,Andrés ALENCASTER (Current),Mexico,5
-92,Julian DAVID (Current),New Zealand,13
+92,Julian DAVID (Current),New Zealand,14
 93,Flynn CHISHOLM (Current),New Zealand,7
 94,George SANDERS,New Zealand,4
 96,Zaheer AHMAD (Current),Pakistan,2
@@ -76,8 +76,8 @@
 103,Marcin DZIENSKI (Current),Poland,67
 104,Lukasz SWIRK,Poland,40
 105,Jedrzej KOMOSINSKI,Poland,38
-106,Yongjun JUNG (Current),Republic of Korea,20
-107,Yongsu LEE (Current),Republic of Korea,15
+106,Yongjun JUNG (Current),Republic of Korea,21
+107,Yongsu LEE (Current),Republic of Korea,16
 108,Euncheol SHIN (Current),Republic of Korea,13
 115,Mark CHAN CHONG KIAT,Singapore,3
 116,"Ezell, Qing Wei LOW (Current)",Singapore,2
@@ -88,7 +88,7 @@
 124,Joshua BRUYNS (Current),South Africa,11
 125,Christopher COSSER (Current),South Africa,4
 126,John-David MULLER (Current),South Africa,2
-127,Erik NOYA CARDONA (Current),Spain,25
+127,Erik NOYA CARDONA (Current),Spain,26
 128,Javier CANO BLAZQUEZ (Current),Spain,14
 129,Jonatan FLOR VAZQUEZ,Spain,10
 130,Hannes PUMAN (Current),Sweden,7
@@ -100,8 +100,8 @@
 136,Chia Hsiang LIN (Current),Taiwan,2
 137,Chia hsiang LIN (Current),Taiwan,2
 138,Jiun-jie TZENG,Taiwan,2
-139,Ardch INTRACHUPONGSE (Current),Thailand,4
-140,Aphiwit LIMPANICHPAKDEE (Current),Thailand,3
+139,Aphiwit LIMPANICHPAKDEE (Current),Thailand,4
+140,Ardch INTRACHUPONGSE (Current),Thailand,4
 141,Terdpol ARTAUI,Thailand,2
 142,Ti̇mur TAŞ (Current),Turkey,1
 143,Hasan MENSUR (Current),Turkey,1
@@ -114,4 +114,4 @@
 150,William BOSI,United Kingdom,7
 151,Noah BRATSCHI (Current),United States of America,28
 152,John BROSLER (Current),United States of America,28
-153,Samuel WATSON (Current),United States of America,22
+153,Samuel WATSON (Current),United States of America,23
