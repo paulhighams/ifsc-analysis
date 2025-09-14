@@ -1,21 +1,21 @@
 ,Country,Discipline,Gold,Silver,Bronze,Total
 1,Russia,Speed,117,133,118,368
 2,Poland,Speed,36,31,26,93
-3,Ukraine,Speed,32,23,33,88
-4,China,Speed,35,22,29,86
+3,China,Speed,37,22,29,88
+4,Ukraine,Speed,32,23,33,88
 5,Indonesia,Speed,22,25,27,74
 6,France,Speed,19,11,14,44
 7,Czechia,Speed,5,12,8,25
-8,United States of America,Speed,7,10,4,21
+8,United States of America,Speed,7,10,5,22
 9,Iran (Islamic Republic of),Speed,6,2,6,14
 10,Italy,Speed,3,3,6,12
 11,Venezuela (Bolivarian Republic of),Speed,5,2,3,10
-12,Spain,Speed,0,3,2,5
-13,Japan,Speed,0,1,4,5
-14,Hungary,Speed,0,3,1,4
-15,Republic of Korea,Speed,0,2,2,4
-16,Kazakhstan,Speed,0,3,0,3
-17,Germany,Speed,0,1,2,3
+12,Japan,Speed,0,2,4,6
+13,Republic of Korea,Speed,0,3,2,5
+14,Spain,Speed,0,3,2,5
+15,Hungary,Speed,0,3,1,4
+16,Germany,Speed,0,1,3,4
+17,Kazakhstan,Speed,0,3,0,3
 18,Austria,Speed,0,1,1,2
 19,"China, Hong Kong Special Administrative Region",Speed,1,0,0,1
 20,United Kingdom,Speed,0,0,1,1

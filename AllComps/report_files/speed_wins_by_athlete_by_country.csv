@@ -7,79 +7,81 @@
 5,China,Lijuan DENG,5,22
 6,China,Peng WU,2,18
 7,China,Qixin ZHONG,13,26
-8,China,Shaoqin ZHANG,2,13
-9,China,Xiaojie CHEN,1,12
-10,China,Xinshang WANG,1,10
-11,China,Yafei ZHOU,1,7
-12,China,Yiling SONG,3,20
-13,"China, Hong Kong Special Administrative Region",Lai-sho CHENG,1,11
-14,Czechia,Libor HROZA,5,7
-15,France,Anouck JAUBERT,15,27
-16,France,Bassa MAWEM,3,6
-17,France,Esther BRUCKNER,1,10
-18,Indonesia,Alfian MUHAMMAD FAJRI,2,7
-19,Indonesia,Aries SUSANTI RAHAYU,4,30
-20,Indonesia,Aspar ASPAR,1,7
-21,Indonesia,Aspar JAELOLO,1,5
-22,Indonesia,Desak MADE RITA KUSUMA DEWI,1,6
-23,Indonesia,Evi NELIWATI,1,8
-24,Indonesia,Kiromal KATIBIN,2,10
-25,Indonesia,Raharjati NURSAMSA,2,22
-26,Indonesia,Rahmad ADI MULYONO,1,9
-27,Indonesia,Rajiah SALLSABILLAH,1,5
-28,Indonesia,Veddriq LEONARDO,6,26
-29,Iran (Islamic Republic of),Reza ALIPOUR SHENAZANDIFARD,6,13
-30,Italy,Leonardo GONTERO,1,2
-31,Italy,Ludovico FOSSALI,2,3
-32,Poland,Aleksandra KALUCKA,1,3
-33,Poland,Aleksandra MIROSLAW,14,30
-34,Poland,Edyta ROPEK,8,9
-35,Poland,Klaudia BUCZEK,1,1
-36,Poland,Lukasz SWIRK,1,2
-37,Poland,Marcin DZIENSKI,4,5
-38,Poland,Natalia KALUCKA,1,3
-39,Poland,Renata PISZCZEK,1,9
-40,Poland,Tomasz OLEKSY,5,13
-41,Russia,Aleksandr SHIKOV,3,9
-42,Russia,Alexander PESHEKHONOV,5,13
-43,Russia,Alexandre CHAOULSKY,1,6
-44,Russia,Alexei GADEEV,1,7
-45,Russia,Alina GAIDAMAKINA,8,25
-46,Russia,Anatoly SKRIPOV,1,10
-47,Russia,Anna STENKOVAYA,9,21
-48,Russia,Arsenii SHEVCHENKO,1,3
-49,Russia,Dmitrii TIMOFEEV,4,11
-50,Russia,Ekaterina BARASHCHUK,1,11
-51,Russia,Evgenii VAITSEKHOVSKII,14,19
-52,Russia,Evgueni MINATCHEV,1,12
-53,Russia,Iakov SOUBBOTINE,2,8
-54,Russia,Iuliia KAPLINA,12,25
-55,Russia,Kseniia ALEKSEEVA,2,9
-56,Russia,Mariia KRASAVINA,6,11
-57,Russia,Mayya PIRATINSKAYA,1,3
-58,Russia,Olga BIBIK,1,33
-59,Russia,Sergei SINITCYN,9,13
-60,Russia,Sergey ABDRAKHMANOV,3,13
-61,Russia,Stanislav KOKORIN,10,14
-62,Russia,Tatiana RUYGA,5,17
-63,Russia,Valentina YURINA,5,10
-64,Russia,Vladimir NETSVETAEV-DOLGALEV,2,16
-65,Russia,Vladislav DEULIN,3,10
-66,Russia,Yulia INOZEMTSEVA,1,33
-67,Russia,Yuliya LEVOCHKINA,4,11
-68,Russia,Zosia PODGORBOUNSKIKH,2,12
-69,Ukraine,Andrey VEDENMEER,2,22
-70,Ukraine,Danyil BOLDYREV,5,10
-71,Ukraine,Maksym STYENKOVYY,4,12
-72,Ukraine,Olena OSTAPENKO,1,8
-73,Ukraine,Olena RYEPKO,11,27
-74,Ukraine,Olga ZAKHAROVA,4,19
-75,Ukraine,Svitlana TUZHYLINA,3,14
-76,Ukraine,Yaroslav GONTARYK,1,5
-77,Ukraine,Yevgen KRYVOSHEYTSEV,1,10
-78,United States of America,Emma HUNT,2,10
-79,United States of America,Samuel WATSON,5,22
-80,Venezuela (Bolivarian Republic of),Leonel DE LAS SALAS,1,5
-81,Venezuela (Bolivarian Republic of),Lucelia BLANCO,1,4
-82,Venezuela (Bolivarian Republic of),Manuel ESCOBAR,2,9
-83,Venezuela (Bolivarian Republic of),Rosmery DA SILVA,1,16
+8,China,Shaoqin ZHANG,2,12
+9,China,Shixue MENG,1,20
+10,China,Shouhong CHU,1,12
+11,China,Xiaojie CHEN,1,12
+12,China,Xinshang WANG,1,10
+13,China,Yafei ZHOU,1,7
+14,China,Yiling SONG,3,20
+15,"China, Hong Kong Special Administrative Region",Lai-sho CHENG,1,11
+16,Czechia,Libor HROZA,5,7
+17,France,Anouck JAUBERT,15,27
+18,France,Bassa MAWEM,3,6
+19,France,Esther BRUCKNER,1,10
+20,Indonesia,Alfian MUHAMMAD FAJRI,2,6
+21,Indonesia,Aries SUSANTI RAHAYU,4,30
+22,Indonesia,Aspar ASPAR,1,7
+23,Indonesia,Aspar JAELOLO,1,5
+24,Indonesia,Desak MADE RITA KUSUMA DEWI,1,5
+25,Indonesia,Evi NELIWATI,1,8
+26,Indonesia,Kiromal KATIBIN,2,9
+27,Indonesia,Raharjati NURSAMSA,2,20
+28,Indonesia,Rahmad ADI MULYONO,1,9
+29,Indonesia,Rajiah SALLSABILLAH,1,4
+30,Indonesia,Veddriq LEONARDO,6,26
+31,Iran (Islamic Republic of),Reza ALIPOUR SHENAZANDIFARD,6,13
+32,Italy,Leonardo GONTERO,1,2
+33,Italy,Ludovico FOSSALI,2,3
+34,Poland,Aleksandra KALUCKA,1,3
+35,Poland,Aleksandra MIROSLAW,14,30
+36,Poland,Edyta ROPEK,8,9
+37,Poland,Klaudia BUCZEK,1,1
+38,Poland,Lukasz SWIRK,1,2
+39,Poland,Marcin DZIENSKI,4,5
+40,Poland,Natalia KALUCKA,1,3
+41,Poland,Renata PISZCZEK,1,9
+42,Poland,Tomasz OLEKSY,5,13
+43,Russia,Aleksandr SHIKOV,3,9
+44,Russia,Alexander PESHEKHONOV,5,13
+45,Russia,Alexandre CHAOULSKY,1,6
+46,Russia,Alexei GADEEV,1,7
+47,Russia,Alina GAIDAMAKINA,8,25
+48,Russia,Anatoly SKRIPOV,1,10
+49,Russia,Anna STENKOVAYA,9,21
+50,Russia,Arsenii SHEVCHENKO,1,3
+51,Russia,Dmitrii TIMOFEEV,4,11
+52,Russia,Ekaterina BARASHCHUK,1,11
+53,Russia,Evgenii VAITSEKHOVSKII,14,19
+54,Russia,Evgueni MINATCHEV,1,12
+55,Russia,Iakov SOUBBOTINE,2,8
+56,Russia,Iuliia KAPLINA,12,25
+57,Russia,Kseniia ALEKSEEVA,2,9
+58,Russia,Mariia KRASAVINA,6,11
+59,Russia,Mayya PIRATINSKAYA,1,3
+60,Russia,Olga BIBIK,1,33
+61,Russia,Sergei SINITCYN,9,13
+62,Russia,Sergey ABDRAKHMANOV,3,13
+63,Russia,Stanislav KOKORIN,10,14
+64,Russia,Tatiana RUYGA,5,17
+65,Russia,Valentina YURINA,5,10
+66,Russia,Vladimir NETSVETAEV-DOLGALEV,2,16
+67,Russia,Vladislav DEULIN,3,10
+68,Russia,Yulia INOZEMTSEVA,1,33
+69,Russia,Yuliya LEVOCHKINA,4,11
+70,Russia,Zosia PODGORBOUNSKIKH,2,12
+71,Ukraine,Andrey VEDENMEER,2,22
+72,Ukraine,Danyil BOLDYREV,5,10
+73,Ukraine,Maksym STYENKOVYY,4,12
+74,Ukraine,Olena OSTAPENKO,1,8
+75,Ukraine,Olena RYEPKO,11,27
+76,Ukraine,Olga ZAKHAROVA,4,19
+77,Ukraine,Svitlana TUZHYLINA,3,14
+78,Ukraine,Yaroslav GONTARYK,1,5
+79,Ukraine,Yevgen KRYVOSHEYTSEV,1,10
+80,United States of America,Emma HUNT,2,9
+81,United States of America,Samuel WATSON,5,21
+82,Venezuela (Bolivarian Republic of),Leonel DE LAS SALAS,1,5
+83,Venezuela (Bolivarian Republic of),Lucelia BLANCO,1,4
+84,Venezuela (Bolivarian Republic of),Manuel ESCOBAR,2,9
+85,Venezuela (Bolivarian Republic of),Rosmery DA SILVA,1,16
