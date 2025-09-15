@@ -918,7 +918,7 @@ if  __name__ == '__main__':
 	data = [["WChamp 2025 All",53,nan,nan,nan,nan,nan]]
 	dtf_24a = dtf_24.append(pd.DataFrame(data,columns=['Event','NumCountries','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
 
-	data = [["WChamp 2025 All",370,173,nan,nan,165,114]]
+	data = [["WChamp 2025 All",370,174,nan,nan,164,114]]
 	dtf_27a = dtf_27.append(pd.DataFrame(data,columns=['Event','NumAthletes','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
 
 	myslice = ['WChampEvent','Country']
