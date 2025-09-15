@@ -133,11 +133,11 @@ with tab6:
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, hide_index=True)
 with tab7:
-	st.subheader("Youngest athletes in World Championships  (this is not definitive as we have some athletes without a D.O.B)")
+	st.subheader("Youngest athletes in World Championships :blue[(winners and podiums are 99.5% complete, for finalists and attends there are some athletes without a D.O.B)]")
 	st.dataframe (df_youngest_athletes,
 		column_order=("Discipline","Gender","Winner","Podium","Finalist","Attendee"),
 		height=400, width=2000)
-	st.subheader("Oldest athletes in World Championships  (this is not definitive as we have some athletes without a D.O.B)")
+	st.subheader("Oldest athletes in World Championships  :blue[(winners and podiums are 99.5% complete, for finalists and attends there are some athletes without a D.O.B)]")
 	st.dataframe (df_oldest_athletes,
 		column_order=("Discipline","Gender","Winner","Podium","Finalist","Attendee"),
 		height=400, width=2000)
