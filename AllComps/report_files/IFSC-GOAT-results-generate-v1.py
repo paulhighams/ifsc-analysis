@@ -476,8 +476,40 @@ if  __name__ == '__main__':
 	#get rid of people with 0 medals
 	dtf_5_trim = dtf_5[(dtf_5.First != 0) | (dtf_5.Second != 0) | (dtf_5.Third != 0)]
 
+	# get series data for racecharts
 
-	#genearte report files
+	# create the dataframe of positions ans scores
+	dtf_posn_points = pd.DataFrame ({"Position": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,
+		41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80],
+		"points": [1000,805,690,610,545,495,455,415,380,350,325,300,280,260,240,220,205,185,170,155,145,130,120,105,95,84,73,63,56,48,42,37,33,30,27,24,21,19,17,15,
+		14,13,12,11,11,10,9,9,8,8,7,7,7,6,6,6,5,5,5,4,4,4,4,3,3,3,3,3,2,2,2,2,2,2,1,1,1,1,1,1]})
+	
+	# Get top 10 athletes per gender per discipline, then get their results for the year
+	query_11 = '''MATCH (yr:Year)-[tp:TAKES_PLACE_IN]-(wcs:WCSeries)<-[r:RANKS]-(ath:Athlete)-[:REPRESENTS]->(c)
+	MATCH (ct:CompType)-[cl:CLASSIFIES]->(wcs:WCSeries)
+	WHERE r.FinishPosition < 11
+	AND yr.YearName = 2025
+	AND ct.CompTypeName IN ["Boulder","Lead","Speed"]
+	WITH ct.CompTypeName AS Discipline, ath.PersonName AS Competitor
+	MATCH (cntry:Country)<-[r:REPRESENTS]-(ath:Athlete {PersonName: Competitor})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[oc:OCCURS_IN]->(yr:Year)
+	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: Discipline})
+	WHERE yr.YearName in [2025]
+	RETURN ath.PersonName AS Athlete, ct.CompTypeName AS CompType, ev.EndDate AS TheDate ,att.FinishPosition AS FinPosn
+	ORDER BY Athlete, CompType, TheDate ASC
+	'''
+
+	#run the queries and put the answer in dataframes
+	dtf_11 = pd.DataFrame([dict(_) for _ in conn.query(query_11)])
+
+	# add the points for each posn to the dataframe
+	dtf_11['EvPoints'] = dtf_11.FinPosn.map(dtf_posn_points.set_index('Position')['points'])
+	
+	# cumulative sum the points per person, discipline, relies on the order by in the neo4j query
+	dtf_11['CumPoints'] = dtf_11.groupby(['Athlete','CompType'])['EvPoints'].cumsum()
+
+	#print(dtf_11)
+
+	#generate report files
 
 	#title="Boulder"
 
@@ -502,6 +534,9 @@ if  __name__ == '__main__':
 	dtfa_final.to_csv('athlete_stats_all_disciplines_female.csv', header=True, index=True)
 	dtma_final.to_csv('athlete_stats_all_disciplines_male.csv', header=True, index=True)
 	dtf_5_trim.to_csv('athlete_stats_all_disciplines.csv', header=True, index=True)
+
+	# output the barchart race file
+	dtf_11.to_csv('series_barchart_race.csv', header=True, index=True)
 
 	#
 	# how to close the connection to the database
