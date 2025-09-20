@@ -494,7 +494,7 @@ if  __name__ == '__main__':
 	MATCH (cntry:Country)<-[r:REPRESENTS]-(ath:Athlete {PersonName: Competitor})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: Discipline})
 	WHERE yr.YearName in [2025]
-	RETURN ath.PersonName AS Athlete, ct.CompTypeName AS CompType, ev.EndDate AS TheDate ,att.FinishPosition AS FinPosn
+	RETURN ath.PersonName AS Athlete, ath.Sex AS Sex, ct.CompTypeName AS CompType, ev.EndDate AS TheDate ,att.FinishPosition AS FinPosn
 	ORDER BY Athlete, CompType, TheDate ASC
 	'''
 
@@ -536,7 +536,7 @@ if  __name__ == '__main__':
 	dtf_5_trim.to_csv('athlete_stats_all_disciplines.csv', header=True, index=True)
 
 	# output the barchart race file
-	dtf_11.to_csv('series_barchart_race.csv', header=True, index=True)
+	dtf_11.to_csv('series_barchart_race.csv', header=True, index=False)
 
 	#
 	# how to close the connection to the database
