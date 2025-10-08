@@ -41,7 +41,7 @@ with tab2:
 			column_config={ "_index": st.column_config.Column("ranking")},
 			height=800)
 
-st.write("Note numbers for Wchamps 2025 are based on registrations, actual attendance will be lower")
+st.write("Note numbers for Wchamps 2027 are based on registrations, actual attendance will be lower")
 st.divider ()
 
 st.caption(":violet[# You can sort any of the tables by clicking on the column header and choosing the sort direction]")

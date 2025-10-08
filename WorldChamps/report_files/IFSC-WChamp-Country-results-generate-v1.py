@@ -913,12 +913,12 @@ if  __name__ == '__main__':
 	dtf_50B['Lead'] = dtf_50B['Lead'].astype('Int32')
 	dtf_50B['Speed'] = dtf_50B['Speed'].astype('Int32')
 
-	#create dataframes for 2025 WChamps
+	#create dataframes for 2027 WChamps
 
-	data = [["WChamp 2025 All",53,nan,nan,nan,nan,nan]]
+	data = [["WChamp 2027 All",0,nan,nan,nan,nan,nan]]
 	dtf_24a = dtf_24.append(pd.DataFrame(data,columns=['Event','NumCountries','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
 
-	data = [["WChamp 2025 All",370,174,nan,nan,164,114]]
+	data = [["WChamp 2027 All",0,0,nan,nan,0,0]]
 	dtf_27a = dtf_27.append(pd.DataFrame(data,columns=['Event','NumAthletes','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
 
 	myslice = ['WChampEvent','Country']
