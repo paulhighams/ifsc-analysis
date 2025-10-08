@@ -542,17 +542,17 @@ if  __name__ == '__main__':
 	#get rid of people with 0 medals
 	dtf_1_trim = dtf_1[(dtf_1.NumWChampGold != 0) | (dtf_1.NumWChampSilver != 0) | (dtf_1.NumWChampBronze != 0)]
 	#split into the 4 disciplines
-	dtf_1_lead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Lead']
-	dtf_1_speed = dtf_1_trim[dtf_1_trim['Discipline'] == 'Speed']
-	dtf_1_boulder = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder']
-	dtf_1_combined = dtf_1_trim[dtf_1_trim['Discipline'] == 'Combined']
-	dtf_1_boulderlead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder-Lead']
+	dtf_1_leadraw = dtf_1_trim[dtf_1_trim['Discipline'] == 'Lead']
+	dtf_1_speedraw = dtf_1_trim[dtf_1_trim['Discipline'] == 'Speed']
+	dtf_1_boulderraw = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder']
+	dtf_1_combinedraw = dtf_1_trim[dtf_1_trim['Discipline'] == 'Combined']
+	dtf_1_boulderleadraw = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder-Lead']
 	#drop the discipline column as we dont want to show it
-	dtf_1_lead.drop(columns=['Discipline'], inplace=True)
-	dtf_1_speed.drop(columns=['Discipline'], inplace=True)
-	dtf_1_boulder.drop(columns=['Discipline'], inplace=True)
-	dtf_1_combined.drop(columns=['Discipline'], inplace=True)
-	dtf_1_boulderlead.drop(columns=['Discipline'], inplace=True)
+	dtf_1_lead = dtf_1_leadraw.drop(columns=['Discipline'])
+	dtf_1_speed = dtf_1_speedraw.drop(columns=['Discipline'])
+	dtf_1_boulder = dtf_1_boulderraw.drop(columns=['Discipline'])
+	dtf_1_combined = dtf_1_combinedraw.drop(columns=['Discipline'])
+	dtf_1_boulderlead = dtf_1_boulderleadraw.drop(columns=['Discipline'])
 	# reset the index and then add 1, so the index starts at 1 and not zero
 	dtf_1_lead.reset_index(drop=True, inplace=True); dtf_1_lead.index = dtf_1_lead.index +1
 	dtf_1_speed.reset_index(drop=True, inplace=True); dtf_1_speed.index = dtf_1_speed.index + 1
@@ -563,17 +563,17 @@ if  __name__ == '__main__':
 	#get rid of people with 0 medals
 	dtf_2_trim = dtf_2[(dtf_2.NumWChampGold != 0) | (dtf_2.NumWChampSilver != 0) | (dtf_2.NumWChampBronze != 0)]
 	#split into the 4 disciplines
-	dtf_2_lead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Lead']
-	dtf_2_speed = dtf_2_trim[dtf_2_trim['Discipline'] == 'Speed']
-	dtf_2_boulder = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder']
-	dtf_2_combined = dtf_2_trim[dtf_2_trim['Discipline'] == 'Combined']
-	dtf_2_boulderlead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder-Lead']
+	dtf_2_leadraw = dtf_2_trim[dtf_2_trim['Discipline'] == 'Lead']
+	dtf_2_speedraw = dtf_2_trim[dtf_2_trim['Discipline'] == 'Speed']
+	dtf_2_boulderraw = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder']
+	dtf_2_combinedraw = dtf_2_trim[dtf_2_trim['Discipline'] == 'Combined']
+	dtf_2_boulderleadraw = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder-Lead']
 	#drop the discipline column as we dont want to show it
-	dtf_2_lead.drop(columns=['Discipline'], inplace=True)
-	dtf_2_speed.drop(columns=['Discipline'], inplace=True)
-	dtf_2_boulder.drop(columns=['Discipline'], inplace=True)
-	dtf_2_combined.drop(columns=['Discipline'], inplace=True)
-	dtf_2_boulderlead.drop(columns=['Discipline'], inplace=True)
+	dtf_2_lead = dtf_2_leadraw.drop(columns=['Discipline'])
+	dtf_2_speed = dtf_2_speedraw.drop(columns=['Discipline'])
+	dtf_2_boulder = dtf_2_boulderraw.drop(columns=['Discipline'])
+	dtf_2_combined = dtf_2_combinedraw.drop(columns=['Discipline'])
+	dtf_2_boulderlead = dtf_2_boulderleadraw.drop(columns=['Discipline'])
 	# reset the index and then add 1, so the index starts at 1 and not zero
 	dtf_2_lead.reset_index(drop=True, inplace=True); dtf_2_lead.index = dtf_2_lead.index +1
 	dtf_2_speed.reset_index(drop=True, inplace=True); dtf_2_speed.index = dtf_2_speed.index + 1
@@ -915,12 +915,13 @@ if  __name__ == '__main__':
 
 	#create dataframes for 2027 WChamps
 
-	data = [["WChamp 2027 All",0,nan,nan,nan,nan,nan]]
-	dtf_24a = dtf_24.append(pd.DataFrame(data,columns=['Event','NumCountries','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
+	data = {'Event':['WChamp 2027 All'],'NumCountries':[0],'Boulder':[nan],'Boulder-Lead':[nan],'Combined':[nan],'Lead':[nan],'Speed':[nan]}
+	dtf_extra1 = pd.DataFrame(data)
+	dtf_24a = pd.concat([dtf_24, dtf_extra1], ignore_index = True)
 
-	data = [["WChamp 2027 All",0,0,nan,nan,0,0]]
-	dtf_27a = dtf_27.append(pd.DataFrame(data,columns=['Event','NumAthletes','Boulder','Boulder-Lead','Combined','Lead','Speed']), ignore_index = True)
-
+	data = {'Event':['WChamp 2027 All'],'NumAthletes':[0],'Boulder':[0],'Boulder-Lead':[nan],'Combined':[nan],'Lead':[0],'Speed':[0]}
+	dtf_extra2 = pd.DataFrame(data)
+	dtf_27a = pd.concat([dtf_27, dtf_extra2], ignore_index = True)
 	myslice = ['WChampEvent','Country']
 
 	#mystyles = [dict(selector="", props=[('border','2px solid black')])]
