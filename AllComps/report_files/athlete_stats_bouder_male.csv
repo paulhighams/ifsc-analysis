@@ -1,7 +1,7 @@
 ,Athlete,WC Series Wins,WC Series Top 5,WChampGold,WChampSilver,WChampBronze,WChampTotal,WCup 1st,WCup 2nd,WCup 3rd,WCup Total,WCup competed,WCup Win %,WCup Podium %
 1,Kilian FISCHHUBER (AUT),5,11,0,2,0,2,21,11,15,47,83,25,56
 2,Jérôme MEYER (FRA),4,7,0,1,0,1,11,5,9,25,49,22,51
-3,Sorato ANRAKU (JPN),3,3,0,0,0,0,5,4,2,11,17,29,64
+3,Sorato ANRAKU (JPN),3,3,1,0,0,1,5,4,2,11,17,29,64
 4,Tomoa NARASAKI (JPN),2,7,2,1,0,3,7,15,4,26,58,12,44
 5,Christian CORE (ITA),2,4,1,0,1,2,3,6,4,13,59,5,22
 6,Jongwon CHON (KOR),2,4,0,1,0,1,5,2,4,11,53,9,20
@@ -20,11 +20,11 @@
 19,Mauro CALIBANI (ITA),0,1,1,0,0,1,1,1,1,3,13,7,23
 20,Kai HARADA (JPN),0,0,1,0,0,1,0,1,0,1,20,0,5
 21,Mickael MAWEM (FRA),0,0,1,0,0,1,0,0,0,0,0,0,0
-22,Mejdi SCHALCK (FRA),0,4,0,1,0,1,4,3,2,9,20,20,45
+22,Mejdi SCHALCK (FRA),0,4,0,2,0,2,4,3,2,9,20,20,45
 23,Guillaume GLAIRON MONDET (FRA),0,3,0,0,0,0,3,5,1,9,65,4,13
 24,Daniel ANDRADA JIMENEZ (ESP),0,3,0,0,0,0,3,2,1,6,17,17,35
 25,Jakob SCHUBERT (AUT),0,2,0,1,0,1,3,2,6,11,56,5,19
-26,Dohyun LEE (KOR),0,2,0,0,1,1,3,3,1,7,19,15,36
+26,Dohyun LEE (KOR),0,2,0,0,2,2,3,3,1,7,19,15,36
 27,David LAMA (AUT),0,1,0,0,0,0,3,0,2,5,12,25,41
 28,Stephane JULIEN (FRA),0,3,0,0,0,0,2,0,1,3,41,4,7
 29,Sean MCCOLL (CAN),0,2,0,0,0,0,2,6,6,14,73,2,19
