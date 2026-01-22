@@ -10,7 +10,7 @@ st.set_page_config(
 	layout="centered"
 )
 
-st.write("# Welcome to statistics about the European Championships for sport Climbing! :flag-eu:")
+st.write("# Welcome to statistics about the European Championships for World Climbing! :flag-eu:")
 
 st.sidebar.success("Select an analysis above.")
 

@@ -1,89 +1,89 @@
 ,Athlete,Country,NumWChamps
-1,Rattankorn SUTHAPHAISANWITHAYA,Thailand,1
-2,Melissa Esther CHEN CHEN,Peru,1
-3,Ema GALEOVA,Czechia,1
-4,Maya DREAMER,Israel,1
-5,Daria NESTERENKO,Ukraine,1
-6,Brooke RABOUTOU,United States of America,1
-7,Anne ACKRE,Norway,1
-8,Kyra CONDIE,United States of America,1
-9,Iziar MARTÍNEZ ALMENDROS,Spain,1
-10,Zoe GARCIA MOLINA,Argentina,1
-11,Molly THOMPSON-SMITH,United Kingdom,1
-12,Miho NONAKA,Japan,1
-13,Matilde CABEZAS,Chile,1
-14,Oriane BERTONE,France,1
-15,Muykuay SILVA,Chile,1
-16,Erin MCNEICE,United Kingdom,1
-17,Aleksandra TOTKOVA,Bulgaria,1
-18,Regina SALAZAR PUGA,Mexico,1
-19,Ievgeniia KAZBEKOVA,Ukraine,1
-20,Sarina GHAFFARI,Iran (Islamic Republic of),1
-21,Elnaz REKABI,Iran (Islamic Republic of),1
-22,Jessica PILZ,Austria,1
-23,Margarita AGAMBAYEVA,Kazakhstan,1
-24,Janja GARNBRET,Slovenia,1
-25,Ai MORI,Japan,1
-26,Michaela SMETANOVA,Czechia,1
-27,Ryu NAKAGAWA,Japan,1
-28,Sofia alejandra HERRERA VEGA CENTENO,Peru,1
-29,Chaehyun SEO,Republic of Korea,1
-30,Fujiyanti WIDIA,Indonesia,1
-31,Marketa JANOSOVA,Czechia,1
-32,Sara TRAJKOSKA,The former Yugoslav Republic of Macedonia,1
-33,Vita LUKAN,Slovenia,1
-34,Manon HILY,France,1
-35,Martina CASTRO,Chile,1
-36,María fernanda HIDALGO AMEZQUITA,Mexico,1
-37,Ayala KEREM,Israel,1
-38,Svana BJARNASON,France,1
-39,Svana BJARNASON,Iceland,1
-40,María fernanda GONZÁLEZ RÁMIREZ,Mexico,1
-41,Chloe CAULIER,Belgium,1
+1,Marketa JANOSOVA,Czechia,1
+2,Zélia AVEZOU,France,1
+3,Anon MATSUFUJI,Japan,1
+4,Hélène JANICOT,France,1
+5,Anja KÖHLER,Brazil,1
+6,Alannah YIP,Canada,1
+7,Valeri KREMER,Israel,1
+8,Oriane BERTONE,France,1
+9,Kylie CULLEN,United States of America,1
+10,Ryu NAKAGAWA,Japan,1
+11,Ayala KEREM,Israel,1
+12,Daria NESTERENKO,Ukraine,1
+13,Iziar MARTÍNEZ ALMENDROS,Spain,1
+14,Jessica PILZ,Austria,1
+15,Ievgeniia KAZBEKOVA,Ukraine,1
+16,Maya DREAMER,Israel,1
+17,Kyra CONDIE,United States of America,1
+18,Chloe CAULIER,Belgium,1
+19,Miho NONAKA,Japan,1
+20,Manon HILY,France,1
+21,Molly THOMPSON-SMITH,United Kingdom,1
+22,Sukma LINTANG CAHYANI,Indonesia,1
+23,Elnaz REKABI,Iran (Islamic Republic of),1
+24,Aleksandra TOTKOVA,Bulgaria,1
+25,María fernanda HIDALGO AMEZQUITA,Mexico,1
+26,María fernanda GONZÁLEZ RÁMIREZ,Mexico,1
+27,Janja GARNBRET,Slovenia,1
+28,Zhilu LUO,China,1
+29,Rocio ailen BECERRA,Argentina,1
+30,Stasa GEJO,Serbia,1
+31,Franziska STERRER,Austria,1
+32,Vita LUKAN,Slovenia,1
+33,Mia KRAMPL,Slovenia,1
+34,Zoe GARCIA MOLINA,Argentina,1
+35,Giorgia TESIO,Italy,1
+36,Anja SANTINI MIKULIĆ,Croatia,1
+37,Anne ACKRE,Norway,1
+38,Laura ROGORA,Italy,1
+39,Brooke RABOUTOU,United States of America,1
+40,Hannah MEUL,Germany,1
+41,Oceania MACKENZIE,Australia,1
 42,Rebecca FRANGOS,Canada,1
-43,Rocio ailen BECERRA,Argentina,1
-44,Alejandra CONTRERAS,Chile,1
-45,Hélène JANICOT,France,1
-46,Indiana CHAPMAN,Canada,1
-47,Anja SANTINI MIKULIĆ,Croatia,1
-48,Chaeyeong KIM,Republic of Korea,1
-49,Hung Ying LEE,Taiwan,1
-50,Oceania MACKENZIE,Australia,1
-51,Lucia DÖRFFEL,Germany,1
-52,Nonoha KUME,Japan,1
-53,Babette ROY,Canada,1
-54,Tegwen OATES,South Africa,1
-55,Yejoo SEO,Republic of Korea,1
-56,Stasa GEJO,Serbia,1
-57,Lianet CASTILLO,Venezuela (Bolivarian Republic of),1
-58,Viktoriya ADAMENKO,Kazakhstan,1
-59,Zhilu LUO,China,1
-60,Arantza LUNA VELASCO,Mexico,1
-61,Bianca DE MAGALHAES DE CASTRO,Brazil,1
-62,Anastasiia KOBETS,Ukraine,1
-63,Emilia DAVILA,Ecuador,1
-64,Anon MATSUFUJI,Japan,1
-65,Anja KÖHLER,Brazil,1
-66,Camilla MORONI,Italy,1
-67,Jain KIM,Republic of Korea,1
-68,Elizabeth SEPULVEDA,Puerto Rico,1
-69,Elizabeth SEPULVEDA,United States of America,1
-70,Silvana lourdes LEYTON MATTO,Peru,1
-71,Franziska STERRER,Austria,1
-72,Giorgia TESIO,Italy,1
-73,Alannah YIP,Canada,1
-74,Mia KRAMPL,Slovenia,1
-75,Valeri KREMER,Israel,1
-76,Noa SHIRAN,Israel,1
-77,Laura ROGORA,Italy,1
-78,Kylie CULLEN,United States of America,1
-79,Annie SANDERS,United States of America,1
-80,Eliska ADAMOVSKA,Czechia,1
-81,Lynn VAN DER MEER,Netherlands,1
-82,Nika POTAPOVA,Ukraine,1
-83,Hannah MEUL,Germany,1
-84,Valentina AGUADO,Argentina,1
-85,Sukma LINTANG CAHYANI,Indonesia,1
-86,Arantza FERNÁNDEZ GUTIERREZ,Mexico,1
-87,Zélia AVEZOU,France,1
-88,Natalia GROSSMAN,United States of America,1
+43,Valentina AGUADO,Argentina,1
+44,Elizabeth SEPULVEDA,Puerto Rico,1
+45,Elizabeth SEPULVEDA,United States of America,1
+46,Erin MCNEICE,United Kingdom,1
+47,Alejandra CONTRERAS,Chile,1
+48,Chaehyun SEO,Republic of Korea,1
+49,Ai MORI,Japan,1
+50,Nika POTAPOVA,Ukraine,1
+51,Lynn VAN DER MEER,Netherlands,1
+52,Natalia GROSSMAN,United States of America,1
+53,Camilla MORONI,Italy,1
+54,Lucia DÖRFFEL,Germany,1
+55,Eliska ADAMOVSKA,Czechia,1
+56,Babette ROY,Canada,1
+57,Muykuay SILVA,Chile,1
+58,Margarita AGAMBAYEVA,Kazakhstan,1
+59,Bianca DE MAGALHAES DE CASTRO,Brazil,1
+60,Arantza FERNÁNDEZ GUTIERREZ,Mexico,1
+61,Arantza LUNA VELASCO,Mexico,1
+62,Jain KIM,Republic of Korea,1
+63,Chaeyeong KIM,Republic of Korea,1
+64,Yejoo SEO,Republic of Korea,1
+65,Michaela SMETANOVA,Czechia,1
+66,Fujiyanti WIDIA,Indonesia,1
+67,Noa SHIRAN,Israel,1
+68,Indiana CHAPMAN,Canada,1
+69,Nonoha KUME,Japan,1
+70,Annie SANDERS,United States of America,1
+71,Hung Ying LEE,Taiwan,1
+72,Martina CASTRO,Chile,1
+73,Sofia alejandra HERRERA VEGA CENTENO,Peru,1
+74,Svana BJARNASON,France,1
+75,Svana BJARNASON,Iceland,1
+76,Ema GALEOVA,Czechia,1
+77,Sara TRAJKOSKA,The former Yugoslav Republic of Macedonia,1
+78,Lianet CASTILLO,Venezuela (Bolivarian Republic of),1
+79,Tegwen OATES,South Africa,1
+80,Anastasiia KOBETS,Ukraine,1
+81,Sarina GHAFFARI,Iran (Islamic Republic of),1
+82,Emilia DAVILA,Ecuador,1
+83,Matilde CABEZAS,Chile,1
+84,Rattankorn SUTHAPHAISANWITHAYA,Thailand,1
+85,Viktoriya ADAMENKO,Kazakhstan,1
+86,Regina SALAZAR PUGA,Mexico,1
+87,Silvana lourdes LEYTON MATTO,Peru,1
+88,Melissa Esther CHEN CHEN,Peru,1

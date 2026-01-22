@@ -1,23 +1,23 @@
 ,WChampEvent,Country,Discipline,Gold,Silver,Bronze,Total
 1,Wchamp 2025,France,Boulder,0,2,0,2
-2,Wchamp 2025,Slovenia,Boulder,1,0,0,1
-3,Wchamp 2025,Japan,Boulder,1,0,0,1
-4,Wchamp 2025,United States of America,Boulder,0,0,1,1
-5,Wchamp 2025,Republic of Korea,Boulder,0,0,1,1
+2,Wchamp 2025,Japan,Boulder,1,0,0,1
+3,Wchamp 2025,Slovenia,Boulder,1,0,0,1
+4,Wchamp 2025,Republic of Korea,Boulder,0,0,1,1
+5,Wchamp 2025,United States of America,Boulder,0,0,1,1
 6,Wchamp 2023,France,Boulder,1,2,0,3
 7,Wchamp 2023,Slovenia,Boulder,1,0,0,1
-8,Wchamp 2023,United States of America,Boulder,0,0,1,1
-9,Wchamp 2023,Republic of Korea,Boulder,0,0,1,1
+8,Wchamp 2023,Republic of Korea,Boulder,0,0,1,1
+9,Wchamp 2023,United States of America,Boulder,0,0,1,1
 10,Wchamp 2021,Japan,Boulder,1,1,0,2
 11,Wchamp 2021,United States of America,Boulder,1,0,0,1
 12,Wchamp 2021,Italy,Boulder,0,1,0,1
-13,Wchamp 2021,Serbia,Boulder,0,0,1,1
-14,Wchamp 2021,France,Boulder,0,0,1,1
+13,Wchamp 2021,France,Boulder,0,0,1,1
+14,Wchamp 2021,Serbia,Boulder,0,0,1,1
 15,WChamp 2019 All,Japan,Boulder,1,1,0,2
 16,WChamp 2019 All,Slovenia,Boulder,1,0,0,1
 17,WChamp 2019 All,Austria,Boulder,0,1,0,1
-18,WChamp 2019 All,United Kingdom,Boulder,0,0,1,1
-19,WChamp 2019 All,Germany,Boulder,0,0,1,1
+18,WChamp 2019 All,Germany,Boulder,0,0,1,1
+19,WChamp 2019 All,United Kingdom,Boulder,0,0,1,1
 20,WChamp 2018 All,Japan,Boulder,1,1,0,2
 21,WChamp 2018 All,Slovenia,Boulder,1,0,1,2
 22,WChamp 2018 All,Republic of Korea,Boulder,0,1,0,1
@@ -28,16 +28,16 @@
 27,WChamp 2016 All,France,Boulder,0,0,1,1
 28,WChamp 2014 Boulder,Germany,Boulder,1,0,1,2
 29,WChamp 2014 Boulder,Czechia,Boulder,1,0,0,1
-30,WChamp 2014 Boulder,United States of America,Boulder,0,1,0,1
-31,WChamp 2014 Boulder,Slovenia,Boulder,0,1,0,1
+30,WChamp 2014 Boulder,Slovenia,Boulder,0,1,0,1
+31,WChamp 2014 Boulder,United States of America,Boulder,0,1,0,1
 32,WChamp 2014 Boulder,Japan,Boulder,0,0,1,1
 33,WChamp 2012 All,Russia,Boulder,1,1,1,3
 34,WChamp 2012 All,Austria,Boulder,0,1,1,2
 35,WChamp 2012 All,France,Boulder,1,0,0,1
 36,WChamp 2011 All,Russia,Boulder,1,0,1,2
 37,WChamp 2011 All,Austria,Boulder,1,0,0,1
-38,WChamp 2011 All,United States of America,Boulder,0,1,0,1
-39,WChamp 2011 All,Czechia,Boulder,0,1,0,1
+38,WChamp 2011 All,Czechia,Boulder,0,1,0,1
+39,WChamp 2011 All,United States of America,Boulder,0,1,0,1
 40,WChamp 2011 All,Germany,Boulder,0,0,1,1
 41,WChamp 2009 All,Russia,Boulder,2,1,0,3
 42,WChamp 2009 All,Ukraine,Boulder,0,1,0,1
@@ -45,8 +45,8 @@
 44,WChamp 2009 All,Austria,Boulder,0,0,1,1
 45,WChamp 2007 All,Russia,Boulder,1,0,1,2
 46,WChamp 2007 All,Austria,Boulder,1,0,0,1
-47,WChamp 2007 All,Japan,Boulder,0,1,0,1
-48,WChamp 2007 All,Czechia,Boulder,0,1,0,1
+47,WChamp 2007 All,Czechia,Boulder,0,1,0,1
+48,WChamp 2007 All,Japan,Boulder,0,1,0,1
 49,WChamp 2007 All,Switzerland,Boulder,0,0,1,1
 50,WChamp 2005 All,Russia,Boulder,1,1,0,2
 51,WChamp 2005 All,Ukraine,Boulder,1,0,0,1

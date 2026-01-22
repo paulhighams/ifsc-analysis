@@ -1,7 +1,7 @@
 ,Athlete,Country,NumWCups
 0,Valentina AGUADO (Current),Argentina,24
-1,Rocio ailen BECERRA (Current),Argentina,4
-2,Zoe GARCIA MOLINA (Current),Argentina,4
+1,Zoe GARCIA MOLINA,Argentina,4
+2,Rocio ailen BECERRA,Argentina,4
 3,Oceania MACKENZIE (Current),Australia,23
 4,Samantha BERRY,Australia,22
 5,Claire KASSAY,Australia,12
@@ -15,29 +15,27 @@
 22,Aleksandra TOTKOVA (Current),Bulgaria,10
 23,Ina DZHAMBAZOVA,Bulgaria,8
 24,Petya GARBOVA,Bulgaria,5
-25,Vinnith IM (Current),Cambodia,2
 26,Alannah YIP (Current),Canada,35
 27,Elise SETHNA,Canada,16
 28,Allison VEST,Canada,15
 29,Alejandra CONTRERAS (Current),Chile,12
-30,Ignacia MELLADO QUINTEROS (Current),Chile,5
-31,Muykuay SILVA (Current),Chile,5
+30,Muykuay SILVA,Chile,5
+31,Ignacia MELLADO QUINTEROS,Chile,5
 32,Rong JIANG,China,22
 33,Yuetong ZHANG (Current),China,21
 34,Lamu RENQING,China,14
 35,Tseng-Shun WONG (Current),"China, Hong Kong Special Administrative Region",8
 36,Wai-ping YU,"China, Hong Kong Special Administrative Region",6
-37,Wai-mui LING (Current),"China, Hong Kong Special Administrative Region",3
+37,Wai-mui LING,"China, Hong Kong Special Administrative Region",3
 38,Si Wan LEI (Current),"China, Macao Special Administrative Region",4
-39,Pak Chi SOU (Current),"China, Macao Special Administrative Region",2
-40,Ka Kei CHU (Current),"China, Macao Special Administrative Region",2
+39,Ka Kei CHU (Current),"China, Macao Special Administrative Region",2
+40,Pak Chi SOU (Current),"China, Macao Special Administrative Region",2
 41,Sofia PARRADO (Current),Colombia,2
 42,Anja SANTINI MIKULIĆ (Current),Croatia,4
-43,Tamara ZULIM,Croatia,2
-44,Sandra BAKULIC,Croatia,2
+43,Sandra BAKULIC,Croatia,2
+44,Tamara ZULIM,Croatia,2
 51,Andrea ROJAS (Current),Ecuador,5
 52,Carolina ROSERO,Ecuador,1
-53,Grecia daniela HERNANDEZ GUERRERO (Current),El Salvador,2
 55,Laura LOIKAS (Current),Finland,11
 56,Anna LAITINEN,Finland,7
 57,Iris HEIKKINEN (Current),Finland,6
@@ -49,19 +47,19 @@
 66,Afra HÖNIG (Current),Germany,42
 67,Evdoxia-aikaterini KALLIA (Current),Greece,4
 68,Danai VALSAMIDI (Current),Greece,3
-69,Alexandra KATERI (Current),Greece,2
+69,Alexandra KATERI,Greece,2
 70,Kylie BAKER (Current),Guam,1
-74,Iris pamela DURON ANTONIO (Current),Honduras,2
+74,Iris pamela DURON ANTONIO,Honduras,2
 75,Astridt Alexandra VIDES ZERON (Current),Honduras,1
 79,Svana BJARNASON (Current),Iceland,5
 80,Lukka Mörk BLOMSTERBERG (Current),Iceland,4
 81,Agnes Matthildur FOLKMANN (Current),Iceland,1
 82,Prateeksha ARUN (Current),India,5
-83,Senjam debala DEVI,India,2
-84,Flavia pereira SONALI,India,2
+83,Siddhi shekhar MANERIKAR,India,2
+84,Senjam debala DEVI,India,2
 88,Elnaz REKABI (Current),Iran (Islamic Republic of),15
 89,Nasim BIYARJOMANDY,Iran (Islamic Republic of),5
-90,Sarina GHAFFARI (Current),Iran (Islamic Republic of),3
+90,Athena BIGVAND,Iran (Islamic Republic of),3
 91,Valeri KREMER (Current),Israel,20
 92,Yael TAUB (Current),Israel,19
 93,Ayala KEREM (Current),Israel,18
@@ -74,28 +72,21 @@
 100,Tamara KUZNETSOVA,Kazakhstan,7
 101,Margarita AGAMBAYEVA (Current),Kazakhstan,3
 102,Alexandra ZHIZNEVSKAYA,Kazakhstan,2
-103,Alise ZVIGULE,Latvia,6
-104,Arta MATELSONE (Current),Latvia,3
-105,Cirvele KATRĪNA,Latvia,3
 109,Sui Lin Renee TAN (Current),Malaysia,2
 110,Shareen MOHD NASRAN (Current),Malaysia,1
 111,Shin Yee CHEN (Current),Malaysia,1
 114,Sofia HEINZE CACHO,Mexico,4
-115,Regina SALAZAR PUGA (Current),Mexico,3
-116,Katya Lynn BROCKMAN (Current),Mexico,3
+115,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,3
+116,Arantza LUNA VELASCO (Current),Mexico,3
 122,Emma HAWKE,New Zealand,11
 123,Sarah TETZLAFF (Current),New Zealand,4
 124,Mayan SMITH-GOBAT,New Zealand,3
 125,Hannah MIDTBOE,Norway,19
 126,Ingrid KINDLIHAGEN (Current),Norway,16
 127,Sunniva Eik HAAVE (Current),Norway,10
-128,Melissa Esther CHEN CHEN (Current),Peru,2
-129,Tamara Fatima ORTIZ RUIZ (Current),Peru,2
-130,Sofia alejandra HERRERA VEGA CENTENO (Current),Peru,2
-131,Liana nicole MORA (Current),Philippines,1
-132,Gizelle katrina LOPEZ,Philippines,1
-133,Sarah jane ROSETE,Philippines,1
-140,Elizabeth SEPULVEDA (Current),Puerto Rico,14
+128,Tamara Fatima ORTIZ RUIZ (Current),Peru,2
+129,Melissa Esther CHEN CHEN (Current),Peru,2
+130,Sofia alejandra HERRERA VEGA CENTENO,Peru,2
 141,Sol SA (Current),Republic of Korea,49
 142,Jain KIM (Current),Republic of Korea,36
 143,Chaehyun SEO (Current),Republic of Korea,19
@@ -106,30 +97,23 @@
 154,Natalie GOH SIHUI (Current),Singapore,3
 155,Tan SHI HUI,Singapore,3
 156,Mária ČELKOVÁ,Slovakia,13
-157,Martina BURŠÍKOVÁ (Current),Slovakia,7
-158,Zuzana CINTALOVA,Slovakia,7
+157,Zuzana CINTALOVA,Slovakia,7
+158,Martina BURŠÍKOVÁ (Current),Slovakia,7
 159,Mina MARKOVIC,Slovenia,38
 160,Julija KRUDER (Current),Slovenia,33
 161,Natalija GROS,Slovenia,29
 162,Ariane JANATA-BURNS (Current),South Africa,5
 163,Tegwen OATES (Current),South Africa,3
 164,Lauren MUKHEIBIR (Current),South Africa,2
-165,Leire AGUIRRE,Spain,20
-166,Berta MARTIN SANCHO,Spain,11
-167,Aida TORRES ILLAMOLA (Current),Spain,10
 171,Petra KLINGLER (Current),Switzerland,66
 172,Sofya YOKOYAMA (Current),Switzerland,35
 173,Andrea KÜMIN (Current),Switzerland,28
 174,Hung Ying LEE (Current),Taiwan,28
 175,Ting-Chen YAO (Current),Taiwan,3
-176,Yun-Shan HSIEH (Current),Taiwan,2
+176,Hsiu-ju LIN,Taiwan,2
 177,Puntarika TUNYAVANICH (Current),Thailand,7
-178,Watchareewan TOMAS,Thailand,3
-179,Pankaew PLYPOOLSUP,Thailand,3
-180,Sara TRAJKOSKA (Current),The former Yugoslav Republic of Macedonia,2
-184,Nataliya PERLOVA,Ukraine,33
-185,Olga SHALAGINA,Ukraine,25
-186,Ievgeniia KAZBEKOVA (Current),Ukraine,23
+178,Pankaew PLYPOOLSUP,Thailand,3
+179,Watchareewan TOMAS,Thailand,3
 190,Alex PUCCIO,United States of America,37
 191,Kyra CONDIE (Current),United States of America,36
 192,Sierra BLAIR-COYLE,United States of America,29

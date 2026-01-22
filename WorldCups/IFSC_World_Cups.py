@@ -10,7 +10,7 @@ st.set_page_config(
 	layout="centered"
 )
 
-st.write("# Welcome to statistics about the World Cups for sport Climbing! :person_climbing: ")
+st.write("# Welcome to statistics about the World Cups for World Climbing! :person_climbing: ")
 
 st.sidebar.success("Select an analysis from the sidebar.")
 

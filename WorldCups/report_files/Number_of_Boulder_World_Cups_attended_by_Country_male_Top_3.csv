@@ -12,13 +12,12 @@
 24,Nikolay RUSEV (Current),Bulgaria,17
 25,Slav KIROV (Current),Bulgaria,13
 26,Nikola PETROV,Bulgaria,8
-27,Pheaktra SAMBATH (Current),Cambodia,2
 28,Sean MCCOLL (Current),Canada,73
 29,Sebastien LAZURE,Canada,26
 30,Oscar BAUDRAND (Current),Canada,22
 31,Benjamin VARGAS (Current),Chile,12
-32,Christian WAGNER (Current),Chile,8
-33,Joaquin URRUTIA (Current),Chile,8
+32,Joaquin URRUTIA (Current),Chile,8
+33,Christian WAGNER (Current),Chile,8
 34,Yufei PAN (Current),China,28
 35,Haibin QU,China,13
 36,Zida MA,China,11
@@ -35,55 +34,48 @@
 47,Ariel GONZALEZ (Current),Costa Rica,1
 48,Tomas CASAS (Current),Costa Rica,1
 52,Charalampos GEMENETZI,Cyprus,4
-53,Andreas KANARI (Current),Cyprus,2
-54,Christos SOFOKLEOUS (Current),Cyprus,2
+53,Christos SOFOKLEOUS (Current),Cyprus,2
+54,Andreas KANARI (Current),Cyprus,2
 55,Martin STRANIK (Current),Czechia,44
 56,Adam ONDRA (Current),Czechia,25
 57,Radovah SOUCEK,Czechia,22
-58,Bjørn ARNEL IISAGER,Denmark,21
-59,Theis lindegren ELFENBEIN (Current),Denmark,15
-60,Frederik VIBERG CHRISTIANSEN,Denmark,5
-61,Carlos GRANJA (Current),Ecuador,8
-62,Danny VALENCIA,Ecuador,4
-63,Nickolaie RIVADENEIRA,Ecuador,3
-64,Marcelo ignacio VARGAS CLAROS (Current),El Salvador,2
 80,Theodoros KONSTANTAKOPOULOS,Greece,10
 81,Ioannis-Filippos NOEL-BAKER (Current),Greece,6
 82,Matthaios VALSAMIDIS (Current),Greece,5
-83,Dylan BAKER (Current),Guam,1
-84,Allen LACTAOEN (Current),Guam,1
-85,Quitugua MICHAEL (Current),Guam,1
-89,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,2
-90,Daniel alejandro MERINO ORDÓÑEZ (Current),Honduras,2
+83,Allen LACTAOEN (Current),Guam,1
+84,Quitugua MICHAEL (Current),Guam,1
+85,Donovan VICENTE (Current),Guam,1
+89,Daniel alejandro MERINO ORDÓÑEZ,Honduras,2
+90,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,2
 91,Erick CÓRDOVA A.,Honduras,1
-92,Nimród Sebestyén TUSNÁDY  (Current),Hungary,7
-93,Tamás FARKAS (Current),Hungary,7
+92,Tamás FARKAS (Current),Hungary,7
+93,Nimród Sebestyén TUSNÁDY  (Current),Hungary,7
 94,Soma STROMMER,Hungary,5
-95,Gunnar Egill GUÐLAUGSSON (Current),Iceland,1
-96,Sólon Thorberg HELGASON (Current),Iceland,1
-97,Birgir óli SNORRASON (Current),Iceland,1
+95,Guðmundur freyr ARNARSON,Iceland,1
+96,Birgir óli SNORRASON,Iceland,1
+97,Sólon Thorberg HELGASON (Current),Iceland,1
 98,Sandeep MAITY,India,6
 99,Bharath PEREIRA (Current),India,4
 100,Singh ADARSH,India,4
 101,Raviandi RAMADHAN (Current),Indonesia,5
 102,Ravianto RAMADHAN (Current),Indonesia,5
 103,Aspar JAELOLO,Indonesia,4
-104,Gholamali BARATZADEH (Current),Iran (Islamic Republic of),23
+104,Gholamali BARATZADEH,Iran (Islamic Republic of),23
 105,Hossein FAMILROHANI (Current),Iran (Islamic Republic of),14
 106,Amir NOURI,Iran (Islamic Republic of),11
 107,Michael O'NEILL (Current),Ireland,14
 108,Ciarán SCANLON (Current),Ireland,11
 109,Mark SCANLON (Current),Ireland,7
-110,Alex KHAZANOV (Current),Israel,45
+110,Alex KHAZANOV,Israel,45
 111,Ram LEVIN (Current),Israel,27
 112,Nimrod MARCUS (Current),Israel,26
 113,Christian CORE,Italy,59
-114,Gabriele MORONI (Current),Italy,58
+114,Gabriele MORONI,Italy,58
 115,Michael PICCOLRUAZ (Current),Italy,50
 116,Tsukuru HORI,Japan,65
 117,Tomoa NARASAKI (Current),Japan,58
-118,Kokoro FUJII (Current),Japan,55
-119,Artyom DEVYATERIKOV (Current),Kazakhstan,9
+118,Kokoro FUJII,Japan,55
+119,Artyom DEVYATERIKOV,Kazakhstan,9
 120,Rishat KHAIBULLIN (Current),Kazakhstan,5
 121,Alexey PANFILOV (Current),Kazakhstan,4
 122,Rolands RUGENS (Current),Latvia,40
@@ -96,21 +88,18 @@
 129,Jim ZEIMES (Current),Luxembourg,3
 130,Qun Tao KE (Current),Malaysia,4
 131,Hafzanizam BOKHARI,Malaysia,2
-132,Muhammad Taqiuddin BIN MOHD ZULKIFLI,Malaysia,1
+132,Khairul hafiz ABU HASSAN,Malaysia,1
 134,Mauricio HUERTA,Mexico,19
 135,Santiago DE ALBA FLORES (Current),Mexico,8
 136,Thor VILLEGAS GARCÍA (Current),Mexico,4
 137,Chuluunbaatar MANDAKHBAYAR (Current),Mongolia,1
 147,Olukayode Adeyemi SONUGA (Current),Nigeria,1
-148,Thilo jeldrik SCHRÖTER (Current),Norway,23
+148,Thilo jeldrik SCHRÖTER,Norway,23
 149,Kenneth ELVEGÅRD,Norway,7
 150,Per RAVLO-CASPERSEN (Current),Norway,2
 151,Diego LEQUERICA BUSCAGLIA (Current),Peru,12
 152,Kenu PUERTA WONG (Current),Peru,5
 153,Jaime hendrik QUINTANA,Peru,1
-154,Jaime amiel PAHATI,Philippines,1
-155,Hubberth kristian GUERRERO,Philippines,1
-156,John Joseph VELORIA (Current),Philippines,1
 163,William FLORES (Current),Puerto Rico,2
 164,Jongwon CHON (Current),Republic of Korea,53
 165,Jabee KIM,Republic of Korea,20
@@ -119,32 +108,26 @@
 168,Alexandru-Florian ZAHARIA (Current),Romania,6
 169,Daniel UNGUREANU,Romania,6
 173,Taher ALHADDAD (Current),Saudi Arabia,2
-174,Yousef FATANI (Current),Saudi Arabia,1
-175,Sulaiman ALYAHYA (Current),Saudi Arabia,1
+174,Sulaiman ALYAHYA (Current),Saudi Arabia,1
+175,Yousef FATANI (Current),Saudi Arabia,1
 177,Luke GOH WEN BIN (Current),Singapore,12
 178,Chua DENNIS (Current),Singapore,7
 179,Mark CHAN CHONG KIAT,Singapore,4
-183,Jernej KRUDER (Current),Slovenia,87
+183,Jernej KRUDER,Slovenia,87
 184,Klemen BECAN,Slovenia,42
 185,Gregor VEZONIK (Current),Slovenia,41
 186,Christopher COSSER (Current),South Africa,9
 187,Calrin CURTIS (Current),South Africa,5
-188,Luke WESTMAN (Current),South Africa,2
+188,Mel JANSE VAN RENSBURG (Current),South Africa,2
 192,Hannes PUMAN (Current),Sweden,21
 193,Rolf fredrik SERLACHIUS,Sweden,11
 194,Daniel ANDERSSON,Sweden,11
 198,Chun-hsiang WANG,Taiwan,6
 199,Chih-En FAN (Current),Taiwan,4
-200,Tzu-Yu CHOU (Current),Taiwan,2
+200,Yen-yi WU,Taiwan,2
 201,Ardch INTRACHUPONGSE (Current),Thailand,14
 202,Winai RUANGRIT,Thailand,4
 203,Thattana RAKSACHAT,Thailand,3
-204,Viktor TRPOVSKI (Current),The former Yugoslav Republic of Macedonia,3
-205,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,2
-206,Matej MARKOV (Current),The former Yugoslav Republic of Macedonia,2
-216,Sean BAILEY (Current),United States of America,27
+216,Sean BAILEY,United States of America,27
 217,Colin DUFFY (Current),United States of America,24
 218,Benjamin HANNA (Current),United States of America,23
-219,Manuel ESCOBAR,Venezuela (Bolivarian Republic of),2
-220,Carlos CATARI,Venezuela (Bolivarian Republic of),1
-221,Asael PEREZ (Current),Venezuela (Bolivarian Republic of),1
