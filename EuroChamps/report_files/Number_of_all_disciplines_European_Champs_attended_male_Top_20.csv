@@ -1,863 +1,863 @@
 ,Athlete,Country,NumChamps
 1,Jakob SCHUBERT,Austria,17
 2,Hannes PUMAN,Sweden,15
-3,Sascha LEHMANN,Switzerland,14
-4,Martin STRANIK,Czechia,14
+3,Tomasz OLEKSY,Poland,14
+4,Sascha LEHMANN,Switzerland,14
 5,Jorg VERHOEVEN,Netherlands,14
-6,Tomasz OLEKSY,Poland,14
-7,Jernej KRUDER,Slovenia,13
-8,Dmitrii SHARAFUTDINOV,Russia,13
+6,Martin STRANIK,Czechia,14
+7,Dmitrii SHARAFUTDINOV,Russia,13
+8,Jernej KRUDER,Slovenia,13
 9,Nicolas COLLIN,Belgium,11
 10,Yuval SHEMLA,Israel,11
-11,Marcin DZIENSKI,Poland,10
-12,Sergei LUZHETSKII,Russia,10
-13,Fedir SAMOILOV,Ukraine,10
-14,Marcello BOMBARDI,Italy,10
-15,Stefano GHISOLFI,Italy,10
-16,Cédric LACHAT,Switzerland,10
-17,Kalin GARBOV,Bulgaria,10
-18,Ram LEVIN,Israel,9
-19,Michael PICCOLRUAZ,Italy,9
+11,Cédric LACHAT,Switzerland,10
+12,Kalin GARBOV,Bulgaria,10
+13,Marcin DZIENSKI,Poland,10
+14,Sergei LUZHETSKII,Russia,10
+15,Fedir SAMOILOV,Ukraine,10
+16,Stefano GHISOLFI,Italy,10
+17,Marcello BOMBARDI,Italy,10
+18,Eric LOPEZ MATEOS,Spain,9
+19,Jan HOJER,Germany,9
 20,Javier CANO BLAZQUEZ,Spain,9
-21,Danyil BOLDYREV,Ukraine,9
-22,Jan HOJER,Germany,9
-23,Eric LOPEZ MATEOS,Spain,9
-24,Simon POTUCEK,Czechia,8
-25,Jan KRIZ,Czechia,8
-26,Nimrod MARCUS,Israel,8
-27,Alex KHAZANOV,Israel,8
-28,Kipras BALTRUNAS,Lithuania,8
-29,Adam ONDRA,Czechia,8
+21,Ram LEVIN,Israel,9
+22,Danyil BOLDYREV,Ukraine,9
+23,Michael PICCOLRUAZ,Italy,9
+24,Jan KRIZ,Czechia,8
+25,Kipras BALTRUNAS,Lithuania,8
+26,Alex KHAZANOV,Israel,8
+27,Adam ONDRA,Czechia,8
+28,Libor HROZA,Czechia,8
+29,Magnus MIDTBOE,Norway,8
 30,David BARRANS,United Kingdom,8
-31,Libor HROZA,Czechia,8
+31,Serik KAZBEKOV,Ukraine,8
 32,Ramón JULIAN PUIGBLANQUE,Spain,8
-33,Magnus MIDTBOE,Norway,8
-34,Evgeny OVCHINNIKOV,Russia,8
-35,Serik KAZBEKOV,Ukraine,8
-36,Salavat RAKHMETOV,Russia,8
-37,Sam AVEZOU,France,7
-38,Luka POTOCAR,Slovenia,7
-39,Anze PEHARC,Slovenia,7
-40,Christoph HANKE,Germany,7
-41,Aleksei RUBTSOV,Russia,7
-42,William BOSI,United Kingdom,7
-43,Simon LORENZI,Belgium,7
-44,Peter KURIC,Slovakia,7
+33,Nimrod MARCUS,Israel,8
+34,Simon POTUCEK,Czechia,8
+35,Salavat RAKHMETOV,Russia,8
+36,Evgeny OVCHINNIKOV,Russia,8
+37,Luca ZARDINI,Italy,7
+38,Yevgen KRYVOSHEYTSEV,Ukraine,7
+39,Igor GUSAK,Ukraine,7
+40,Maksym PETRENKO,Ukraine,7
+41,Klemen BECAN,Slovenia,7
+42,Romain DESGRANGES,France,7
+43,Remo SOMMER,Switzerland,7
+44,Mikhail CHERNIKOV,Russia,7
 45,Georg PARMA,Austria,7
-46,Romain DESGRANGES,France,7
-47,Jonatan FLOR VAZQUEZ,Spain,7
-48,Mikhail CHERNIKOV,Russia,7
-49,Marco antonio JUBES ANGARITA,Spain,7
-50,Klemen BECAN,Slovenia,7
-51,Remo SOMMER,Switzerland,7
-52,Mykhaylo SHALAGIN,Ukraine,7
-53,Maksym STYENKOVYY,Ukraine,7
-54,Matej SOVA,Slovenia,7
-55,Igor GUSAK,Ukraine,7
-56,Casper TEN SIJTHOFF,Netherlands,7
-57,Luca ZARDINI,Italy,7
-58,Maksym PETRENKO,Ukraine,7
-59,Yevgen KRYVOSHEYTSEV,Ukraine,7
-60,Geva LEVIN,Israel,6
-61,Sebastian HALENKE,Germany,6
-62,Filip SCHENK,Italy,6
+46,Jonatan FLOR VAZQUEZ,Spain,7
+47,Aleksei RUBTSOV,Russia,7
+48,Marco antonio JUBES ANGARITA,Spain,7
+49,Christoph HANKE,Germany,7
+50,Simon LORENZI,Belgium,7
+51,Sam AVEZOU,France,7
+52,William BOSI,United Kingdom,7
+53,Anze PEHARC,Slovenia,7
+54,Luka POTOCAR,Slovenia,7
+55,Peter KURIC,Slovakia,7
+56,Matej SOVA,Slovenia,7
+57,Casper TEN SIJTHOFF,Netherlands,7
+58,Maksym STYENKOVYY,Ukraine,7
+59,Mykhaylo SHALAGIN,Ukraine,7
+60,Tomi NYTORP,Finland,6
+61,Tomás MRÁZEK,Czechia,6
+62,Sergei SINITCYN,Russia,6
 63,Rolands RUGENS,Latvia,6
-64,Mykhayil TKACHUK,Ukraine,6
-65,Fredrik SERLACHIUS,Sweden,6
-66,Stepan VOLF,Czechia,6
-67,Sergii TOPISHKO,Ukraine,6
-68,Dimitri VOGT,Switzerland,6
-69,Domen SKOFIC,Slovenia,6
-70,Max RUDIGIER,Austria,6
-71,Evgenii VAITSEKHOVSKII,Russia,6
-72,Sergei SINITCYN,Russia,6
-73,Tomi NYTORP,Finland,6
-74,Tomás MRÁZEK,Czechia,6
-75,Cristian BRENNA,Italy,6
-76,Milen VIDENOVSKI,Bulgaria,6
-77,Andrey VEDENMEER,Ukraine,6
+64,Fredrik SERLACHIUS,Sweden,6
+65,Dimitri VOGT,Switzerland,6
+66,Cristian BRENNA,Italy,6
+67,Andrey VEDENMEER,Ukraine,6
+68,Milen VIDENOVSKI,Bulgaria,6
+69,Evgenii VAITSEKHOVSKII,Russia,6
+70,Sergii TOPISHKO,Ukraine,6
+71,Filip SCHENK,Italy,6
+72,Mykhayil TKACHUK,Ukraine,6
+73,Stepan VOLF,Czechia,6
+74,Max RUDIGIER,Austria,6
+75,Domen SKOFIC,Slovenia,6
+76,Sebastian HALENKE,Germany,6
+77,Geva LEVIN,Israel,6
 78,Nikolay RUSEV,Bulgaria,5
 79,Edvards GRUZITIS,Latvia,5
-80,Nicolai UZNIK,Austria,5
-81,Gregor VEZONIK,Slovenia,5
-82,Ludovico FOSSALI,Italy,5
-83,Guillaume MORO,France,5
-84,Martin BERGANT,Slovenia,5
-85,Dmitrii TIMOFEEV,Russia,5
-86,Matthias ERBER,Austria,5
-87,Nathan PHILLIPS,United Kingdom,5
-88,Mickael MAWEM,France,5
-89,Alberto GINÉS LÓPEZ,Spain,5
-90,Mikel Asier LINACISORO MOLINA,Spain,5
-91,Leonardo GONTERO,Italy,5
-92,Stanislav KOKORIN,Russia,5
-93,David FIRNENBURG,Germany,5
-94,Ruben FIRNENBURG,Germany,5
-95,Gabriele MORONI,Italy,5
-96,Loïc TIMMERMANS,Belgium,5
-97,Rustam GELMANOV,Russia,5
-98,Oleksandr SALIMOV,Ukraine,5
-99,Mario LECHNER,Austria,5
-100,Arman TER-MINASYAN,Russia,5
+80,Robert CASPERSEN,Norway,5
+81,François LEGRAND,France,5
+82,Andrej CHRASTINA,Slovakia,5
+83,Andreas BINDHAMMER,Germany,5
+84,Serguei NOURMAMATOV,Russia,5
+85,Marek REPCIK,Slovakia,5
+86,Said BELHAJ,Sweden,5
+87,Ivaylo KRASTEV,Bulgaria,5
+88,Jakub HLAVACEK,Czechia,5
+89,Csaba KOMONDI,Hungary,5
+90,Kilian FISCHHUBER,Austria,5
+91,Patxi USOBIAGA LAKUNZA,Spain,5
+92,Oleksandr SALIMOV,Ukraine,5
+93,Dmitrii TIMOFEEV,Russia,5
+94,Guillaume MORO,France,5
+95,Ludovico FOSSALI,Italy,5
+96,Nathan PHILLIPS,United Kingdom,5
+97,Ruben FIRNENBURG,Germany,5
+98,David FIRNENBURG,Germany,5
+99,Mickael MAWEM,France,5
+100,Gregor VEZONIK,Slovenia,5
 101,Thomas TAUPORN,Germany,5
-102,Kilian FISCHHUBER,Austria,5
-103,Jonas BAUMANN,Germany,5
-104,Ivan KAUROV,Russia,5
-105,Martin JAGGI,Switzerland,5
-106,Csaba KOMONDI,Hungary,5
-107,Patxi USOBIAGA LAKUNZA,Spain,5
-108,Blagovest LAZAROV,Bulgaria,5
-109,Jakub HLAVACEK,Czechia,5
-110,Ivaylo KRASTEV,Bulgaria,5
-111,Marek REPCIK,Slovakia,5
-112,Andrej CHRASTINA,Slovakia,5
-113,Andreas BINDHAMMER,Germany,5
-114,Said BELHAJ,Sweden,5
-115,Serguei NOURMAMATOV,Russia,5
-116,François LEGRAND,France,5
-117,Robert CASPERSEN,Norway,5
-118,Jan-Luca POSCH,Austria,4
-119,Manuel CORNU,France,4
+102,Mario LECHNER,Austria,5
+103,Martin JAGGI,Switzerland,5
+104,Stanislav KOKORIN,Russia,5
+105,Leonardo GONTERO,Italy,5
+106,Arman TER-MINASYAN,Russia,5
+107,Loïc TIMMERMANS,Belgium,5
+108,Martin BERGANT,Slovenia,5
+109,Ivan KAUROV,Russia,5
+110,Gabriele MORONI,Italy,5
+111,Blagovest LAZAROV,Bulgaria,5
+112,Jonas BAUMANN,Germany,5
+113,Rustam GELMANOV,Russia,5
+114,Matthias ERBER,Austria,5
+115,Mikel Asier LINACISORO MOLINA,Spain,5
+116,Alberto GINÉS LÓPEZ,Spain,5
+117,Nicolai UZNIK,Austria,5
+118,Jakub KONECNY,Czechia,4
+119,Bittor ESPARTA FRADE,Spain,4
 120,Gian Luca ZODDA,Italy,4
 121,Kostiantyn PAVLENKO,Ukraine,4
-122,Yaroslav TKACH,Ukraine,4
-123,Philipp MARTIN,Germany,4
-124,Nikolai IARILOVETS,Russia,4
-125,Stepan POTUCEK,Czechia,4
-126,Jakub KONECNY,Czechia,4
-127,Vadim TIMONOV,Russia,4
-128,Carmel RAZ ROMEO,Israel,4
-129,Nikola KRAMARIC,Croatia,4
-130,Aleksandr SHIKOV,Russia,4
-131,Dmitrii FAKIRIANOV,Russia,4
-132,Stefan BEDNAR,Slovakia,4
-133,Alfons DORNAUER,Austria,4
-134,James POPE,United Kingdom,4
-135,Yannick FLOHÉ,Germany,4
-136,Tim REUSER,Netherlands,4
-137,Alexander MEGOS,Germany,4
-138,Bittor ESPARTA FRADE,Spain,4
-139,Yaroslav GONTARYK,Ukraine,4
-140,Alessandro SANTONI,Italy,4
-141,Thomas JOANNES,France,4
-142,Francesco VETTORATA,Italy,4
-143,Sergii KARPIN,Ukraine,4
-144,Nicky DE LEEUW,Netherlands,4
-145,Andrzej MECHERZYNSKI-WIKTOR,Poland,4
-146,Jedrzej KOMOSINSKI,Poland,4
-147,Valeriy KRYUKOV,Ukraine,4
-148,Ferdinand SCHULTE,Netherlands,4
-149,Eirik birkelund OLSEN,Norway,4
-150,Ugur YILMAZ,Turkey,4
-151,Wouter JONGENEELEN,Netherlands,4
-152,Ivaylo RADKOV,Bulgaria,4
-153,Christian CORE,Italy,4
-154,Matthias MÜLLER,Switzerland,4
-155,Alexander PESHEKHONOV,Russia,4
-156,Marcin WSZOLEK,Poland,4
-157,Jürgen REIS,Austria,4
-158,Pablo BARBERO ALFONSO,Spain,4
-159,Markus HOPPE,Germany,4
-160,Daniel DU LAC,France,4
-161,Daniel WINKLER,Switzerland,4
-162,Gareth PARRY,United Kingdom,4
-163,Alexandre CHABOT,France,4
-164,Flavio CRESPI,Italy,4
-165,Sylvain MILLET,France,4
-166,Sergei SHAFEROV,Belarus,4
-167,Marian GEORGIEV,Bulgaria,4
-168,Iakov SOUBBOTINE,Russia,4
-169,Peter BOSMA,Sweden,4
-170,Jurij GOLOB,Slovenia,4
-171,Tomaz VALJAVEC,Slovenia,4
-172,César Ciudad MANZANEDO,Spain,4
-173,Juraj REPCIK,Slovakia,4
-174,Alberto GNERRO,Italy,4
-175,Oleg TCHERECHNEV,Russia,4
-176,Luca GIUPPONI,Italy,4
-177,Mathieu DUTRAY,France,4
-178,Robert MATE,Germany,4
-179,Christian BINDHAMMER,Germany,4
-180,François PETIT,France,4
-181,Lukasz MÜLLER,Poland,4
-182,Aljosa GROM,Slovenia,4
-183,Marek HAVLIK,Czechia,4
-184,Mykyta MYRONENKO,Ukraine,3
-185,Guillermo PEINADO FRANGANILLO,Spain,3
-186,Nimród Sebestyén TUSNÁDY ,Hungary,3
-187,Martin MÄNNISTE,Estonia,3
-188,Vaidotas MONSTAVICIUS,Lithuania,3
-189,Albin MEYER,Sweden,3
-190,Toivo ELORANTA,Finland,3
-191,Elliot ERIKSSON,Sweden,3
-192,Jonas UTELLI,Switzerland,3
-193,Max KLEESATTEL,Germany,3
-194,Zan LOVENJAK SUDAR,Slovenia,3
-195,Maximillian MILNE,United Kingdom,3
-196,Alessandro BOULOS,Italy,3
-197,Lukas KNAPP,Austria,3
-198,Milan PRESKAR,Slovenia,3
-199,Sergei SKORODUMOV,Russia,3
-200,Leonid OSADCHYI,Ukraine,3
-201,Bohdan BOTNAR,Ukraine,3
+122,James POPE,United Kingdom,4
+123,Jan-Luca POSCH,Austria,4
+124,Yannick FLOHÉ,Germany,4
+125,Nikola KRAMARIC,Croatia,4
+126,Yaroslav TKACH,Ukraine,4
+127,Carmel RAZ ROMEO,Israel,4
+128,Philipp MARTIN,Germany,4
+129,Christian CORE,Italy,4
+130,Tomaz VALJAVEC,Slovenia,4
+131,Peter BOSMA,Sweden,4
+132,Lukasz MÜLLER,Poland,4
+133,César Ciudad MANZANEDO,Spain,4
+134,Juraj REPCIK,Slovakia,4
+135,Ferdinand SCHULTE,Netherlands,4
+136,Sylvain MILLET,France,4
+137,Flavio CRESPI,Italy,4
+138,Alexandre CHABOT,France,4
+139,Jürgen REIS,Austria,4
+140,Pablo BARBERO ALFONSO,Spain,4
+141,Iakov SOUBBOTINE,Russia,4
+142,Marian GEORGIEV,Bulgaria,4
+143,Marcin WSZOLEK,Poland,4
+144,Markus HOPPE,Germany,4
+145,Sergei SHAFEROV,Belarus,4
+146,Alexander PESHEKHONOV,Russia,4
+147,Wouter JONGENEELEN,Netherlands,4
+148,Stepan POTUCEK,Czechia,4
+149,Nikolai IARILOVETS,Russia,4
+150,François PETIT,France,4
+151,Luca GIUPPONI,Italy,4
+152,Alberto GNERRO,Italy,4
+153,Aljosa GROM,Slovenia,4
+154,Marek HAVLIK,Czechia,4
+155,Oleg TCHERECHNEV,Russia,4
+156,Christian BINDHAMMER,Germany,4
+157,Robert MATE,Germany,4
+158,Jurij GOLOB,Slovenia,4
+159,Gareth PARRY,United Kingdom,4
+160,Mathieu DUTRAY,France,4
+161,Daniel DU LAC,France,4
+162,Matthias MÜLLER,Switzerland,4
+163,Daniel WINKLER,Switzerland,4
+164,Andrzej MECHERZYNSKI-WIKTOR,Poland,4
+165,Valeriy KRYUKOV,Ukraine,4
+166,Ugur YILMAZ,Turkey,4
+167,Ivaylo RADKOV,Bulgaria,4
+168,Sergii KARPIN,Ukraine,4
+169,Aleksandr SHIKOV,Russia,4
+170,Alessandro SANTONI,Italy,4
+171,Stefan BEDNAR,Slovakia,4
+172,Alfons DORNAUER,Austria,4
+173,Vadim TIMONOV,Russia,4
+174,Manuel CORNU,France,4
+175,Nicky DE LEEUW,Netherlands,4
+176,Eirik birkelund OLSEN,Norway,4
+177,Jedrzej KOMOSINSKI,Poland,4
+178,Alexander MEGOS,Germany,4
+179,Tim REUSER,Netherlands,4
+180,Yaroslav GONTARYK,Ukraine,4
+181,Francesco VETTORATA,Italy,4
+182,Thomas JOANNES,France,4
+183,Dmitrii FAKIRIANOV,Russia,4
+184,Thomas BALLET,France,3
+185,Sergey TERENTYEV,Russia,3
+186,Stephane HANSSENS,Belgium,3
+187,André NERES,Portugal,3
+188,Bálint KUCSERA,Hungary,3
+189,Björn STRÖMBERG,Sweden,3
+190,Lukasz SWIRK,Poland,3
+191,Guillaume GLAIRON MONDET,France,3
+192,Gautier SUPPER,France,3
+193,Jure BECAN,Slovenia,3
+194,Jure RAZTRESEN,Slovenia,3
+195,Lukas KÖB,Austria,3
+196,Luka KIVELA,Croatia,3
+197,Tomas BINTER,Czechia,3
+198,Mejdi SCHALCK,France,3
+199,Emil ABRAHAMSSON,Sweden,3
+200,Maximillian MILNE,United Kingdom,3
+201,Zan LOVENJAK SUDAR,Slovenia,3
 202,Eduardas JERIOMENKO,Lithuania,3
-203,Baptiste OMETZ,Switzerland,3
-204,Emil ABRAHAMSSON,Sweden,3
-205,Nils FAVRE,Switzerland,3
-206,Vladislav DEULIN,Russia,3
-207,Jeremy BONDER,France,3
-208,Stepan STRANIK,Czechia,3
-209,Stefan SCARPERI,Italy,3
-210,Mejdi SCHALCK,France,3
-211,Hamish MCARTHUR,United Kingdom,3
-212,Petr BURIAN,Czechia,3
-213,Bassa MAWEM,France,3
-214,Alessandro CINGARI,Italy,3
-215,Martin TEKLES,Germany,3
-216,Bjørn ARNEL IISAGER,Denmark,3
-217,Alban LEVIER,France,3
-218,Kevin HEINIGER,Switzerland,3
-219,Benjamin BLASER,Switzerland,3
-220,Guram DABRUNDASHVILI,Georgia,3
-221,Tomas BINTER,Czechia,3
-222,Stephane HANSSENS,Belgium,3
-223,Luka KIVELA,Croatia,3
-224,Ben WEST,United Kingdom,3
-225,Guillaume GLAIRON MONDET,France,3
-226,Jure BECAN,Slovenia,3
-227,Lukas KÖB,Austria,3
-228,Gautier SUPPER,France,3
-229,Jure RAZTRESEN,Slovenia,3
-230,Thomas BALLET,France,3
-231,Sergey TERENTYEV,Russia,3
-232,Nicolas FARCY,Belgium,3
-233,Kevin HEMUND,Switzerland,3
-234,Lukasz SWIRK,Poland,3
-235,Manuel ROMAIN,France,3
-236,David LAMA,Austria,3
-237,André NERES,Portugal,3
-238,Blaz RANT,Slovenia,3
-239,Björn STRÖMBERG,Sweden,3
-240,Bálint KUCSERA,Hungary,3
-241,Ludovic LAURENCE,France,3
-242,José ABREU,Portugal,3
-243,Evgeny BASHKIRTSEV,Russia,3
-244,Jérôme MEYER,France,3
-245,Gérome POUVREAU,France,3
-246,Nalle HUKKATAIVAL,Finland,3
-247,Ivan SHYSHKOVSKYY,Ukraine,3
-248,Adrian BAXTER,United Kingdom,3
-249,Andrew EARL,United Kingdom,3
-250,Eduard MARIN GARCIA,Spain,3
-251,Roman VAN DER WERF,Netherlands,3
-252,Dmytro KONOVALOV,Ukraine,3
-253,Todor DJAMBAZOV,Bulgaria,3
-254,Karsten BOROWKA,Germany,3
-255,Daniel ANDRADA JIMENEZ,Spain,3
-256,Heiko WILHELM,Austria,3
-257,Kyrylo SHEVCHENKO,Ukraine,3
-258,Alexandre CHAOULSKY,Russia,3
-259,Steve MC CLURE,United Kingdom,3
-260,Andreas PFANNER,Austria,3
-261,Iouri DOULOUB,Russia,3
-262,Roman FELIX,Switzerland,3
-263,Vladimir ZAKHAROV,Ukraine,3
-264,Simon FASNACHT WANDELER,Switzerland,3
-265,Vladimir NETSVETAEV-DOLGALEV,Russia,3
-266,Pavel KORAN,Czechia,3
-267,Werner THON,Germany,3
-268,Kairat RAKHMETOV,Kazakhstan,3
-269,Pietro VIDI,Italy,2
-270,Leo FAVOT,France,2
-271,Julien CLÉMENCE,Switzerland,2
-272,Alejandro RIVAS DOMÍNGUEZ,Spain,2
-273,Dorian ZEDLER,Germany,2
-274,Linus BADER,Germany,2
-275,Erik NOYA CARDONA,Spain,2
-276,Matteo ZURLONI,Italy,2
-277,Tobias PLANGGER,Austria,2
-278,Sebastian LUCKE,Germany,2
-279,Leander CARMANNS,Germany,2
-280,Lawrence BOGESCHDORFER,Austria,2
-281,Matthew FALL,United Kingdom,2
-282,Gergő VÁLYI,Hungary,2
-283,Nino GRÜNENFELDER,Switzerland,2
-284,Sergei TIUPYSHEV,Russia,2
-285,Tomas PLEVKO,Slovakia,2
-286,Dylan CHUAT,Switzerland,2
-287,Lev RUDATSKIY,Russia,2
-288,Vladislav SHEVCHENKO,Russia,2
-289,Dmitrii POPOV,Russia,2
-290,Tamás FARKAS,Hungary,2
-291,Evgenii ZAZULIN,Russia,2
-292,William RIDAL,United Kingdom,2
-293,Don VAN LAERE,Netherlands,2
-294,Milos NEMY,Slovakia,2
-295,Matteo MANZONI,Italy,2
-296,Piotr SCHAB,Poland,2
-297,Maciej DOBRZANSKI,Poland,2
-298,Elias IAGNEMMA,Italy,2
-299,Florian KLINGLER,Austria,2
-300,Toby ROBERTS,United Kingdom,2
-301,Matey MITSEV,Bulgaria,2
-302,Theis lindegren ELFENBEIN,Denmark,2
-303,Yotam BEN REUVEN,Israel,2
-304,Nimord MARCUS,Israel,2
-305,Leo BØE,Norway,2
-306,Hannes VAN DUYSEN,Belgium,2
-307,Paul JENFT,France,2
-308,Mark BRAND,Netherlands,2
-309,Ioannis-Filippos NOEL-BAKER,Greece,2
-310,Slav KIROV,Bulgaria,2
-311,Jovan IVANOV,The former Yugoslav Republic of Macedonia,2
-312,Leto CAVÉ,Netherlands,2
-313,Mathias POSCH,Austria,2
-314,Almaz NAGAEV,Russia,2
-315,Aleksandr SHILOV,Russia,2
-316,Matthaios VALSAMIDIS,Greece,2
-317,Nao MONCHOIS,France,2
-318,Matthias SCHIESTL,Austria,2
-319,Sébastien BERTHE,Belgium,2
-320,Borna CUJIC,Croatia,2
-321,Jan CHVALA,Czechia,2
-322,Jakub JEDLICKA,Czechia,2
-323,Lukas GEUKENS,Belgium,2
-324,İsmai̇l OZTURK,Turkey,2
-325,Nikola PETROV,Bulgaria,2
-326,Elias WEILER,Austria,2
-327,Alexander AVERDUNK,Germany,2
-328,Ivan PEVEC,Croatia,2
-329,Sarp SAHIN,Turkey,2
-330,Vilimantas PETRASIUNAS,Lithuania,2
-331,Matthew COUSINS,United Kingdom,2
-332,Leo ketil BØE,Norway,2
-333,Àlex HERNÁNDEZ CASTILLA,Spain,2
-334,Rafal HALASA,Poland,2
-335,Aleksei SHCHERVIANIN,Russia,2
-336,Charli BLEIN,France,2
-337,Arda kadir URULUER,Turkey,2
-338,Anthony GULLSTEN,Finland,2
-339,Mathias CONRAD,Germany,2
-340,Kenneth ELVEGÅRD,Norway,2
-341,Franz KRAKENBERGER,Switzerland,2
-342,Lukas ENNEMOSER,Austria,2
-343,Timo TAK,Netherlands,2
-344,Jakub GLOWKA,Poland,2
-345,Bozhidar LYUBENOV,Bulgaria,2
-346,Jakub JODLOWSKI,Poland,2
-347,Krešimir MORIĆ,Croatia,2
-348,Emiliyan KOLEVSKI,Bulgaria,2
-349,Geir SÖDERIN,Sweden,2
-350,Stanislao ZAMA,Italy,2
-351,Quentin NAMBOT,France,2
-352,Arsenii SHEVCHENKO,Russia,2
-353,Martin JECH,Czechia,2
-354,Or WECHSLER,Israel,2
-355,Yury NOVITSKIY,Russia,2
-356,Gianluca SIROTTI,Italy,2
-357,Nikita SUYUSHKIN,Russia,2
-358,Vanco NAUNOV,The former Yugoslav Republic of Macedonia,2
-359,Yoann LE COUSTER,France,2
-360,Filip BABICZ,Italy,2
-361,Filip BABICZ,Poland,2
-362,Elko SCHELLINGERHOUT,Netherlands,2
-363,Victor ESTELLER OCAÑA,Spain,2
-364,Daniel MORENO DE LOS HUERTO,Spain,2
-365,Maksym OSIPOV,Ukraine,2
-366,Salah BOULBAHAIEM,Belgium,2
-367,Jiri SVACHA,Czechia,2
-368,Luka TRUMBIC,Croatia,2
-369,Victor KOZLOV,Russia,2
-370,Sergey ABDRAKHMANOV,Russia,2
-371,Magnus HÖGSTRÖM,Sweden,2
-372,Yuriy DZYUBYAK,Ukraine,2
-373,Vasily KOZLOV,Russia,2
-374,Ondrej SVUB,Slovakia,2
-375,Tomas midtun TOBIASSEN,Norway,2
-376,Michele CAMINATI,Italy,2
-377,Ivan LISICA,Croatia,2
-378,Matej SVUB,Slovakia,2
-379,Bálint BURUCS,Hungary,2
-380,Stewart WATSON,United Kingdom,2
-381,Stéphan JULIEN,France,2
-382,Henrik SENNELÖV,Sweden,2
-383,Jérôme DE BOECK,Belgium,2
-384,Rafet serkan ERCAN,Turkey,2
-385,Rok KLANCNIK,Slovenia,2
-386,Stanislav KLESHNOV,Ukraine,2
-387,Balint KAMVAS,Hungary,2
-388,Jurgen LIS,Belgium,2
-389,Sylvain CHAPELLE,France,2
-390,Mark AMANN,Austria,2
-391,Stefan VUJIC,Serbia,2
-392,Erik CARLSSON,Sweden,2
-393,Alexander KOSTERIN,Russia,2
-394,Fabien DUGIT,France,2
-395,Martin IDEGREN,Sweden,2
-396,Loïc GAIDIOZ,France,2
-397,Peter WÜRTH,Germany,2
-398,Lucas PRETI,Italy,2
-399,Stefan RASMUSSEN,Sweden,2
-400,Mauro CALIBANI,Italy,2
-401,Soso KATSITADZE,Georgia,2
-402,Boyko LALOV,Bulgaria,2
-403,Mincho PETKOV,Bulgaria,2
-404,Timo PREUSSLER,Germany,2
-405,Bernardino LAGNI,Italy,2
-406,Michaël FUSELIER,France,2
-407,Yair KUPERSTEIN,Israel,2
-408,Georgi GEORGIEV,Bulgaria,2
-409,Jan ZBRANEK,Czechia,2
-410,Stephane JULIEN,France,2
-411,Riccardo SCARIAN,Italy,2
-412,Thorsten NEUHAUS,Germany,2
-413,Urh CEHOVIN,Slovenia,2
-414,Petro MARKEVYCH,Ukraine,2
-415,Christian BENK,Germany,2
-416,Roland WAGNER,Austria,2
-417,Luka ZAZVONIL,Slovenia,2
-418,Nicolas FAVRESSE,Belgium,2
-419,François AUCLAIR,France,2
-420,Tomasz DOUBRAVSK,Czechia,2
-421,Malcolm SMITH,United Kingdom,2
-422,Alexei GADEEV,Russia,2
-423,Donato LELLA,Italy,2
-424,Reinhard FICHTINGER,Austria,2
-425,Franci JENSTERLE,Slovenia,2
-426,Vladislav BARANOV,Russia,2
-427,Daniel FILIPOV VOLEV,Bulgaria,2
-428,Ruslan Dimitrov PETROUSKI,Bulgaria,2
-429,Alexandr PAUKAEV,Ukraine,2
-430,David CAUDE,France,2
-431,Marcin WROBEL,Poland,2
-432,Paul DEWILDE,France,2
-433,Urs SCHÖNENBERGER,Switzerland,2
-434,Noukri GVELEBIANI,Georgia,2
-435,Ionel ENE,Romania,2
-436,Oliver COENEN,Belgium,2
-437,Dmitrii BYCHKOV,Russia,2
-438,Milan BENIAN,Czechia,2
-439,Zaza GURCHIANI,Georgia,2
-440,Johan MUS,Belgium,2
-441,Oleg BOULAVKO,Russia,2
-442,Hans MILEWSKI,Austria,2
-443,Patxi AROCENA,Spain,2
-444,Serguei CHEMOULINKINE,Russia,2
-445,Arnaud PETIT,France,2
-446,Ian VICKERS,United Kingdom,2
-447,Miroslav PIALA,Slovakia,2
-448,Leif BROC,Norway,2
-449,Michel VAN EYNDE,Belgium,2
-450,Peter KMOSKO,Slovakia,2
-451,Neil CARSON,United Kingdom,2
-452,Michael LEA,United Kingdom,2
-453,Roman STEFANEK,Czechia,2
-454,Tomas PILKA,Czechia,2
-455,Marko ROZMAN,Croatia,2
-456,Pavel SAMOILINE,Russia,2
-457,Christopher CUBITT,United Kingdom,2
-458,Yves PHILIPONA,Switzerland,2
-459,Elie CHEVIEUX,Switzerland,2
-460,Anton PACEK,Slovakia,2
-461,François LOMBARD,France,2
-462,Alexei TCHERTOV,Russia,2
-463,Stefano ALIPPI,Italy,2
-464,Vili GUCEK,Slovenia,2
-465,Stefan ADRIAN,Romania,2
-466,Marcel TOMAN,Czechia,2
-467,Alv BORGE,Norway,2
-468,Andrzej MARCISZ,Poland,2
-469,Darko DULAR,Croatia,2
-470,Ivica FRANCESCHI,Croatia,2
-471,Jivko DRUMEV,Bulgaria,2
-472,Hakon HANSEN,Norway,2
-473,Tomas SEDLACEK,Czechia,2
-474,Boris CUJIC,Croatia,2
-475,Jan LINDEGAARD ANDERSEN,Denmark,2
-476,Marius ONIGA,Romania,2
-477,Petrov PLAMEN,Bulgaria,2
-478,Antoine GIRARD,France,1
-479,Timotej ROMŠAK,Slovenia,1
-480,Tuukka SIMONEN,Finland,1
-481,Andreas HOFHERR,Austria,1
-482,Max JØRGENSEN,Denmark,1
-483,Theis Lindegren ELFENBEIN,Denmark,1
-484,Niccolò Antony SALVATORE,Italy,1
-485,Oren PRIHED,Israel,1
-486,Villads SKOVBJERG,Denmark,1
-487,Nathan MARTIN,Luxembourg,1
-488,Nathan MARTIN,France,1
-489,Nicolò SARTIRANA,Italy,1
-490,Thorben Perry BLOEM,Germany,1
-491,Paul CRISTEA,Romania,1
-492,Călin ENACHE,Romania,1
-493,Elias ARRIAGADA KRÜGER,Germany,1
-494,Attila Zsombor RADICS,Hungary,1
-495,Axel LINDFORS,Finland,1
-496,Thomas KJAER,Denmark,1
-497,Tomer YAKOBOVITCH,Israel,1
-498,Yonatan KATZ,Israel,1
-499,Lasse VON FREIER,Germany,1
-500,Dayan AKHTAR,United Kingdom,1
-501,Samuel RICHARD,France,1
-502,Roman SIVAKOV,Lithuania,1
-503,Hryhorii ILCHYSHYN,Ukraine,1
-504,Unax UTERGA FLAMARIQUE,Spain,1
-505,Miguel GÓMEZ BARRIOS,Spain,1
-506,Marceau GARNIER,France,1
-507,Kevin AMON,Austria,1
-508,Andrew GOODALL,United Kingdom,1
-509,Luke TURNER,United Kingdom,1
-510,Dimitri FLICK,Switzerland,1
-511,Davide Marco COLOMBO,Italy,1
-512,Max BERTONE,France,1
-513,Lovro CREP,Slovenia,1
-514,Jules MARCHALAND,France,1
-515,Giovanni PLACCI,Italy,1
-516,Giorgio TOMATIS,Italy,1
-517,Ties VANCRAEYNEST,Belgium,1
-518,Pietro BIAGINI,Italy,1
-519,Germanis KLAVS,Latvia,1
-520,Oleksii KRYNETSKYI,Ukraine,1
-521,Samuel WINGARDH,Sweden,1
-522,Matic KOTAR,Slovenia,1
-523,Arkadiusz MILLAN,Poland,1
-524,Max PRINZ,Germany,1
-525,Jakub ZIETEK,Poland,1
-526,Arthur TERNANT,France,1
-527,Joris LEIPUS,Lithuania,1
-528,Ionut-cosmin ATOMEI,Romania,1
-529,Adrian CHMIALA,Poland,1
-530,Ignas KISIELIUS,Lithuania,1
-531,Ádám BAKURECZ,Hungary,1
-532,Maksim NIKIFARAVETS,Belarus,1
-533,Jens DE LOUW,Netherlands,1
-534,Leo AVEZOU,France,1
-535,Alejandro CRESPO COBOS,Spain,1
-536,Eneko CARRETERO CRUZ,Spain,1
-537,Thilo SCHRÖTER,Norway,1
-538,Robert LUBY,Slovakia,1
-539,Christoph SCHWEIGER,Germany,1
-540,Stefan SCHERZ,Austria,1
-541,Illia BAKHMET-SMOLENSKYI,Ukraine,1
-542,Sergei RUKIN,Russia,1
-543,Iaroslav PASHKOV,Russia,1
-544,Albert ILSAAS SUTHURST,Norway,1
-545,Mischa RADT,Netherlands,1
-546,Davide marco COLOMBO,Italy,1
-547,Kieran FORREST,United Kingdom,1
-548,Sven LEMPEREUR,Belgium,1
-549,Alistair DUVAL,France,1
-550,Károly-csaba SZŐCS,Romania,1
-551,Vilks KASPARS,Latvia,1
-552,Alessandro PALMA,Italy,1
-553,Moritz HANS,Germany,1
-554,Soma STROMMER,Hungary,1
-555,Vladislav ANGELOV,Bulgaria,1
-556,Manuel filipe CARVALHO,Portugal,1
-557,João EVORA,Portugal,1
-558,Sergio PASTOR MARTÍNEZ,Spain,1
-559,Rob DENAYER,Belgium,1
-560,Róbert SÁNTHA,Romania,1
-561,Patrick PEDERSEN,Norway,1
-562,Elias EDVARDSEN,Denmark,1
-563,Peteris MEIRANS,Latvia,1
-564,Ricardo COIMBRA,Portugal,1
-565,Zeki ozan ATASOY,Turkey,1
-566,Karlo ČUBRIĆ,Croatia,1
-567,Nicolas PELORSON,France,1
-568,Tomi SALO,Finland,1
-569,Pol ROCA LOPEZ,Spain,1
-570,Roman BATSENKO,Ukraine,1
-571,Rasmus HOLM ESKILDSEN,Denmark,1
-572,Övgün YILDIRIM,Turkey,1
-573,Viktor TRPOVSKI,The former Yugoslav Republic of Macedonia,1
-574,Mykola SILEVYCH,Ukraine,1
-575,Ciarán SCANLON,Ireland,1
-576,Ihor TIAPKIN,Ukraine,1
-577,Georgii MOROZOV,Russia,1
-578,Georgy ARTAMONOV,Russia,1
-579,Cristian DORIGATTI,Italy,1
-580,Tomasz SORDYL,Poland,1
-581,Denis PAIL,Czechia,1
-582,Anton SVIRIDOV,Russia,1
-583,Or MINIELY,Israel,1
-584,Alberto GOTTA,Italy,1
-585,Muhammet nuri̇ AYDEMİR,Turkey,1
-586,Sergei BYDTAEV,Russia,1
-587,Tanguy TOPIN,France,1
-588,Evgenii KALASHNIKOV,Russia,1
-589,Recep GÜR,Turkey,1
-590,Ahmet GUNER,Turkey,1
-591,Maarten NIEUWENHUIJSEN,Netherlands,1
-592,Roman KUCERA,Czechia,1
-593,Moritz WALDLEBEN,Switzerland,1
-594,Nazaret CALVENTE SANTANA,Spain,1
-595,Ilari juho KELLONIEMI,Finland,1
-596,Mario MINCEVSKI,The former Yugoslav Republic of Macedonia,1
-597,Samuel OMETZ,Switzerland,1
-598,Simon UNGER,Germany,1
-599,Giorgi GABULDANI,Georgia,1
-600,Frederik zeilberger THULSTRUP,Denmark,1
-601,Marco GOZZI,Italy,1
-602,Danila YAMCHUK,Latvia,1
-603,Martin PENKOV,Bulgaria,1
-604,Orrin COLEY,United Kingdom,1
-605,Marek WOJCIK,Poland,1
-606,Tommaso PASQUA,Italy,1
-607,Michal LEWICKI,Poland,1
-608,Ramel RAHIMKHANOV,Azerbaijan,1
-609,Anton POLIAKOV,Russia,1
-610,Maksim DIACHKOV,Russia,1
-611,Sergio VERDASCO URIZAL,Spain,1
-612,Antoine KAUFFMANN,Belgium,1
-613,Jerome GONZÁLEZ GUTIÉRREZ,Spain,1
-614,Giorgio BENDAZZOLI,Italy,1
-615,Urban PRIMOZIC,Slovenia,1
-616,Bernhard RÖCK,Austria,1
-617,Teun KEUSTERS,Netherlands,1
-618,Kevin HUSER,Switzerland,1
-619,Jan ZIMA,Czechia,1
-620,Lowie LAMBERECHTS,Belgium,1
-621,Yiftach KUSHNIR,Israel,1
-622,Stefano CARNATI,Italy,1
-623,Semen CHESNOKOV,Russia,1
-624,Hans BUSKER,Netherlands,1
-625,Ignacio SANCHEZ GONZÁLEZ,Spain,1
-626,Yohann DECHAMPS,France,1
-627,Marián ŠELIGA,Slovakia,1
-628,Dominic BURNS,Ireland,1
-629,Jurijs KRASANOVS,Latvia,1
-630,Jonathan PARTRIDGE,United Kingdom,1
-631,Viliam FERČÁK,Slovakia,1
-632,James GARDEN,United Kingdom,1
-633,Jan DE SMIT,Belgium,1
-634,Dmitrijus MONASTYRECKIS,Lithuania,1
-635,Stefan DANKER,Germany,1
-636,Mircea STRUTEANU,Romania,1
-637,Thilo jeldrik SCHRÖTER,Norway,1
-638,Stefan AVRAMOV,Bulgaria,1
-639,Andrew ZHIGAREV,Ukraine,1
-640,Robin VICERY,Denmark,1
-641,Arturas VOLKOVAS,Lithuania,1
-642,Oleksiy YURKO,Ukraine,1
-643,Jakub KOZLOWSKI,Poland,1
-644,Karol DENIS,Poland,1
-645,Volodymyr ZINCHENKO,Ukraine,1
-646,Ruslan FAIZULLIN,Russia,1
-647,Denys ROKOTYANSKII,Ukraine,1
-648,Andrii KYTAIKO,Ukraine,1
-649,Sergej EPIH,Slovenia,1
-650,Markus JUNG,Germany,1
-651,Federico ANDREOLI,Italy,1
-652,Jakob heber NORUM,Norway,1
-653,Michal ROZEK,Czechia,1
-654,Mikhail KOCHETKOV,Russia,1
-655,John henry NILSSEN,Norway,1
-656,Gyula JUHASZ,Hungary,1
-657,Jakub POCIECHA,Poland,1
-658,Yuriy POBEREZHETS,Ukraine,1
-659,Máté GÁL,Hungary,1
-660,Fabian BOSLER,Germany,1
-661,Maximilian PORSCHA,Germany,1
-662,Simon BOSLER,Germany,1
-663,Florian BÖBEL,Germany,1
-664,Zufar NIGMANOV,Russia,1
-665,Ivan NOVIKOV,Russia,1
-666,Peter PUTZ,Austria,1
-667,Christoph KRISMER,Austria,1
-668,Rudi MORODER,Italy,1
-669,Dogan oguz PALUT,Turkey,1
-670,Anton MARDASHOV,Ukraine,1
-671,Truong NGO,Netherlands,1
-672,Zorbey AKTUYUN,Turkey,1
-673,Noé BERGER,Luxembourg,1
-674,Nicola DE MATTIA,Italy,1
-675,Alexander KALINA,Russia,1
-676,Miroslav HRASKO,Slovakia,1
-677,Pavlo VEKLA,Ukraine,1
-678,Erik GRANDELIUS,Sweden,1
-679,Silvio REFFO,Italy,1
-680,Bruno MACIAS MATUTANO,Spain,1
-681,Nicolas MATHIEU,Belgium,1
-682,Jesse VAN DER WERF,Netherlands,1
-683,Tomas GREKSAK,Slovakia,1
-684,Stefano GHIDINI,Italy,1
-685,Jacek MATUSZEK,Poland,1
-686,David MASON,United Kingdom,1
-687,Edward FEEHALLY,United Kingdom,1
-688,Ignasi TARRAZONA GASQUE,Spain,1
-689,Anatoly SKRIPOV,Russia,1
-690,Martin SIFRA,Czechia,1
-691,Rafal MUDA,Poland,1
-692,Beka NAVERIANI,Georgia,1
-693,Thomas DUPIN,France,1
-694,Fabien COMINA,France,1
-695,Petr RESCH,Czechia,1
-696,Tony MUSSELBROOK,United Kingdom,1
-697,Piotr BUNSCH,Poland,1
-698,Drew HAIGH,United Kingdom,1
-699,Olexandr SHALAGIN,Ukraine,1
-700,Mirce TRAJCEVSKI,The former Yugoslav Republic of Macedonia,1
-701,Michael TIMMERMANS,Belgium,1
-702,Kire SERAFIMOVSKI,The former Yugoslav Republic of Macedonia,1
-703,Gabor SZEKELY,Hungary,1
-704,Rob HAIGH,United Kingdom,1
-705,Nenad MATIC,Serbia,1
-706,Igor SOLOVEY,Ukraine,1
-707,Emanuel MOOSBURGER,Austria,1
-708,Sebastien JALMAIN,France,1
-709,Tomasz WOJCIECHOWSKI,Poland,1
-710,Frederico SILVA,Portugal,1
-711,Grzegorz KAROLAK,Poland,1
-712,Aric MERZ,Germany,1
-713,Ryan PASQUILL,United Kingdom,1
-714,Nicolas BADIA,France,1
-715,Mikhail PEKAREV,Russia,1
-716,Aleksei PORTSEV,Russia,1
-717,Sergiy KRYVONOS,Ukraine,1
-718,Valeriy VOROBYEV,Russia,1
-719,Alexander VASILETS,Belarus,1
-720,Olexiy SHULGA,Ukraine,1
-721,Serguei TERENTIEV,Russia,1
-722,Felix NEUMÄRKER,Germany,1
-723,Rafal POREBSKI,Poland,1
-724,Alexander SHOPRIN,Russia,1
-725,Martin ECKERT,Slovakia,1
-726,Tobias HALLER,Austria,1
-727,Tom SUGDEN,United Kingdom,1
-728,Paolo LEONCINI,Italy,1
-729,Karel CERNY,Czechia,1
-730,Mark CROXALL,United Kingdom,1
-731,Johan GROSS,Sweden,1
-732,Juan PONS ALEMAN,Spain,1
-733,Alessandro GANDOLFO,Italy,1
-734,Andre BOROWKA,Germany,1
-735,Attila BARTHA,Hungary,1
-736,Jonathan THOMAS,Belgium,1
-737,Mecherzynski ANDREZEJ,Poland,1
-738,Matteo GAMBARO,Italy,1
-739,Zdenek RESCH,Czechia,1
-740,Igor ARANAZ,Spain,1
-741,Mario KUESS,Austria,1
-742,Thomas NEYER,Austria,1
-743,Konrad OCIEPKA,Poland,1
-744,Luis Felix PEREZ,Spain,1
-745,Anthony SAPEY,Switzerland,1
-746,Dirk MOL,Netherlands,1
-747,Marek LEITMAN,Slovakia,1
-748,Sebastian UNTEREGLSBACHER,Germany,1
-749,Jeroen JONGENEELEN,Netherlands,1
-750,Ilfir KHAKIMIANOV,Russia,1
-751,René GEHRIG,Switzerland,1
-752,Janis GMÜNDER,Switzerland,1
-753,Jiri PRIBIL,Czechia,1
-754,Radovah SOUCEK,Czechia,1
-755,Chris GRAHAM,United Kingdom,1
-756,Joris SALARI,Netherlands,1
-757,Miles GIBSON,United Kingdom,1
-758,Frédéric TUSCAN,France,1
-759,David GISLER,Switzerland,1
-760,Bruno MATUTANO,France,1
-761,Julien MERAL,France,1
-762,Georgos PROGULAKIS,Italy,1
-763,Rasmus GIJESING,Denmark,1
-764,Sebastian ABAD DEL CAMPO,Spain,1
-765,Nicolas JANUEL,France,1
-766,Oleg GREBENYUK,Ukraine,1
-767,Ihor HONCHARENKO,Ukraine,1
-768,Martin HAMMERER,Austria,1
-769,Martin FELIX,Switzerland,1
-770,Stian CHRISTOPHERSEN,Norway,1
-771,Radim NOSEK,Czechia,1
-772,Martin MOBRÅTEN,Norway,1
-773,Johan GYLLENSVARD,Sweden,1
-774,Christoph HUBER,Austria,1
-775,Jan Fredrick PRYTZ,Norway,1
-776,Gil TENE,Israel,1
-777,Thomas ACHERMANN,Switzerland,1
-778,Jamie CASSIDY,United Kingdom,1
-779,Alexandre SERGEYEV (LIACHENKO),Russia,1
-780,Andrei KRIVONOS,Ukraine,1
-781,Ernst WANDER,Germany,1
-782,Mustafer EREN,Germany,1
-783,Patrick COENEN,Netherlands,1
-784,Mikhail UMNITSYN,Russia,1
-785,Mathias SCHIESTL,Austria,1
+203,Leonid OSADCHYI,Ukraine,3
+204,Bohdan BOTNAR,Ukraine,3
+205,Jonas UTELLI,Switzerland,3
+206,Vaidotas MONSTAVICIUS,Lithuania,3
+207,Guillermo PEINADO FRANGANILLO,Spain,3
+208,Elliot ERIKSSON,Sweden,3
+209,Toivo ELORANTA,Finland,3
+210,Albin MEYER,Sweden,3
+211,Nimród Sebestyén TUSNÁDY ,Hungary,3
+212,Mykyta MYRONENKO,Ukraine,3
+213,Martin MÄNNISTE,Estonia,3
+214,Milan PRESKAR,Slovenia,3
+215,Vladislav DEULIN,Russia,3
+216,Alessandro CINGARI,Italy,3
+217,Nils FAVRE,Switzerland,3
+218,Sergei SKORODUMOV,Russia,3
+219,Hamish MCARTHUR,United Kingdom,3
+220,Alessandro BOULOS,Italy,3
+221,Lukas KNAPP,Austria,3
+222,Max KLEESATTEL,Germany,3
+223,Daniel ANDRADA JIMENEZ,Spain,3
+224,Ludovic LAURENCE,France,3
+225,Roman VAN DER WERF,Netherlands,3
+226,Andreas PFANNER,Austria,3
+227,Roman FELIX,Switzerland,3
+228,Steve MC CLURE,United Kingdom,3
+229,Karsten BOROWKA,Germany,3
+230,Todor DJAMBAZOV,Bulgaria,3
+231,Alexandre CHAOULSKY,Russia,3
+232,Iouri DOULOUB,Russia,3
+233,Gérome POUVREAU,France,3
+234,Eduard MARIN GARCIA,Spain,3
+235,Adrian BAXTER,United Kingdom,3
+236,Jérôme MEYER,France,3
+237,Bassa MAWEM,France,3
+238,Benjamin BLASER,Switzerland,3
+239,Stefan SCARPERI,Italy,3
+240,Kevin HEINIGER,Switzerland,3
+241,Bjørn ARNEL IISAGER,Denmark,3
+242,Martin TEKLES,Germany,3
+243,Alban LEVIER,France,3
+244,Petr BURIAN,Czechia,3
+245,Jeremy BONDER,France,3
+246,Guram DABRUNDASHVILI,Georgia,3
+247,Baptiste OMETZ,Switzerland,3
+248,Stepan STRANIK,Czechia,3
+249,Werner THON,Germany,3
+250,Kairat RAKHMETOV,Kazakhstan,3
+251,Vladimir NETSVETAEV-DOLGALEV,Russia,3
+252,Pavel KORAN,Czechia,3
+253,Simon FASNACHT WANDELER,Switzerland,3
+254,Vladimir ZAKHAROV,Ukraine,3
+255,Blaz RANT,Slovenia,3
+256,Andrew EARL,United Kingdom,3
+257,Dmytro KONOVALOV,Ukraine,3
+258,Kyrylo SHEVCHENKO,Ukraine,3
+259,Heiko WILHELM,Austria,3
+260,Evgeny BASHKIRTSEV,Russia,3
+261,Ivan SHYSHKOVSKYY,Ukraine,3
+262,Ben WEST,United Kingdom,3
+263,Nalle HUKKATAIVAL,Finland,3
+264,David LAMA,Austria,3
+265,Kevin HEMUND,Switzerland,3
+266,Nicolas FARCY,Belgium,3
+267,José ABREU,Portugal,3
+268,Manuel ROMAIN,France,3
+269,Petro MARKEVYCH,Ukraine,2
+270,Stefan RASMUSSEN,Sweden,2
+271,Yair KUPERSTEIN,Israel,2
+272,Roland WAGNER,Austria,2
+273,Michaël FUSELIER,France,2
+274,Georgi GEORGIEV,Bulgaria,2
+275,Ondrej SVUB,Slovakia,2
+276,Filip BABICZ,Italy,2
+277,Filip BABICZ,Poland,2
+278,Jan ZBRANEK,Czechia,2
+279,Sylvain CHAPELLE,France,2
+280,Jiri SVACHA,Czechia,2
+281,Mark AMANN,Austria,2
+282,Salah BOULBAHAIEM,Belgium,2
+283,Loïc GAIDIOZ,France,2
+284,Lucas PRETI,Italy,2
+285,Peter WÜRTH,Germany,2
+286,Henrik SENNELÖV,Sweden,2
+287,Boyko LALOV,Bulgaria,2
+288,Mincho PETKOV,Bulgaria,2
+289,Fabien DUGIT,France,2
+290,Soso KATSITADZE,Georgia,2
+291,Alexander KOSTERIN,Russia,2
+292,Stanislav KLESHNOV,Ukraine,2
+293,Stewart WATSON,United Kingdom,2
+294,Vasily KOZLOV,Russia,2
+295,Rok KLANCNIK,Slovenia,2
+296,Stéphan JULIEN,France,2
+297,Michele CAMINATI,Italy,2
+298,Magnus HÖGSTRÖM,Sweden,2
+299,Erik CARLSSON,Sweden,2
+300,Bálint BURUCS,Hungary,2
+301,Leo ketil BØE,Norway,2
+302,Maciej DOBRZANSKI,Poland,2
+303,Sébastien BERTHE,Belgium,2
+304,Piotr SCHAB,Poland,2
+305,Nao MONCHOIS,France,2
+306,Vladislav SHEVCHENKO,Russia,2
+307,Àlex HERNÁNDEZ CASTILLA,Spain,2
+308,Sarp SAHIN,Turkey,2
+309,Almaz NAGAEV,Russia,2
+310,İsmai̇l OZTURK,Turkey,2
+311,William RIDAL,United Kingdom,2
+312,Florian KLINGLER,Austria,2
+313,Milos NEMY,Slovakia,2
+314,Matteo MANZONI,Italy,2
+315,Elias IAGNEMMA,Italy,2
+316,Theis lindegren ELFENBEIN,Denmark,2
+317,Ioannis-Filippos NOEL-BAKER,Greece,2
+318,Mathias POSCH,Austria,2
+319,Matthaios VALSAMIDIS,Greece,2
+320,Dmitrii POPOV,Russia,2
+321,Mark BRAND,Netherlands,2
+322,Leto CAVÉ,Netherlands,2
+323,Lev RUDATSKIY,Russia,2
+324,Tobias PLANGGER,Austria,2
+325,Sergei TIUPYSHEV,Russia,2
+326,Leo FAVOT,France,2
+327,Don VAN LAERE,Netherlands,2
+328,Yuriy DZYUBYAK,Ukraine,2
+329,Timo TAK,Netherlands,2
+330,Jérôme DE BOECK,Belgium,2
+331,Jurgen LIS,Belgium,2
+332,Geir SÖDERIN,Sweden,2
+333,Stefan VUJIC,Serbia,2
+334,Jovan IVANOV,The former Yugoslav Republic of Macedonia,2
+335,Balint KAMVAS,Hungary,2
+336,Ivan LISICA,Croatia,2
+337,Rafet serkan ERCAN,Turkey,2
+338,Tomas midtun TOBIASSEN,Norway,2
+339,Maksym OSIPOV,Ukraine,2
+340,Matej SVUB,Slovakia,2
+341,Yoann LE COUSTER,France,2
+342,Sergey ABDRAKHMANOV,Russia,2
+343,Yury NOVITSKIY,Russia,2
+344,Daniel MORENO DE LOS HUERTO,Spain,2
+345,Victor KOZLOV,Russia,2
+346,Victor ESTELLER OCAÑA,Spain,2
+347,Elko SCHELLINGERHOUT,Netherlands,2
+348,Luka TRUMBIC,Croatia,2
+349,Gianluca SIROTTI,Italy,2
+350,Krešimir MORIĆ,Croatia,2
+351,Evgenii ZAZULIN,Russia,2
+352,Or WECHSLER,Israel,2
+353,Nikita SUYUSHKIN,Russia,2
+354,Martin JECH,Czechia,2
+355,Vanco NAUNOV,The former Yugoslav Republic of Macedonia,2
+356,Leo BØE,Norway,2
+357,Nimord MARCUS,Israel,2
+358,Slav KIROV,Bulgaria,2
+359,Hannes VAN DUYSEN,Belgium,2
+360,Gergő VÁLYI,Hungary,2
+361,Yotam BEN REUVEN,Israel,2
+362,Matey MITSEV,Bulgaria,2
+363,Toby ROBERTS,United Kingdom,2
+364,Nino GRÜNENFELDER,Switzerland,2
+365,Paul JENFT,France,2
+366,Linus BADER,Germany,2
+367,Sebastian LUCKE,Germany,2
+368,Leander CARMANNS,Germany,2
+369,Alejandro RIVAS DOMÍNGUEZ,Spain,2
+370,Lawrence BOGESCHDORFER,Austria,2
+371,Matteo ZURLONI,Italy,2
+372,Matthew FALL,United Kingdom,2
+373,Erik NOYA CARDONA,Spain,2
+374,Dorian ZEDLER,Germany,2
+375,Pietro VIDI,Italy,2
+376,Julien CLÉMENCE,Switzerland,2
+377,Tomas PLEVKO,Slovakia,2
+378,Dylan CHUAT,Switzerland,2
+379,Jivko DRUMEV,Bulgaria,2
+380,Ivica FRANCESCHI,Croatia,2
+381,Alv BORGE,Norway,2
+382,François LOMBARD,France,2
+383,Elie CHEVIEUX,Switzerland,2
+384,Stefano ALIPPI,Italy,2
+385,Pavel SAMOILINE,Russia,2
+386,Malcolm SMITH,United Kingdom,2
+387,Alexei TCHERTOV,Russia,2
+388,Andrzej MARCISZ,Poland,2
+389,Anton PACEK,Slovakia,2
+390,Ian VICKERS,United Kingdom,2
+391,Vili GUCEK,Slovenia,2
+392,Yves PHILIPONA,Switzerland,2
+393,Jan LINDEGAARD ANDERSEN,Denmark,2
+394,Darko DULAR,Croatia,2
+395,Marius ONIGA,Romania,2
+396,Hakon HANSEN,Norway,2
+397,Boris CUJIC,Croatia,2
+398,Marcel TOMAN,Czechia,2
+399,Tomas SEDLACEK,Czechia,2
+400,Stefan ADRIAN,Romania,2
+401,Petrov PLAMEN,Bulgaria,2
+402,Tomas PILKA,Czechia,2
+403,Patxi AROCENA,Spain,2
+404,Arnaud PETIT,France,2
+405,Marcin WROBEL,Poland,2
+406,Neil CARSON,United Kingdom,2
+407,Serguei CHEMOULINKINE,Russia,2
+408,Christopher CUBITT,United Kingdom,2
+409,Franci JENSTERLE,Slovenia,2
+410,Hans MILEWSKI,Austria,2
+411,Marko ROZMAN,Croatia,2
+412,Michel VAN EYNDE,Belgium,2
+413,Leif BROC,Norway,2
+414,Roman STEFANEK,Czechia,2
+415,Michael LEA,United Kingdom,2
+416,Peter KMOSKO,Slovakia,2
+417,Miroslav PIALA,Slovakia,2
+418,Oleg BOULAVKO,Russia,2
+419,Dmitrii BYCHKOV,Russia,2
+420,Johan MUS,Belgium,2
+421,Ionel ENE,Romania,2
+422,Milan BENIAN,Czechia,2
+423,Paul DEWILDE,France,2
+424,David CAUDE,France,2
+425,Donato LELLA,Italy,2
+426,Urs SCHÖNENBERGER,Switzerland,2
+427,Noukri GVELEBIANI,Georgia,2
+428,Thorsten NEUHAUS,Germany,2
+429,Zaza GURCHIANI,Georgia,2
+430,Nicolas FAVRESSE,Belgium,2
+431,Oliver COENEN,Belgium,2
+432,Alexandr PAUKAEV,Ukraine,2
+433,Vladislav BARANOV,Russia,2
+434,Timo PREUSSLER,Germany,2
+435,Bernardino LAGNI,Italy,2
+436,Reinhard FICHTINGER,Austria,2
+437,Luka ZAZVONIL,Slovenia,2
+438,Daniel FILIPOV VOLEV,Bulgaria,2
+439,Ruslan Dimitrov PETROUSKI,Bulgaria,2
+440,Christian BENK,Germany,2
+441,Alexei GADEEV,Russia,2
+442,François AUCLAIR,France,2
+443,Martin IDEGREN,Sweden,2
+444,Tomasz DOUBRAVSK,Czechia,2
+445,Mauro CALIBANI,Italy,2
+446,Riccardo SCARIAN,Italy,2
+447,Urh CEHOVIN,Slovenia,2
+448,Stephane JULIEN,France,2
+449,Arsenii SHEVCHENKO,Russia,2
+450,Quentin NAMBOT,France,2
+451,Stanislao ZAMA,Italy,2
+452,Lukas ENNEMOSER,Austria,2
+453,Mathias CONRAD,Germany,2
+454,Jakub GLOWKA,Poland,2
+455,Aleksei SHCHERVIANIN,Russia,2
+456,Anthony GULLSTEN,Finland,2
+457,Jan CHVALA,Czechia,2
+458,Jakub JODLOWSKI,Poland,2
+459,Bozhidar LYUBENOV,Bulgaria,2
+460,Emiliyan KOLEVSKI,Bulgaria,2
+461,Kenneth ELVEGÅRD,Norway,2
+462,Franz KRAKENBERGER,Switzerland,2
+463,Charli BLEIN,France,2
+464,Matthias SCHIESTL,Austria,2
+465,Rafal HALASA,Poland,2
+466,Aleksandr SHILOV,Russia,2
+467,Vilimantas PETRASIUNAS,Lithuania,2
+468,Elias WEILER,Austria,2
+469,Alexander AVERDUNK,Germany,2
+470,Matthew COUSINS,United Kingdom,2
+471,Jakub JEDLICKA,Czechia,2
+472,Lukas GEUKENS,Belgium,2
+473,Nikola PETROV,Bulgaria,2
+474,Borna CUJIC,Croatia,2
+475,Ivan PEVEC,Croatia,2
+476,Tamás FARKAS,Hungary,2
+477,Arda kadir URULUER,Turkey,2
+478,Oleksiy YURKO,Ukraine,1
+479,Andrii KYTAIKO,Ukraine,1
+480,Volodymyr ZINCHENKO,Ukraine,1
+481,Ruslan FAIZULLIN,Russia,1
+482,Karol DENIS,Poland,1
+483,Denys ROKOTYANSKII,Ukraine,1
+484,Jakub KOZLOWSKI,Poland,1
+485,Stefan AVRAMOV,Bulgaria,1
+486,Stefan DANKER,Germany,1
+487,Jonathan PARTRIDGE,United Kingdom,1
+488,Ignacio SANCHEZ GONZÁLEZ,Spain,1
+489,James GARDEN,United Kingdom,1
+490,Mircea STRUTEANU,Romania,1
+491,Dominic BURNS,Ireland,1
+492,Jurijs KRASANOVS,Latvia,1
+493,Arturas VOLKOVAS,Lithuania,1
+494,Dmitrijus MONASTYRECKIS,Lithuania,1
+495,Andrew ZHIGAREV,Ukraine,1
+496,Robin VICERY,Denmark,1
+497,Marián ŠELIGA,Slovakia,1
+498,Hans BUSKER,Netherlands,1
+499,Thilo jeldrik SCHRÖTER,Norway,1
+500,Viliam FERČÁK,Slovakia,1
+501,Yohann DECHAMPS,France,1
+502,Jan DE SMIT,Belgium,1
+503,Jan ZIMA,Czechia,1
+504,Lowie LAMBERECHTS,Belgium,1
+505,Teun KEUSTERS,Netherlands,1
+506,Urban PRIMOZIC,Slovenia,1
+507,Bernhard RÖCK,Austria,1
+508,Semen CHESNOKOV,Russia,1
+509,Antoine KAUFFMANN,Belgium,1
+510,Yiftach KUSHNIR,Israel,1
+511,Stefano CARNATI,Italy,1
+512,Kevin HUSER,Switzerland,1
+513,Sergio VERDASCO URIZAL,Spain,1
+514,Jerome GONZÁLEZ GUTIÉRREZ,Spain,1
+515,Giorgio BENDAZZOLI,Italy,1
+516,Anton POLIAKOV,Russia,1
+517,Maksim DIACHKOV,Russia,1
+518,Marek WOJCIK,Poland,1
+519,Michal LEWICKI,Poland,1
+520,Tommaso PASQUA,Italy,1
+521,Ramel RAHIMKHANOV,Azerbaijan,1
+522,Orrin COLEY,United Kingdom,1
+523,Simon UNGER,Germany,1
+524,Maarten NIEUWENHUIJSEN,Netherlands,1
+525,Ahmet GUNER,Turkey,1
+526,Mario MINCEVSKI,The former Yugoslav Republic of Macedonia,1
+527,Giorgi GABULDANI,Georgia,1
+528,Roman KUCERA,Czechia,1
+529,Martin PENKOV,Bulgaria,1
+530,Danila YAMCHUK,Latvia,1
+531,Ilari juho KELLONIEMI,Finland,1
+532,Nazaret CALVENTE SANTANA,Spain,1
+533,Frederik zeilberger THULSTRUP,Denmark,1
+534,Marco GOZZI,Italy,1
+535,Michael SCHLOTTER,Germany,1
+536,Frédéric NICOLE,Switzerland,1
+537,Stefan FÜRST,Austria,1
+538,Klaus BÜCHELE,Germany,1
+539,Christoph FINKEL,Germany,1
+540,Stefan GLOWACZ,Germany,1
+541,Faycal NATECH,France,1
+542,Serge BLEIN,France,1
+543,Tony RYAN,United Kingdom,1
+544,Tadej SLABE,Slovenia,1
+545,Frédéric COROLLER,France,1
+546,Philippe STEULET,Switzerland,1
+547,Juri LISSOVOI,Russia,1
+548,Mark DELAFIELD,United Kingdom,1
+549,Josef SCHWAIGER,Austria,1
+550,Vladimir JOURKIN,Russia,1
+551,Christoph BUCHER,Germany,1
+552,Lars WITTROCK,Denmark,1
+553,Vincent ALBRAND,France,1
+554,Günther UNTERRAINER,Austria,1
+555,Stefan BÖSCHENSTEIN,Switzerland,1
+556,Andreas HOFMANN,Germany,1
+557,Matej MEJOVSEK,Slovenia,1
+558,Johnny SCHELKER,Switzerland,1
+559,Jean-Baptiste TRIBOUT,France,1
+560,Jacek TRZEMZALSKI,Poland,1
+561,Vasil KIROV,Bulgaria,1
+562,Vlado PAUSIC,Croatia,1
+563,Tomasz SAMITOWSKI,Poland,1
+564,Thomasz REGWELSKI,Poland,1
+565,Tomas CADA,Czechia,1
+566,Christian SCHLESENER,Germany,1
+567,Stephan HILGERS,Germany,1
+568,Pavel WEISSER,Czechia,1
+569,Jury KRASILNIKOV,Russia,1
+570,Gregor JAEGER,Germany,1
+571,Vasil KIROV ,Bulgaria,1
+572,Gregorz PLESNIAK,Poland,1
+573,Sascha FLOHE,Germany,1
+574,Piotr DAWIDOWICZ,Poland,1
+575,Marcin BARTOCHA,Poland,1
+576,Jean-baptiste TRIBOUT,France,1
+577,Alexander DEULIN,Russia,1
+578,Severino SCASSA,Italy,1
+579,Pedro PONS,Spain,1
+580,David CARRETERO PEREZ,Spain,1
+581,Ricardo OTEGUI ZUBIYAGA,Spain,1
+582,Markus BOCK,Germany,1
+583,Peter HORNING,Netherlands,1
+584,Sebastian ZASADZKI,Poland,1
+585,Arturo CAMPOS SALVADOR,Spain,1
+586,François COFFY,France,1
+587,John ARRAN,United Kingdom,1
+588,Maksim NIKIFARAVETS,Belarus,1
+589,Samuel WINGARDH,Sweden,1
+590,Adrian CHMIALA,Poland,1
+591,Illia BAKHMET-SMOLENSKYI,Ukraine,1
+592,Stefan SCHERZ,Austria,1
+593,Robert LUBY,Slovakia,1
+594,Christoph SCHWEIGER,Germany,1
+595,Alejandro CRESPO COBOS,Spain,1
+596,Thilo SCHRÖTER,Norway,1
+597,Eneko CARRETERO CRUZ,Spain,1
+598,Ties VANCRAEYNEST,Belgium,1
+599,Giovanni PLACCI,Italy,1
+600,Giorgio TOMATIS,Italy,1
+601,Jules MARCHALAND,France,1
+602,Dimitri FLICK,Switzerland,1
+603,Max BERTONE,France,1
+604,Lovro CREP,Slovenia,1
+605,Davide Marco COLOMBO,Italy,1
+606,Unax UTERGA FLAMARIQUE,Spain,1
+607,Andrew GOODALL,United Kingdom,1
+608,Kevin AMON,Austria,1
+609,Marceau GARNIER,France,1
+610,Hryhorii ILCHYSHYN,Ukraine,1
+611,Luke TURNER,United Kingdom,1
+612,Miguel GÓMEZ BARRIOS,Spain,1
+613,Lasse VON FREIER,Germany,1
+614,Tuukka SIMONEN,Finland,1
+615,Axel LINDFORS,Finland,1
+616,Roman SIVAKOV,Lithuania,1
+617,Theis Lindegren ELFENBEIN,Denmark,1
+618,Antoine GIRARD,France,1
+619,Timotej ROMŠAK,Slovenia,1
+620,Andreas HOFHERR,Austria,1
+621,Elias ARRIAGADA KRÜGER,Germany,1
+622,Attila Zsombor RADICS,Hungary,1
+623,Nathan MARTIN,France,1
+624,Nathan MARTIN,Luxembourg,1
+625,Dayan AKHTAR,United Kingdom,1
+626,Nicolò SARTIRANA,Italy,1
+627,Thorben Perry BLOEM,Germany,1
+628,Samuel RICHARD,France,1
+629,Yonatan KATZ,Israel,1
+630,Călin ENACHE,Romania,1
+631,Oren PRIHED,Israel,1
+632,Tomer YAKOBOVITCH,Israel,1
+633,Niccolò Antony SALVATORE,Italy,1
+634,Villads SKOVBJERG,Denmark,1
+635,Max JØRGENSEN,Denmark,1
+636,Thomas KJAER,Denmark,1
+637,Paul CRISTEA,Romania,1
+638,Samuel OMETZ,Switzerland,1
+639,Moritz WALDLEBEN,Switzerland,1
+640,Tanguy TOPIN,France,1
+641,Denis PAIL,Czechia,1
+642,Sergei BYDTAEV,Russia,1
+643,Alberto GOTTA,Italy,1
+644,Or MINIELY,Israel,1
+645,Muhammet nuri̇ AYDEMİR,Turkey,1
+646,Recep GÜR,Turkey,1
+647,Anton SVIRIDOV,Russia,1
+648,Evgenii KALASHNIKOV,Russia,1
+649,Georgy ARTAMONOV,Russia,1
+650,Tomasz SORDYL,Poland,1
+651,Cristian DORIGATTI,Italy,1
+652,Ihor TIAPKIN,Ukraine,1
+653,Georgii MOROZOV,Russia,1
+654,Róbert SÁNTHA,Romania,1
+655,Moritz HANS,Germany,1
+656,Sergio PASTOR MARTÍNEZ,Spain,1
+657,Nicolas PELORSON,France,1
+658,Károly-csaba SZŐCS,Romania,1
+659,Viktor TRPOVSKI,The former Yugoslav Republic of Macedonia,1
+660,Alessandro PALMA,Italy,1
+661,Pol ROCA LOPEZ,Spain,1
+662,Ciarán SCANLON,Ireland,1
+663,Mykola SILEVYCH,Ukraine,1
+664,Övgün YILDIRIM,Turkey,1
+665,Soma STROMMER,Hungary,1
+666,Tomi SALO,Finland,1
+667,João EVORA,Portugal,1
+668,Ricardo COIMBRA,Portugal,1
+669,Elias EDVARDSEN,Denmark,1
+670,Rob DENAYER,Belgium,1
+671,Karlo ČUBRIĆ,Croatia,1
+672,Vladislav ANGELOV,Bulgaria,1
+673,Roman BATSENKO,Ukraine,1
+674,Manuel filipe CARVALHO,Portugal,1
+675,Zeki ozan ATASOY,Turkey,1
+676,Rasmus HOLM ESKILDSEN,Denmark,1
+677,Patrick PEDERSEN,Norway,1
+678,Peteris MEIRANS,Latvia,1
+679,Vilks KASPARS,Latvia,1
+680,Davide marco COLOMBO,Italy,1
+681,Albert ILSAAS SUTHURST,Norway,1
+682,Alistair DUVAL,France,1
+683,Sven LEMPEREUR,Belgium,1
+684,Mischa RADT,Netherlands,1
+685,Kieran FORREST,United Kingdom,1
+686,Sergei RUKIN,Russia,1
+687,Iaroslav PASHKOV,Russia,1
+688,Ádám BAKURECZ,Hungary,1
+689,Joris LEIPUS,Lithuania,1
+690,Jakub ZIETEK,Poland,1
+691,Ignas KISIELIUS,Lithuania,1
+692,Max PRINZ,Germany,1
+693,Leo AVEZOU,France,1
+694,Arthur TERNANT,France,1
+695,Pietro BIAGINI,Italy,1
+696,Oleksii KRYNETSKYI,Ukraine,1
+697,Jens DE LOUW,Netherlands,1
+698,Ionut-cosmin ATOMEI,Romania,1
+699,Arkadiusz MILLAN,Poland,1
+700,Germanis KLAVS,Latvia,1
+701,Matic KOTAR,Slovenia,1
+702,Julien MERAL,France,1
+703,Radovah SOUCEK,Czechia,1
+704,Bruno MATUTANO,France,1
+705,Sebastian UNTEREGLSBACHER,Germany,1
+706,René GEHRIG,Switzerland,1
+707,Joris SALARI,Netherlands,1
+708,Miles GIBSON,United Kingdom,1
+709,Janis GMÜNDER,Switzerland,1
+710,Ilfir KHAKIMIANOV,Russia,1
+711,Georgos PROGULAKIS,Italy,1
+712,Jeroen JONGENEELEN,Netherlands,1
+713,Sebastian ABAD DEL CAMPO,Spain,1
+714,Chris GRAHAM,United Kingdom,1
+715,Rasmus GIJESING,Denmark,1
+716,Mario KUESS,Austria,1
+717,Konrad OCIEPKA,Poland,1
+718,Zdenek RESCH,Czechia,1
+719,Mecherzynski ANDREZEJ,Poland,1
+720,Luis Felix PEREZ,Spain,1
+721,Anthony SAPEY,Switzerland,1
+722,Marek LEITMAN,Slovakia,1
+723,Jonathan THOMAS,Belgium,1
+724,Dirk MOL,Netherlands,1
+725,Thomas NEYER,Austria,1
+726,Igor ARANAZ,Spain,1
+727,Matteo GAMBARO,Italy,1
+728,Attila BARTHA,Hungary,1
+729,Tom SUGDEN,United Kingdom,1
+730,Tobias HALLER,Austria,1
+731,Martin ECKERT,Slovakia,1
+732,Karel CERNY,Czechia,1
+733,Juan PONS ALEMAN,Spain,1
+734,Mark CROXALL,United Kingdom,1
+735,Andre BOROWKA,Germany,1
+736,Paolo LEONCINI,Italy,1
+737,Alessandro GANDOLFO,Italy,1
+738,Johan GROSS,Sweden,1
+739,Felix NEUMÄRKER,Germany,1
+740,Serguei TERENTIEV,Russia,1
+741,Alexander SHOPRIN,Russia,1
+742,Rafal POREBSKI,Poland,1
+743,Valeriy VOROBYEV,Russia,1
+744,Alexander VASILETS,Belarus,1
+745,Aleksei PORTSEV,Russia,1
+746,Sergiy KRYVONOS,Ukraine,1
+747,Olexiy SHULGA,Ukraine,1
+748,Sebastien JALMAIN,France,1
+749,Grzegorz KAROLAK,Poland,1
+750,Nicolas BADIA,France,1
+751,Ryan PASQUILL,United Kingdom,1
+752,Emanuel MOOSBURGER,Austria,1
+753,Aric MERZ,Germany,1
+754,Mikhail PEKAREV,Russia,1
+755,Frederico SILVA,Portugal,1
+756,Tomasz WOJCIECHOWSKI,Poland,1
+757,Fabien COMINA,France,1
+758,Igor SOLOVEY,Ukraine,1
+759,Drew HAIGH,United Kingdom,1
+760,Mathieu GALLOT-LAVALLEE,France,1
+761,Damien BOITARD,France,1
+762,Rastislav SULIK,Slovakia,1
+763,Frederic SARKANY,Belgium,1
+764,Thomas FEUERSTEIN,Austria,1
+765,Fernando MARTINEZ,Spain,1
+766,Adam LIANA,Poland,1
+767,Jan KARES,Czechia,1
+768,Leif Henning Broch JOHNSEN,Norway,1
+769,Tomas LUNDGREN,Sweden,1
+770,Martin REIMERS,Norway,1
+771,Matthias TROTTMANN,Switzerland,1
+772,Daniel KADLEC,Czechia,1
+773,Arno DIMMLER,Germany,1
+774,Alexei KOZLOV,Russia,1
+775,Tim BARTZIK,Germany,1
+776,Jimmy AUNET,France,1
+777,Florin CORBEJ,Romania,1
+778,Ingo STICHLER,Germany,1
+779,Mathias SCHIESTL,Austria,1
+780,Patrick COENEN,Netherlands,1
+781,Erik JACOBS,Netherlands,1
+782,Mikhail UMNITSYN,Russia,1
+783,Diego LAMPUGNANI,Switzerland,1
+784,Alexandre KOVALEVSKJ,Russia,1
+785,Peter DOLEZAJ,Slovakia,1
 786,Adam DEWHURST,United Kingdom,1
-787,Diego LAMPUGNANI,Switzerland,1
-788,Peter DOLEZAJ,Slovakia,1
-789,Erik JACOBS,Netherlands,1
-790,Alexandre KOVALEVSKJ,Russia,1
-791,Daniel KADLEC,Czechia,1
-792,Ingo STICHLER,Germany,1
-793,Alexei KOZLOV,Russia,1
-794,Jimmy AUNET,France,1
-795,Arno DIMMLER,Germany,1
-796,Florin CORBEJ,Romania,1
-797,Tim BARTZIK,Germany,1
-798,Tomas LUNDGREN,Sweden,1
-799,Thomas FEUERSTEIN,Austria,1
-800,Adam LIANA,Poland,1
-801,Frederic SARKANY,Belgium,1
-802,Matthias TROTTMANN,Switzerland,1
-803,Leif Henning Broch JOHNSEN,Norway,1
-804,Jan KARES,Czechia,1
-805,Fernando MARTINEZ,Spain,1
-806,Martin REIMERS,Norway,1
-807,John ARRAN,United Kingdom,1
-808,François COFFY,France,1
-809,Damien BOITARD,France,1
-810,Mathieu GALLOT-LAVALLEE,France,1
-811,Rastislav SULIK,Slovakia,1
-812,Jean-baptiste TRIBOUT,France,1
-813,Pedro PONS,Spain,1
-814,David CARRETERO PEREZ,Spain,1
-815,Marcin BARTOCHA,Poland,1
-816,Markus BOCK,Germany,1
-817,Ricardo OTEGUI ZUBIYAGA,Spain,1
-818,Alexander DEULIN,Russia,1
-819,Sebastian ZASADZKI,Poland,1
-820,Peter HORNING,Netherlands,1
-821,Severino SCASSA,Italy,1
-822,Arturo CAMPOS SALVADOR,Spain,1
-823,Jury KRASILNIKOV,Russia,1
-824,Tomas CADA,Czechia,1
-825,Sascha FLOHE,Germany,1
-826,Stephan HILGERS,Germany,1
-827,Vasil KIROV ,Bulgaria,1
-828,Gregorz PLESNIAK,Poland,1
-829,Gregor JAEGER,Germany,1
-830,Piotr DAWIDOWICZ,Poland,1
-831,Pavel WEISSER,Czechia,1
-832,Christian SCHLESENER,Germany,1
-833,Michael SCHLOTTER,Germany,1
-834,Vincent ALBRAND,France,1
-835,Tony RYAN,United Kingdom,1
-836,Frédéric NICOLE,Switzerland,1
-837,Thomasz REGWELSKI,Poland,1
-838,Stefan GLOWACZ,Germany,1
-839,Mark DELAFIELD,United Kingdom,1
-840,Juri LISSOVOI,Russia,1
-841,Jean-Baptiste TRIBOUT,France,1
-842,Tomasz SAMITOWSKI,Poland,1
-843,Jacek TRZEMZALSKI,Poland,1
-844,Andreas HOFMANN,Germany,1
-845,Serge BLEIN,France,1
-846,Christoph FINKEL,Germany,1
-847,Lars WITTROCK,Denmark,1
-848,Vladimir JOURKIN,Russia,1
-849,Matej MEJOVSEK,Slovenia,1
-850,Christoph BUCHER,Germany,1
-851,Philippe STEULET,Switzerland,1
-852,Tadej SLABE,Slovenia,1
-853,Klaus BÜCHELE,Germany,1
-854,Stefan BÖSCHENSTEIN,Switzerland,1
-855,Frédéric COROLLER,France,1
-856,Stefan FÜRST,Austria,1
-857,Vlado PAUSIC,Croatia,1
-858,Günther UNTERRAINER,Austria,1
-859,Johnny SCHELKER,Switzerland,1
-860,Josef SCHWAIGER,Austria,1
-861,Vasil KIROV,Bulgaria,1
-862,Faycal NATECH,France,1
+787,Andrei KRIVONOS,Ukraine,1
+788,Alexandre SERGEYEV (LIACHENKO),Russia,1
+789,Mustafer EREN,Germany,1
+790,Ernst WANDER,Germany,1
+791,Radim NOSEK,Czechia,1
+792,Thomas ACHERMANN,Switzerland,1
+793,Martin FELIX,Switzerland,1
+794,Martin MOBRÅTEN,Norway,1
+795,Johan GYLLENSVARD,Sweden,1
+796,Jan Fredrick PRYTZ,Norway,1
+797,Christoph HUBER,Austria,1
+798,Stian CHRISTOPHERSEN,Norway,1
+799,Jamie CASSIDY,United Kingdom,1
+800,Gil TENE,Israel,1
+801,Martin HAMMERER,Austria,1
+802,Nicolas JANUEL,France,1
+803,Oleg GREBENYUK,Ukraine,1
+804,Ihor HONCHARENKO,Ukraine,1
+805,Jiri PRIBIL,Czechia,1
+806,Frédéric TUSCAN,France,1
+807,David GISLER,Switzerland,1
+808,Gabor SZEKELY,Hungary,1
+809,Michael TIMMERMANS,Belgium,1
+810,Tony MUSSELBROOK,United Kingdom,1
+811,Piotr BUNSCH,Poland,1
+812,Olexandr SHALAGIN,Ukraine,1
+813,Rob HAIGH,United Kingdom,1
+814,Mirce TRAJCEVSKI,The former Yugoslav Republic of Macedonia,1
+815,Kire SERAFIMOVSKI,The former Yugoslav Republic of Macedonia,1
+816,Nenad MATIC,Serbia,1
+817,Petr RESCH,Czechia,1
+818,Anatoly SKRIPOV,Russia,1
+819,Martin SIFRA,Czechia,1
+820,Thomas DUPIN,France,1
+821,Rafal MUDA,Poland,1
+822,Beka NAVERIANI,Georgia,1
+823,Jacek MATUSZEK,Poland,1
+824,Edward FEEHALLY,United Kingdom,1
+825,Ignasi TARRAZONA GASQUE,Spain,1
+826,Stefano GHIDINI,Italy,1
+827,Bruno MACIAS MATUTANO,Spain,1
+828,Tomas GREKSAK,Slovakia,1
+829,Nicolas MATHIEU,Belgium,1
+830,David MASON,United Kingdom,1
+831,Jesse VAN DER WERF,Netherlands,1
+832,Miroslav HRASKO,Slovakia,1
+833,Alexander KALINA,Russia,1
+834,Nicola DE MATTIA,Italy,1
+835,Noé BERGER,Luxembourg,1
+836,Anton MARDASHOV,Ukraine,1
+837,Truong NGO,Netherlands,1
+838,Silvio REFFO,Italy,1
+839,Pavlo VEKLA,Ukraine,1
+840,Erik GRANDELIUS,Sweden,1
+841,Christoph KRISMER,Austria,1
+842,Zorbey AKTUYUN,Turkey,1
+843,Rudi MORODER,Italy,1
+844,Dogan oguz PALUT,Turkey,1
+845,Jakub POCIECHA,Poland,1
+846,Gyula JUHASZ,Hungary,1
+847,Zufar NIGMANOV,Russia,1
+848,Ivan NOVIKOV,Russia,1
+849,Máté GÁL,Hungary,1
+850,Fabian BOSLER,Germany,1
+851,Maximilian PORSCHA,Germany,1
+852,Simon BOSLER,Germany,1
+853,Yuriy POBEREZHETS,Ukraine,1
+854,Florian BÖBEL,Germany,1
+855,Peter PUTZ,Austria,1
+856,Jakob heber NORUM,Norway,1
+857,Federico ANDREOLI,Italy,1
+858,John henry NILSSEN,Norway,1
+859,Markus JUNG,Germany,1
+860,Mikhail KOCHETKOV,Russia,1
+861,Sergej EPIH,Slovenia,1
+862,Michal ROZEK,Czechia,1

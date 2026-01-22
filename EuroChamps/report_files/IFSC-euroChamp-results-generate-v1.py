@@ -43,7 +43,7 @@ if  __name__ == '__main__':
 	#
 	#make a connection to the neo4j database
 	#
-	conn = Neo4jConnection(uri="bolt://localhost:7687", user="neo4j", pwd="Charl1e")
+	conn = Neo4jConnection(uri="bolt://localhost:7687", user="neo4j", pwd="MattGr00m")
 	#
 	# login to datapane at cmd prompt
 	#$datapane login --token=63cd8316bd51c9b7c59b7eed012081ed7e8d5d16

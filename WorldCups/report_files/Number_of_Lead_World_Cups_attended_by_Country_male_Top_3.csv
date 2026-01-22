@@ -1,10 +1,7 @@
 ,Athlete,Country,NumWCups
-2,Diego martín MARSELLA,Argentina,12
-3,Lautaro nicolás SORIA SANCHEZ (Current),Argentina,4
-4,Bautista GREGORINI (Current),Argentina,4
 5,Campbell HARRISON (Current),Australia,31
 6,Mark BAKER,Australia,6
-7,Garth MILLER,Australia,5
+7,Hira VERICK,Australia,5
 8,Jakob SCHUBERT (Current),Austria,87
 9,Jürgen REIS,Austria,63
 10,Mario LECHNER,Austria,61
@@ -14,13 +11,12 @@
 17,Cesar GROSSO,Brazil,19
 18,Felipe HO FOGANHOLO (Current),Brazil,18
 19,Felipe CAMARGO,Brazil,13
-23,Pheaktra SAMBATH (Current),Cambodia,2
 24,Sean MCCOLL (Current),Canada,69
 25,Elan JONASMCRAE,Canada,37
-26,Victor BAUDRAND (Current),Canada,22
+26,Oscar BAUDRAND (Current),Canada,22
 27,Tomas RAVANAL,Chile,19
-28,Joaquin URRUTIA (Current),Chile,12
-29,Benjamin VARGAS (Current),Chile,12
+28,Benjamin VARGAS (Current),Chile,12
+29,Joaquin URRUTIA (Current),Chile,12
 30,Yufei PAN (Current),China,23
 31,Haibin QU,China,17
 32,Qinghua WANG,China,13
@@ -29,45 +25,35 @@
 35,Ka-wai CHU,"China, Hong Kong Special Administrative Region",11
 36,Wan Tong LOK (Current),"China, Macao Special Administrative Region",2
 37,Chon Hou LEI (Current),"China, Macao Special Administrative Region",1
-38,Tomás ARCE (Current),Colombia,2
-39,Sebastian PRIETO PERILLA,Colombia,2
+38,Sebastian PRIETO PERILLA,Colombia,2
+39,Tomás ARCE (Current),Colombia,2
 40,Daniel TIRADO,Colombia,1
-41,Julio ARCE,Costa Rica,1
-42,David ULLOA,Costa Rica,1
-43,Juan Ramon PENDONES (Current),Costa Rica,1
+41,David ULLOA,Costa Rica,1
+42,Julio ARCE,Costa Rica,1
+43,Mateo BOGANTES (Current),Costa Rica,1
 47,Christos SOFOKLEOUS (Current),Cyprus,1
 48,Tomás MRÁZEK,Czechia,66
 49,Adam ONDRA (Current),Czechia,42
 50,Martin STRANIK (Current),Czechia,38
-54,Carlos GRANJA (Current),Ecuador,8
-55,Danny VALENCIA,Ecuador,5
-56,Galo HERNANDEZ,Ecuador,4
-57,Marcelo ignacio VARGAS CLAROS (Current),El Salvador,2
 67,Christian BINDHAMMER,Germany,68
-68,Sebastian HALENKE (Current),Germany,65
-69,Andreas BINDHAMMER,Germany,65
-70,Aristomenes THANOPOULOS,Greece,5
-71,Matthaios VALSAMIDIS (Current),Greece,5
+68,Andreas BINDHAMMER,Germany,65
+69,Sebastian HALENKE (Current),Germany,65
+70,Matthaios VALSAMIDIS (Current),Greece,5
+71,Aristomenes THANOPOULOS,Greece,5
 72,Michail VOLYRAKIS (Current),Greece,4
-73,Stanley AU (Current),Guam,1
-74,Allen LACTAOEN (Current),Guam,1
-75,Daniel alejandro MERINO ORDÓÑEZ (Current),Honduras,2
+73,Allen LACTAOEN (Current),Guam,1
+74,Stanley AU (Current),Guam,1
+75,Daniel alejandro MERINO ORDÓÑEZ,Honduras,2
 76,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,1
 77,Rolando José LOPEZ RAMOS (Current),Honduras,1
 78,Gabor SZEKELY,Hungary,12
 79,Nimród Sebestyén TUSNÁDY  (Current),Hungary,7
 80,Gergő VÁLYI (Current),Hungary,6
-81,Guðmundur freyr ARNARSON (Current),Iceland,2
-82,Björn BALDURSSON,Iceland,1
-83,Gunnar Egill GUÐLAUGSSON (Current),Iceland,1
-84,Hritik MARNE (Current),India,8
-85,Chingkheinganba MAIBAM (Current),India,3
-86,Gaurav KUMAR,India,2
 87,Muhammad RIZKY SYAHRAFLI SIMATUPANG (Current),Indonesia,10
 88,Raviandi RAMADHAN (Current),Indonesia,9
 89,Musauwir MUSAUWIR (Current),Indonesia,8
-90,Alireza PILEHFOROUSHAN (Current),Iran (Islamic Republic of),3
-91,Radin FOROUGHIAN (Current),Iran (Islamic Republic of),3
+90,Gholamali BARATZADEH,Iran (Islamic Republic of),3
+91,Davoud REKABI,Iran (Islamic Republic of),3
 92,Seyedmohammadzaniar EBRAHIMI (Current),Iran (Islamic Republic of),3
 94,Michael O'NEILL (Current),Ireland,5
 95,Keefe MURPHY,Ireland,1
@@ -83,11 +69,11 @@
 105,Yuji HIRAYAMA,Japan,49
 107,Kairat RAKHMETOV,Kazakhstan,18
 108,Rishat KHAIBULLIN (Current),Kazakhstan,6
-109,Alexey PANFILOV (Current),Kazakhstan,4
+109,Denis ZHENDINSKIY,Kazakhstan,4
 110,Edvards GRUZITIS (Current),Latvia,4
-111,Rolands RUGENS (Current),Latvia,1
-112,Michael PIETKEVICH,Latvia,1
-115,Vaidotas MONSTAVICIUS (Current),Lithuania,3
+111,Michael PIETKEVICH,Latvia,1
+112,Vilks KASPARS,Latvia,1
+115,Vaidotas MONSTAVICIUS,Lithuania,3
 116,Roman SIVAKOV (Current),Lithuania,2
 117,Kasparas SISKAUSKAS (Current),Lithuania,1
 118,Nathan MARTIN (Current),Luxembourg,8
@@ -99,25 +85,23 @@
 124,Mauricio HUERTA,Mexico,17
 125,Santiago DE ALBA FLORES (Current),Mexico,16
 126,Diego luis GONZÁLEZ,Mexico,7
-141,Fazal WADOOD (Current),Pakistan,1
-142,Zaheer AHMAD (Current),Pakistan,1
+127,Chuluunbaatar MANDAKHBAYAR (Current),Mongolia,1
+128,G. JANGAR,Mongolia,1
+129,Tumur OCH,Mongolia,1
 143,Diego LEQUERICA BUSCAGLIA (Current),Peru,4
-150,André NERES (Current),Portugal,11
-151,José ABREU,Portugal,3
-152,Gustavo CUNHA (Current),Portugal,2
 153,William FLORES (Current),Puerto Rico,2
 154,Hyunbin MIN (Current),Republic of Korea,53
 155,Jabee KIM,Republic of Korea,40
-156,Hanwool KIM (Current),Republic of Korea,35
+156,Hanwool KIM,Republic of Korea,35
 157,Ionel ENE,Romania,13
 158,Darius RÂPĂ (Current),Romania,11
 159,Stefan ADRIAN,Romania,6
 163,Taher ALHADDAD (Current),Saudi Arabia,2
-164,Yousef FATANI (Current),Saudi Arabia,1
-165,Nidhal DAQNAH (Current),Saudi Arabia,1
+164,Nidhal DAQNAH (Current),Saudi Arabia,1
+165,Yousef FATANI (Current),Saudi Arabia,1
 169,Luke GOH WEN BIN (Current),Singapore,6
-170,Yong Kang DYLAN SEOW (Current),Singapore,1
-171,Gerald BAYO VEROSIL (Current),Singapore,1
+170,Gerald BAYO VEROSIL (Current),Singapore,1
+171,Yong Kang DYLAN SEOW (Current),Singapore,1
 178,Oliver MARX,South Africa,6
 179,Mel JANSE VAN RENSBURG (Current),South Africa,5
 180,Justin HAWKINS,South Africa,3
@@ -129,20 +113,14 @@
 189,Elie CHEVIEUX,Switzerland,35
 190,Yeu-shiang CHANG,Taiwan,8
 191,Chih-En FAN (Current),Taiwan,5
-192,Yen-yi WU,Taiwan,3
+192,Kuei chi PENG,Taiwan,3
 193,Auswin AUEAREECHIT (Current),Thailand,8
 194,Winai RUANGRIT,Thailand,2
-195,Dhansarit MEESEAT,Thailand,1
-196,Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,4
-197,Matej MARKOV (Current),The former Yugoslav Republic of Macedonia,2
-198,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,2
+195,Teeraphon BOONDECH,Thailand,1
 199,Rafet serkan ERCAN,Turkey,3
-200,Muhammed Oğuz KAĞANOĞLU (Current),Turkey,2
-201,Ugur YILMAZ,Turkey,2
+200,Ugur YILMAZ,Turkey,2
+201,Muhammed Oğuz KAĞANOĞLU (Current),Turkey,2
 202,Emmanuel ONYANGO (Current),Uganda,1
-206,James POPE (Current),United Kingdom,31
-207,Ian VICKERS,United Kingdom,25
-208,Christopher CUBITT,United Kingdom,19
 209,Vadim VINOKUR,United States of America,37
-210,Sean BAILEY (Current),United States of America,33
+210,Sean BAILEY,United States of America,33
 211,Jesse GRUPPER (Current),United States of America,25

@@ -36,7 +36,7 @@ if  __name__ == '__main__':
 	#
 	#make a connection to the neo4j database
 	#
-	conn = Neo4jConnection(uri="bolt://localhost:7687", user="neo4j", pwd="Charl1e")
+	conn = Neo4jConnection(uri="bolt://localhost:7687", user="neo4j", pwd="MattGr00m")
 	#
 	query_string3 = '''
 	MATCH (ath:Athlete)-[win:WINNER]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
