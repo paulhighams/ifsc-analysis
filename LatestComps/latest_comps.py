@@ -1,6 +1,8 @@
 #calculate the latest comps for information
 from neo4j import GraphDatabase
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
 class Neo4jConnection:
     
@@ -33,10 +35,15 @@ class Neo4jConnection:
         return response
 
 if  __name__ == '__main__':
+	# get credentials
+	load_dotenv()
+	MY_URI = os.getenv("NEO4J_URI")
+	MY_USER = os.getenv("NEO4J_USERNAME")
+	MY_PWD = os.getenv("NEO4J_PASSWORD")
 	#
 	#make a connection to the neo4j database
 	#
-	conn = Neo4jConnection(uri="bolt://localhost:7687", user="neo4j", pwd="MattGr00m")
+	conn = Neo4jConnection(uri=MY_URI, user=MY_USER, pwd=MY_PWD)
 	#
 	query_string3 = '''
 	MATCH (ath:Athlete)-[win:WINNER]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)

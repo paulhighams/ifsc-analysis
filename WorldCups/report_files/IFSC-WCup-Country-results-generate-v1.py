@@ -6,6 +6,8 @@ import pandas as pd
 #import itertools
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
+from dotenv import load_dotenv
+import os
 
 class Neo4jConnection:
     
@@ -66,10 +68,15 @@ def highlight_current(x):
 ############################################################################
 
 if  __name__ == '__main__':
+	# get credentials
+	load_dotenv()
+	MY_URI = os.getenv("NEO4J_URI")
+	MY_USER = os.getenv("NEO4J_USERNAME")
+	MY_PWD = os.getenv("NEO4J_PASSWORD")
 	#
 	#make a connection to the neo4j database
 	#
-	conn = Neo4jConnection(uri="bolt://localhost:7687", user="neo4j", pwd="MattGr00m")
+	conn = Neo4jConnection(uri=MY_URI, user=MY_USER, pwd=MY_PWD)
 	#
 	# login to datapane at cmd prompt
 	#$datapane login --token=63cd8316bd51c9b7c59b7eed012081ed7e8d5d16
