@@ -347,7 +347,7 @@ if  __name__ == '__main__':
 	query_36 = '''MATCH (ath:Athlete {Sex: "Male"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
-	WHERE att.QualificationScore IS NOT NULL AND NOT att.QualificationScore IN ['FALSE START','FALL','fall','False start']
+	WHERE att.QualificationScore IS NOT NULL AND NOT att.QualificationScore IN ['FALSE START','FALL','fall','False start'] AND yr.YearName <= 2025
 	RETURN toInteger(yr.YearName) AS Year, toFloat(head(split(att.QualificationScore,'('))) AS QualTime
 	'''
 
@@ -355,8 +355,24 @@ if  __name__ == '__main__':
 	query_37 = '''MATCH (ath:Athlete {Sex: "Female"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
-	WHERE att.QualificationScore IS NOT NULL AND NOT att.QualificationScore IN ['FALSE START','FALL','fall','False start']
+	WHERE att.QualificationScore IS NOT NULL AND NOT att.QualificationScore IN ['FALSE START','FALL','fall','False start'] AND yr.YearName <= 2025
 	RETURN toInteger(yr.YearName) AS Year, toFloat(head(split(att.QualificationScore,'('))) AS QualTime
+	'''
+
+	#get all male speed qualifying times
+	query_36a = '''MATCH (ath:Athlete {Sex: "Male"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
+	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
+	WHERE att.QualificationScore IS NOT NULL AND NOT att.QualificationScore IN ['FALSE START','FALL','fall','False start'] AND yr.YearName > 2025
+	RETURN toInteger(yr.YearName) AS Year, att.QualificationScore AS QualTime
+	'''
+
+	#get all the female speed qualifying times
+	query_37a = '''MATCH (ath:Athlete {Sex: "Female"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
+	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
+	WHERE att.QualificationScore IS NOT NULL AND NOT att.QualificationScore IN ['FALSE START','FALL','fall','False start']  AND yr.YearName > 2025
+	RETURN toInteger(yr.YearName) AS Year, att.QualificationScore AS QualTime
 	'''
 
 	#Tops in a lead final by year
@@ -461,6 +477,8 @@ if  __name__ == '__main__':
 	dtf_35 = pd.DataFrame([dict(_) for _ in conn.query(query_35)])
 	dtf_36 = pd.DataFrame([dict(_) for _ in conn.query(query_36)])
 	dtf_37 = pd.DataFrame([dict(_) for _ in conn.query(query_37)])
+	dtf_36a = pd.DataFrame([dict(_) for _ in conn.query(query_36a)])
+	dtf_37a = pd.DataFrame([dict(_) for _ in conn.query(query_37a)])
 	dtf_38 = pd.DataFrame([dict(_) for _ in conn.query(query_38)])
 	dtf_39 = pd.DataFrame([dict(_) for _ in conn.query(query_39)])
 	dtf_40 = pd.DataFrame([dict(_) for _ in conn.query(query_40)])
@@ -742,9 +760,15 @@ if  __name__ == '__main__':
 	#Get rid of results before 2012 as they skew the y-axis
 	dtf_36_trim = dtf_36[dtf_36['Year'] > 2011]
 	dtf_37_trim = dtf_37[dtf_37['Year'] > 2011]
+	dtf_36a_trim = dtf_36a[dtf_36a['Year'] > 2011]
+	dtf_37a_trim = dtf_37a[dtf_37a['Year'] > 2011]
 	#get rid of outlier times
 	dtf_36_fin = dtf_36_trim[dtf_36_trim['QualTime'] < 21]
 	dtf_37_fin = dtf_37_trim[dtf_37_trim['QualTime'] < 34]
+	dtf_36a_fin = dtf_36a_trim[dtf_36a_trim['QualTime'] < 21]
+	dtf_37a_fin = dtf_37a_trim[dtf_37a_trim['QualTime'] < 34]
+	dtf_36_all = pd.concat([dtf_36_fin, dtf_36a_fin])
+	dtf_37_all = pd.concat([dtf_37_fin, dtf_37a_fin])
 
 	dtf_38_39 = pd.merge( dtf_38, dtf_39, how="outer", on=["Year","Gender"])
 	dtf_38_39 = dtf_38_39.fillna(0)
@@ -830,8 +854,8 @@ if  __name__ == '__main__':
 	dtf_42B.to_csv('World_Cup_Series_Speed_podium_list_male_and_female.csv', header=True, index=True)
 
 	#title="Special Analysis World Cups"
-	dtf_36_fin.to_csv('Male_Speed_Qualifying_times_by_Year', header=True, index=True)
-	dtf_37_fin.to_csv('Female_Speed_Qualifying_times_by_Year', header=True, index=True)
+	dtf_36_all.to_csv('Male_Speed_Qualifying_times_by_Year', header=True, index=True)
+	dtf_37_all.to_csv('Female_Speed_Qualifying_times_by_Year', header=True, index=True)
 	dtf_38.to_csv('Lead_Tops_in_Finals_by_Year', header=True, index=True)
 	dtf_39.to_csv('Lead_Tops_in_Semi_Finals_by_Year', header=True, index=True)
 	dtf_38_39.to_csv('Lead_Tops_in_Finals_Semi_Finals_by_Year', header=True, index=True)
