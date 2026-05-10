@@ -296,38 +296,38 @@
 295,Tom SUGDEN,United Kingdom,9
 296,Jiri PRIBIL,Czechia,9
 297,Roddy MACKENZIE,United Kingdom,9
-298,Matic KOTAR (Current),Slovenia,9
-299,Mikel Asier LINACISORO MOLINA (Current),Spain,9
-300,Christopher COSSER (Current),South Africa,9
-301,Charles BARRON (Current),United States of America,9
-302,Shinta OZAWA,Japan,9
-303,Alessandro GANDOLFO,Italy,9
-304,Roland WAGNER,Austria,9
-305,Ben WEST,United Kingdom,9
-306,Vasily KOZLOV,Russia,9
-307,Artyom DEVYATERIKOV,Kazakhstan,9
-308,Kornelius OBLEITNER,Austria,9
-309,Claudiu MIU,Romania,9
-310,Christian FEISTMANTL,Austria,9
-311,Carlo TRAVERSI,United States of America,9
-312,Piotr BUNSCH,Poland,9
-313,Niccolo' CERIA,Italy,9
-314,Sin-Fai HO,"China, Hong Kong Special Administrative Region",9
-315,Michael O'ROURKE,United States of America,9
-316,Orrin COLEY,United Kingdom,9
-317,James POPE,United Kingdom,9
-318,Rei KAWAMATA (Current),Japan,9
-319,Adrien LEMAIRE (Current),France,9
-320,Daiki SANO (Current),Japan,9
-321,Raffael GRUBER (Current),Austria,9
-322,François PETIT,France,8
-323,Luc DAURES,France,8
-324,Jean baptiste JOURJON,France,8
-325,Alexander MEIKL,Austria,8
-326,Chris GRAHAM,United Kingdom,8
-327,Georgos PROGULAKIS,Italy,8
-328,Roy MOSLEY,United Kingdom,8
-329,Nikolai IARILOVETS,Russia,8
+298,Nikolai IARILOVETS (Current),Russia,9
+299,Matic KOTAR (Current),Slovenia,9
+300,Mikel Asier LINACISORO MOLINA (Current),Spain,9
+301,Christopher COSSER (Current),South Africa,9
+302,Charles BARRON (Current),United States of America,9
+303,Shinta OZAWA,Japan,9
+304,Alessandro GANDOLFO,Italy,9
+305,Roland WAGNER,Austria,9
+306,Ben WEST,United Kingdom,9
+307,Vasily KOZLOV,Russia,9
+308,Artyom DEVYATERIKOV,Kazakhstan,9
+309,Kornelius OBLEITNER,Austria,9
+310,Claudiu MIU,Romania,9
+311,Christian FEISTMANTL,Austria,9
+312,Carlo TRAVERSI,United States of America,9
+313,Piotr BUNSCH,Poland,9
+314,Niccolo' CERIA,Italy,9
+315,Sin-Fai HO,"China, Hong Kong Special Administrative Region",9
+316,Michael O'ROURKE,United States of America,9
+317,Orrin COLEY,United Kingdom,9
+318,James POPE,United Kingdom,9
+319,Rei KAWAMATA (Current),Japan,9
+320,Adrien LEMAIRE (Current),France,9
+321,Daiki SANO (Current),Japan,9
+322,Raffael GRUBER (Current),Austria,9
+323,François PETIT,France,8
+324,Luc DAURES,France,8
+325,Jean baptiste JOURJON,France,8
+326,Alexander MEIKL,Austria,8
+327,Chris GRAHAM,United Kingdom,8
+328,Georgos PROGULAKIS,Italy,8
+329,Roy MOSLEY,United Kingdom,8
 330,Nino GRÜNENFELDER (Current),Switzerland,8
 331,Roman BATSENKO,Ukraine,8
 332,Carlos GRANJA,Ecuador,8
@@ -454,7 +454,7 @@
 453,Yotam BEN REUVEN,Israel,6
 454,Dohyeon KIM (Current),Republic of Korea,6
 455,Minsung HAN,Republic of Korea,6
-456,Jinbin HUANG,China,6
+456,Jinbin HUANG (Current),China,6
 457,Ioannis-Filippos NOEL-BAKER (Current),Greece,6
 458,Dillon COUNTRYMAN (Current),United States of America,6
 459,Yunchan SONG (Current),Republic of Korea,6
@@ -1507,7 +1507,7 @@
 1506,Sebastian HALENKE (Current),Germany,1
 1507,Tristen GOSSELIN,Canada,1
 1508,Oliver MARX,South Africa,1
-1509,Dmitrii FAKIRIANOV,Russia,1
+1509,Dmitrii FAKIRIANOV (Current),Russia,1
 1510,Adrian CHMIALA,Poland,1
 1511,Anselm OBERDORFER,Germany,1
 1512,Frederik zeilberger THULSTRUP,Denmark,1
@@ -1554,7 +1554,7 @@
 1553,Yuval SARAF,Israel,1
 1554,Katleho POBE,South Africa,1
 1555,Michael SIFAKIS,Greece,1
-1556,Vladislav SHEVCHENKO,Russia,1
+1556,Vladislav SHEVCHENKO (Current),Russia,1
 1557,Semen OVCHINNIKOV,Russia,1
 1558,Sergei TIUPYSHEV,Russia,1
 1559,Oleg POKUSAYEV,Ukraine,1
@@ -1726,3 +1726,4 @@
 1725,Shing Yui WAI (Current),"China, Hong Kong Special Administrative Region",1
 1726,Auggie CHI (Current),United States of America,1
 1727,Timothy James FOLEY (Current),Canada,1
+1728,Egor DULUB (Current),Russia,1
