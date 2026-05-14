@@ -1,12 +1,6 @@
 Gender,,,Female,Female,Female,Male,Male,Male
 Position,,,1,2,3,1,2,3
 Year,StartDate,Event,,,,,,
-2023,2023-06-14,WC Innsbruck 2023,Janja GARNBRET,Ai MORI,Jessica PILZ,Sascha LEHMANN,Alexander MEGOS,Jakob SCHUBERT
-2023,2023-06-30,WC Villars 2023,Janja GARNBRET,Jessica PILZ,Brooke RABOUTOU,Jakob SCHUBERT,Adam ONDRA,Alexander MEGOS
-2023,2023-07-07,WC Chamonix 2023,Jain KIM,Nonoha KUME,Hélène JANICOT,Toby ROBERTS,Sam AVEZOU,Sorato ANRAKU
-2023,2023-07-14,WC Briancon 2023,Vita LUKAN,Eliska ADAMOVSKA,Manon HILY,Sorato ANRAKU,Taisei HOMMA,Satone YOSHIDA
-2023,2023-09-01,WC Koper 2023,Janja GARNBRET,Ai MORI,Vita LUKAN,Sorato ANRAKU,Jesse GRUPPER,Alberto GINÉS LÓPEZ
-2023,2023-09-22,WC Wujiang 2023,Ai MORI,Jessica PILZ,Natsuki TANII,Sorato ANRAKU,Shion OMATA,Taisei HOMMA
 2024,2024-04-12,WC Wujiang 2024,Janja GARNBRET,Zhilu LUO,Chaehyun SEO,Toby ROBERTS,Taisei HOMMA,Sorato ANRAKU
 2024,2024-06-26,WC Innsbruck 2024,Janja GARNBRET,Ai MORI,Chaehyun SEO,Jakob SCHUBERT,Alexander MEGOS,Toby ROBERTS
 2024,2024-07-12,WC Chamonix 2024,Ai MORI,Jessica PILZ,Mei KOTAKE,Colin DUFFY,Sam AVEZOU,Toby ROBERTS
@@ -19,3 +13,4 @@ Year,StartDate,Event,,,,,,
 2025,2025-07-18,WC Madrid 2025,Annie SANDERS,Laura ROGORA,Brooke RABOUTOU,Dohyun LEE,Alberto GINÉS LÓPEZ,Satone YOSHIDA
 2025,2025-09-05,WC Koper 2025,Janja GARNBRET,Chaehyun SEO,Laura ROGORA,Sorato ANRAKU,Alberto GINÉS LÓPEZ,Toby ROBERTS
 2025,2025-04-25,WC Wujiang 2025,Erin MCNEICE and Chaehyun SEO,not awarded,Annie SANDERS,Sorato ANRAKU,Neo SUZUKI,Alberto GINÉS LÓPEZ
+2026,2026-05-08,WC Wujiang 2026,Annie SANDERS,Janja GARNBRET,Chaehyun SEO,Neo SUZUKI,Alberto GINÉS LÓPEZ,Dohyun LEE
