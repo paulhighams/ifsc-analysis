@@ -156,7 +156,7 @@ if  __name__ == '__main__':
 	query_0 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Boulder" and yr.YearName in [2024,2025,2023]
+	WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Boulder" and yr.YearName in [2024,2025,2026]
 	RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position, yr.YearName AS Year
 	ORDER BY Gender, StartDate, Position
 	'''
@@ -164,7 +164,7 @@ if  __name__ == '__main__':
 	query_1 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Lead" and yr.YearName in [2024,2025,2023]
+	WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Lead" and yr.YearName in [2024,2025,2026]
 	RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position, yr.YearName AS Year
 	ORDER BY Gender, StartDate, Position
 	'''
@@ -172,7 +172,7 @@ if  __name__ == '__main__':
 	query_2 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Speed" and yr.YearName in [2024,2025,2023]
+	WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Speed" and yr.YearName in [2024,2025,2026]
 	RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position, yr.YearName AS Year
 	ORDER BY Gender, StartDate, Position
 	'''
@@ -180,7 +180,7 @@ if  __name__ == '__main__':
 	#query_3 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	#MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	#MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	#WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Boulder-Lead" and yr.YearName in [2024,2025,2023]
+	#WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Boulder-Lead" and yr.YearName in [2024,2025,2026]
 	#RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position, yr.YearName AS Year
 	#ORDER BY Gender, StartDate, Position
 	#'''
@@ -188,7 +188,7 @@ if  __name__ == '__main__':
 	query_10 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Boulder" and yr.YearName in [2024,2025,2023]
+	WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Boulder" and yr.YearName in [2024,2025,2026]
 	RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position
 	ORDER BY Gender, StartDate, Position
 	'''
@@ -196,7 +196,7 @@ if  __name__ == '__main__':
 	query_11 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Lead" and yr.YearName in [2024,2025,2023]
+	WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Lead" and yr.YearName in [2024,2025,2026]
 	RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position
 	ORDER BY Gender, StartDate, Position
 	'''
@@ -204,7 +204,7 @@ if  __name__ == '__main__':
 	query_12 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Speed" and yr.YearName in [2024,2025,2023]
+	WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Speed" and yr.YearName in [2024,2025,2026]
 	RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position
 	ORDER BY Gender, StartDate, Position
 	'''
@@ -212,7 +212,7 @@ if  __name__ == '__main__':
 	#query_13 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
 	#MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	#MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	#WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Boulder-Lead" and yr.YearName in [2024,2025,2023]
+	#WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Boulder-Lead" and yr.YearName in [2024,2025,2026]
 	#RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position
 	#ORDER BY Gender, StartDate, Position
 	#'''
