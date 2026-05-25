@@ -5,7 +5,7 @@
 3,Argentina,Speed,6
 4,Australia,Lead,41
 5,Australia,Speed,13
-6,Australia,Boulder,45
+6,Australia,Boulder,46
 7,Austria,Lead,126
 8,Austria,Boulder,102
 9,Austria,Speed,24
@@ -60,7 +60,7 @@
 58,Cyprus,Lead,1
 59,Czechia,Lead,106
 60,Czechia,Speed,29
-61,Czechia,Boulder,57
+61,Czechia,Boulder,58
 62,Denmark,Boulder,23
 63,Denmark,Lead,11
 64,Denmark,Speed,1
@@ -74,14 +74,14 @@
 72,Finland,Boulder,26
 73,France,Lead,316
 74,France,Speed,69
-75,France,Boulder,268
+75,France,Boulder,269
 76,France,Boulder-Lead,5
 77,Georgia,Lead,14
 78,Georgia,Speed,17
 79,Georgia,Boulder,9
 80,Germany,Lead,142
 81,Germany,Speed,46
-82,Germany,Boulder,125
+82,Germany,Boulder,126
 83,Germany,Boulder-Lead,5
 84,Greece,Lead,28
 85,Greece,Boulder,24
@@ -108,7 +108,7 @@
 106,Iraq,Lead,1
 107,Ireland,Lead,3
 108,Ireland,Boulder,10
-109,Israel,Boulder,38
+109,Israel,Boulder,39
 110,Israel,Lead,24
 111,Israel,Speed,4
 112,Israel,Boulder-Lead,1
@@ -139,7 +139,7 @@
 137,Mauritius,Boulder,3
 138,Mauritius,Speed,2
 139,Mexico,Lead,25
-140,Mexico,Boulder,47
+140,Mexico,Boulder,48
 141,Mexico,Speed,5
 142,Mongolia,Lead,7
 143,Mongolia,Speed,5
@@ -148,10 +148,10 @@
 146,Nepal,Lead,3
 147,Nepal,Boulder,8
 148,Netherlands,Lead,46
-149,Netherlands,Boulder,52
+149,Netherlands,Boulder,54
 150,Netherlands,Speed,5
 151,New Zealand,Lead,21
-152,New Zealand,Boulder,16
+152,New Zealand,Boulder,17
 153,New Zealand,Speed,15
 154,Nigeria,Boulder,1
 155,Norway,Lead,71
@@ -201,17 +201,17 @@
 199,Slovenia,Speed,12
 200,Slovenia,Boulder-Lead,3
 201,South Africa,Lead,26
-202,South Africa,Boulder,23
+202,South Africa,Boulder,24
 203,South Africa,Speed,11
 204,Spain,Lead,96
-205,Spain,Boulder,65
+205,Spain,Boulder,67
 206,Spain,Speed,25
 207,Sweden,Lead,49
 208,Sweden,Boulder,45
 209,Sweden,Speed,8
 210,Sweden,Boulder-Lead,1
 211,Switzerland,Lead,94
-212,Switzerland,Boulder,82
+212,Switzerland,Boulder,86
 213,Switzerland,Speed,15
 214,Switzerland,Boulder-Lead,2
 215,Taiwan,Lead,33
@@ -232,7 +232,7 @@
 230,Ukraine,Boulder,61
 231,United Kingdom,Lead,145
 232,United Kingdom,Speed,39
-233,United Kingdom,Boulder,109
+233,United Kingdom,Boulder,110
 234,United Kingdom,Boulder-Lead,1
 235,United States of America,Lead,185
 236,United States of America,Speed,91
