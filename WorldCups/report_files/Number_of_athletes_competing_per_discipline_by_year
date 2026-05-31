@@ -1,7 +1,7 @@
 ,Country,Discipline,Athletes
 0,Andorra,Lead,2
 1,Argentina,Lead,20
-2,Argentina,Boulder,25
+2,Argentina,Boulder,26
 3,Argentina,Speed,6
 4,Australia,Lead,41
 5,Australia,Speed,13
@@ -22,12 +22,12 @@
 20,Bolivia (Plurinational State of),Boulder,2
 21,Botswana,Boulder,1
 22,Brazil,Lead,29
-23,Brazil,Speed,14
-24,Brazil,Boulder,33
+23,Brazil,Speed,15
+24,Brazil,Boulder,35
 25,Brazil,Boulder-Lead,2
 26,Brunei Darussalam,Boulder,1
 27,Bulgaria,Lead,40
-28,Bulgaria,Speed,16
+28,Bulgaria,Speed,17
 29,Bulgaria,Boulder,38
 30,Cambodia,Boulder,2
 31,Cambodia,Lead,2
@@ -49,8 +49,8 @@
 47,"China, Macao Special Administrative Region",Boulder,7
 48,"China, Macao Special Administrative Region",Lead,3
 49,Colombia,Lead,7
-50,Colombia,Boulder,4
-51,Colombia,Speed,1
+50,Colombia,Boulder,5
+51,Colombia,Speed,4
 52,Costa Rica,Boulder,3
 53,Costa Rica,Lead,5
 54,Croatia,Lead,20
@@ -74,7 +74,7 @@
 72,Finland,Boulder,26
 73,France,Lead,316
 74,France,Speed,69
-75,France,Boulder,269
+75,France,Boulder,270
 76,France,Boulder-Lead,5
 77,Georgia,Lead,14
 78,Georgia,Speed,17
@@ -121,124 +121,125 @@
 119,Japan,Boulder-Lead,16
 120,Jordan,Lead,1
 121,Kazakhstan,Lead,26
-122,Kazakhstan,Speed,41
+122,Kazakhstan,Speed,42
 123,Kazakhstan,Boulder,19
 124,Kuwait,Speed,1
 125,Latvia,Lead,7
 126,Latvia,Boulder,18
 127,Latvia,Speed,2
 128,Lebanon,Lead,2
-129,Lithuania,Boulder,21
-130,Lithuania,Lead,4
-131,Luxembourg,Lead,9
-132,Luxembourg,Boulder,2
-133,Malaysia,Lead,24
-134,Malaysia,Speed,20
-135,Malaysia,Boulder,12
-136,Mauritius,Lead,1
-137,Mauritius,Boulder,3
-138,Mauritius,Speed,2
-139,Mexico,Lead,25
-140,Mexico,Boulder,48
-141,Mexico,Speed,5
-142,Mongolia,Lead,7
-143,Mongolia,Speed,5
-144,Mongolia,Boulder-Lead,1
-145,Mongolia,Boulder,1
-146,Nepal,Lead,3
-147,Nepal,Boulder,8
-148,Netherlands,Lead,46
-149,Netherlands,Boulder,54
-150,Netherlands,Speed,5
-151,New Zealand,Lead,21
-152,New Zealand,Boulder,17
-153,New Zealand,Speed,15
-154,Nigeria,Boulder,1
-155,Norway,Lead,71
-156,Norway,Speed,1
-157,Norway,Boulder,32
-158,Norway,Boulder-Lead,1
-159,Pakistan,Speed,4
-160,Pakistan,Lead,2
-161,Peru,Boulder,11
-162,Peru,Lead,3
-163,Peru,Speed,1
-164,Philippines,Lead,14
-165,Philippines,Speed,5
-166,Philippines,Boulder,7
-167,Poland,Lead,61
-168,Poland,Speed,61
-169,Poland,Boulder,50
-170,Portugal,Lead,9
-171,Portugal,Boulder,13
-172,Puerto Rico,Boulder,2
-173,Puerto Rico,Lead,2
-174,Puerto Rico,Speed,1
-175,Republic of Korea,Lead,118
-176,Republic of Korea,Speed,75
-177,Republic of Korea,Boulder,69
-178,Republic of Korea,Boulder-Lead,3
-179,Romania,Lead,36
-180,Romania,Speed,11
-181,Romania,Boulder,34
-182,Russia,Lead,166
-183,Russia,Speed,213
-184,Russia,Boulder,153
-185,Saudi Arabia,Boulder,4
-186,Saudi Arabia,Lead,5
-187,Serbia,Lead,8
-188,Serbia,Boulder,3
-189,Serbia,Speed,1
-190,Singapore,Boulder,14
-191,Singapore,Speed,14
-192,Singapore,Boulder-Lead,1
-193,Singapore,Lead,8
-194,Slovakia,Lead,38
-195,Slovakia,Speed,6
-196,Slovakia,Boulder,42
-197,Slovenia,Lead,106
-198,Slovenia,Boulder,54
-199,Slovenia,Speed,12
-200,Slovenia,Boulder-Lead,3
-201,South Africa,Lead,26
-202,South Africa,Boulder,24
-203,South Africa,Speed,11
-204,Spain,Lead,96
-205,Spain,Boulder,67
-206,Spain,Speed,25
-207,Sweden,Lead,49
-208,Sweden,Boulder,45
-209,Sweden,Speed,8
-210,Sweden,Boulder-Lead,1
-211,Switzerland,Lead,94
-212,Switzerland,Boulder,86
-213,Switzerland,Speed,15
-214,Switzerland,Boulder-Lead,2
-215,Taiwan,Lead,33
-216,Taiwan,Boulder,20
-217,Taiwan,Speed,8
-218,Taiwan,Boulder-Lead,3
-219,Thailand,Boulder,15
-220,Thailand,Lead,13
-221,Thailand,Speed,13
-222,The former Yugoslav Republic of Macedonia,Lead,11
-223,The former Yugoslav Republic of Macedonia,Boulder,9
-224,Turkey,Lead,19
-225,Turkey,Boulder,26
-226,Turkey,Speed,4
-227,Uganda,Lead,1
-228,Ukraine,Lead,60
-229,Ukraine,Speed,79
-230,Ukraine,Boulder,61
-231,United Kingdom,Lead,145
-232,United Kingdom,Speed,39
-233,United Kingdom,Boulder,110
-234,United Kingdom,Boulder-Lead,1
-235,United States of America,Lead,185
-236,United States of America,Speed,91
-237,United States of America,Boulder,205
-238,United States of America,Boulder-Lead,7
-239,Uzbekistan,Lead,4
-240,Venezuela (Bolivarian Republic of),Lead,14
-241,Venezuela (Bolivarian Republic of),Speed,15
-242,Venezuela (Bolivarian Republic of),Boulder,7
+129,Lebanon,Boulder,1
+130,Lithuania,Boulder,21
+131,Lithuania,Lead,4
+132,Luxembourg,Lead,9
+133,Luxembourg,Boulder,2
+134,Malaysia,Lead,24
+135,Malaysia,Speed,20
+136,Malaysia,Boulder,12
+137,Mauritius,Lead,1
+138,Mauritius,Boulder,3
+139,Mauritius,Speed,2
+140,Mexico,Lead,25
+141,Mexico,Boulder,48
+142,Mexico,Speed,7
+143,Mongolia,Lead,7
+144,Mongolia,Speed,5
+145,Mongolia,Boulder-Lead,1
+146,Mongolia,Boulder,1
+147,Nepal,Lead,3
+148,Nepal,Boulder,8
+149,Netherlands,Lead,46
+150,Netherlands,Boulder,54
+151,Netherlands,Speed,5
+152,New Zealand,Lead,21
+153,New Zealand,Boulder,17
+154,New Zealand,Speed,15
+155,Nigeria,Boulder,1
+156,Norway,Lead,71
+157,Norway,Speed,1
+158,Norway,Boulder,32
+159,Norway,Boulder-Lead,1
+160,Pakistan,Speed,4
+161,Pakistan,Lead,2
+162,Peru,Boulder,11
+163,Peru,Lead,3
+164,Peru,Speed,1
+165,Philippines,Lead,14
+166,Philippines,Speed,5
+167,Philippines,Boulder,7
+168,Poland,Lead,61
+169,Poland,Speed,61
+170,Poland,Boulder,50
+171,Portugal,Lead,9
+172,Portugal,Boulder,16
+173,Puerto Rico,Boulder,2
+174,Puerto Rico,Lead,2
+175,Puerto Rico,Speed,1
+176,Republic of Korea,Lead,118
+177,Republic of Korea,Speed,75
+178,Republic of Korea,Boulder,69
+179,Republic of Korea,Boulder-Lead,3
+180,Romania,Lead,36
+181,Romania,Speed,11
+182,Romania,Boulder,34
+183,Russia,Lead,166
+184,Russia,Speed,213
+185,Russia,Boulder,153
+186,Saudi Arabia,Boulder,4
+187,Saudi Arabia,Lead,5
+188,Serbia,Lead,8
+189,Serbia,Boulder,3
+190,Serbia,Speed,1
+191,Singapore,Boulder,14
+192,Singapore,Speed,14
+193,Singapore,Boulder-Lead,1
+194,Singapore,Lead,8
+195,Slovakia,Lead,38
+196,Slovakia,Speed,6
+197,Slovakia,Boulder,42
+198,Slovenia,Lead,106
+199,Slovenia,Boulder,55
+200,Slovenia,Speed,12
+201,Slovenia,Boulder-Lead,3
+202,South Africa,Lead,26
+203,South Africa,Boulder,24
+204,South Africa,Speed,11
+205,Spain,Lead,96
+206,Spain,Boulder,73
+207,Spain,Speed,32
+208,Sweden,Lead,49
+209,Sweden,Boulder,45
+210,Sweden,Speed,8
+211,Sweden,Boulder-Lead,1
+212,Switzerland,Lead,94
+213,Switzerland,Boulder,86
+214,Switzerland,Speed,16
+215,Switzerland,Boulder-Lead,2
+216,Taiwan,Lead,33
+217,Taiwan,Boulder,20
+218,Taiwan,Speed,8
+219,Taiwan,Boulder-Lead,3
+220,Thailand,Boulder,15
+221,Thailand,Lead,13
+222,Thailand,Speed,13
+223,The former Yugoslav Republic of Macedonia,Lead,11
+224,The former Yugoslav Republic of Macedonia,Boulder,9
+225,Turkey,Lead,19
+226,Turkey,Boulder,26
+227,Turkey,Speed,4
+228,Uganda,Lead,1
+229,Ukraine,Lead,60
+230,Ukraine,Speed,79
+231,Ukraine,Boulder,61
+232,United Kingdom,Lead,145
+233,United Kingdom,Speed,39
+234,United Kingdom,Boulder,110
+235,United Kingdom,Boulder-Lead,1
+236,United States of America,Lead,185
+237,United States of America,Speed,92
+238,United States of America,Boulder,205
+239,United States of America,Boulder-Lead,7
+240,Uzbekistan,Lead,4
+241,Venezuela (Bolivarian Republic of),Lead,14
+242,Venezuela (Bolivarian Republic of),Speed,15
+243,Venezuela (Bolivarian Republic of),Boulder,7
