@@ -1,21 +1,21 @@
 ,Athlete,Country,NumWCups
 1,Barbara BACHER,Austria,161
 2,Jenny LAVARDA,Italy,156
-3,Jain KIM (Current),Republic of Korea,150
+3,Ja In KIM (Current),Republic of Korea,151
 4,Akiyo NOGUCHI,Japan,149
 5,Mina MARKOVIC,Slovenia,147
 6,Katharina SAURWEIN,Austria,119
-7,Jessica PILZ (Current),Austria,99
+7,Jessica PILZ (Current),Austria,100
 8,Edyta ROPEK,Poland,99
 9,Vera ZIJLSTRA,Netherlands,96
 10,Muriel SARKANY,Belgium,95
 11,Alexandra EYER,Switzerland,92
 12,Natalija GROS,Slovenia,92
-13,Chloe CAULIER (Current),Belgium,90
-14,Yuka KOBAYASHI,Japan,89
-15,Janja GARNBRET (Current),Slovenia,88
-16,Maja VIDMAR,Slovenia,88
-17,Miho NONAKA (Current),Japan,88
+13,Chloe CAULIER (Current),Belgium,91
+14,Miho NONAKA (Current),Japan,89
+15,Yuka KOBAYASHI,Japan,89
+16,Janja GARNBRET (Current),Slovenia,88
+17,Maja VIDMAR,Slovenia,88
 18,Sandrine LEVET,France,86
 19,Petra KLINGLER (Current),Switzerland,84
 20,Olga BIBIK,Russia,81
@@ -34,70 +34,70 @@
 33,Yana CHERESHNEVA,Russia,71
 34,Alannah YIP (Current),Canada,71
 35,Caroline CIAVALDINI,France,70
-36,Gerda RAFFETSEDER,Austria,68
-37,Mia KRAMPL (Current),Slovenia,68
-38,Futaba ITO (Current),Japan,68
+36,Mia KRAMPL (Current),Slovenia,69
+37,Futaba ITO (Current),Japan,69
+38,Gerda RAFFETSEDER,Austria,68
 39,Olena OSTAPENKO,Ukraine,67
 40,Hung Ying LEE (Current),Taiwan,67
 41,Cecile AVEZOU,France,65
-42,Kyra CONDIE (Current),United States of America,64
+42,Kyra CONDIE (Current),United States of America,65
 43,Dinara FAKHRITDINOVA,Russia,64
 44,Nataliya PERLOVA,Ukraine,63
 45,Anna TSYGANOVA,Russia,63
 46,Luisa IOVANE,Italy,62
 47,Yulia ABRAMCHUK,Russia,61
-48,Juliane WURM,Germany,61
-49,Ievgeniia KAZBEKOVA,Ukraine,61
-50,Valentina AGUADO (Current),Argentina,60
+48,Valentina AGUADO (Current),Argentina,61
+49,Juliane WURM,Germany,61
+50,Ievgeniia KAZBEKOVA,Ukraine,61
 51,Anna BROZEK (Current),Poland,60
-52,Risa OTA,Japan,60
-53,Mei KOTAKE (Current),Japan,59
+52,Mei KOTAKE (Current),Japan,60
+53,Risa OTA,Japan,60
 54,Aya ONOE,Japan,59
 55,Evgeniia MALAMID,Russia,58
 56,Patrycja CHUDZIAK (Current),Poland,57
 57,Shauna COXSEY,United Kingdom,56
-58,Melissa LE NEVE,France,56
-59,Klaudia BUCZEK,Poland,56
-60,Ingela NILSSON,Sweden,55
-61,Tina johnsen HAFSAAS,Norway,55
-62,Mélanie SANDOZ,France,55
-63,Claudia GHISOLFI (Current),Italy,54
-64,Anne-sophie KOLLER,Switzerland,54
-65,Chaehyun SEO (Current),Republic of Korea,54
+58,Chaehyun SEO (Current),Republic of Korea,56
+59,Melissa LE NEVE,France,56
+60,Klaudia BUCZEK,Poland,56
+61,Ingela NILSSON,Sweden,55
+62,Tina johnsen HAFSAAS,Norway,55
+63,Mélanie SANDOZ,France,55
+64,Claudia GHISOLFI (Current),Italy,54
+65,Anne-sophie KOLLER,Switzerland,54
 66,Magdalena RÖCK,Austria,54
 67,Vita LUKAN (Current),Slovenia,53
 68,Bettina SCHÖPF,Austria,53
 69,Mariia KRASAVINA,Russia,53
-70,Iuliia KAPLINA,Russia,52
-71,Chloé GRAFTIAUX,Belgium,52
-72,Heloïse DOUMONT (Current),Belgium,51
-73,Stasa GEJO (Current),Serbia,51
-74,Chloé MINORET,France,51
-75,Sabine BACHER,Austria,51
-76,Afra HÖNIG (Current),Germany,51
-77,Manon HILY (Current),France,51
-78,Nikki VAN BERGEN,Netherlands,51
-79,Momoka ODA,Japan,51
-80,Oceania MACKENZIE (Current),Australia,51
-81,Giorgia TESIO (Current),Italy,50
-82,Andrea KÜMIN (Current),Switzerland,50
-83,Molly THOMPSON-SMITH (Current),United Kingdom,50
-84,Valentina YURINA,Russia,49
-85,Alma BESTVATER (Current),Germany,49
-86,Andrea ROJAS (Current),Ecuador,49
-87,Yuetong ZHANG (Current),China,49
-88,Olga SHALAGINA,Ukraine,48
-89,Aleksandra MIROSLAW (Current),Poland,48
-90,Anne-laure CHEVRIER,France,48
-91,Julia FISER (Current),Austria,47
+70,Heloïse DOUMONT (Current),Belgium,52
+71,Afra HÖNIG (Current),Germany,52
+72,Iuliia KAPLINA,Russia,52
+73,Chloé GRAFTIAUX,Belgium,52
+74,Oceania MACKENZIE (Current),Australia,52
+75,Stasa GEJO (Current),Serbia,51
+76,Giorgia TESIO (Current),Italy,51
+77,Chloé MINORET,France,51
+78,Sabine BACHER,Austria,51
+79,Molly THOMPSON-SMITH (Current),United Kingdom,51
+80,Manon HILY (Current),France,51
+81,Nikki VAN BERGEN,Netherlands,51
+82,Momoka ODA,Japan,51
+83,Andrea KÜMIN (Current),Switzerland,50
+84,Yuetong ZHANG (Current),China,50
+85,Valentina YURINA,Russia,49
+86,Alma BESTVATER (Current),Germany,49
+87,Andrea ROJAS (Current),Ecuador,49
+88,Julia FISER (Current),Austria,48
+89,Olga SHALAGINA,Ukraine,48
+90,Aleksandra MIROSLAW (Current),Poland,48
+91,Anne-laure CHEVRIER,France,48
 92,Marietta UHDEN,Germany,47
 93,Renata PISZCZEK,Poland,47
 94,Olena RYEPKO,Ukraine,47
 95,Brooke RABOUTOU (Current),United States of America,47
 96,Alizée DUFRAISSE,France,47
 97,Salomé ROMAIN,France,46
-98,Anna STENKOVAYA,Russia,45
-99,Lucka RAKOVEC (Current),Slovenia,45
+98,Lucka RAKOVEC (Current),Slovenia,46
+99,Anna STENKOVAYA,Russia,45
 100,Sofya YOKOYAMA (Current),Switzerland,45
 101,Aurelia SARISSON,France,45
 102,Monika RETSCHY,Germany,45
@@ -126,50 +126,50 @@
 125,Natalia GROSSMAN (Current),United States of America,39
 126,Jennifer WOOD,United Kingdom,39
 127,Aleksandra KALUCKA (Current),Poland,39
-128,Elena OVTCHINNIKOVA,United States of America,37
-129,Delphine MARTIN,France,37
-130,Mao NAKAMURA (Current),Japan,37
-131,Victoire ANDRIER (Current),France,37
-132,Kseniia ALEKSEEVA,Russia,37
-133,Silvie RAJFOVA,Czechia,37
-134,Alex PUCCIO,United States of America,37
-135,Lucija TARKUS (Current),Slovenia,36
-136,Natalie RICHER,France,36
-137,Mayya PIRATINSKAYA,Russia,36
-138,Camilla MORONI (Current),Italy,36
-139,Natsuki TANII (Current),Japan,36
-140,Cuilian HE,China,36
-141,Rebekka STOTZ,Switzerland,36
-142,Damaris KNORR,Germany,35
-143,Juliette DANION,France,35
-144,Julija KRUDER (Current),Slovenia,35
-145,Alla MARENYCH,Ukraine,35
-146,Di NIU (Current),China,35
-147,Roxana WIENAND (Current),Germany,34
-148,Michaela SMETANOVA (Current),Czechia,34
+128,Mao NAKAMURA (Current),Japan,38
+129,Lucija TARKUS (Current),Slovenia,37
+130,Elena OVTCHINNIKOVA,United States of America,37
+131,Delphine MARTIN,France,37
+132,Camilla MORONI (Current),Italy,37
+133,Victoire ANDRIER (Current),France,37
+134,Kseniia ALEKSEEVA,Russia,37
+135,Silvie RAJFOVA,Czechia,37
+136,Alex PUCCIO,United States of America,37
+137,Natalie RICHER,France,36
+138,Mayya PIRATINSKAYA,Russia,36
+139,Julija KRUDER (Current),Slovenia,36
+140,Natsuki TANII (Current),Japan,36
+141,Cuilian HE,China,36
+142,Rebekka STOTZ,Switzerland,36
+143,Roxana WIENAND (Current),Germany,35
+144,Michaela SMETANOVA (Current),Czechia,35
+145,Damaris KNORR,Germany,35
+146,Juliette DANION,France,35
+147,Alla MARENYCH,Ukraine,35
+148,Di NIU (Current),China,35
 149,Robyn ERBESFIELD,United States of America,34
 150,Liv SANSOZ,France,34
 151,Tatiana RUYGA,Russia,34
-152,Johanna FÄRBER (Current),Austria,34
-153,Maud ANSADE,France,34
-154,Yuliya LEVOCHKINA,Russia,34
-155,Xuhua PAN,China,34
-156,Oriane BERTONE (Current),France,33
-157,Lynn VAN DER MEER (Current),Netherlands,33
-158,Noa SHIRAN (Current),Israel,33
-159,Johanna ERNST,Austria,33
-160,Alex JOHNSON,United States of America,33
-161,Seuran HAN (Current),Republic of Korea,33
-162,Mattea PÖTZI (Current),Austria,32
-163,Stéphanie BODET,France,32
-164,Vera KOTASOVA-KOSTRUHOVA,Czechia,32
-165,Chunhua LI,China,32
-166,Ryu NAKAGAWA (Current),Japan,32
-167,Hannah SCHUBERT,Austria,32
-168,Leah CRANE,United Kingdom,32
-169,Alina GAIDAMAKINA,Russia,32
-170,Andrea EBNER,Italy,32
-171,Zhilu LUO (Current),China,32
+152,Oriane BERTONE (Current),France,34
+153,Johanna FÄRBER (Current),Austria,34
+154,Lynn VAN DER MEER (Current),Netherlands,34
+155,Noa SHIRAN (Current),Israel,34
+156,Maud ANSADE,France,34
+157,Yuliya LEVOCHKINA,Russia,34
+158,Xuhua PAN,China,34
+159,Mattea PÖTZI (Current),Austria,33
+160,Ryu NAKAGAWA (Current),Japan,33
+161,Johanna ERNST,Austria,33
+162,Alex JOHNSON,United States of America,33
+163,Seuran HAN (Current),Republic of Korea,33
+164,Zhilu LUO (Current),China,33
+165,Stéphanie BODET,France,32
+166,Vera KOTASOVA-KOSTRUHOVA,Czechia,32
+167,Chunhua LI,China,32
+168,Hannah SCHUBERT,Austria,32
+169,Leah CRANE,United Kingdom,32
+170,Alina GAIDAMAKINA,Russia,32
+171,Andrea EBNER,Italy,32
 172,Nanette RAYBAUD,France,31
 173,Annatina SCHULTZ,Switzerland,31
 174,Corinne THEROUX,France,31
@@ -179,100 +179,100 @@
 178,Stella MARCHISIO,Italy,30
 179,Leire AGUIRRE,Spain,30
 180,Mélanie SON,France,30
-181,Nanako KURA (Current),Japan,30
-182,Tjasa KALAN,Slovenia,29
-183,Tamara SCHLEMMER,Germany,29
-184,Anne ARRAN,United Kingdom,29
-185,Lisa BENETTI,Italy,29
-186,Angelica LIND,Sweden,29
-187,Ayala KEREM (Current),Israel,29
-188,Aleksandra TOTKOVA (Current),Bulgaria,29
-189,Anna GALLYAMOVA,Russia,29
-190,Mathilde BRUMAGNE,Belgium,29
-191,Sierra BLAIR-COYLE,United States of America,29
-192,Erin MCNEICE (Current),United Kingdom,29
-193,Ilaria SCOLARIS (Current),Italy,28
-194,Felicity BUTLER,United Kingdom,28
-195,Olena KRYVONIS,Ukraine,28
-196,Olga ZAKHAROVA,Ukraine,28
-197,Helena LIPENSKA,Czechia,28
-198,Katja DEBEVEC (Current),Slovenia,28
-199,Michelle HULLIGER,Switzerland,28
-200,Cloe COSCOY (Current),United States of America,28
-201,Sara COPAR (Current),Slovenia,28
-202,Marine THÉVENET,France,28
-203,Iuliia PANTELEEVA,Russia,28
-204,Ai MORI (Current),Japan,28
-205,Lana SKUSEK (Current),Slovenia,27
-206,Lucia DÖRFFEL (Current),Germany,27
-207,Olga IAKOVLEVA,Russia,27
-208,Emily PHILLIPS,United Kingdom,27
-209,Ashima SHIRAISHI,United States of America,27
-210,Hannah MIDTBOE,Norway,27
-211,Annie SANDERS (Current),United States of America,27
-212,Martina DEMMEL (Current),Germany,26
-213,Eva Maria HAMMELMÜLLER (Current),Austria,26
-214,Eliska ADAMOVSKA (Current),Czechia,26
-215,Metka LUKANCIC,Slovenia,26
-216,Zosia PODGORBOUNSKIKH,Russia,26
-217,Isabelle BIHR,France,26
-218,Giulia MEDICI (Current),Italy,26
-219,Elizabeth SEPULVEDA,Puerto Rico,26
-220,Elizabeth SEPULVEDA,United States of America,26
-221,Capucine VIGLIONE (Current),France,26
-222,Elena TIMOFEEVA,Russia,26
-223,Florence PINET,France,26
-224,Lucelia BLANCO,Venezuela (Bolivarian Republic of),26
-225,Mina LESLIE-WUJASTYK,United Kingdom,26
-226,Lucinda ann STIRLING,Australia,26
-227,Zélia AVEZOU (Current),France,26
-228,Adriene Akiko CLARK (Current),United States of America,26
-229,Isabelle PATISSIER,France,25
-230,Ekaterina KIPRIIANOVA,Russia,25
-231,Margaryta ZAKHAROVA,Ukraine,25
-232,Maya MADERE (Current),United States of America,25
-233,Celine CUYPERS,Belgium,25
-234,Samantha BERRY,Australia,25
-235,Margo HAYES,United States of America,25
-236,Gayeong OH (Current),Republic of Korea,25
-237,Tjasa SLEMENSEK,Slovenia,24
-238,Catherine VALLET,France,24
-239,Emilie ABGRALL,France,24
-240,Alexandra BALAKIREVA,Russia,24
-241,Kylie CULLEN (Current),United States of America,24
-242,Natalie BÄRTSCHI,Switzerland,24
-243,Alexandra ELMER,Austria,24
-244,Rajiah SALLSABILLAH (Current),Indonesia,24
-245,Giulia RANDI (Current),Italy,24
-246,Svitlana TUZHYLINA,Ukraine,24
-247,Nina LACH,Austria,24
-248,Nolwen BERTHIER,France,24
-249,Netta FREDMAN,Israel,24
-250,Elnaz REKABI (Current),Iran (Islamic Republic of),24
-251,Babette ROY (Current),Canada,24
-252,Natsumi HIRANO (Current),Japan,24
-253,Sophia CURCIO (Current),United States of America,24
-254,Anon MATSUFUJI (Current),Japan,24
-255,Camille POUGET (Current),France,23
-256,Emma HAWKE,New Zealand,23
-257,Olesya SAULEVICH,Russia,23
-258,Katrine VANDET SALLING,Denmark,23
-259,Emma HUNT (Current),United States of America,23
-260,Tamara KUZNETSOVA,Kazakhstan,23
-261,Irati ANDA VILLANUEVA,Spain,23
-262,Yiling SONG,China,23
-263,Elena KRASOVSKAYA,Russia,23
-264,Sarah TETZLAFF (Current),New Zealand,23
-265,Lijuan DENG (Current),China,23
-266,Beatrice COLLI (Current),Italy,23
-267,Karin HAYASHI (Current),Japan,23
-268,Kim ANTHONI,Belgium,22
-269,Myriam MOTTEAU,France,22
-270,Lenka TRNKOVA,Czechia,22
-271,Natalia NOVIKOVA,Russia,22
-272,Emilie VERDIER,France,22
-273,Ingrid KINDLIHAGEN (Current),Norway,22
-274,Viktoriia MESHKOVA (Current),Russia,22
+181,Ayala KEREM (Current),Israel,30
+182,Nanako KURA (Current),Japan,30
+183,Aleksandra TOTKOVA (Current),Bulgaria,30
+184,Erin MCNEICE (Current),United Kingdom,30
+185,Tjasa KALAN,Slovenia,29
+186,Ilaria SCOLARIS (Current),Italy,29
+187,Tamara SCHLEMMER,Germany,29
+188,Anne ARRAN,United Kingdom,29
+189,Lisa BENETTI,Italy,29
+190,Angelica LIND,Sweden,29
+191,Cloe COSCOY (Current),United States of America,29
+192,Sara COPAR (Current),Slovenia,29
+193,Anna GALLYAMOVA,Russia,29
+194,Mathilde BRUMAGNE,Belgium,29
+195,Sierra BLAIR-COYLE,United States of America,29
+196,Annie SANDERS (Current),United States of America,29
+197,Lucia DÖRFFEL (Current),Germany,28
+198,Felicity BUTLER,United Kingdom,28
+199,Olena KRYVONIS,Ukraine,28
+200,Olga ZAKHAROVA,Ukraine,28
+201,Helena LIPENSKA,Czechia,28
+202,Katja DEBEVEC (Current),Slovenia,28
+203,Michelle HULLIGER,Switzerland,28
+204,Marine THÉVENET,France,28
+205,Iuliia PANTELEEVA,Russia,28
+206,Ai MORI (Current),Japan,28
+207,Zélia AVEZOU (Current),France,28
+208,Lana SKUSEK (Current),Slovenia,27
+209,Olga IAKOVLEVA,Russia,27
+210,Emily PHILLIPS,United Kingdom,27
+211,Ashima SHIRAISHI,United States of America,27
+212,Hannah MIDTBOE,Norway,27
+213,Adriene Akiko CLARK (Current),United States of America,27
+214,Martina DEMMEL (Current),Germany,26
+215,Eva Maria HAMMELMÜLLER (Current),Austria,26
+216,Eliska ADAMOVSKA (Current),Czechia,26
+217,Metka LUKANCIC,Slovenia,26
+218,Zosia PODGORBOUNSKIKH,Russia,26
+219,Isabelle BIHR,France,26
+220,Giulia MEDICI (Current),Italy,26
+221,Elizabeth SEPULVEDA,Puerto Rico,26
+222,Elizabeth SEPULVEDA,United States of America,26
+223,Capucine VIGLIONE (Current),France,26
+224,Elena TIMOFEEVA,Russia,26
+225,Florence PINET,France,26
+226,Lucelia BLANCO,Venezuela (Bolivarian Republic of),26
+227,Mina LESLIE-WUJASTYK,United Kingdom,26
+228,Lucinda ann STIRLING,Australia,26
+229,Gayeong OH (Current),Republic of Korea,26
+230,Isabelle PATISSIER,France,25
+231,Ekaterina KIPRIIANOVA,Russia,25
+232,Margaryta ZAKHAROVA,Ukraine,25
+233,Maya MADERE (Current),United States of America,25
+234,Celine CUYPERS,Belgium,25
+235,Samantha BERRY,Australia,25
+236,Margo HAYES,United States of America,25
+237,Babette ROY (Current),Canada,25
+238,Anon MATSUFUJI (Current),Japan,25
+239,Tjasa SLEMENSEK,Slovenia,24
+240,Catherine VALLET,France,24
+241,Emilie ABGRALL,France,24
+242,Alexandra BALAKIREVA,Russia,24
+243,Kylie CULLEN (Current),United States of America,24
+244,Natalie BÄRTSCHI,Switzerland,24
+245,Viktoriia MESHKOVA (Current),Russia,24
+246,Alexandra ELMER,Austria,24
+247,Rajiah SALLSABILLAH (Current),Indonesia,24
+248,Giulia RANDI (Current),Italy,24
+249,Svitlana TUZHYLINA,Ukraine,24
+250,Nina LACH,Austria,24
+251,Nolwen BERTHIER,France,24
+252,Netta FREDMAN,Israel,24
+253,Elnaz REKABI (Current),Iran (Islamic Republic of),24
+254,Natsumi HIRANO (Current),Japan,24
+255,Sophia CURCIO (Current),United States of America,24
+256,Camille POUGET (Current),France,23
+257,Emma HAWKE,New Zealand,23
+258,Olesya SAULEVICH,Russia,23
+259,Ingrid KINDLIHAGEN (Current),Norway,23
+260,Katrine VANDET SALLING,Denmark,23
+261,Emma HUNT (Current),United States of America,23
+262,Tamara KUZNETSOVA,Kazakhstan,23
+263,Irati ANDA VILLANUEVA,Spain,23
+264,Yiling SONG,China,23
+265,Elena KRASOVSKAYA,Russia,23
+266,Sarah TETZLAFF (Current),New Zealand,23
+267,Lijuan DENG (Current),China,23
+268,Beatrice COLLI (Current),Italy,23
+269,Karin HAYASHI (Current),Japan,23
+270,Kim ANTHONI,Belgium,22
+271,Myriam MOTTEAU,France,22
+272,Lenka TRNKOVA,Czechia,22
+273,Natalia NOVIKOVA,Russia,22
+274,Emilie VERDIER,France,22
 275,Käthe ATKINS (Current),Germany,22
 276,Celine COMBAZ,France,22
 277,Francis RODRIGUEZ,Venezuela (Bolivarian Republic of),22
@@ -282,61 +282,61 @@
 281,Michaela TRACY,United Kingdom,22
 282,Minseon KIM,Republic of Korea,22
 283,Aries SUSANTI RAHAYU,Indonesia,22
-284,Marie-annick PIAT,France,21
-285,Marie GUILLET,France,21
-286,Josune BERECIARTU URRUZOLA,Spain,21
-287,Tamara ULZHABAYEVA (Current),Kazakhstan,21
-288,Asja GOSAR,Slovenia,21
-289,Tatiana SHEMULINKINA,Russia,21
-290,Andrea brigitta SZEKELY,Hungary,21
-291,Wangmu RENZENG,China,21
-292,Delaney MILLER,United States of America,21
-293,Roxy PERRY (Current),Australia,21
-294,Liv EGLI (Current),Switzerland,21
+284,Liv EGLI (Current),Switzerland,22
+285,Marie-annick PIAT,France,21
+286,Marie GUILLET,France,21
+287,Josune BERECIARTU URRUZOLA,Spain,21
+288,Tamara ULZHABAYEVA (Current),Kazakhstan,21
+289,Asja GOSAR,Slovenia,21
+290,Tatiana SHEMULINKINA,Russia,21
+291,Andrea brigitta SZEKELY,Hungary,21
+292,Wangmu RENZENG,China,21
+293,Delaney MILLER,United States of America,21
+294,Roxy PERRY (Current),Australia,21
 295,Laurence GUYON,France,20
 296,Hyun-jung KIM,Republic of Korea,20
 297,Berta MARTIN SANCHO,Spain,20
 298,Janine CARDOSO,Brazil,20
 299,Stéphanie LOUIS,Switzerland,20
-300,Yael TAUB (Current),Israel,20
-301,Katrin AMANN,Sweden,20
-302,Assel MARLENOVA (Current),Kazakhstan,20
-303,Quinn MASON (Current),United States of America,20
-304,Agata MODRZEJEWSKA,Poland,20
-305,Stefanie PICHLER,Austria,20
-306,Magali HAYEN,Belgium,20
-307,Clementine KAISER,France,20
-308,Elise SETHNA,Canada,20
-309,Jara SPÄTE,Switzerland,20
-310,Iqamah NURUL,Indonesia,20
-311,Piper KELLY (Current),United States of America,20
-312,Jimin JEONG (Current),Republic of Korea,20
-313,Yejoo SEO (Current),Republic of Korea,20
-314,Aida TORRES ILLAMOLA (Current),Spain,19
-315,Susi GOOD,Switzerland,19
-316,Monica ZEILEMAKER,Netherlands,19
-317,Zuzana CINTALOVA,Slovakia,19
-318,Emilie POUGET,France,19
-319,Maya DREAMER (Current),Israel,19
-320,Urska REPUSIC,Slovenia,19
-321,Desak MADE RITA KUSUMA DEWI (Current),Indonesia,19
-322,Anastasiya SAVISKO,Ukraine,19
-323,Karoline SINNHUBER,Austria,19
-324,Flavy COHAUT (Current),France,19
-325,Melody SEKIKAWA (Current),Japan,19
-326,Eva NIESELT,Germany,18
-327,Rie KIMURA,Japan,18
-328,Carole PETRIGNET,France,18
-329,Allison VEST,Canada,18
-330,Sienna KOPF,United States of America,18
-331,Selma ELHADJ MIMOUNE (Current),France,18
-332,Elizabeth ASHER,United States of America,18
-333,Audrey SEGUY,United Kingdom,18
-334,Petra RUZICKOVA,Czechia,18
-335,Joanna NEAME (Current),United Kingdom,18
-336,Zoe PEETERMANS (Current),United Kingdom,18
-337,Shaoqin ZHANG (Current),China,18
-338,Agathe CALLIET (Current),France,17
+300,Maya DREAMER (Current),Israel,20
+301,Yael TAUB (Current),Israel,20
+302,Katrin AMANN,Sweden,20
+303,Assel MARLENOVA (Current),Kazakhstan,20
+304,Quinn MASON (Current),United States of America,20
+305,Agata MODRZEJEWSKA,Poland,20
+306,Stefanie PICHLER,Austria,20
+307,Magali HAYEN,Belgium,20
+308,Clementine KAISER,France,20
+309,Elise SETHNA,Canada,20
+310,Jara SPÄTE,Switzerland,20
+311,Iqamah NURUL,Indonesia,20
+312,Piper KELLY (Current),United States of America,20
+313,Jimin JEONG (Current),Republic of Korea,20
+314,Yejoo SEO (Current),Republic of Korea,20
+315,Melody SEKIKAWA (Current),Japan,20
+316,Zoe PEETERMANS (Current),United Kingdom,20
+317,Aida TORRES ILLAMOLA (Current),Spain,19
+318,Susi GOOD,Switzerland,19
+319,Monica ZEILEMAKER,Netherlands,19
+320,Zuzana CINTALOVA,Slovakia,19
+321,Emilie POUGET,France,19
+322,Urska REPUSIC,Slovenia,19
+323,Desak MADE RITA KUSUMA DEWI (Current),Indonesia,19
+324,Selma ELHADJ MIMOUNE (Current),France,19
+325,Anastasiya SAVISKO,Ukraine,19
+326,Karoline SINNHUBER,Austria,19
+327,Flavy COHAUT (Current),France,19
+328,Agathe CALLIET (Current),France,18
+329,Eva NIESELT,Germany,18
+330,Rie KIMURA,Japan,18
+331,Carole PETRIGNET,France,18
+332,Allison VEST,Canada,18
+333,Sienna KOPF,United States of America,18
+334,Elizabeth ASHER,United States of America,18
+335,Audrey SEGUY,United Kingdom,18
+336,Petra RUZICKOVA,Czechia,18
+337,Joanna NEAME (Current),United Kingdom,18
+338,Shaoqin ZHANG (Current),China,18
 339,Bianca DE MAGALHAES DE CASTRO,Brazil,17
 340,Lynn HILL,United States of America,17
 341,Isabelle LAFFONT,France,17
@@ -359,1868 +359,1882 @@
 358,Julia PINGGERA,Austria,17
 359,Claire BUHRFEIND,United States of America,17
 360,Yuki HIROSHIGE,Japan,17
-361,Isis ROTHFORK (Current),United States of America,17
-362,Lucie WATILLON (Current),Belgium,16
-363,Silvia CASSOL,Italy,16
-364,Corinne LABRUNE,France,16
-365,Lucy CREAMER,United Kingdom,16
-366,Nicola HAAGER,Germany,16
-367,Claire BELL,United Kingdom,16
-368,Katrin SEDLMAYER,Germany,16
-369,Elodie GIROUX,France,16
-370,Holly TOOTHILL,United Kingdom,16
-371,Leonie LOCHNER,Germany,16
-372,Elizaveta IVANOVA (Current),Russia,16
-373,Katherine MILLS,United Kingdom,16
-374,Cuifang HE,China,16
-375,Christina SCHMID,Switzerland,16
-376,Kseniya POLEKHINA,Russia,16
-377,Heeyeon PARK,Republic of Korea,16
-378,Grace CROWLEY (Current),Australia,16
-379,Shengyan WANG (Current),China,16
-380,Hanareum SUNG (Current),Republic of Korea,16
-381,Emily SCOTT (Current),Australia,16
-382,Tereza SIRUCKOVA (Current),Czechia,16
-383,Yafei ZHOU (Current),China,16
-384,Svana BJARNASON (Current),France,16
-385,Svana BJARNASON (Current),Iceland,16
-386,Isabelle DORSIMOND,Belgium,15
-387,Shelly PRESSON,United States of America,15
-388,Anna IBANEZ-TUDORAS,Spain,15
-389,Angela STRIECKS,Germany,15
-390,Barbara STRANSKA,Czechia,15
-391,Eva TUSAR,Slovenia,15
-392,Bai-le HUANG,Taiwan,15
-393,Hiu ying LIU,"China, Hong Kong Special Administrative Region",15
-394,Olga EVSTIGNEEVA,Russia,15
-395,Hannah SLANEY,United Kingdom,15
-396,Vanda MICHALKOVA,Slovakia,15
-397,Natalia TITOVA,Russia,15
-398,Tereza KYSILKOVA,Czechia,15
-399,Ludivine HARMAND,France,15
-400,Sarah MATTHEWS,Australia,15
-401,Manuela SIGRIST,Switzerland,15
-402,Margot HEITZ,France,15
-403,Meagan MARTIN,United States of America,15
-404,Seunghyun KIM,Republic of Korea,15
-405,Kajsa ROSEN,Sweden,15
-406,Mingwei NI,China,15
-407,Madison FISCHER,Canada,15
-408,Margarita AGAMBAYEVA (Current),Kazakhstan,15
-409,Mia AOYAGI (Current),Japan,15
-410,Hana KOIKE (Current),Japan,15
-411,Fumika KAWAKAMI (Current),Japan,15
-412,Katarina STREMFELJ,Slovenia,14
-413,Jitka KUHNGABEROVA,Czechia,14
-414,Lisa LAGE,United States of America,14
-415,Agung ethi HENDRAWATI,Indonesia,14
-416,Stefania DE GRANDI,Italy,14
-417,Laura LOIKAS (Current),Finland,14
-418,Nika POTAPOVA (Current),Ukraine,14
-419,Naama YOHAI,Israel,14
-420,Tetiana KOLKOTINA,Ukraine,14
-421,Laura STÖCKLER,Austria,14
-422,Sunniva ØVRE-EIDE (Current),Norway,14
-423,Sukma LINTANG CAHYANI (Current),Indonesia,14
-424,Anna Maria APEL (Current),Germany,14
-425,Olga MOROZKINA,Russia,14
-426,Sara MORANDI,Italy,14
-427,Tabea SCHWAB,Switzerland,14
-428,Tiffany MELIUS,Australia,14
-429,Asja GOLLO,Italy,14
-430,Gabriela VRABLIKOVA,Czechia,14
-431,Elisabetta DALLA BRIDA,Italy,14
-432,Elena REMIZOVA,Russia,14
-433,Tseng-Shun WONG (Current),"China, Hong Kong Special Administrative Region",14
-434,Indiana CHAPMAN,Canada,14
-435,Heeju NOH (Current),Republic of Korea,14
-436,María fernanda HIDALGO AMEZQUITA,Mexico,14
-437,Anastasiia KOBETS (Current),Ukraine,14
-438,Leslie Adriana ROMERO PÉREZ (Current),Spain,14
-439,Maya STASIUK (Current),Australia,14
-440,Jennifer Eucharia BUCKLEY (Current),Slovenia,14
-441,Ina PLASSOUX DJIGA (Current),France,13
-442,Mihaela CRACIUN-PANTIS,Romania,13
-443,Abigail MAY,United Kingdom,13
-444,Susanne ETTER,Switzerland,13
-445,Evi NELIWATI,Indonesia,13
-446,Sona HNIZDILOVA,Czechia,13
-447,Iziar MARTÍNEZ ALMENDROS (Current),Spain,13
-448,Franziska RITTER (Current),Germany,13
-449,Martina HARNISCH,Austria,13
-450,Lucie HROZOVA,Czechia,13
-451,Asaki HAGIWARA,Japan,13
-452,Manon CHAPET,France,13
-453,Hannarai SONG,Republic of Korea,13
-454,Tina SUSTERSIC,Slovenia,13
-455,Puntarika TUNYAVANICH (Current),Thailand,13
-456,Katarzyna EKWINSKA,Poland,13
-457,Megan MASCARENAS,United States of America,13
-458,Moe YOSHIMURA,Japan,13
-459,Zhuoma PUBU,China,13
-460,Mária ČELKOVÁ,Slovakia,13
-461,Yuzhen BAIMA,China,13
-462,Elma FLEURET,France,13
-463,Vanessa Si Yinn TENG (Current),Singapore,13
-464,Valeria MACIAS FERREIRA (Current),Mexico,13
-465,Helen GILLETT (Current),United States of America,13
-466,Madison RICHARDSON (Current),Canada,13
-467,Natsumi ODA (Current),Japan,13
-468,Anja KÖHLER  (Current),Brazil,13
-469,Geila MACIÀ MARTÍN (Current),Spain,13
-470,Mirjam VERBEEK,Netherlands,12
-471,Raffaella VALSECCHI,Italy,12
-472,Iva HARTMANN,Switzerland,12
-473,Romana SAVIC,Slovenia,12
-474,Ulla WALDER,Italy,12
-475,Rebecca ALLEN,United Kingdom,12
-476,Isabella RITSCH,Austria,12
-477,Sabine KNABL,Austria,12
-478,Martina ZANETTI,Italy,12
-479,Ignacia MELLADO QUINTEROS,Chile,12
-480,Lea KEMPF (Current),Austria,12
-481,Miu KAKIZAKI,Japan,12
-482,Nurul IQAMAH (Current),Indonesia,12
-483,Julia KOCH (Current),Germany,12
-484,Mathilde COUCHOT,France,12
-485,Caroline JANUEL,France,12
-486,Manuela VALSECCHI,Italy,12
-487,Tereza SVOBODOVA,Czechia,12
-488,Hsiu-ju LIN,Taiwan,12
-489,Svetlana MOTOVILOVA,Russia,12
-490,Iva VEJMOLOVA,Czechia,12
-491,Claire KASSAY,Australia,12
-492,Kaori HOSONO,Japan,12
-493,Miwa OBA,Japan,12
-494,Johanna HOLFELD,Germany,12
-495,Tara HAYES,United Kingdom,12
-496,Muykuay SILVA (Current),Chile,12
-497,Irina DAZIANO (Current),Italy,12
-498,Iris HEIKKINEN (Current),Finland,12
-499,Mi YANG (Current),China,12
-500,Tegwen OATES (Current),South Africa,12
-501,Agnese FIORIO (Current),Italy,12
-502,Rosa REKAR (Current),Slovenia,12
-503,Yali WEI (Current),China,12
-504,Marina KLEONOVA,Russia,11
-505,Nataliy PASHENNIK,Russia,11
-506,Shun-yuk CHOI,"China, Hong Kong Special Administrative Region",11
-507,Irene STEINDL,Austria,11
-508,Sandr van LANDEGHEM,France,11
-509,Mirella FRATI,Italy,11
-510,Ruth PLANNELS,Spain,11
-511,Hoshiko NAGAKAI,Japan,11
-512,Miriam MOOSBURGER,Austria,11
-513,Fanny ROGEAUX,France,11
-514,Sunniva Eik HAAVE (Current),Norway,11
-515,Zoé EGLI (Current),Switzerland,11
-516,Emily HARRINGTON,United States of America,11
-517,Roberta LONGO,Italy,11
-518,Lai-sho CHENG,"China, Hong Kong Special Administrative Region",11
-519,Alix GRAFTIAUX,Belgium,11
-520,Angela PAYNE,United States of America,11
-521,Nóra KIRÁLY,Hungary,11
-522,Camille FAILLE,France,11
-523,Alison STEWART-PATTERSON,Canada,11
-524,Virgita NADYA PUTRI,Indonesia,11
-525,Farnaz ESMAEILZADEH,Iran (Islamic Republic of),11
-526,Grace MCKEEHAN,United States of America,11
-527,Aika TAJIMA,Japan,11
-528,Alina RING,Switzerland,11
-529,Léa MARIGO,France,11
-530,Wai-ping YU,"China, Hong Kong Special Administrative Region",11
-531,Guizhen XIE (Current),China,11
-532,Thea CAMERON (Current),United Kingdom,11
-533,Melina COSTANZA (Current),United States of America,11
-534,Anja KÖHLER (Current),Brazil,11
-535,Nekaia SANDERS (Current),United States of America,11
-536,Agnès BRARD,France,10
-537,Karin BLESS-REITH,Switzerland,10
-538,Naomi GUY,United Kingdom,10
-539,Karin MAGOG,United Kingdom,10
-540,Nastja GUZZI,Slovenia,10
-541,Tanja BAUER,Germany,10
-542,Lou WALLIN,Sweden,10
-543,Laure MATHIEU,France,10
-544,Yuko SAKAKIBARA,Japan,10
-545,Anna ZAIKINA,Russia,10
-546,Callie CLOSE,United States of America,10
-547,Manon LEBON (Current),France,10
-548,Eliska KARESOVA,Czechia,10
-549,Celine FERGEAU,France,10
-550,Emeline THOMAS,France,10
-551,Aliya ISKAKOVA,Kazakhstan,10
-552,Stacey WELDON,Canada,10
-553,Esther BRUCKNER,France,10
-554,Yuki MATSUSHIMA,Japan,10
-555,Denise BERTRAM,Germany,10
-556,Puji LESTARI,Indonesia,10
-557,Silvia PORTA,Italy,10
-558,Daria KAN,Russia,10
-559,Romy FUCHS,Germany,10
-560,Maëlys AGRAPART,France,10
-561,Saki KIKUCHI,Japan,10
-562,Maggie HAMMER,United States of America,10
-563,Lan KIM,Republic of Korea,10
-564,Natsumi HAYASHI,Japan,10
-565,Dasom YUN (Current),Republic of Korea,10
-566,Yejin JUNG (Current),Republic of Korea,10
-567,Ai TAKEUCHI (Current),Japan,10
-568,Liberty RUNNELS (Current),United States of America,10
-569,Carla MARTÍNEZ VIDAL (Current),Spain,10
-570,Susan NURHIDAYAH (Current),Indonesia,10
-571,Puja LESTARI (Current),Indonesia,10
-572,Anna BALARSHINA (Current),Kazakhstan,10
-573,Ema GALEOVA (Current),Czechia,10
-574,Martina BURŠÍKOVÁ (Current),Slovakia,10
-575,Nina ARTHAUD,France,9
-576,Andrea EISENHUT,Germany,9
-577,Delyth GOODEY,United Kingdom,9
-578,Gunda FRÜHWALD,Germany,9
-579,Silvia PEARSONS,United Kingdom,9
-580,Margarita RYZHKOVA,Russia,9
-581,Delphine CHENEVIER PIGNEUR,France,9
-582,Ina DZHAMBAZOVA,Bulgaria,9
-583,Barbara SCHRANZ,Austria,9
-584,Lisa RANDS,United States of America,9
-585,Tomoko OGAWA,Japan,9
-586,Ekaterina KOROLKOVA,Russia,9
-587,Regine STORÅ (Current),Norway,9
-588,Tiba VROOM,Netherlands,9
-589,Momoko ABE,Japan,9
-590,Rut MONSECH GASCA,Spain,9
-591,Ekaterina BARASHCHUK,Russia,9
-592,Nina ARCH,Austria,9
-593,Zoë MAIRE,Switzerland,9
-594,Holly REID,Canada,9
-595,Helena ALEMAN SOBRINO,Spain,9
-596,Francesca METCALF,United States of America,9
-597,Oleksandra BUD GUSAIM,Ukraine,9
-598,Karina MIROSLAW,Poland,9
-599,Sara AVOSCAN,Italy,9
-600,Julia SERRIÈRE,France,9
-601,Sasha DIGIULIAN,United States of America,9
-602,Amanda SPEED,New Zealand,9
-603,Federica MINGOLLA,Italy,9
-604,Annalisa DE MARCO,Italy,9
-605,Anna VOLLENWYDER,Austria,9
-606,Stella PLANTIN,Sweden,9
-607,Solène AMOROS,France,9
-608,Rebeka KAMIN,Slovenia,9
-609,Itziar ZABALA ZURINAGA,Spain,9
-610,Luiza EMELEVA,Russia,9
-611,Naïlé MEIGNAN (Current),France,9
-612,Erica VELEV,Canada,9
-613,Nawoo CHOI (Current),Republic of Korea,9
-614,Hongchun XIANG,China,9
-615,Chaeyeong KIM (Current),Republic of Korea,9
-616,Lianet CASTILLO (Current),Venezuela (Bolivarian Republic of),9
-617,Mengli ZHANG (Current),China,9
-618,Flora OBLASSER (Current),Austria,9
-619,Juha KIM (Current),Republic of Korea,9
-620,Luisa FLOHÉ,Germany,8
-621,Maria BENACH ZUBERO,Spain,8
-622,Akiko OOIWA,Japan,8
-623,Pascale NOEL,Luxembourg,8
-624,Ineke DIJKSTRA,Netherlands,8
-625,Delphine PIGNEUR,France,8
-626,Gaelle GOURIOU,France,8
-627,Nuria MARTI,Spain,8
-628,Amélie DELPHINO,France,8
-629,Esther CRUZ MONTALBAN,Spain,8
-630,Claudia SALVADORI,Italy,8
-631,Stéphanie CROUVISIER,France,8
-632,Alison MARTINDALE,United Kingdom,8
-633,Rachel SEYMOUR,United Kingdom,8
-634,Olga OCHTCHEPKOVA,Russia,8
-635,Irina KUZMENKO,Russia,8
-636,Elena KRASOVSKAIA (Current),Russia,8
-637,Miku ISHII (Current),Japan,8
-638,Julia DUFFY,United States of America,8
-639,Isabel GIFFORD,United States of America,8
-640,Bianka JANECKA (Current),Poland,8
-641,Tomona TAKAO (Current),Japan,8
-642,Chelsea RUDE,United States of America,8
-643,Nadine RUH,Germany,8
-644,Dan ZHANG,China,8
-645,Claudia BATTAGLIA,Italy,8
-646,Therese JOHANNESEN,Norway,8
-647,Ekaterina BOYARSKIKH,Russia,8
-648,Stephanie TRABER,France,8
-649,Michaela KIERSCH,United States of America,8
-650,Atori YASUDA,Japan,8
-651,Gill PEET,United Kingdom,8
-652,Nataliia STEPANOVA,Russia,8
-653,Ana TIRIPA,Germany,8
-654,Thais makino SHIRAIWA,Brazil,8
-655,Evgeniya LAPSHINA,Russia,8
-656,Emma HORAN,Australia,8
-657,Eliska VLCKOVA,Czechia,8
-658,Giorgia RANDI,Italy,8
-659,Kokoro TAKATA,Japan,8
-660,Chiara maria CLOSTERMANN,Germany,8
-661,Ida KUPS,Poland,8
-662,Prateeksha ARUN (Current),India,8
-663,HaiMei QIU,China,8
-664,Miu KURITA,Japan,8
-665,Choirul UMI CAHYANING AYUB,Indonesia,8
-666,Mahya DARABIAN (Current),Iran (Islamic Republic of),8
-667,Mariana HANGGI CORREIA (Current),Brazil,8
-668,Haruka KANETANI (Current),Japan,8
-669,Sandra HOPFENSITZ (Current),Germany,8
-670,Alivany VER KHADIJAH (Current),Indonesia,8
-671,Lison GAUTRON (Current),France,8
-672,Evangelina BRIGGS (Current),Canada,8
-673,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,8
-674,Noé LOOSER (Current),Switzerland,8
-675,Yajun HUANG (Current),China,8
-676,Abby GEBERT (Current),New Zealand,8
-677,Jorja RANGI (Current),New Zealand,8
-678,Anna LECHNER (Current),Germany,8
-679,Yuju MOU (Current),China,8
-680,Martina CASTRO (Current),Chile,8
-681,Lucy GARLICK (Current),United Kingdom,8
-682,Ting-Chen YAO (Current),Taiwan,8
-683,Anna KELLEY (Current),Canada,8
-684,Ren KOYAMATSU (Current),Japan,8
-685,Jimin HWANG (Current),Republic of Korea,8
-686,Emma EDWARDS (Current),United Kingdom,8
-687,Ella FISHER (Current),United States of America,8
-688,Marketa JANOSOVA (Current),Czechia,7
-689,Natalia KOSMACHEVA,Russia,7
-690,Alison OSIUS,United States of America,7
-691,Miranda ORTAR,Slovenia,7
-692,Catherine GLOESENER,Belgium,7
-693,Dagmar PFAFFENBICHLER,Austria,7
-694,Marianne BERGER,France,7
-695,Lise NOEL,France,7
-696,Elena POSARLIE-CROITORU,Romania,7
-697,Mia AXON,United States of America,7
-698,Gry HANSEN,Norway,7
-699,Martina ARTIOLI,Italy,7
-700,Alessandra FRANCONE,Italy,7
-701,Jenny FÖRANDER,Sweden,7
-702,Sophie HEURTEAUX,France,7
-703,Katarina CINTALOVA,Slovakia,7
-704,Lucinda HUGHES,United Kingdom,7
-705,Maria GEORGIEVA,Bulgaria,7
-706,Vanessa TAYLOR,France,7
-707,Yuka ENDO,Japan,7
-708,Gail ROTHSCHILD,United States of America,7
-709,Gui-ying LIU,China,7
-710,Hana KRIZOVA,Czechia,7
-711,Kristina NILSSON,Sweden,7
-712,Emeline TESO,France,7
-713,Maja STREMFELJ,Slovenia,7
-714,Rachel NILWIK,Netherlands,7
-715,Petya GARBOVA,Bulgaria,7
-716,Fanny CONAN,France,7
-717,Mayan SMITH-GOBAT,New Zealand,7
-718,Woon-seon SHIN,Republic of Korea,7
-719,Andrea CARTAS BARRERA,Spain,7
-720,Tiffany HENSLEY,United States of America,7
-721,Alexandra LADURNER,Italy,7
-722,Amanda ROHNER,Switzerland,7
-723,Yang WANG,China,7
-724,Wangmu GESANG,China,7
-725,Abdul rohma SYARIFAH,Indonesia,7
-726,Supita TITA,Indonesia,7
-727,Santi WELLYANTI,Indonesia,7
-728,Friederike PETRI,Germany,7
-729,Anna LAITINEN,Finland,7
-730,Hannah BAEHR,Germany,7
-731,Anastasiia SAMOILINA,Russia,7
-732,Haimi CHO,Republic of Korea,7
-733,Alyssa WEBER,Canada,7
-734,Christy SPURRELL,Canada,7
-735,Pankaew PLYPOOLSUP,Thailand,7
-736,Solveig KORHERR,Germany,7
-737,Daniela KOTRBOVA,Czechia,7
-738,Jiwon BAE,Republic of Korea,7
-739,Peiyang TIAN,China,7
-740,Florence GRÜNEWALD (Current),Germany,7
-741,Lisa DE MARTINI,Italy,7
-742,Lenka SLEZAKOVA,Czechia,7
-743,Luana RISCADO,Brazil,7
-744,Salsabila SALSABILA,Indonesia,7
-745,Lucile SAUREL (Current),France,7
-746,Yufang XIE (Current),China,7
-747,Zoe GARCIA MOLINA,Argentina,7
-748,Mashiro KUZUU (Current),Japan,7
-749,Shivpreet PANNU (Current),India,7
-750,Laura FARHAT DE ARAUJO FRAGA TIMO (Current),Brazil,7
-751,Danai VALSAMIDI (Current),Greece,7
-752,Pernille TVEDT (Current),Norway,7
-753,Amber SCHIFFELEERS (Current),Netherlands,7
-754,Lily ABRIAT (Current),France,7
-755,Yumei QIN (Current),China,7
-756,Daria TKACHOVA (Current),Ukraine,7
-757,Ursula HELFERT,Germany,6
-758,Tracy HARRISON,United Kingdom,6
-759,Magali BONHOURE,France,6
-760,Esther BULLIDO-GOMEZ,Spain,6
-761,Rachel FARMER,United Kingdom,6
-762,Dalvinder SODHI,United Kingdom,6
-763,Eriko MOGI,Japan,6
-764,Eve PRICKETT,United Kingdom,6
-765,Isabelle PALLE,France,6
-766,Eva LINHARTOVA,Czechia,6
-767,Ines BISCHOFF,Germany,6
-768,Laura FERRERO,Italy,6
-769,Kazumi WATATUKI,Japan,6
-770,Eleonora VAN DER PUTTEN,Netherlands,6
-771,Sarah LAGOFFUN,France,6
-772,Katherine SCHIRRMACHER,United Kingdom,6
-773,Helene belle LASZLO,Norway,6
-774,Lucy ATKINSON,United Kingdom,6
-775,Yuyun YUNIAR,Indonesia,6
-776,Monique FORESTIER,Australia,6
-777,Campbell SARINOPOULOS,United States of America,6
-778,Sabina VAN ESSEN,Netherlands,6
-779,María LABORDA SAGASTE (Current),Spain,6
-780,Federica PAPETTI (Current),Italy,6
-781,Ana KOSMAC,Slovenia,6
-782,Marine LARGERON,France,6
-783,Ekaterina IAEMOURD,Russia,6
-784,Julia WINTER,Germany,6
-785,Irene BARIANI,Italy,6
-786,Katy WHITTAKER,United Kingdom,6
-787,Maria AGAFONOVA,Russia,6
-788,Marie DUVAL,France,6
-789,Rosmery DA SILVA,Venezuela (Bolivarian Republic of),6
-790,Ganna SAVCHENKO,Ukraine,6
-791,Azam KARAMI,Iran (Islamic Republic of),6
-792,Ines DULL,Germany,6
-793,Saari WATANABE,Japan,6
-794,Marine DELPIERRE,France,6
-795,Clarrie LAM,Canada,6
-796,Jessica FAURE,France,6
-797,Malgorzata RUDZINSKA,Poland,6
-798,Anna KOLOKOVSKA,Ukraine,6
-799,Anna BORELLA,Italy,6
-800,Sylwia BUCZEK,Poland,6
-801,Karolina NEVELIKOVA,Czechia,6
-802,Mateja HOHKRAUT,Slovenia,6
-803,Courtney SANDERS,United States of America,6
-804,Jera LENARDIC,Slovenia,6
-805,Maria davies SANDBU,Norway,6
-806,Daniela EBLER,Sweden,6
-807,Erica CARLSON,Canada,6
-808,Anastasiia GOLIKOVA,Russia,6
-809,Tomoko KAJIMA,Japan,6
-810,Erina MIURA,Japan,6
-811,Alexandra ZHIZNEVSKAYA,Kazakhstan,6
-812,Michelle KIM THEISEN,Denmark,6
-813,Veronika MEKE,Slovenia,6
-814,Ayari SAKAMOTO,Japan,6
-815,Serika OKAWACHI,Japan,6
-816,Muriel RUÍZ DE LARRAMENDI ARANGOA,Spain,6
-817,Alise ZVIGULE,Latvia,6
-818,Francesca VASI,Italy,6
-819,Chloe EARLE,Canada,6
-820,Charlotte ANDRE,France,6
-821,Valiantsina CHAMIAKINA,Belarus,6
-822,Sari AGUSTINA,Indonesia,6
-823,LINDA SJÖDIN,Sweden,6
-824,Rahil RAMEZANI,Iran (Islamic Republic of),6
-825,Rhoslyn FRUGTNIET,United Kingdom,6
-826,Paige BOKLASCHUK,Canada,6
-827,RACHELLE DE CHARMOY,South Africa,6
-828,Emma BERNHARD (Current),Germany,6
-829,Nur KHALISHAH (Current),Indonesia,6
-830,Yena PI (Current),Republic of Korea,6
-831,Rocio ailen BECERRA,Argentina,6
-832,Francesca MATUELLA (Current),Italy,6
-833,Phoebe KENDERDINE,New Zealand,6
-834,Nur Diatul JANNAH (Current),Indonesia,6
-835,Natalie GOH SIHUI (Current),Singapore,6
-836,Arantza LUNA VELASCO (Current),Mexico,6
-837,Anahí RIVEROS (Current),Chile,6
-838,Xuanzhen CHEN (Current),China,6
-839,Yawen MI (Current),China,6
-840,Yun-Shan HSIEH (Current),Taiwan,6
-841,Si Wan LEI (Current),"China, Macao Special Administrative Region",6
-842,Matilde CABEZAS (Current),Chile,6
-843,Hei Kiu Heidi WONG (Current),"China, Hong Kong Special Administrative Region",6
-844,Cedar PIDGEON (Current),Canada,6
-845,Sofia PARRADO (Current),Colombia,6
-846,Caroline MAUREL,France,5
-847,Claudine TRECOURT,France,5
-848,Joung-mi KIM,Republic of Korea,5
-849,Barbara HIRSCHBICHLER,Germany,5
-850,Jill GARDINER,United Kingdom,5
-851,Nancy FEAGIN,United States of America,5
-852,Svetlana LIKHOVA,Russia,5
-853,Anne GRAY,Switzerland,5
-854,Nevenka OSREDKAR,Slovenia,5
-855,Marina LICHTINA,Kazakhstan,5
-856,Galina AGAPOVA,Russia,5
-857,Irina ROUIGA,Russia,5
-858,Blaza KLEMENCIC,Slovenia,5
-859,Alexandra HOLKOVA,Czechia,5
-860,Agurtzane ROMERO,Spain,5
-861,Simona ULMONOVA,Czechia,5
-862,Myrtille GUIGUET,France,5
-863,Natalia BARANOVA,Russia,5
-864,Cécile MARTHA,France,5
-865,Sylvie NAGYOVA,Czechia,5
-866,Cinzia DONATI,Italy,5
-867,Sheila JENSEN,Denmark,5
-868,Ksenia SDOBNIKOVA,Russia,5
-869,Emmanuelle RAVEYRE,France,5
-870,Gyong-im YUN,Republic of Korea,5
-871,Mailys PIAZZALUNGA,France,5
-872,Anastasija TERIOCHINA,Lithuania,5
-873,Agniete SEIBOKAITE,Lithuania,5
-874,Kseniia PETROVA,Russia,5
-875,Eliska NOVOTNA,Czechia,5
-876,Irene PIEPER,Netherlands,5
-877,Raquel HERNANDEZ,Spain,5
-878,Eliza KUGLER,Poland,5
-879,Caroline ILIC,France,5
-880,Evelien ZIJLSTRA,Netherlands,5
-881,Sandra BAKULIC,Croatia,5
-882,Spasina NEDYALKOVA,Bulgaria,5
-883,Luisa NEUMÄRKER,Germany,5
-884,Gurgel OZVER,Turkey,5
-885,Anamaria BOGACIU,Romania,5
-886,Cassandra ZAMPAR,Italy,5
-887,Paige CLAASSEN,United States of America,5
-888,Aki TANAKA,Japan,5
-889,Franziska SAURWEIN,Austria,5
-890,Raelene COWIE,United Kingdom,5
-891,Anna MYLNIKOVA,Russia,5
-892,Marija MILOSAVLJEVIC,Serbia,5
-893,Hyojung KIM,Republic of Korea,5
-894,Helen HALDENBY,United Kingdom,5
-895,Audrey SNIEZEK,United States of America,5
-896,Mariya MULYAR,Ukraine,5
-897,Isabell LEINER,Germany,5
-898,Pratthana RAKSACHAT,Thailand,5
-899,Ekaterina NOVITSKAIA,Russia,5
-900,Carolina ROSERO,Ecuador,5
-901,Matilda SÖDERLUND,Sweden,5
-902,Jana MÜLLER,Germany,5
-903,Woonwha JEONG,Republic of Korea,5
-904,Margaux PUCHEUX,France,5
-905,Marieta AKALSKI,Canada,5
-906,Jelisa DUNBAR,Canada,5
-907,Patricia HOLZMANN,Germany,5
-908,Teresa TROYA GIL,Spain,5
-909,Watchareewan TOMAS,Thailand,5
-910,Mulyani MUDJI,Indonesia,5
-911,Kenza SLAMTI,France,5
-912,Karina BILKOVA,Czechia,5
-913,Homare TODA,Japan,5
-914,Mie (marie therese) KASTET,Norway,5
-915,Saeko SUGIMURA,Japan,5
-916,Momoka KANEKO,Japan,5
-917,Syafiiyah DHORIFATUS,Indonesia,5
-918,Nasim BIYARJOMANDY,Iran (Islamic Republic of),5
-919,Lia WIECKOWSKI,Canada,5
-920,Anna MARGOLINA,Russia,5
-921,Evelyne FUX,Switzerland,5
-922,Frederike FELL,Germany,5
-923,Bronwen KARNIS,Canada,5
-924,Jennifer DE LA TORRE,United States of America,5
-925,Aliaksandra MISIUKEVICH,Belarus,5
-926,Gayeon CHO (Current),Republic of Korea,5
-927,Miriam FOGU (Current),Italy,5
-928,Jennifer Marie DE LA TORRE,Mexico,5
-929,Nuria BROCKFELD,Germany,5
-930,María fernanda GONZÁLEZ RÁMIREZ,Mexico,5
-931,Mia WEEDA,Australia,5
-932,Anja SANTINI MIKULIĆ (Current),Croatia,5
-933,Ariane JANATA-BURNS (Current),South Africa,5
-934,Zihan HUANG (Current),China,5
-935,Nonoha KUME,Japan,5
-936,Eugenie LEE (Current),United Kingdom,5
-937,Abigail RUANO,Ecuador,5
-938,Natalia De Jesús GONZÁLEZ (Current),Mexico,5
-939,Lea SLOBODOVÁ (Current),Slovakia,5
-940,Magdalena KOMPEIN (Current),Austria,5
-941,Shixue MENG (Current),China,5
-942,Adi Asih KADEK (Current),Indonesia,5
-943,María José ESTRADA (Current),Mexico,5
-944,Stella GIACANI (Current),Italy,5
-945,Ines SCHWAIGER (Current),Austria,5
-946,Saula LERONDEL,France,4
-947,Flura JIRNOVA,Russia,4
-948,Catherine GLOESHER,France,4
-949,Daniela LUZZINI,Italy,4
-950,Rika FURUTA,Japan,4
-951,Daniela VANHAROVA,Czechia,4
-952,Antonella STRANO,Italy,4
-953,Georgia PHIPPS,United States of America,4
-954,Stanislava BRAZINOVA,Czechia,4
-955,Annette KREINER,Germany,4
-956,Rebeka POCEK,Slovenia,4
-957,Margarita PANFYOROVA,Ukraine,4
-958,Lydie TUCCIO,France,4
-959,Katarina CHKADUA,Georgia,4
-960,Claire MIMET,France,4
-961,Urszula WROBEL,Poland,4
-962,Natalia MINAEVA,Russia,4
-963,Dominique COLLIERE,France,4
-964,Katie BROWN,United States of America,4
-965,Anna PETER,Hungary,4
-966,Mélaine RUBIO,France,4
-967,Laeticia COUDER,France,4
-968,Céline HURTADO,France,4
-969,Sarah SEEGER,Germany,4
-970,Katrin BRADY,Germany,4
-971,Julia BERGKLINT,Sweden,4
-972,Nienke SWART,Netherlands,4
-973,Flavia GAGGERO,Italy,4
-974,Jo GORDON,United Kingdom,4
-975,Sian OAKLEY,United Kingdom,4
-976,Lissa LESACA,Philippines,4
-977,Sheng-ju WEI,China,4
-978,Claire MATHIEU,France,4
-979,Eva elez MUÑOZ,Spain,4
-980,Daria NESTERENKO,Ukraine,4
-981,Arta MATELSONE,Latvia,4
-982,Mona KELLNER,Germany,4
-983,Thea WULFF,United States of America,4
-984,Edel LEMVIK,Norway,4
-985,Lena SCHRITTWIESER (Current),Austria,4
-986,Lucie DELCOIGNE,Belgium,4
-987,Ariane FRANKEN (Current),Austria,4
-988,Doriane mary SARAMANDIF,Mauritius,4
-989,Tomoko MADATE,Japan,4
-990,Suet-man LI,"China, Hong Kong Special Administrative Region",4
-991,Jemma POWELL,United Kingdom,4
-992,Dinara IRSALIYEVA,Kazakhstan,4
-993,Lisa KNOCHE,Germany,4
-994,Isabel BOAVIDA,Portugal,4
-995,Michaelle POLICARD,France,4
-996,Katerina CHUDOBOVA,Czechia,4
-997,Emma TWYFORD,United Kingdom,4
-998,Radiana MANEVA,Bulgaria,4
-999,Irina MITTELMAN,Germany,4
-1000,Jacqui MIDDLETON,Australia,4
-1001,Colette CIRET,France,4
-1002,Anna KHUDYAKOVA,Russia,4
-1003,Dominika DUPALOVA,Czechia,4
-1004,Anne HOARAU,France,4
-1005,Zoe OGDEN,United Kingdom,4
-1006,Natalie SAILER,Germany,4
-1007,Elena CHIAPPA,Italy,4
-1008,Sara AICART ORTIZ,Spain,4
-1009,Olena SHEREMETYEVA,Ukraine,4
-1010,Yulia VAYTSEKHOVSKAYA,Russia,4
-1011,Lucia KORCOVA,Slovakia,4
-1012,Jessica MORANDI,Italy,4
-1013,Tyler YOUNGWERTH,United States of America,4
-1014,Nadja PFISTER,Switzerland,4
-1015,Channah BRANDSEMA,Netherlands,4
-1016,Isabelle FAUS,United States of America,4
-1017,Olga KULISH,Ukraine,4
-1018,Laura MICHELARD,France,4
-1019,Eevi JAAKKOLA,Finland,4
-1020,Madeleine EPPENSTEINER,Austria,4
-1021,Aysel SULTANOVA,Azerbaijan,4
-1022,Tsukasa MIZUGUCHI,Japan,4
-1023,Solah KIM,Republic of Korea,4
-1024,Sakiko OSAWA,Japan,4
-1025,Natalie BERRY,United Kingdom,4
-1026,Claire BRESNAN,United States of America,4
-1027,Miura HAWKINS,United States of America,4
-1028,Samantha LI,Canada,4
-1029,Celeste WALL,Canada,4
-1030,Martina BLANCHET,Italy,4
-1031,Sofia HEINZE CACHO,Mexico,4
-1032,Giulia FOSSALI,Italy,4
-1033,Lisa-marie KVANDAHL,Norway,4
-1034,Rut CASAS MUR,Spain,4
-1035,Emilie PELLERIN,Canada,4
-1036,Léa DELACQUIS,France,4
-1037,Kobra LAKZAIIFAR,Iran (Islamic Republic of),4
-1038,Fitriyani FITRIYANI,Indonesia,4
-1039,Anastasiia EVGENEVA,Russia,4
-1040,Imogen HORROCKS,United Kingdom,4
-1041,Patrícia ANTUNES,Brazil,4
-1042,Tan SHI HUI,Singapore,4
-1043,Maja RUDKA,Poland,4
-1044,Léna GROSPIRON,France,4
-1045,Ka-yan WONG,"China, Hong Kong Special Administrative Region",4
-1046,Fitria HARTANI,Indonesia,4
-1047,Youjin CHA (Current),Republic of Korea,4
-1048,Emi TAKASHIBA,Canada,4
-1049,Rebeca PÉREZ DUATO,Spain,4
-1050,Wai-mui LING,"China, Hong Kong Special Administrative Region",4
-1051,Lisa KLEM (Current),Netherlands,4
-1052,Savina NICELLI (Current),Italy,4
-1053,Alyssa MEYER,South Africa,4
-1054,Narda Mutia AMANDA (Current),Indonesia,4
-1055,Berthdigna Devi Surya KUSUMA (Current),Indonesia,4
-1056,Arina JURCENKO (Current),Czechia,4
-1057,Evdoxia-aikaterini KALLIA (Current),Greece,4
-1058,Rosa ARNOLD (Current),Finland,4
-1059,Sara TRAJKOSKA,The former Yugoslav Republic of Macedonia,4
-1060,Iris pamela DURON ANTONIO,Honduras,4
-1061,Grecia daniela HERNANDEZ GUERRERO,El Salvador,4
-1062,Vinnith IM,Cambodia,4
-1063,Nele THOMAS (Current),Germany,4
-1064,Viola BATTISTELLA (Current),Italy,4
-1065,Kaitlyn BONE (Current),United States of America,4
-1066,Eilin TAN (Current),Singapore,4
-1067,Xinyue SHI (Current),China,4
-1068,Analise VAN HOANG (Current),United States of America,4
-1069,Maya VÁSQUEZ (Current),Chile,4
-1070,Katharina BERGMANN (Current),Austria,4
-1071,Lukka Mörk BLOMSTERBERG (Current),Iceland,4
-1072,Momoka MIYAJIMA (Current),Japan,4
-1073,Clotilde PFISTER (Current),France,4
-1074,Sára ŠIMEKOVÁ (Current),Slovakia,4
-1075,Ava HAMILTON (Current),United Kingdom,4
-1076,Julia BENACH ZUBERO (Current),Spain,4
-1077,Melissa Esther CHEN CHEN (Current),Peru,4
-1078,Jacqueline HO (Current),Canada,4
-1079,Shareen MOHD NASRAN (Current),Malaysia,4
-1080,Emilia ANDERSSON (Current),Sweden,4
-1081,Tamar COHEN (Current),Israel,4
-1082,Francesca WALTHER (Current),Switzerland,4
-1083,Sara STROCCHI (Current),Italy,4
-1084,Ana belén ARGUDO MARUGAN,Spain,3
-1085,Tereza ŠIRŮČKOVÁ,Czechia,3
-1086,Jennifer COLE,United States of America,3
-1087,Margarita SAULIMOVSKAIA,Russia,3
-1088,Catherine DESTIVELLE,France,3
-1089,Bobbie BENSMAN,United States of America,3
-1090,Marie-luise KILCHÖR,Switzerland,3
-1091,Monica MALGAROTTO,Italy,3
-1092,Larisa SPELMAN,Russia,3
-1093,Heike ORTLIEB,Germany,3
-1094,Susan PRICE,United States of America,3
-1095,Catherine MUSSO,France,3
-1096,Therese NOST,Norway,3
-1097,Natalia BAGENOVA,Russia,3
-1098,Elka JANKOVA,Bulgaria,3
-1099,Ana NICOLAI,Romania,3
-1100,Susan WINKLER,Germany,3
-1101,Galina CHURBANOVA,Kazakhstan,3
-1102,Marie ZADVORNIH,Kazakhstan,3
-1103,Catherine MIQUEL,France,3
-1104,Barbara SCHNEIDER,Germany,3
-1105,Yasue KATO,Japan,3
-1106,Cecile MAILLARD,France,3
-1107,Maja SUSTAR,Slovenia,3
-1108,Anna JAREK,Poland,3
-1109,Oliwia BECHYNE,Poland,3
-1110,Manuela MONSCHEIN,Austria,3
-1111,Eva SMEJKALOVA,Czechia,3
-1112,Lucie LOUDOVA,Czechia,3
-1113,Debbie CORBETT,United Kingdom,3
-1114,Michaela DRLIKOVA,Czechia,3
-1115,Maria RÜDISÜHLI,Switzerland,3
-1116,Federica BALTERI,Italy,3
-1117,Marina ANNECCHINI,Italy,3
-1118,Judith HIRSCH,Austria,3
-1119,Claire SARRE,France,3
-1120,Estelle PARDO,France,3
-1121,Laurence DOULAT,France,3
-1122,Soléne RYO,France,3
-1123,Younghee KIM,Republic of Korea,3
-1124,Qing ZHANG,China,3
-1125,Anne MARCHANDISE,France,3
-1126,Vanessa VALENTIM,Brazil,3
-1127,Ana luisa SHIRAWA,Brazil,3
-1128,Clothilde MORIN,France,3
-1129,Elza elizabete BARAKA,Latvia,3
-1130,Eliška BULENOVÁ,Czechia,3
-1131,Celina SCHOIBL,Austria,3
-1132,Erin STERKENBURG,South Africa,3
-1133,Megan LYNCH,United States of America,3
-1134,Evdoxia - aikaterini KALLIA,Greece,3
-1135,Tove WÅHLIN,Sweden,3
-1136,Polina KULAGINA,Russia,3
-1137,Kintana ILTIS (Current),France,3
-1138,Olga GAVRILOVA,Russia,3
-1139,Giovanna POZZOLI,Italy,3
-1140,Lucie RAJFOVA,Czechia,3
-1141,Ming-o WONG,"China, Hong Kong Special Administrative Region",3
-1142,Eva ELEZ,Spain,3
-1143,Ursula STÖHR,Austria,3
-1144,Alexis ASHER,United States of America,3
-1145,Qingzhu HUANG,China,3
-1146,Katie STEENACKERS,Belgium,3
-1147,Daila OJEDA SANCHEZ,Spain,3
-1148,Plamena BAKALOVA,Bulgaria,3
-1149,Sophie MARTIN,France,3
-1150,Lea DESLANDES,France,3
-1151,Malgorzata KUSZTELAK,Poland,3
-1152,Annina GUGGISBERG,Switzerland,3
-1153,Nadia IATSENKO,Ukraine,3
-1154,Naomi BUYS,United Kingdom,3
-1155,Maja LOZIC,Croatia,3
-1156,Yana MALKOVA,Russia,3
-1157,Salfarina MOHD DRUS,Malaysia,3
-1158,Baco achmad WILDA,Indonesia,3
-1159,Liuying LIANG,China,3
-1160,Suzanne VAN DER SLUIS,Netherlands,3
-1161,In kyoung KIM,Republic of Korea,3
-1162,Crina OCHENATU,Romania,3
-1163,Olga MEDVEDIEVA,Ukraine,3
-1164,Thirza CARPENTER,Canada,3
-1165,Victoria WELDON,Canada,3
-1166,Kasia PIETRAS,United States of America,3
-1167,Bonnie DE BRUIJN,Canada,3
-1168,Sarah AUSTIN,Canada,3
-1169,Kerry BRIGGS,Canada,3
-1170,Audrey GAWRYCH,United States of America,3
-1171,Marta SAVKINA,Russia,3
-1172,Andrea ČEPCOVÁ,Slovakia,3
-1173,Chauncenia COX,United States of America,3
-1174,Soho LANGBEHN,Chile,3
-1175,Roelien VAN DE VRIE,Netherlands,3
-1176,Jesse YOUNGWERTH,United States of America,3
-1177,Katy PIDDOCK,United Kingdom,3
-1178,Sarah SCHÜTZENBERGER,Germany,3
-1179,Weiling YANG,China,3
-1180,Jihyeon JEONG,Republic of Korea,3
-1181,Isabell HAAG,Germany,3
-1182,Andrea FICHTNER,Germany,3
-1183,Monika PROKOPIUK-KAWECKA,Poland,3
-1184,Maria CELKOVA,Canada,3
-1185,Mirthe VAN LIERE,Netherlands,3
-1186,Eva CARRO FERNÁNDEZ,Spain,3
-1187,Kaori EGUCHI,Japan,3
-1188,Konul HUSEYNOVA,Azerbaijan,3
-1189,Andrea PAVLINCOVA,Czechia,3
-1190,Jacquelyn WU,United States of America,3
-1191,Alexandra GOLOVINA,Russia,3
-1192,Anja SERBINEK,Slovenia,3
-1193,Eilleen JUBES ANGARITA,Spain,3
-1194,Elsa PONZO,France,3
-1195,Therese JOHANSEN,Norway,3
-1196,Lena HERRMANN,Germany,3
-1197,Giulia ALTON,Italy,3
-1198,Mariana FIERRO,Mexico,3
-1199,Sima SEFEROVA,Azerbaijan,3
-1200,Dana GILEMKHANOVA,Russia,3
-1201,Daria MALYSHEVA,Russia,3
-1202,Jana VINCOURKOVA,Czechia,3
-1203,Or COHEN,Israel,3
-1204,Elena BONAPACE,Austria,3
-1205,Veronika SCHEUEROVA,Czechia,3
-1206,Yana LUGOVENKO,Ukraine,3
-1207,Marisa ROMERO,United States of America,3
-1208,Jiyeon JEON,Republic of Korea,3
-1209,Olivia WYETT,Canada,3
-1210,Romane GRANDCOING,France,3
-1211,Lara ÖZAK,Turkey,3
-1212,Erica MEISTER,United States of America,3
-1213,Natsuko SHIMIZU,Japan,3
-1214,Elfe CLAES,Belgium,3
-1215,Kaja SKVARC BOZIC,Slovenia,3
-1216,Juliana PRICE,United States of America,3
-1217,Athena BIGVAND,Iran (Islamic Republic of),3
-1218,Sarah PEARCE,United States of America,3
-1219,Panchamaya TAMANG,Nepal,3
-1220,Lily CANAVAN,United States of America,3
-1221,Zoe STEINBERG,United States of America,3
-1222,Pia GRAHAM,Canada,3
-1223,Beatriz COIMBRA,Portugal,3
-1224,Ana-maria ZAHARIA,Romania,3
-1225,Nea HERFORTH BAEHR,Denmark,3
-1226,Annie CHOUINARD,Canada,3
-1227,Renzeng ZHUOMA,China,3
-1228,Joanne BRINKMANN,Switzerland,3
-1229,Chauncey CARROLL,United States of America,3
-1230,Fatemeh JAFARI MAHMODABADI,Iran (Islamic Republic of),3
-1231,Sevda GEYIK,Turkey,3
-1232,Victoria GIMENEZ,Argentina,3
-1233,Marion TRABER,France,3
-1234,Tereza KUBATOVA,Czechia,3
-1235,Sarah MCKENZIE,Australia,3
-1236,Moriwaki HONOKA,Japan,3
-1237,Kitty MORRISON,United Kingdom,3
-1238,Valentine MANGIN,France,3
-1239,Bréanne ROBERT,France,3
-1240,Cirvele KATRĪNA,Latvia,3
-1241,Julia MEIJER,Netherlands,3
-1242,Mariia MUSIENKO,Russia,3
-1243,HongChun XIANG,China,3
-1244,ZhuoYing CHEN,China,3
-1245,Hannah SEALY-FISHER,South Africa,3
-1246,Anna DAVEY,Australia,3
-1247,Beatrix EVANS,Canada,3
-1248,Luce DOUADY,France,3
-1249,Sofia alejandra HERRERA VEGA CENTENO,Peru,3
-1250,Sofia BELLESINI,Italy,3
-1251,Emily HERDIC,United States of America,3
-1252,Seoyeon PARK,Republic of Korea,3
-1253,Siobhan DOBIE,Australia,3
-1254,Olivia MA (Current),United States of America,3
-1255,Miriam DIEZ LUENGO (Current),Spain,3
-1256,Anne ACKRE (Current),Norway,3
-1257,Sarah VOUAUX (Current),France,3
-1258,Louna DESHAYES (Current),France,3
-1259,Fadya devi MONICA,Indonesia,3
-1260,Mira CAPICCHIONI,United States of America,3
-1261,Leonie HOFER (Current),Italy,3
-1262,Valentina ARNOLDI (Current),Italy,3
-1263,Meije LERONDEL (Current),France,3
-1264,Zala MLAKAR STARIC (Current),Slovenia,3
-1265,Chunhua WU (Current),China,3
-1266,Yixin LIU (Current),China,3
-1267,Yongshan HUANG (Current),China,3
-1268,Jingyue FAN (Current),China,3
-1269,Karla ZRINSKI (Current),Croatia,3
-1270,Aniya HOLDER (Current),South Africa,3
-1271,Regina SALAZAR PUGA (Current),Mexico,3
-1272,Katya Lynn BROCKMAN (Current),Mexico,3
-1273,Viktorie KONECNA (Current),Czechia,3
-1274,Tahani ALGOUHI (Current),Saudi Arabia,3
-1275,Ruby DANZIGER (Current),Israel,3
-1276,Feiyan YANG (Current),China,3
-1277,Aleya MORIN (Current),Canada,3
-1278,Madi WALSH (Current),United States of America,3
-1279,Adela KONARIKOVA (Current),Czechia,3
-1280,Sarina GHAFFARI (Current),Iran (Islamic Republic of),3
-1281,Kaho MURAKOSHI (Current),Japan,3
-1282,Tsz Kiu TSUI (Current),"China, Hong Kong Special Administrative Region",3
-1283,Lina FUNA (Current),Slovenia,3
-1284,Marilu SOMMER (Current),Switzerland,3
-1285,Mai KOBAYASHI (Current),Japan,3
-1286,Polina KHALKEVYCH (Current),Ukraine,3
-1287,Kohana MUGISHIMA (Current),Japan,3
-1288,Lucía SEMPERE GONZÁLEZ (Current),Spain,3
-1289,Mie OSHIMA,Japan,2
-1290,Isogna JAKUBOWICZ,Poland,2
-1291,Segona RUBIA,Spain,2
-1292,Monique DALMASSO,France,2
-1293,Pascale GALLAND,France,2
-1294,Paola PONS,Italy,2
-1295,Airlie ANDERSON,United Kingdom,2
-1296,Safina MEAH,United Kingdom,2
-1297,Gill LOVICK,United Kingdom,2
-1298,Angela SOPER,United Kingdom,2
-1299,Glenda HUXTER,United Kingdom,2
-1300,Sandra MIHALCEA,Romania,2
-1301,Amy IRVINE,United States of America,2
-1302,Youko KATOU,Japan,2
-1303,Elena VIZITIU,Romania,2
-1304,Martina POLACKOVA,Slovakia,2
-1305,Ivana CADOVA,Czechia,2
-1306,Raffaella NEGRETTI,Italy,2
-1307,Simona SKARJA,Slovenia,2
-1308,Agnes KUBISTA-NUGENT,Austria,2
-1309,Clara PUYADAS-MAYO,Spain,2
-1310,Allis CULLEN,Canada,2
-1311,Tatiana SEMENOVA,Russia,2
-1312,Maria HIMSL,Austria,2
-1313,Kathy YANIRO,United States of America,2
-1314,Ivana FRANCESCHI,Croatia,2
-1315,Christine LACOUR,France,2
-1316,Gaèle GIOT,France,2
-1317,Tiffany LEVINE,United States of America,2
-1318,Elizabeth ILLY,Australia,2
-1319,Anne-marie COFFY,France,2
-1320,Sian KILLEN,United Kingdom,2
-1321,Aleksandra TOMKOWICZ,Poland,2
-1322,Irina ZAYTSEVA,Russia,2
-1323,Eliza CZERWINSKA,Poland,2
-1324,Natalia NESTEROVA,Russia,2
-1325,Sarah HARRISON,United Kingdom,2
-1326,Monika WILLE,Austria,2
-1327,Michell HURNI,United States of America,2
-1328,Eerika LIPSANEN,Finland,2
-1329,Libusa HUSAROVA,Slovakia,2
-1330,Beatrice BRENGUER,France,2
-1331,Suncica HRASCANEC,Croatia,2
-1332,Yolanda SWIERSTRA,Netherlands,2
-1333,Petia gueorguieva IVANOVA,Bulgaria,2
-1334,Florence GAS,France,2
-1335,Marianne BLOM BRODERSEN,Norway,2
-1336,Marina MALAMID,Russia,2
-1337,Veronique BATOUX,France,2
-1338,Annika BERGQVIST,Sweden,2
-1339,Akiko WATAHIKI,Japan,2
-1340,Chloé VALEMBOIS,France,2
-1341,Nolwen LELINGNE,France,2
-1342,Nino TCHARKVIANI,Georgia,2
-1343,Lauren LEE,United States of America,2
-1344,Sadie RENWICK,United Kingdom,2
-1345,Natalia RYMCHA,Russia,2
-1346,Olesia KLEOCHINA,Russia,2
-1347,Hiroe TAKEZAWA,Japan,2
-1348,Blesilda marie CALICA,Philippines,2
-1349,Pleun FRANK,Netherlands,2
-1350,Adela BAJEROVA,Czechia,2
-1351,Genevieve DENNIS,United States of America,2
-1352,Kathrine elsig JENSEN,Denmark,2
-1353,Yula GOLD,Israel,2
-1354,Alessia MABBONI,Italy,2
-1355,Alexandra GULLBERG,Sweden,2
-1356,Nurul AISYAH RAMADHANI SUAT,Indonesia,2
-1357,Ashley FISHER,United States of America,2
-1358,Katja PLANINC,Slovenia,2
-1359,Aurelie DIDILLION,France,2
-1360,Kristine marie ROBLES,Philippines,2
-1361,Barbara joan RAMIRO,Philippines,2
-1362,Kit ying TANG,"China, Hong Kong Special Administrative Region",2
-1363,Xiujuan ZHU,China,2
-1364,Malin STÄMBERG,Sweden,2
-1365,Yukiko TOGAWA,Japan,2
-1366,Chika TAI,Japan,2
-1367,Nina HERZOG,Austria,2
-1368,Kitty XU,New Zealand,2
-1369,Ilmawaty LABANU,Indonesia,2
-1370,Athena LIVANIU,Greece,2
-1371,Valentine VAN WINCKEL,Belgium,2
-1372,Kimie OLIVEIRA,Portugal,2
-1373,Martina GLASEROVA,Czechia,2
-1374,Kimie KON,Portugal,2
-1375,Marisa CORREIA,Portugal,2
-1376,Zosya ASTASHOVA,Russia,2
-1377,Yevgeniya SOBOLEVA,Kazakhstan,2
-1378,Olga MYKHAILOVA,Ukraine,2
-1379,Marine BARBIER,France,2
-1380,Marine CUSA,France,2
-1381,Bangalore subbarao ARCHANA,India,2
-1382,Mustafa NORZAHARATULLAILI,Malaysia,2
-1383,Indah YULIYASTANTI,Indonesia,2
-1384,Helen KEAN,United Kingdom,2
-1385,Tamara ZULIM,Croatia,2
-1386,Anna CERMAKOVA,Czechia,2
-1387,Nee ooi SHEN,Malaysia,2
-1388,Yuet mei LUM,Malaysia,2
-1389,Rosharyani ZAINAL,Malaysia,2
-1390,M. n. VATHSALA,India,2
-1391,Hui OUYANG,China,2
-1392,Liubov SHAGINA,Russia,2
-1393,Evren KARADAĞ,Turkey,2
-1394,Aleksandra KODZIK,Poland,2
-1395,Amalia MANDRU,Romania,2
-1396,Katarina FICKULIAKOVA,Slovakia,2
-1397,Alisa GEL'FER,Ukraine,2
-1398,Julia YACHNIK,Russia,2
-1399,Xuqing LI,China,2
-1400,Sajedeh SOLTANINEJAD,Iran (Islamic Republic of),2
-1401,Daniela LOPEZ,Venezuela (Bolivarian Republic of),2
-1402,Orquidea LEÓN JUAREZ,Mexico,2
-1403,Natalia KUBRAKOVA,Russia,2
-1404,Solène LE CAR,France,2
-1405,Cosima WILLI,Switzerland,2
-1406,Charlotte JOUETT-BOSLEY,United States of America,2
-1407,Kate MCGINNIS,United States of America,2
-1408,Alyrene DOREY,United States of America,2
-1409,Portia MENLOVE,United States of America,2
-1410,Yulia TROEPOLSKAYA,Russia,2
-1411,Natalia KOROLEVA,Russia,2
-1412,Larysa MALYZHENKAVA,Belarus,2
-1413,Katarzyna MIROSLAW,Poland,2
-1414,Katy GOATACHE,Venezuela (Bolivarian Republic of),2
-1415,Rossi GABAZÚ,Venezuela (Bolivarian Republic of),2
-1416,Anna MIKUSHKINA,Russia,2
-1417,Eleanor HOWARD,United Kingdom,2
-1418,Marianne VERHAGE,Netherlands,2
-1419,Sarah GILMOUR,New Zealand,2
-1420,Olena SHURUBOR,Ukraine,2
-1421,Malin HOLMBERG,Sweden,2
-1422,Egle KIRDULYTE,Lithuania,2
-1423,Mirka KRAJCIOVA,Slovakia,2
-1424,Radka PETKOVA,Bulgaria,2
-1425,Cicada JENERIK,United States of America,2
-1426,Maria BELOMESTNOVA,Russia,2
-1427,Luisa DEUBZER,Germany,2
-1428,Julie MICHELARD,France,2
-1429,Xiaotong GUAN,China,2
-1430,Azumi IIDA,Japan,2
-1431,Eunjoung YANG,Republic of Korea,2
-1432,Youngsook CHOI,Republic of Korea,2
-1433,Janina GMITER,Poland,2
-1434,Michela FACCI,Italy,2
-1435,Anna WAGNEROVA,Czechia,2
-1436,Simona KORCOVA,Slovakia,2
-1437,Olga SHCHELNIKOVA,Russia,2
-1438,Uji ayu SUKMANDIRI,Indonesia,2
-1439,Maegan KELLEWAY,Canada,2
-1440,Amelia METCALF,United States of America,2
-1441,Giada ZAMPA,Italy,2
-1442,Iyma LAMARCHE,Canada,2
-1443,Nina WILLIAMS,United States of America,2
-1444,Eva KRIZOVA,Czechia,2
-1445,Sofia CORREA,Ecuador,2
-1446,Ayaka TAKEUCHI,Japan,2
-1447,Claudia MALDONADO,Mexico,2
-1448,Lina HIMPEL,Germany,2
-1449,Tabitha BUMA,Netherlands,2
-1450,Natalia IAKOVLEVA,Russia,2
-1451,Cathy LAFLAMME,Canada,2
-1452,Victoria KLEMM,Austria,2
-1453,Reyhan MAMMADOVA,Azerbaijan,2
-1454,Anastasiya ZAICHENKO,Ukraine,2
-1455,Yulia KHUTOROVA,Russia,2
-1456,Emilia GRUSZEWSKA,Poland,2
-1457,Buket AKÇA,Turkey,2
-1458,Antonia ioana TRIFU,Romania,2
-1459,Elizabeth VINCE,Canada,2
-1460,"Chi-heng, sharon CHIU","China, Hong Kong Special Administrative Region",2
-1461,Marta PALOU CAROL,Spain,2
-1462,Zuriñe ARRUE TOBAR,Spain,2
-1463,Ginevra CASELLATO,Italy,2
-1464,Magdalena PÖLL,Austria,2
-1465,Misato NISHIKORI,Japan,2
-1466,Asami HARADA,Japan,2
-1467,Eva SCROCCARO,Italy,2
-1468,Sophie RAUBERGER,Germany,2
-1469,Kristina JELLEMA,Canada,2
-1470,Sue BRUMM,United States of America,2
-1471,Santa GRIGORJEVA,Latvia,2
-1472,Paulina KALANDYK,Poland,2
-1473,Emilie GERHARDT,Germany,2
-1474,Maja BOZICH,Croatia,2
-1475,Yukari NAKAMURA,Japan,2
-1476,Ayane SAKAI,Japan,2
-1477,Pui-yim LAU,"China, Hong Kong Special Administrative Region",2
-1478,Purnamasari ITA TRIANA,Indonesia,2
-1479,Sima SOLTANI,Iran (Islamic Republic of),2
-1480,Siddhi shekhar MANERIKAR,India,2
-1481,Senjam debala DEVI,India,2
-1482,Flavia pereira SONALI,India,2
-1483,Fatma BASOGLU KABRAN,Turkey,2
-1484,Molly RENNIE,United States of America,2
-1485,Maddy MORRIS,United States of America,2
-1486,Luna FRIEDRICH,Germany,2
-1487,Julia TALBOT,United States of America,2
-1488,Jaylene PRATT,Canada,2
-1489,Alessandra ZANETTI,Italy,2
-1490,Aya KIKUZAWA,Japan,2
-1491,Nanna SÖDERIN,Sweden,2
-1492,Yuliya KEREMEDCHIEVA,Bulgaria,2
-1493,Miharu SOTOME,Japan,2
-1494,Kseniia MELNYKOVA,Ukraine,2
-1495,Seohyun KIM,Republic of Korea,2
-1496,Saedasom JUNG,Republic of Korea,2
-1497,Eva THOMPSON,Canada,2
-1498,Yuno HARIGAE (Current),Japan,2
-1499,Katsuki BAMBA,Japan,2
-1500,Narada DISYABUT,Thailand,2
-1501,Swastika CHAUDHARY (Current),Nepal,2
-1502,Amour PAZ,Israel,2
-1503,Ayşe NARMANLI,Turkey,2
-1504,Ivanova INTA,Latvia,2
-1505,Silvia BARRETT,Sweden,2
-1506,Suet-ying LAM,"China, Hong Kong Special Administrative Region",2
-1507,Laurel MELTON,United States of America,2
-1508,Svetlana SHAROVA,Russia,2
-1509,Emily GONZALEZ,Ecuador,2
-1510,Alisson VIZUETE,Ecuador,2
-1511,Sara MORANDINI,Italy,2
-1512,Lesley LADLAD,United States of America,2
-1513,Philippa WATKIN,United Kingdom,2
-1514,Sunga SON,Republic of Korea,2
-1515,Marie COLOT,Belgium,2
-1516,Mª Carmen ALARCÓN GRAU,Spain,2
-1517,Volha RAK,Belarus,2
-1518,Lotina DIANA,Latvia,2
-1519,Bahareh BADRABADI,Iran (Islamic Republic of),2
-1520,Hadis NAZARIROBATI,Iran (Islamic Republic of),2
-1521,Valeriia DERIABINA,Russia,2
-1522,Yevheniia CHERNIAVSKA,Ukraine,2
-1523,Kamilla KUSHAEVA,Russia,2
-1524,Polina AKSENOVA,Russia,2
-1525,Lisa HAMMER,United States of America,2
-1526,Wing Sze YUEN,"China, Hong Kong Special Administrative Region",2
-1527,Azmie NADIRAH,Singapore,2
-1528,Hoi-ying TO,"China, Hong Kong Special Administrative Region",2
-1529,Anna KRAJUSHKINA,Estonia,2
-1530,Sophia KWON,United States of America,2
-1531,Sara CARAMELLA,Italy,2
-1532,Laura LAMMER,Austria,2
-1533,Emma PALMER,United States of America,2
-1534,Sabina VEČEŘOVÁ,Czechia,2
-1535,Flora FROESE,Australia,2
-1536,Elisa VAN DER WEL,Germany,2
-1537,Annika PIDDE,Germany,2
-1538,Hannah HERMANN,Switzerland,2
-1539,Sanja-Riia COLLIN,Finland,2
-1540,Anna CALANCA,Italy,2
-1541,Lauren BAIR,United States of America,2
-1542,Romane FONTELAYE,France,2
-1543,Nitsa TVAURI,Georgia,2
-1544,Sophie BUITENDYK,Canada,2
-1545,Estelle PARK,United States of America,2
-1546,Saveena FILLINGHAM (Current),United Kingdom,2
-1547,Louise FLOCKHART,United Kingdom,2
-1548,Doriane SARAMANDIF,Mauritius,2
-1549,Lauren MUKHEIBIR (Current),South Africa,2
-1550,Rugile TAMOSIUNAITE,Lithuania,2
-1551,Barbara WÓJCIK (Current),Poland,2
-1552,Tuuli LAPPALAINEN,Finland,2
-1553,Alexandra KATERI,Greece,2
-1554,Lucie VAILLANT BULTEL,France,2
-1555,Milica MARJANOVIC,Serbia,2
-1556,Saniya farooque SHAIKH,India,2
-1557,Eka DIAN KRISMAWATI,Indonesia,2
-1558,Kailer KORDEWICK (Current),United States of America,2
-1559,Sydney WILLIAMS (Current),United States of America,2
-1560,Micaela PATAJO (Current),United States of America,2
-1561,Anna BOLIUS (Current),Austria,2
-1562,Carmen CONTRERAS,Chile,2
-1563,Giulia BERNARDINI (Current),Italy,2
-1564,Anisha VERMA,India,2
-1565,Jingyu LI (Current),China,2
-1566,Ziqi Elly GAO (Current),"China, Hong Kong Special Administrative Region",2
-1567,Sui Lin Renee TAN (Current),Malaysia,2
-1568,Jingjing MAO (Current),China,2
-1569,Valissya MAY (Current),Bulgaria,2
-1570,Sina WILLY (Current),Austria,2
-1571,Tamara Fatima ORTIZ RUIZ (Current),Peru,2
-1572,Sarah FEICHTENSCHLAGER (Current),Austria,2
-1573,Arina KOZLOVA (Current),Kazakhstan,2
-1574,Lana BONNAL (Current),France,2
-1575,Lily NGUYEN (Current),United States of America,2
-1576,María Fernanda GONZÁLEZ RÁMIREZ (Current),Mexico,2
-1577,Lana GORIC (Current),Slovenia,2
-1578,Yubin HONG (Current),Republic of Korea,2
-1579,Shin Yee CHEN (Current),Malaysia,2
-1580,Kylie BAKER (Current),Guam,2
-1581,Ka Kei CHU (Current),"China, Macao Special Administrative Region",2
-1582,Pak Chi SOU (Current),"China, Macao Special Administrative Region",2
-1583,Cho Wing Jasmiki LAM (Current),"China, Hong Kong Special Administrative Region",2
-1584,Rowaida ALERWI (Current),Saudi Arabia,2
-1585,Jiaxuan YANG (Current),China,2
-1586,Sana OGURA (Current),Japan,2
-1587,Jisu CHOI (Current),Republic of Korea,2
-1588,Zoe YI (Current),United States of America,2
-1589,Emiko TAKEUCHI (Current),United States of America,2
-1590,Neza ZAJC (Current),Slovenia,2
-1591,Jil COUTURE (Current),Switzerland,2
-1592,Mariam DE LA VEGA (Current),Mexico,2
-1593,Melis PEHLIVAN (Current),Turkey,2
-1594,Caiya TAYLOR AINSLIE (Current),Canada,2
-1595,Johanna NAGL (Current),Austria,2
-1596,Louise FONTAINE (Current),France,2
-1597,Sienna CHOW (Current),Canada,2
-1598,Analía DOMÍNGUEZ CRISTERNA (Current),Mexico,2
-1599,Mia GUTTENBERGER (Current),Germany,2
-1600,Elise VILLENEUVE (Current),Canada,2
-1601,Paula TRAVERSO LEBRÓN (Current),Spain,2
-1602,Amanda CRISCUOLI TAVARES (Current),Brazil,2
-1603,Tahnia HARRIS (Current),Australia,2
-1604,Xin WANG (Current),China,2
-1605,Mina Josephine SCHULTZ (Current),Germany,2
-1606,Milana MELNICHENKO (Current),Russia,2
-1607,Courtney Carol SCHAGEN (Current),South Africa,2
-1608,Paula MAYER-VORFELDER (Current),Germany,2
-1609,Colette BOBENRIETH,France,1
-1610,Nikola KRALIKOVA,Czechia,1
-1611,Renee GUERIN,France,1
-1612,Liubov ZAHAROVA,Russia,1
-1613,Ira BAKALEINIKOVA,Russia,1
-1614,Natalia LUKINA,Russia,1
-1615,Maya KOLEVA,Bulgaria,1
-1616,Anna SHOPSKA,Bulgaria,1
-1617,Daniela DOTCHEVA,Bulgaria,1
-1618,Kristen DRUMHELLER,United States of America,1
-1619,Meg HALL,United States of America,1
-1620,Marie-Agnes DUVAL,France,1
-1621,Paola PADOVAN,Italy,1
-1622,Verenijk PLANCHIN,France,1
-1623,Robyn CLELAND,United Kingdom,1
-1624,Lucy ELLIS,United Kingdom,1
-1625,Alison COWLEY,United Kingdom,1
-1626,Bernadette BRAIDLEY,United Kingdom,1
-1627,Geraldine TAYLOR,United Kingdom,1
-1628,Catherine DUFILL,United Kingdom,1
-1629,Anna GREGORY,United Kingdom,1
-1630,Helen KOLIADA,Russia,1
-1631,Claudie DUNN,United Kingdom,1
-1632,Barbara CLEMES,Canada,1
-1633,Diane RUSSELL,United States of America,1
-1634,Elena KOLIADA,Russia,1
-1635,Elena CIOROIANU,Romania,1
-1636,Jung-ae YOU,Republic of Korea,1
-1637,Ork-young CHA,Republic of Korea,1
-1638,Chun-fang LIN,China,1
-1639,Shu-mei HSU,Taiwan,1
-1640,Kusi-chib YANG,Taiwan,1
-1641,Yumiko MUROI,Japan,1
-1642,Chiaki SUGIMORI,Japan,1
-1643,Mito MASUMI,Japan,1
-1644,Anne JACOB,India,1
-1645,Alka SABHARVAL,India,1
-1646,Anna VOUTCHKOVA,Bulgaria,1
-1647,Irmgard BRAUN,Germany,1
-1648,Irina KODINA,Russia,1
-1649,Taitiana DMITRIEVSKAYA,Russia,1
-1650,Stefanie SCHREIBER,Germany,1
-1651,Catherine BARDON,France,1
-1652,Rita CSOULIMOVSKA,Russia,1
-1653,Brigitte SCHNEIDER,Austria,1
-1654,Jola SANDFORD,Canada,1
-1655,Pascale MATERA,France,1
-1656,Carolyn YOUNG,United Kingdom,1
-1657,Anne MURRAY,United Kingdom,1
-1658,Unda TOSSEBRO,Norway,1
-1659,Slavica STOJAKOVIC-POJGORNIK,Croatia,1
-1660,Galina EREMINA,Russia,1
-1661,Kyung-soon KIM,Republic of Korea,1
-1662,Fung-kin TAM,"China, Hong Kong Special Administrative Region",1
-1663,Kyung-im YOON,Republic of Korea,1
-1664,Shwu-mei SHAU,Taiwan,1
-1665,Mei-huei CHOU,Taiwan,1
-1666,Hisako TAKEDA,Japan,1
-1667,Yukiko MAESHIMA,Japan,1
-1668,Michiko AKAISHI,Japan,1
-1669,Karla RIEGLER,Austria,1
-1670,Violeta MELTHEVA,Bulgaria,1
-1671,Ana GRABOVAC,Croatia,1
-1672,Anca TARNA,Romania,1
-1673,Marie claire GONTHARET,France,1
-1674,Berit SKEJEVLING,Norway,1
-1675,Zuzana FISCHEROVA,Czechia,1
-1676,Suzanne PAULSON,United States of America,1
-1677,Sodhi DALVINDER,United Kingdom,1
-1678,Jun-sook KIM,Republic of Korea,1
-1679,Zoe KOZUB,Canada,1
-1680,Hilary HARRIS,United States of America,1
-1681,Karin SPENGLER,Germany,1
-1682,Ursi DÜGGELIN,Switzerland,1
-1683,Sandra STUDER,Switzerland,1
-1684,C. CHAUSSIS,France,1
-1685,Marie DUTRAY,France,1
-1686,Heidi WILLENER,Switzerland,1
-1687,Séverine LIZIN,Belgium,1
-1688,Irena PALOSEK,Croatia,1
-1689,Helen DOLGOVYZOVA,Kazakhstan,1
-1690,Silvia FITZPATRICK,United Kingdom,1
-1691,Maria PAZUK,Uzbekistan,1
-1692,Baiba TSIPARSONE,Latvia,1
-1693,Florance DUTARTRE,France,1
-1694,Florence LACHENAL,France,1
-1695,Renata DUMITRANA,Romania,1
-1696,Martine GOERGER,France,1
-1697,Ameli HAAGER,Germany,1
-1698,Larisa SHESTMINCEVA,Ukraine,1
-1699,Larissa BURONOVA,Russia,1
-1700,Gill BLACKBURN,United Kingdom,1
-1701,Tessa LITTLE,South Africa,1
-1702,Wilma RENKEMA,Netherlands,1
-1703,Françoise GENON,Belgium,1
-1704,Monika NIEDBALSKA,Poland,1
-1705,Pia PYLVÄNÄINEN,Finland,1
-1706,Meryl SINGER,United States of America,1
-1707,Maria JAROKH,Ukraine,1
-1708,Galina CHICHKINA,Kazakhstan,1
-1709,Kyung-soo YANG,Republic of Korea,1
-1710,Aletia OWEN,United Kingdom,1
-1711,Catherine FRENCH,United Kingdom,1
-1712,Katherine LOVE,United Kingdom,1
-1713,Lizz GRENARD,United States of America,1
-1714,Anja FÄRBER,Germany,1
-1715,Heather COLLINS,United States of America,1
-1716,Beth RODDEN,United States of America,1
-1717,Elena KOPYLOVA,Russia,1
-1718,Lucie POTESILOVA,Czechia,1
-1719,Brigitta NILSSON,Sweden,1
-1720,Anita ROSTEN,Sweden,1
-1721,Silvia GRIVA,Italy,1
-1722,Frederique COLLIERE,France,1
-1723,Marharyta USATIUK,Ukraine,1
-1724,Paola SABBION,Italy,1
-1725,Akemi HASHIMOTO,Japan,1
-1726,Zantzou VASILIKI,Greece,1
-1727,Cristina GONZALEZ,Spain,1
-1728,Ana belen UBEDA,Spain,1
-1729,Hélène ASTIE,France,1
-1730,Karine PEREZ,France,1
-1731,Elisabetta BOLDRIN,Italy,1
-1732,Mariann BAKKE,Norway,1
-1733,Auriana BEAUTE,France,1
-1734,Elodie CHAZAUD,France,1
-1735,Aicha HABBOUSE,France,1
-1736,Camilla PAYAN,France,1
-1737,Pascale HERNANDEZ,France,1
-1738,Aurélie BOUSSARD,France,1
-1739,Sidonie FROMENTIN,France,1
-1740,Daniela PETROVA DIMITROVA,Bulgaria,1
-1741,Sofo TVARADZE,Georgia,1
-1742,Sara aylin OSTALE,Chile,1
-1743,Manuela FENDER,Austria,1
-1744,Dora GILAUYI,Hungary,1
-1745,Vasiliki ZANTZOU,Greece,1
-1746,Tzveta konstantin KOJOUHAROVA,Bulgaria,1
-1747,Isabelle ROCHE,France,1
-1748,Audrey RAMIS,France,1
-1749,Juliette DESCHAMPS,France,1
-1750,Valérie CHAUVET,France,1
-1751,Alexandra GONTCHAR,Russia,1
-1752,Sara PERENZONI,Italy,1
-1753,Tam LAYCOCK,United States of America,1
-1754,Mariana ENE,Romania,1
-1755,Elsa FONTANEZ,France,1
-1756,Giovanna PASSERINI,Italy,1
-1757,Sung-shi KIM,Republic of Korea,1
-1758,Jana OMAN,Slovenia,1
-1759,Maureen KUNZ,United States of America,1
-1760,Melissa GRIFFITH,United States of America,1
-1761,April MARR,United Kingdom,1
-1762,Mustafa N.LILY,Malaysia,1
-1763,Jung-ok LEE,Republic of Korea,1
-1764,Mohamad AMIRAH MARINA,Malaysia,1
-1765,Dewi izwana BT. ALI,Malaysia,1
-1766,Tiffen DECORPS,France,1
-1767,Yekaterin KRASILNOKOVA,Kazakhstan,1
-1768,Shane BUZON,Philippines,1
-1769,Yuk-lan CHAN,"China, Hong Kong Special Administrative Region",1
-1770,Emilie PUPKO,Israel,1
-1771,Emma stöver WOLLEBAEK,Norway,1
-1772,Yael BAHARAD,Israel,1
-1773,Gabrielle TOURTELLOTTE,United States of America,1
-1774,Roosa HUHTIKORPI,Finland,1
-1775,Johanna SÖRBOM,Sweden,1
-1776,Nikoline ÖHRSTRÖM,Denmark,1
-1777,Emilia WARENSKI,Austria,1
-1778,Jana RAUTH,Austria,1
-1779,Annika STÖCKL,Austria,1
-1780,Camilla BENDAZZOLI,Italy,1
-1781,Abdul rochman SYARIFAH,Indonesia,1
-1782,Liza NOVAK,Slovenia,1
-1783,Athanasia LIOUNI,Greece,1
-1784,Chloé LESPAGNOL,France,1
-1785,Véronique POULHES,France,1
-1786,Jen LEMAIRE,United States of America,1
-1787,Elaina kristine ap FLORES,Philippines,1
-1788,Mi-hyung HWANG,Republic of Korea,1
-1789,Jian-li LI,China,1
-1790,Lai-yin NG,"China, Hong Kong Special Administrative Region",1
-1791,Kit ling TSOI,"China, Hong Kong Special Administrative Region",1
-1792,Meng-chun CHANG,Taiwan,1
-1793,Chiu-ping LEE,Taiwan,1
-1794,Janina KÄYHKÖ,Finland,1
-1795,Eva LOPEZ RIVERA,Spain,1
-1796,Masa RIBNIKAR,Slovenia,1
-1797,Polona SANTELJ,Slovenia,1
-1798,Regina KNABL,Austria,1
-1799,Marine SOUCHE,France,1
-1800,Gizelle katrina LOPEZ,Philippines,1
-1801,Sarah jane ROSETE,Philippines,1
-1802,Chiu-mei CHANG,Taiwan,1
-1803,Yi-fang HOUNG,Taiwan,1
-1804,Maho KOBAYASHI,Japan,1
-1805,Joanna GOORNEY,United Kingdom,1
-1806,A MURJAYANTI,Indonesia,1
-1807,Sarah WEBSTER,Australia,1
-1808,Stine OSTERGAARD,Denmark,1
-1809,Stephanie OUTLAND,United States of America,1
-1810,Paraskevi GIOURI,Greece,1
-1811,Lara DE BACKER,Belgium,1
-1812,Eun-na DO,Republic of Korea,1
-1813,Petra TOMANOVA,Slovakia,1
-1814,Svenja SUWELACK,Germany,1
-1815,Jasmin KREMSER,Austria,1
-1816,Zuzana ULRICHOVA,Czechia,1
-1817,Gabriela DOBROTA,Serbia,1
-1818,Cveta KOJUHAROVA,Bulgaria,1
-1819,Siyana KYUTINSKA,Bulgaria,1
-1820,Antonina SOUVOROVA,Russia,1
-1821,Laura GRIFFITHS,United States of America,1
-1822,Amanda WATTS,Australia,1
-1823,Mizuho INGRE,Sweden,1
-1824,Sunniva HAMMERAAS,Norway,1
-1825,Pauline SARROTE,France,1
-1826,Christina BEDARD,Australia,1
-1827,Lucy GRIFFITHS,United Kingdom,1
-1828,Barbara ZANGERL,Austria,1
-1829,Eva KOVACOVA,Slovakia,1
-1830,Valeriya LESHCHENKO,Ukraine,1
-1831,Lovise SPARRE,Sweden,1
-1832,Nastasiya UVAROVA,Ukraine,1
-1833,Kateryna CHORNOSKUTOVA,Ukraine,1
-1834,Bogna WILCZYNSKA,Poland,1
-1835,Alexandra DUMONT,France,1
-1836,Triana ARIESANDHI,Indonesia,1
-1837,Robiah adawiyan SITI,Indonesia,1
-1838,Ayu sukmandiri UJI,Indonesia,1
-1839,Tri ADIANTI,Indonesia,1
-1840,Natalia RUCHKA,Ukraine,1
-1841,Duygu YARSUR,Turkey,1
-1842,Karen ALLEN,Australia,1
-1843,Chrysa STERGIAKOU,Greece,1
-1844,Stella KERASIDOU,Greece,1
-1845,Sonja SCHADE,Germany,1
-1846,Mariya SOSNOVSKYKH,Ukraine,1
-1847,Mila GORDEEVA,Bulgaria,1
-1848,Filiz KARAKULAK V.D.B.KAAG,Turkey,1
-1849,Marta LENARTOWICZ,Poland,1
-1850,Agnieszka SZCZEPANIEC,Poland,1
-1851,Agnieszka MICIULA,Poland,1
-1852,Joyce KUIK,United States of America,1
-1853,Moradi BAHAREH,Iran (Islamic Republic of),1
-1854,Fatemeh SOLAIMANI,Iran (Islamic Republic of),1
-1855,Chia-ling WEI,Taiwan,1
-1856,Farnaz ESMAILZADEH,Iran (Islamic Republic of),1
-1857,Huanmiao PENG,China,1
-1858,Yoko IKEDA,Japan,1
-1859,Kiyoe TSUTSUMI,Japan,1
-1860,Nozomi MONMA,Japan,1
-1861,Léa PHILIPPON,France,1
-1862,Oksana RAZNO,Ukraine,1
-1863,Miriam PUTZ,Austria,1
-1864,Erin FORD-ZIELENIEWSKI,Canada,1
-1865,Sheena OSBORNE,Canada,1
-1866,Nicola HESSELS,Canada,1
-1867,Anna AGAPONOVA,Russia,1
-1868,Alena ANDREEVA,Russia,1
-1869,Anastasiya MYROLYUBOVA,Ukraine,1
-1870,Elena DMITRYEVA,Russia,1
-1871,Evgeniya SHAHMATOVA,Russia,1
-1872,Anna RAKITSKAYA,Russia,1
-1873,Marjorie JUAREZ,France,1
-1874,Violaine TARDY,France,1
-1875,Stéphanie SAURON,France,1
-1876,Anouk EVENE,France,1
-1877,Stefanie KOFLER,Austria,1
-1878,Annemarie-caroline STANGACIU,Romania,1
-1879,Leja KOS,Slovenia,1
-1880,Julia MIROSHNICHENKO,Russia,1
-1881,Patricija LEVSTEK,Slovenia,1
-1882,Megumi TAKAHASHI,Japan,1
-1883,Mai TONEGI,Japan,1
-1884,Yayoi OGAWA,Japan,1
-1885,Dalia HAMDY,Switzerland,1
-1886,Boróka SZÉLL,Hungary,1
-1887,Sydney MCNAIR,United States of America,1
-1888,Eva PEPIN-HELIE,Canada,1
-1889,Eline NAS,Netherlands,1
-1890,Marie line MADELAINE,France,1
-1891,Katarzyna WICHA,Poland,1
-1892,Anna GISLIMBERTI,Italy,1
-1893,Adeline EUVRARD,France,1
-1894,Magnhild OEFSTI,Norway,1
-1895,Gamez CIRIK,Turkey,1
-1896,Monika PIASECKA,Poland,1
-1897,Itziar RODRÍGUEZ MENARQEZ,Spain,1
-1898,Isabelle KÖLLE,Austria,1
-1899,Olivia HOLT,New Zealand,1
-1900,Claire GIBSON,New Zealand,1
-1901,Ana OGRINC,Slovenia,1
-1902,Szilvia VARGA,Hungary,1
-1903,Amanda BEREZOWSKI,Canada,1
-1904,Taylor CLARKIN,United States of America,1
-1905,Amy LIPSCHULTZ,United States of America,1
-1906,Selena WONG,Canada,1
-1907,Alena DEMKO,Belarus,1
-1908,Marianne VAN DER  STEEN,Netherlands,1
-1909,Elena BRUNNER,Austria,1
-1910,Barbara BÜSCHLEN,Switzerland,1
-1911,Mariya NIKOLAEVA,Russia,1
-1912,Marie DA SILVA TORTOSA,France,1
-1913,Adeline BONNACORSI,France,1
-1914,Yuna KIM,Republic of Korea,1
-1915,Minyoung HA,Republic of Korea,1
-1916,Katharina PÖLL,Austria,1
-1917,Chiara LIMONTA,Italy,1
-1918,Heather SAWITSKY,Canada,1
-1919,Regan KENNEDY,Canada,1
-1920,Dana RIDDLE,United States of America,1
-1921,Sarah SHAW,United States of America,1
-1922,Hiroyo SUMURA,Japan,1
-1923,Melissa GODOWSKI,United States of America,1
-1924,Mélissa LACASSE,Canada,1
-1925,Rianne VAN DEN BERG,Netherlands,1
-1926,María CARTRÓ IRIARTE,Spain,1
-1927,Katharina BACHER,Austria,1
-1928,Candice BAGLEY,South Africa,1
-1929,Anastasia ERMOLAEVA,Russia,1
-1930,Yuka KAGEYA,Japan,1
-1931,Amanda SUTTON,United States of America,1
-1932,Gunel QULIYEVA,Azerbaijan,1
-1933,Linda GUNDOVA,Slovakia,1
-1934,Maria fernanda de je RODRIGUEZ,Mexico,1
-1935,Mariana MENDOZA CASTILLO,Mexico,1
-1936,Adriana vanessa FOURNIER CASTILLO,Mexico,1
-1937,Dorothea KARALUS,Germany,1
-1938,Françoise JACQUES,France,1
-1939,Thu CROSLEY,Canada,1
-1940,Polina SHELPAKOVA,Russia,1
-1941,Mariya USTIMENKO,Ukraine,1
-1942,Mariya BOYKO,Ukraine,1
-1943,Densmaa BAYARSAIKHAN,Mongolia,1
-1944,Nyamkhand DUGARJAV,Mongolia,1
-1945,Ariunod BATSAIKHAN,Mongolia,1
-1946,Soyoung JUEN,Republic of Korea,1
-1947,Tanja LANZ,Switzerland,1
-1948,Alexa NAZARIAN,United States of America,1
-1949,Tegan WILSON,United States of America,1
-1950,Victoria CARTWRIGHT,United States of America,1
-1951,Danielle ROGAN,United States of America,1
-1952,Yoko METSUGI,Japan,1
-1953,Kajsa WIKLUND,Sweden,1
-1954,Yunqing LIU,China,1
-1955,Ruta KERSHIULYTE,Lithuania,1
-1956,Cindy SARARAK,France,1
-1957,Kelly DRAGER,Canada,1
-1958,Shannon RUSSELL,United States of America,1
-1959,Ayten PIRALIYEVA,Azerbaijan,1
-1960,Sems QULIYEVA,Azerbaijan,1
-1961,Safarova SIMA,Azerbaijan,1
-1962,Diana vadim HANINA,Azerbaijan,1
-1963,Maria TOLOKONINA,Russia,1
-1964,Natalia BEZBORODOVA,Russia,1
-1965,Varvara SHATALOVA,Russia,1
-1966,Maria BOGDANOVA,Russia,1
-1967,Nadazhda KRASAVINA,Russia,1
-1968,Hanbin CHOI,Republic of Korea,1
-1969,Hyunsook LEE,Republic of Korea,1
-1970,Paloma SIMON,France,1
-1971,Sabine VANDEWOESTYNE,France,1
-1972,Anastasia KARKAVINA,Russia,1
-1973,Salome MESHVELIANI,Georgia,1
-1974,Zahra REZAEI,Iran (Islamic Republic of),1
-1975,Ebru DILLI,Turkey,1
-1976,Maryam ALIKHANI,Iran (Islamic Republic of),1
-1977,Anna DULARIDZE,Georgia,1
-1978,Karla FERNANDEZ ESPONDA,Mexico,1
-1979,Sarah PASHLEY,United Kingdom,1
-1980,Tatiana SKORODUMOVA,Russia,1
-1981,Andrea POKORNA,Czechia,1
-1982,Erika MATTIOLI,Italy,1
-1983,Margarita MARSANOVA,United States of America,1
-1984,Nicole MEJIA,Ecuador,1
-1985,Teresa GALLUCCI,Italy,1
-1986,Minjung JUNG,Republic of Korea,1
-1987,Mihyeon HWANG,Republic of Korea,1
-1988,Eunkyung NAM,Republic of Korea,1
-1989,Melanie MESSER,United States of America,1
-1990,Iuliia ZAITSEVA,Russia,1
-1991,Kumari BARRY,Australia,1
-1992,Su en NEO,Canada,1
-1993,Catherine BRUNEL-GUITTON,Canada,1
-1994,Veronique GOSSELIN,Canada,1
-1995,Adriana MÁRQUEZ,Guatemala,1
-1996,Ashley VEEVERS,Canada,1
-1997,Esti TWEG,Canada,1
-1998,Kayla LIEUW,United States of America,1
-1999,Ashley EDENS,United States of America,1
-2000,Leanna LOCKHART,United States of America,1
-2001,Bettina ASCHAUER,Germany,1
-2002,Katherine LAMB,United States of America,1
-2003,Noemi LANGENKAMP,Switzerland,1
-2004,Milda KOREIVAITE,Lithuania,1
-2005,Inga PATARCIC,Croatia,1
-2006,Maria del carmen MARTINEZ,Mexico,1
-2007,Sidney TRINIDAD,United States of America,1
-2008,Elena MOSS,Canada,1
-2009,Maggy DUBE-LAROCHE,Canada,1
-2010,Evelyna TROTTIER,Canada,1
-2011,Margaux DESCHAMPS,France,1
-2012,Julia MASSULLO,Canada,1
-2013,Eline NÆSHEIM,Norway,1
-2014,Ragnhild ERIKSRUD,Norway,1
-2015,Jorun RENNAN,Norway,1
-2016,Ida marie HØIAAS,Norway,1
-2017,Bibiana dahle NESS,Norway,1
-2018,Løvmo MIA KVÅLE,Norway,1
-2019,Margot VERHAEREN,Belgium,1
-2020,Hinako FURUKAWA,Japan,1
-2021,Chisato KANAZAWA,Japan,1
-2022,Satomi TACHIBANA,Japan,1
-2023,Chea MARAK,India,1
-2024,Dhanshri LEKURWALA,India,1
-2025,Smriti SINGH,India,1
-2026,Nehaa PRAKASH,India,1
-2027,Prerna DANGI,India,1
-2028,Mayuri DESHMUKH,India,1
-2029,Olga NIEMIEC,Poland,1
-2030,Emily ZIFFER,United States of America,1
-2031,Ayleen GUARÉ,Guatemala,1
-2032,Janka MEYER,Germany,1
-2033,Amanda MEIJERING,Netherlands,1
-2034,Ruxandra-georgeta BARBULESCU,Romania,1
-2035,Judit NAGY,Romania,1
-2036,Sofie PAULUS,Germany,1
-2037,Anastasia SHYMKOVA,Ukraine,1
-2038,Nina KAPITAIN,Austria,1
-2039,Ayano SOGA,Japan,1
-2040,Akiko KAWABATA,Japan,1
-2041,Junko KITAWAKI,Japan,1
-2042,Victoria PERKINS,United States of America,1
-2043,Alexis MASCARENAS,United States of America,1
-2044,Lila NEAHRING,United States of America,1
-2045,Julianna JIMREIVAT,United States of America,1
-2046,Audrey MILLER,United States of America,1
-2047,Solmaz ESHGHI,Iran (Islamic Republic of),1
-2048,Farzaneh SHAHRAVI,Iran (Islamic Republic of),1
-2049,Shivani CHARAK,India,1
-2050,Veronika SIMKOVA,Czechia,1
-2051,Primula TEILMANN AALUND,Denmark,1
-2052,Panka FARKAS,Hungary,1
-2053,Patricia MEDINA,Portugal,1
-2054,Saskia THOMAS,South Africa,1
-2055,Katarína PIVOŇKOVÁ,Slovakia,1
-2056,Farina HANDAYANI,Indonesia,1
-2057,Jana MESSNER,Italy,1
-2058,Dana MONTEITH,Canada,1
-2059,Anastasiia FISENKO,Ukraine,1
-2060,Grace DIGIORGIO,United States of America,1
-2061,Natalia WOS,Poland,1
-2062,Isabelle ADAMS,United Kingdom,1
-2063,Gwyneth UTTLEY,United Kingdom,1
-2064,Bergljot HANSEN,Norway,1
-2065,Ingrid helene AMUNDRUD,Norway,1
-2066,Elina AVRAMOVA,Canada,1
-2067,Ysa RAKESTRAW,Netherlands,1
-2068,Maja JONJIC ARNAUTOVIC,Spain,1
-2069,Olga KUSHCH,Russia,1
-2070,Kseniya KOPUSAVA,Belarus,1
-2071,Daria TITKINA,Belarus,1
-2072,Katsiaryna PAHUDA,Belarus,1
-2073,Karina GAREEVA,Russia,1
-2074,Darina GALAGANOVA,Russia,1
-2075,Irina SABITOVA,Russia,1
-2076,Stefanie Ann LOW SU YING,Singapore,1
-2077,Yusri NADRAH,Singapore,1
-2078,"Mingxin, Judith SIM",Singapore,1
-2079,Akane KINOSHITA,Japan,1
-2080,Karin KOJIMA,Japan,1
-2081,Debbie Zi Jing TAN,Singapore,1
-2082,Sarah HAY,New Zealand,1
-2083,Justine MCCARNEY,Canada,1
-2084,Anna KELLY,United States of America,1
-2085,Gabby LAMPNER,United States of America,1
-2086,leah JEFFRIES,Australia,1
-2087,Isabell ADOLPH,Germany,1
-2088,Sandra JONSSON,Sweden,1
-2089,Sara ENGQVIST,Sweden,1
-2090,BEGÜM IŞIK,Turkey,1
-2091,Olivia CAMPTON-SMITH,Australia,1
-2092,Francesca MEDICI,Italy,1
-2093,Mia Stöver WOLLEBAEK,Norway,1
-2094,Clara VIEGAS REZENDE,Brazil,1
-2095,Denisa MERCOVA,Czechia,1
-2096,Teyha ROGERS,Canada,1
-2097,Antonia VALENZUELA,Chile,1
-2098,Isabelle HARE,Australia,1
-2099,Olga FEDYUK,Portugal,1
-2100,Lisa HARDIQUEST,Belgium,1
-2101,Elena VERETENNIKOVA,Belarus,1
-2102,Aya SUGAWARA,Japan,1
-2103,Helene WOLF,Germany,1
-2104,Myrto PETALIDOU,Greece,1
-2105,Shifra BEN AVRAHAM,Israel,1
-2106,Lurdes GADALA-MARIA,Guatemala,1
-2107,Yasmin HERRERA,Guatemala,1
-2108,Mia BAWENDI,United States of America,1
-2109,Noelia VENET GALLEGOS,Peru,1
-2110,Lilly MAGDITSCH,Australia,1
-2111,Honoka MORIWAKI,Japan,1
-2112,LiRong YAN,China,1
-2113,Hana KUDO,Japan,1
-2114,Selenge NYAMDOO,Mongolia,1
-2115,Manami AIBARA,Japan,1
-2116,Hannah KERR,United Kingdom,1
-2117,Emma FUTCHER,United Kingdom,1
-2118,Sanja-riia COLLIN,Finland,1
-2119,Lujza MICHALKOVÁ,Slovakia,1
-2120,Xu LITING,Singapore,1
-2121,Jihyeon LIM,Republic of Korea,1
-2122,Hyebin KIM,Republic of Korea,1
-2123,Addyson TALLENT,United States of America,1
-2124,Kseniia ZAKHAROVA,Ukraine,1
-2125,Eni MALENICA,Croatia,1
-2126,Fujiyanti WIDIA,Indonesia,1
-2127,Ragil rakasiwii KHARISMA,Indonesia,1
-2128,Nur ISMATUL SAKDIA,Indonesia,1
-2129,Triara PUTRI RAUDHAH,Indonesia,1
-2130,Rahmayuna FADILLAH,Indonesia,1
-2131,Noor ARSYADA,Indonesia,1
-2132,Momona TATSUKI,Japan,1
-2133,Liana nicole MORA,Philippines,1
-2134,Bianca MAGALHAES DE CASTRO,Brazil,1
-2135,Ye jin JUNG,Republic of Korea,1
-2136,Yuju MU,China,1
-2137,Nurma ANJANI,Indonesia,1
-2138,Zoe BITTERS,United States of America,1
-2139,Madeline MORRIS,United States of America,1
-2140,Barbora ZITKOVA,Czechia,1
-2141,Caterina DAL ZOTTO,Italy,1
-2142,Jordyn DAMASCO,Australia,1
-2143,Maya KLAUNZER,Austria,1
-2144,Sophia AVENDER,Austria,1
-2145,Kerry SCOTT,United States of America,1
-2146,Rebecca HOUNSELL,New Zealand,1
-2147,Isabella DOMANESCHI,New Zealand,1
-2148,Alyssa KEANINI (Current),United States of America,1
-2149,Sienna PEREZ (Current),United States of America,1
-2150,Anika DEUBLER (Current),Austria,1
-2151,Federica MABBONI (Current),Italy,1
-2152,Joëlle NIEDERBERGER (Current),Switzerland,1
-2153,Olivia OGIER (Current),United States of America,1
-2154,Molly DREHER (Current),Canada,1
-2155,Arta CELITANE (Current),Latvia,1
-2156,Iris-olivia RIZAN (Current),Romania,1
-2157,Heesu YANG (Current),Republic of Korea,1
-2158,Victoria YSRAEL (Current),Guam,1
-2159,Xinwen ZHU (Current),China,1
-2160,Mar''atus SHOLEHA TRIANA PUTRI (Current),Indonesia,1
-2161,Taqiyya NUR AZIZA (Current),Indonesia,1
-2162,Lynnette KOH SIOK HENG (Current),Singapore,1
-2163,Najiha ZAHRA (Current),Indonesia,1
-2164,Aninda QALBI ARSYILAH (Current),Indonesia,1
-2165,Sabrina SYARIFAH CALIDRIS (Current),Indonesia,1
-2166,Marian Kiara Luna MICHERI (Current),Argentina,1
-2167,Deborah ALBUQUERQUE (Current),Brazil,1
-2168,Camila FLORES (Current),Brazil,1
-2169,Antonieta Esmeralda PARRA VEIZAGA (Current),Bolivia (Plurinational State of),1
-2170,Yui SUEZAWA (Current),Japan,1
-2171,Miranda MENDOZA BERTRAND (Current),Peru,1
-2172,Astridt Alexandra VIDES ZERON (Current),Honduras,1
-2173,Ana Carolina GUMURSKI DA ROCHA (Current),Brazil,1
-2174,Paloma SLOWIK (Current),United States of America,1
-2175,Ada KARLSBRUN (Current),Israel,1
-2176,Natalie PAAROVA (Current),Czechia,1
-2177,Manami YAMA (Current),Japan,1
-2178,Agnes Matthildur FOLKMANN (Current),Iceland,1
-2179,Anastasiia LUKASHYNA (Current),Ukraine,1
-2180,Emmelie CONDERS (Current),Norway,1
-2181,Natalia BIBRO (Current),Poland,1
-2182,Maria SZWED (Current),Poland,1
-2183,Karolina PTAK (Current),Poland,1
-2184,Martyna STOKOWIEC (Current),Poland,1
-2185,Magdalena BLACHNICKA (Current),Poland,1
-2186,Violeta TONINI (Current),Argentina,1
-2187,Maia Linda DAVIES (Current),South Africa,1
-2188,Kaïna VIVIAND (Current),France,1
-2189,Noor WITTE (Current),Netherlands,1
-2190,Eva-Lina RYMASZ (Current),France,1
-2191,Ambre ECAILLE (Current),France,1
-2192,Sabrina BAUMGARTNER (Current),Venezuela (Bolivarian Republic of),1
-2193,Macarena Del Valle SANCHEZ (Current),Argentina,1
-2194,Emily Charlote PESCETTO BUDDEN (Current),Spain,1
-2195,Caitlin BOUWER (Current),South Africa,1
-2196,Tianxiang ZHANG (Current),China,1
-2197,Ronja Marlene WITT (Current),Germany,1
-2198,Brooke WHITE (Current),Canada,1
-2199,Cedar HENDRY (Current),Canada,1
-2200,Lucy SINCLAIR (Current),New Zealand,1
-2201,Alma SAPIR HALEVI (Current),Israel,1
-2202,Zhenxuan ELISE YEE (Current),Singapore,1
-2203,Alma SHLOMOVITZ (Current),Israel,1
-2204,Kseniia CHERNEGA (Current),Russia,1
-2205,Jenice MA (Current),Canada,1
-2206,Tsany ALMA ARIELLA (Current),Indonesia,1
-2207,Annika MÜLLER (Current),Germany,1
-2208,Yingjie CHEN (Current),China,1
-2209,Helen LEE (Current),New Zealand,1
-2210,Jiaxin TANG (Current),China,1
-2211,Katharina Rabia TCHASSANTI (Current),Switzerland,1
-2212,Bibi HAMERS (Current),Netherlands,1
-2213,Leire RUÍZ DE ARGANDOÑA OTANO (Current),Spain,1
-2214,Lily STAUDT (Current),United States of America,1
-2215,Haizea PINTO ILINCHETA (Current),Spain,1
-2216,Nora GARCÍA MAESTU (Current),Spain,1
-2217,Julia PACHECO PORRAS (Current),Spain,1
-2218,María Deneb SÁNCHEZ (Current),Colombia,1
-2219,Arina NOVITSKAYA (Current),Kazakhstan,1
-2220,Julia NAVA (Current),Mexico,1
-2221,Erika CARRASCO AGUILA (Current),Spain,1
-2222,Udane MUGICA LASA (Current),Spain,1
-2223,Saray GARCIA (Current),Colombia,1
-2224,Louise PUECH YAZID (Current),France,1
-2225,Mariana ALMEIDA (Current),Portugal,1
+361,Mia AOYAGI (Current),Japan,17
+362,Emily SCOTT (Current),Australia,17
+363,Tereza SIRUCKOVA (Current),Czechia,17
+364,Isis ROTHFORK (Current),United States of America,17
+365,Lucie WATILLON (Current),Belgium,16
+366,Silvia CASSOL,Italy,16
+367,Corinne LABRUNE,France,16
+368,Lucy CREAMER,United Kingdom,16
+369,Nicola HAAGER,Germany,16
+370,Claire BELL,United Kingdom,16
+371,Katrin SEDLMAYER,Germany,16
+372,Elodie GIROUX,France,16
+373,Holly TOOTHILL,United Kingdom,16
+374,Leonie LOCHNER,Germany,16
+375,Elizaveta IVANOVA (Current),Russia,16
+376,Katherine MILLS,United Kingdom,16
+377,Cuifang HE,China,16
+378,Christina SCHMID,Switzerland,16
+379,Kseniya POLEKHINA,Russia,16
+380,Heeyeon PARK,Republic of Korea,16
+381,Grace CROWLEY (Current),Australia,16
+382,Shengyan WANG (Current),China,16
+383,Hana KOIKE (Current),Japan,16
+384,Heeju NOH (Current),Republic of Korea,16
+385,Hanareum SUNG (Current),Republic of Korea,16
+386,Yafei ZHOU (Current),China,16
+387,Svana BJARNASON (Current),France,16
+388,Svana BJARNASON (Current),Iceland,16
+389,Isabelle DORSIMOND,Belgium,15
+390,Shelly PRESSON,United States of America,15
+391,Anna IBANEZ-TUDORAS,Spain,15
+392,Angela STRIECKS,Germany,15
+393,Barbara STRANSKA,Czechia,15
+394,Eva TUSAR,Slovenia,15
+395,Bai-le HUANG,Taiwan,15
+396,Hiu ying LIU,"China, Hong Kong Special Administrative Region",15
+397,Olga EVSTIGNEEVA,Russia,15
+398,Laura LOIKAS (Current),Finland,15
+399,Hannah SLANEY,United Kingdom,15
+400,Sunniva ØVRE-EIDE (Current),Norway,15
+401,Vanda MICHALKOVA,Slovakia,15
+402,Sukma LINTANG CAHYANI (Current),Indonesia,15
+403,Anna Maria APEL (Current),Germany,15
+404,Natalia TITOVA,Russia,15
+405,Tereza KYSILKOVA,Czechia,15
+406,Ludivine HARMAND,France,15
+407,Sarah MATTHEWS,Australia,15
+408,Manuela SIGRIST,Switzerland,15
+409,Margot HEITZ,France,15
+410,Meagan MARTIN,United States of America,15
+411,Seunghyun KIM,Republic of Korea,15
+412,Kajsa ROSEN,Sweden,15
+413,Mingwei NI,China,15
+414,Madison FISCHER,Canada,15
+415,Margarita AGAMBAYEVA (Current),Kazakhstan,15
+416,Fumika KAWAKAMI (Current),Japan,15
+417,Anastasiia KOBETS (Current),Ukraine,15
+418,Maya STASIUK (Current),Australia,15
+419,Jennifer Eucharia BUCKLEY (Current),Slovenia,15
+420,Geila MACIÀ MARTÍN (Current),Spain,15
+421,Ina PLASSOUX DJIGA (Current),France,14
+422,Katarina STREMFELJ,Slovenia,14
+423,Jitka KUHNGABEROVA,Czechia,14
+424,Lisa LAGE,United States of America,14
+425,Agung ethi HENDRAWATI,Indonesia,14
+426,Stefania DE GRANDI,Italy,14
+427,Iziar MARTÍNEZ ALMENDROS (Current),Spain,14
+428,Nika POTAPOVA (Current),Ukraine,14
+429,Naama YOHAI,Israel,14
+430,Tetiana KOLKOTINA,Ukraine,14
+431,Laura STÖCKLER,Austria,14
+432,Olga MOROZKINA,Russia,14
+433,Sara MORANDI,Italy,14
+434,Tabea SCHWAB,Switzerland,14
+435,Tiffany MELIUS,Australia,14
+436,Asja GOLLO,Italy,14
+437,Gabriela VRABLIKOVA,Czechia,14
+438,Elisabetta DALLA BRIDA,Italy,14
+439,Elena REMIZOVA,Russia,14
+440,Tseng-Shun WONG (Current),"China, Hong Kong Special Administrative Region",14
+441,Indiana CHAPMAN,Canada,14
+442,María fernanda HIDALGO AMEZQUITA,Mexico,14
+443,Leslie Adriana ROMERO PÉREZ (Current),Spain,14
+444,Madison RICHARDSON (Current),Canada,14
+445,Natsumi ODA (Current),Japan,14
+446,Anja KÖHLER  (Current),Brazil,14
+447,Mihaela CRACIUN-PANTIS,Romania,13
+448,Abigail MAY,United Kingdom,13
+449,Susanne ETTER,Switzerland,13
+450,Evi NELIWATI,Indonesia,13
+451,Sona HNIZDILOVA,Czechia,13
+452,Franziska RITTER (Current),Germany,13
+453,Lea KEMPF (Current),Austria,13
+454,Martina HARNISCH,Austria,13
+455,Lucie HROZOVA,Czechia,13
+456,Asaki HAGIWARA,Japan,13
+457,Manon CHAPET,France,13
+458,Hannarai SONG,Republic of Korea,13
+459,Tina SUSTERSIC,Slovenia,13
+460,Puntarika TUNYAVANICH (Current),Thailand,13
+461,Katarzyna EKWINSKA,Poland,13
+462,Megan MASCARENAS,United States of America,13
+463,Moe YOSHIMURA,Japan,13
+464,Zhuoma PUBU,China,13
+465,Mária ČELKOVÁ,Slovakia,13
+466,Yuzhen BAIMA,China,13
+467,Elma FLEURET,France,13
+468,Vanessa Si Yinn TENG (Current),Singapore,13
+469,Muykuay SILVA (Current),Chile,13
+470,Irina DAZIANO (Current),Italy,13
+471,Valeria MACIAS FERREIRA (Current),Mexico,13
+472,Helen GILLETT (Current),United States of America,13
+473,Rosa REKAR (Current),Slovenia,13
+474,Mirjam VERBEEK,Netherlands,12
+475,Raffaella VALSECCHI,Italy,12
+476,Iva HARTMANN,Switzerland,12
+477,Romana SAVIC,Slovenia,12
+478,Ulla WALDER,Italy,12
+479,Rebecca ALLEN,United Kingdom,12
+480,Isabella RITSCH,Austria,12
+481,Sabine KNABL,Austria,12
+482,Martina ZANETTI,Italy,12
+483,Ignacia MELLADO QUINTEROS,Chile,12
+484,Miu KAKIZAKI,Japan,12
+485,Nurul IQAMAH (Current),Indonesia,12
+486,Julia KOCH (Current),Germany,12
+487,Mathilde COUCHOT,France,12
+488,Caroline JANUEL,France,12
+489,Manuela VALSECCHI,Italy,12
+490,Tereza SVOBODOVA,Czechia,12
+491,Hsiu-ju LIN,Taiwan,12
+492,Svetlana MOTOVILOVA,Russia,12
+493,Iva VEJMOLOVA,Czechia,12
+494,Claire KASSAY,Australia,12
+495,Kaori HOSONO,Japan,12
+496,Miwa OBA,Japan,12
+497,Johanna HOLFELD,Germany,12
+498,Tara HAYES,United Kingdom,12
+499,Melina COSTANZA (Current),United States of America,12
+500,Iris HEIKKINEN (Current),Finland,12
+501,Mi YANG (Current),China,12
+502,Ema GALEOVA (Current),Czechia,12
+503,Tegwen OATES (Current),South Africa,12
+504,Agnese FIORIO (Current),Italy,12
+505,Nekaia SANDERS (Current),United States of America,12
+506,Yali WEI (Current),China,12
+507,Marina KLEONOVA,Russia,11
+508,Nataliy PASHENNIK,Russia,11
+509,Shun-yuk CHOI,"China, Hong Kong Special Administrative Region",11
+510,Irene STEINDL,Austria,11
+511,Sandr van LANDEGHEM,France,11
+512,Mirella FRATI,Italy,11
+513,Ruth PLANNELS,Spain,11
+514,Hoshiko NAGAKAI,Japan,11
+515,Miriam MOOSBURGER,Austria,11
+516,Fanny ROGEAUX,France,11
+517,Sunniva Eik HAAVE (Current),Norway,11
+518,Zoé EGLI (Current),Switzerland,11
+519,Emily HARRINGTON,United States of America,11
+520,Roberta LONGO,Italy,11
+521,Lai-sho CHENG,"China, Hong Kong Special Administrative Region",11
+522,Alix GRAFTIAUX,Belgium,11
+523,Angela PAYNE,United States of America,11
+524,Nóra KIRÁLY,Hungary,11
+525,Camille FAILLE,France,11
+526,Alison STEWART-PATTERSON,Canada,11
+527,Virgita NADYA PUTRI,Indonesia,11
+528,Farnaz ESMAEILZADEH,Iran (Islamic Republic of),11
+529,Grace MCKEEHAN,United States of America,11
+530,Aika TAJIMA,Japan,11
+531,Alina RING,Switzerland,11
+532,Léa MARIGO,France,11
+533,Wai-ping YU,"China, Hong Kong Special Administrative Region",11
+534,Guizhen XIE (Current),China,11
+535,Thea CAMERON (Current),United Kingdom,11
+536,Anja KÖHLER (Current),Brazil,11
+537,Martina BURŠÍKOVÁ (Current),Slovakia,11
+538,Agnès BRARD,France,10
+539,Karin BLESS-REITH,Switzerland,10
+540,Naomi GUY,United Kingdom,10
+541,Karin MAGOG,United Kingdom,10
+542,Nastja GUZZI,Slovenia,10
+543,Tanja BAUER,Germany,10
+544,Lou WALLIN,Sweden,10
+545,Laure MATHIEU,France,10
+546,Yuko SAKAKIBARA,Japan,10
+547,Anna ZAIKINA,Russia,10
+548,Callie CLOSE,United States of America,10
+549,Manon LEBON (Current),France,10
+550,Eliska KARESOVA,Czechia,10
+551,Celine FERGEAU,France,10
+552,Emeline THOMAS,France,10
+553,Aliya ISKAKOVA,Kazakhstan,10
+554,Stacey WELDON,Canada,10
+555,Esther BRUCKNER,France,10
+556,Yuki MATSUSHIMA,Japan,10
+557,Denise BERTRAM,Germany,10
+558,Puji LESTARI,Indonesia,10
+559,Silvia PORTA,Italy,10
+560,Daria KAN,Russia,10
+561,Romy FUCHS,Germany,10
+562,Maëlys AGRAPART,France,10
+563,Saki KIKUCHI,Japan,10
+564,Maggie HAMMER,United States of America,10
+565,Lan KIM,Republic of Korea,10
+566,Natsumi HAYASHI,Japan,10
+567,Dasom YUN (Current),Republic of Korea,10
+568,Yejin JUNG (Current),Republic of Korea,10
+569,Ai TAKEUCHI (Current),Japan,10
+570,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,10
+571,Liberty RUNNELS (Current),United States of America,10
+572,Carla MARTÍNEZ VIDAL (Current),Spain,10
+573,Susan NURHIDAYAH (Current),Indonesia,10
+574,Puja LESTARI (Current),Indonesia,10
+575,Chaeyeong KIM (Current),Republic of Korea,10
+576,Anna BALARSHINA (Current),Kazakhstan,10
+577,Martina CASTRO (Current),Chile,10
+578,Juha KIM (Current),Republic of Korea,10
+579,Nina ARTHAUD,France,9
+580,Andrea EISENHUT,Germany,9
+581,Delyth GOODEY,United Kingdom,9
+582,Gunda FRÜHWALD,Germany,9
+583,Silvia PEARSONS,United Kingdom,9
+584,Margarita RYZHKOVA,Russia,9
+585,Delphine CHENEVIER PIGNEUR,France,9
+586,Ina DZHAMBAZOVA,Bulgaria,9
+587,Barbara SCHRANZ,Austria,9
+588,Lisa RANDS,United States of America,9
+589,Tomoko OGAWA,Japan,9
+590,Ekaterina KOROLKOVA,Russia,9
+591,Regine STORÅ (Current),Norway,9
+592,Tiba VROOM,Netherlands,9
+593,Momoko ABE,Japan,9
+594,Rut MONSECH GASCA,Spain,9
+595,Ekaterina BARASHCHUK,Russia,9
+596,Nina ARCH,Austria,9
+597,Zoë MAIRE,Switzerland,9
+598,Holly REID,Canada,9
+599,Helena ALEMAN SOBRINO,Spain,9
+600,Francesca METCALF,United States of America,9
+601,Oleksandra BUD GUSAIM,Ukraine,9
+602,Karina MIROSLAW,Poland,9
+603,Sara AVOSCAN,Italy,9
+604,Julia SERRIÈRE,France,9
+605,Sasha DIGIULIAN,United States of America,9
+606,Amanda SPEED,New Zealand,9
+607,Federica MINGOLLA,Italy,9
+608,Annalisa DE MARCO,Italy,9
+609,Anna VOLLENWYDER,Austria,9
+610,Stella PLANTIN,Sweden,9
+611,Solène AMOROS,France,9
+612,Rebeka KAMIN,Slovenia,9
+613,Itziar ZABALA ZURINAGA,Spain,9
+614,Luiza EMELEVA,Russia,9
+615,Naïlé MEIGNAN (Current),France,9
+616,Mariana HANGGI CORREIA (Current),Brazil,9
+617,Erica VELEV,Canada,9
+618,Nawoo CHOI (Current),Republic of Korea,9
+619,Hongchun XIANG,China,9
+620,Noé LOOSER (Current),Switzerland,9
+621,Anna LECHNER (Current),Germany,9
+622,Lucy GARLICK (Current),United Kingdom,9
+623,Lianet CASTILLO (Current),Venezuela (Bolivarian Republic of),9
+624,Mengli ZHANG (Current),China,9
+625,Flora OBLASSER (Current),Austria,9
+626,Emma EDWARDS (Current),United Kingdom,9
+627,Ella FISHER (Current),United States of America,9
+628,Luisa FLOHÉ,Germany,8
+629,Maria BENACH ZUBERO,Spain,8
+630,Akiko OOIWA,Japan,8
+631,Pascale NOEL,Luxembourg,8
+632,Ineke DIJKSTRA,Netherlands,8
+633,Delphine PIGNEUR,France,8
+634,Gaelle GOURIOU,France,8
+635,Nuria MARTI,Spain,8
+636,Amélie DELPHINO,France,8
+637,Esther CRUZ MONTALBAN,Spain,8
+638,Claudia SALVADORI,Italy,8
+639,Stéphanie CROUVISIER,France,8
+640,Alison MARTINDALE,United Kingdom,8
+641,Rachel SEYMOUR,United Kingdom,8
+642,Olga OCHTCHEPKOVA,Russia,8
+643,Irina KUZMENKO,Russia,8
+644,Elena KRASOVSKAIA (Current),Russia,8
+645,Miku ISHII (Current),Japan,8
+646,Julia DUFFY,United States of America,8
+647,Isabel GIFFORD,United States of America,8
+648,Bianka JANECKA (Current),Poland,8
+649,Tomona TAKAO (Current),Japan,8
+650,Chelsea RUDE,United States of America,8
+651,Nadine RUH,Germany,8
+652,Dan ZHANG,China,8
+653,Claudia BATTAGLIA,Italy,8
+654,Therese JOHANNESEN,Norway,8
+655,Ekaterina BOYARSKIKH,Russia,8
+656,Stephanie TRABER,France,8
+657,Michaela KIERSCH,United States of America,8
+658,Atori YASUDA,Japan,8
+659,Gill PEET,United Kingdom,8
+660,Nataliia STEPANOVA,Russia,8
+661,Ana TIRIPA,Germany,8
+662,Thais makino SHIRAIWA,Brazil,8
+663,Evgeniya LAPSHINA,Russia,8
+664,Emma HORAN,Australia,8
+665,Eliska VLCKOVA,Czechia,8
+666,Giorgia RANDI,Italy,8
+667,Kokoro TAKATA,Japan,8
+668,Chiara maria CLOSTERMANN,Germany,8
+669,Ida KUPS,Poland,8
+670,Prateeksha ARUN (Current),India,8
+671,HaiMei QIU,China,8
+672,Miu KURITA,Japan,8
+673,Choirul UMI CAHYANING AYUB,Indonesia,8
+674,Mahya DARABIAN (Current),Iran (Islamic Republic of),8
+675,Lucile SAUREL (Current),France,8
+676,Haruka KANETANI (Current),Japan,8
+677,Sandra HOPFENSITZ (Current),Germany,8
+678,Alivany VER KHADIJAH (Current),Indonesia,8
+679,Lison GAUTRON (Current),France,8
+680,Evangelina BRIGGS (Current),Canada,8
+681,Yajun HUANG (Current),China,8
+682,Abby GEBERT (Current),New Zealand,8
+683,Jorja RANGI (Current),New Zealand,8
+684,Yuju MOU (Current),China,8
+685,Ting-Chen YAO (Current),Taiwan,8
+686,Amber SCHIFFELEERS (Current),Netherlands,8
+687,Anna KELLEY (Current),Canada,8
+688,Ren KOYAMATSU (Current),Japan,8
+689,Jimin HWANG (Current),Republic of Korea,8
+690,Lily ABRIAT (Current),France,8
+691,Sofia PARRADO (Current),Colombia,8
+692,Marketa JANOSOVA (Current),Czechia,7
+693,Natalia KOSMACHEVA,Russia,7
+694,Alison OSIUS,United States of America,7
+695,Miranda ORTAR,Slovenia,7
+696,Catherine GLOESENER,Belgium,7
+697,Dagmar PFAFFENBICHLER,Austria,7
+698,Marianne BERGER,France,7
+699,Lise NOEL,France,7
+700,Elena POSARLIE-CROITORU,Romania,7
+701,Mia AXON,United States of America,7
+702,Gry HANSEN,Norway,7
+703,Martina ARTIOLI,Italy,7
+704,Alessandra FRANCONE,Italy,7
+705,Jenny FÖRANDER,Sweden,7
+706,Sophie HEURTEAUX,France,7
+707,Katarina CINTALOVA,Slovakia,7
+708,Lucinda HUGHES,United Kingdom,7
+709,Maria GEORGIEVA,Bulgaria,7
+710,Vanessa TAYLOR,France,7
+711,Yuka ENDO,Japan,7
+712,Gail ROTHSCHILD,United States of America,7
+713,Gui-ying LIU,China,7
+714,Hana KRIZOVA,Czechia,7
+715,Kristina NILSSON,Sweden,7
+716,Emeline TESO,France,7
+717,Maja STREMFELJ,Slovenia,7
+718,Rachel NILWIK,Netherlands,7
+719,Petya GARBOVA,Bulgaria,7
+720,Fanny CONAN,France,7
+721,Mayan SMITH-GOBAT,New Zealand,7
+722,Woon-seon SHIN,Republic of Korea,7
+723,Andrea CARTAS BARRERA,Spain,7
+724,Tiffany HENSLEY,United States of America,7
+725,Alexandra LADURNER,Italy,7
+726,Amanda ROHNER,Switzerland,7
+727,Yang WANG,China,7
+728,Wangmu GESANG,China,7
+729,Abdul rohma SYARIFAH,Indonesia,7
+730,Supita TITA,Indonesia,7
+731,Santi WELLYANTI,Indonesia,7
+732,Friederike PETRI,Germany,7
+733,Anna LAITINEN,Finland,7
+734,Hannah BAEHR,Germany,7
+735,Anastasiia SAMOILINA,Russia,7
+736,Haimi CHO,Republic of Korea,7
+737,Alyssa WEBER,Canada,7
+738,Christy SPURRELL,Canada,7
+739,Pankaew PLYPOOLSUP,Thailand,7
+740,Solveig KORHERR,Germany,7
+741,Daniela KOTRBOVA,Czechia,7
+742,Jiwon BAE,Republic of Korea,7
+743,Peiyang TIAN,China,7
+744,Florence GRÜNEWALD (Current),Germany,7
+745,Lisa DE MARTINI,Italy,7
+746,Lenka SLEZAKOVA,Czechia,7
+747,Luana RISCADO,Brazil,7
+748,Salsabila SALSABILA,Indonesia,7
+749,Yufang XIE (Current),China,7
+750,Zoe GARCIA MOLINA,Argentina,7
+751,Francesca MATUELLA (Current),Italy,7
+752,Mashiro KUZUU (Current),Japan,7
+753,Shivpreet PANNU (Current),India,7
+754,Laura FARHAT DE ARAUJO FRAGA TIMO (Current),Brazil,7
+755,Danai VALSAMIDI (Current),Greece,7
+756,Yawen MI (Current),China,7
+757,Matilde CABEZAS (Current),Chile,7
+758,Pernille TVEDT (Current),Norway,7
+759,Cedar PIDGEON (Current),Canada,7
+760,Yumei QIN (Current),China,7
+761,Daria TKACHOVA (Current),Ukraine,7
+762,Ursula HELFERT,Germany,6
+763,Tracy HARRISON,United Kingdom,6
+764,Magali BONHOURE,France,6
+765,Esther BULLIDO-GOMEZ,Spain,6
+766,Rachel FARMER,United Kingdom,6
+767,Dalvinder SODHI,United Kingdom,6
+768,Eriko MOGI,Japan,6
+769,Eve PRICKETT,United Kingdom,6
+770,Isabelle PALLE,France,6
+771,Eva LINHARTOVA,Czechia,6
+772,Ines BISCHOFF,Germany,6
+773,Laura FERRERO,Italy,6
+774,Kazumi WATATUKI,Japan,6
+775,Eleonora VAN DER PUTTEN,Netherlands,6
+776,Sarah LAGOFFUN,France,6
+777,Katherine SCHIRRMACHER,United Kingdom,6
+778,Helene belle LASZLO,Norway,6
+779,Lucy ATKINSON,United Kingdom,6
+780,Yuyun YUNIAR,Indonesia,6
+781,Monique FORESTIER,Australia,6
+782,Campbell SARINOPOULOS,United States of America,6
+783,Sabina VAN ESSEN,Netherlands,6
+784,María LABORDA SAGASTE (Current),Spain,6
+785,Federica PAPETTI (Current),Italy,6
+786,Ana KOSMAC,Slovenia,6
+787,Marine LARGERON,France,6
+788,Ekaterina IAEMOURD,Russia,6
+789,Julia WINTER,Germany,6
+790,Irene BARIANI,Italy,6
+791,Katy WHITTAKER,United Kingdom,6
+792,Maria AGAFONOVA,Russia,6
+793,Marie DUVAL,France,6
+794,Rosmery DA SILVA,Venezuela (Bolivarian Republic of),6
+795,Ganna SAVCHENKO,Ukraine,6
+796,Azam KARAMI,Iran (Islamic Republic of),6
+797,Ines DULL,Germany,6
+798,Saari WATANABE,Japan,6
+799,Marine DELPIERRE,France,6
+800,Clarrie LAM,Canada,6
+801,Jessica FAURE,France,6
+802,Malgorzata RUDZINSKA,Poland,6
+803,Anna KOLOKOVSKA,Ukraine,6
+804,Anna BORELLA,Italy,6
+805,Sylwia BUCZEK,Poland,6
+806,Karolina NEVELIKOVA,Czechia,6
+807,Mateja HOHKRAUT,Slovenia,6
+808,Courtney SANDERS,United States of America,6
+809,Jera LENARDIC,Slovenia,6
+810,Maria davies SANDBU,Norway,6
+811,Daniela EBLER,Sweden,6
+812,Erica CARLSON,Canada,6
+813,Anastasiia GOLIKOVA,Russia,6
+814,Tomoko KAJIMA,Japan,6
+815,Erina MIURA,Japan,6
+816,Alexandra ZHIZNEVSKAYA,Kazakhstan,6
+817,Michelle KIM THEISEN,Denmark,6
+818,Veronika MEKE,Slovenia,6
+819,Ayari SAKAMOTO,Japan,6
+820,Serika OKAWACHI,Japan,6
+821,Muriel RUÍZ DE LARRAMENDI ARANGOA,Spain,6
+822,Alise ZVIGULE,Latvia,6
+823,Francesca VASI,Italy,6
+824,Chloe EARLE,Canada,6
+825,Charlotte ANDRE,France,6
+826,Valiantsina CHAMIAKINA,Belarus,6
+827,Sari AGUSTINA,Indonesia,6
+828,LINDA SJÖDIN,Sweden,6
+829,Rahil RAMEZANI,Iran (Islamic Republic of),6
+830,Rhoslyn FRUGTNIET,United Kingdom,6
+831,Paige BOKLASCHUK,Canada,6
+832,RACHELLE DE CHARMOY,South Africa,6
+833,Emma BERNHARD (Current),Germany,6
+834,Nur KHALISHAH (Current),Indonesia,6
+835,Yena PI (Current),Republic of Korea,6
+836,Rocio ailen BECERRA,Argentina,6
+837,Phoebe KENDERDINE,New Zealand,6
+838,Anja SANTINI MIKULIĆ (Current),Croatia,6
+839,Nur Diatul JANNAH (Current),Indonesia,6
+840,Eugenie LEE (Current),United Kingdom,6
+841,Natalie GOH SIHUI (Current),Singapore,6
+842,Arantza LUNA VELASCO (Current),Mexico,6
+843,Arina JURCENKO (Current),Czechia,6
+844,Anahí RIVEROS (Current),Chile,6
+845,Xuanzhen CHEN (Current),China,6
+846,Yun-Shan HSIEH (Current),Taiwan,6
+847,Si Wan LEI (Current),"China, Macao Special Administrative Region",6
+848,Analise VAN HOANG (Current),United States of America,6
+849,Magdalena KOMPEIN (Current),Austria,6
+850,Hei Kiu Heidi WONG (Current),"China, Hong Kong Special Administrative Region",6
+851,Stella GIACANI (Current),Italy,6
+852,Ines SCHWAIGER (Current),Austria,6
+853,Caroline MAUREL,France,5
+854,Claudine TRECOURT,France,5
+855,Joung-mi KIM,Republic of Korea,5
+856,Barbara HIRSCHBICHLER,Germany,5
+857,Jill GARDINER,United Kingdom,5
+858,Nancy FEAGIN,United States of America,5
+859,Svetlana LIKHOVA,Russia,5
+860,Anne GRAY,Switzerland,5
+861,Nevenka OSREDKAR,Slovenia,5
+862,Marina LICHTINA,Kazakhstan,5
+863,Galina AGAPOVA,Russia,5
+864,Irina ROUIGA,Russia,5
+865,Blaza KLEMENCIC,Slovenia,5
+866,Alexandra HOLKOVA,Czechia,5
+867,Agurtzane ROMERO,Spain,5
+868,Simona ULMONOVA,Czechia,5
+869,Myrtille GUIGUET,France,5
+870,Natalia BARANOVA,Russia,5
+871,Cécile MARTHA,France,5
+872,Sylvie NAGYOVA,Czechia,5
+873,Cinzia DONATI,Italy,5
+874,Sheila JENSEN,Denmark,5
+875,Ksenia SDOBNIKOVA,Russia,5
+876,Emmanuelle RAVEYRE,France,5
+877,Gyong-im YUN,Republic of Korea,5
+878,Mailys PIAZZALUNGA,France,5
+879,Lena SCHRITTWIESER (Current),Austria,5
+880,Anastasija TERIOCHINA,Lithuania,5
+881,Agniete SEIBOKAITE,Lithuania,5
+882,Kseniia PETROVA,Russia,5
+883,Eliska NOVOTNA,Czechia,5
+884,Irene PIEPER,Netherlands,5
+885,Raquel HERNANDEZ,Spain,5
+886,Eliza KUGLER,Poland,5
+887,Caroline ILIC,France,5
+888,Evelien ZIJLSTRA,Netherlands,5
+889,Sandra BAKULIC,Croatia,5
+890,Spasina NEDYALKOVA,Bulgaria,5
+891,Luisa NEUMÄRKER,Germany,5
+892,Gurgel OZVER,Turkey,5
+893,Anamaria BOGACIU,Romania,5
+894,Cassandra ZAMPAR,Italy,5
+895,Paige CLAASSEN,United States of America,5
+896,Aki TANAKA,Japan,5
+897,Franziska SAURWEIN,Austria,5
+898,Raelene COWIE,United Kingdom,5
+899,Anna MYLNIKOVA,Russia,5
+900,Marija MILOSAVLJEVIC,Serbia,5
+901,Hyojung KIM,Republic of Korea,5
+902,Helen HALDENBY,United Kingdom,5
+903,Audrey SNIEZEK,United States of America,5
+904,Mariya MULYAR,Ukraine,5
+905,Isabell LEINER,Germany,5
+906,Pratthana RAKSACHAT,Thailand,5
+907,Ekaterina NOVITSKAIA,Russia,5
+908,Carolina ROSERO,Ecuador,5
+909,Matilda SÖDERLUND,Sweden,5
+910,Jana MÜLLER,Germany,5
+911,Woonwha JEONG,Republic of Korea,5
+912,Margaux PUCHEUX,France,5
+913,Marieta AKALSKI,Canada,5
+914,Jelisa DUNBAR,Canada,5
+915,Patricia HOLZMANN,Germany,5
+916,Teresa TROYA GIL,Spain,5
+917,Watchareewan TOMAS,Thailand,5
+918,Mulyani MUDJI,Indonesia,5
+919,Kenza SLAMTI,France,5
+920,Karina BILKOVA,Czechia,5
+921,Homare TODA,Japan,5
+922,Mie (marie therese) KASTET,Norway,5
+923,Saeko SUGIMURA,Japan,5
+924,Momoka KANEKO,Japan,5
+925,Syafiiyah DHORIFATUS,Indonesia,5
+926,Nasim BIYARJOMANDY,Iran (Islamic Republic of),5
+927,Lia WIECKOWSKI,Canada,5
+928,Anna MARGOLINA,Russia,5
+929,Evelyne FUX,Switzerland,5
+930,Frederike FELL,Germany,5
+931,Bronwen KARNIS,Canada,5
+932,Jennifer DE LA TORRE,United States of America,5
+933,Aliaksandra MISIUKEVICH,Belarus,5
+934,Gayeon CHO (Current),Republic of Korea,5
+935,Miriam FOGU (Current),Italy,5
+936,Jennifer Marie DE LA TORRE,Mexico,5
+937,Nuria BROCKFELD,Germany,5
+938,María fernanda GONZÁLEZ RÁMIREZ,Mexico,5
+939,Mia WEEDA,Australia,5
+940,Ariane JANATA-BURNS (Current),South Africa,5
+941,Zihan HUANG (Current),China,5
+942,Nonoha KUME,Japan,5
+943,Abigail RUANO,Ecuador,5
+944,Viola BATTISTELLA (Current),Italy,5
+945,Natalia De Jesús GONZÁLEZ (Current),Mexico,5
+946,Lea SLOBODOVÁ (Current),Slovakia,5
+947,Sára ŠIMEKOVÁ (Current),Slovakia,5
+948,Julia BENACH ZUBERO (Current),Spain,5
+949,Shixue MENG (Current),China,5
+950,Adi Asih KADEK (Current),Indonesia,5
+951,María José ESTRADA (Current),Mexico,5
+952,Emilia ANDERSSON (Current),Sweden,5
+953,Saula LERONDEL,France,4
+954,Flura JIRNOVA,Russia,4
+955,Catherine GLOESHER,France,4
+956,Daniela LUZZINI,Italy,4
+957,Rika FURUTA,Japan,4
+958,Daniela VANHAROVA,Czechia,4
+959,Antonella STRANO,Italy,4
+960,Georgia PHIPPS,United States of America,4
+961,Stanislava BRAZINOVA,Czechia,4
+962,Annette KREINER,Germany,4
+963,Rebeka POCEK,Slovenia,4
+964,Margarita PANFYOROVA,Ukraine,4
+965,Lydie TUCCIO,France,4
+966,Katarina CHKADUA,Georgia,4
+967,Claire MIMET,France,4
+968,Urszula WROBEL,Poland,4
+969,Natalia MINAEVA,Russia,4
+970,Dominique COLLIERE,France,4
+971,Katie BROWN,United States of America,4
+972,Anna PETER,Hungary,4
+973,Mélaine RUBIO,France,4
+974,Laeticia COUDER,France,4
+975,Céline HURTADO,France,4
+976,Sarah SEEGER,Germany,4
+977,Katrin BRADY,Germany,4
+978,Julia BERGKLINT,Sweden,4
+979,Nienke SWART,Netherlands,4
+980,Flavia GAGGERO,Italy,4
+981,Jo GORDON,United Kingdom,4
+982,Sian OAKLEY,United Kingdom,4
+983,Lissa LESACA,Philippines,4
+984,Sheng-ju WEI,China,4
+985,Claire MATHIEU,France,4
+986,Eva elez MUÑOZ,Spain,4
+987,Daria NESTERENKO,Ukraine,4
+988,Arta MATELSONE,Latvia,4
+989,Mona KELLNER,Germany,4
+990,Thea WULFF,United States of America,4
+991,Edel LEMVIK,Norway,4
+992,Lucie DELCOIGNE,Belgium,4
+993,Ariane FRANKEN (Current),Austria,4
+994,Doriane mary SARAMANDIF,Mauritius,4
+995,Tomoko MADATE,Japan,4
+996,Suet-man LI,"China, Hong Kong Special Administrative Region",4
+997,Jemma POWELL,United Kingdom,4
+998,Dinara IRSALIYEVA,Kazakhstan,4
+999,Lisa KNOCHE,Germany,4
+1000,Isabel BOAVIDA,Portugal,4
+1001,Michaelle POLICARD,France,4
+1002,Katerina CHUDOBOVA,Czechia,4
+1003,Emma TWYFORD,United Kingdom,4
+1004,Radiana MANEVA,Bulgaria,4
+1005,Irina MITTELMAN,Germany,4
+1006,Jacqui MIDDLETON,Australia,4
+1007,Colette CIRET,France,4
+1008,Anna KHUDYAKOVA,Russia,4
+1009,Dominika DUPALOVA,Czechia,4
+1010,Anne HOARAU,France,4
+1011,Zoe OGDEN,United Kingdom,4
+1012,Natalie SAILER,Germany,4
+1013,Elena CHIAPPA,Italy,4
+1014,Sara AICART ORTIZ,Spain,4
+1015,Olena SHEREMETYEVA,Ukraine,4
+1016,Yulia VAYTSEKHOVSKAYA,Russia,4
+1017,Lucia KORCOVA,Slovakia,4
+1018,Jessica MORANDI,Italy,4
+1019,Tyler YOUNGWERTH,United States of America,4
+1020,Nadja PFISTER,Switzerland,4
+1021,Channah BRANDSEMA,Netherlands,4
+1022,Isabelle FAUS,United States of America,4
+1023,Olga KULISH,Ukraine,4
+1024,Laura MICHELARD,France,4
+1025,Eevi JAAKKOLA,Finland,4
+1026,Madeleine EPPENSTEINER,Austria,4
+1027,Aysel SULTANOVA,Azerbaijan,4
+1028,Tsukasa MIZUGUCHI,Japan,4
+1029,Solah KIM,Republic of Korea,4
+1030,Sakiko OSAWA,Japan,4
+1031,Natalie BERRY,United Kingdom,4
+1032,Claire BRESNAN,United States of America,4
+1033,Miura HAWKINS,United States of America,4
+1034,Samantha LI,Canada,4
+1035,Celeste WALL,Canada,4
+1036,Martina BLANCHET,Italy,4
+1037,Sofia HEINZE CACHO,Mexico,4
+1038,Giulia FOSSALI,Italy,4
+1039,Lisa-marie KVANDAHL,Norway,4
+1040,Rut CASAS MUR,Spain,4
+1041,Emilie PELLERIN,Canada,4
+1042,Léa DELACQUIS,France,4
+1043,Kobra LAKZAIIFAR,Iran (Islamic Republic of),4
+1044,Fitriyani FITRIYANI,Indonesia,4
+1045,Anastasiia EVGENEVA,Russia,4
+1046,Imogen HORROCKS,United Kingdom,4
+1047,Patrícia ANTUNES,Brazil,4
+1048,Tan SHI HUI,Singapore,4
+1049,Maja RUDKA,Poland,4
+1050,Léna GROSPIRON,France,4
+1051,Ka-yan WONG,"China, Hong Kong Special Administrative Region",4
+1052,Fitria HARTANI,Indonesia,4
+1053,Youjin CHA (Current),Republic of Korea,4
+1054,Emi TAKASHIBA,Canada,4
+1055,Rebeca PÉREZ DUATO,Spain,4
+1056,Wai-mui LING,"China, Hong Kong Special Administrative Region",4
+1057,Lisa KLEM (Current),Netherlands,4
+1058,Savina NICELLI (Current),Italy,4
+1059,Alyssa MEYER,South Africa,4
+1060,Narda Mutia AMANDA (Current),Indonesia,4
+1061,Berthdigna Devi Surya KUSUMA (Current),Indonesia,4
+1062,Evdoxia-aikaterini KALLIA (Current),Greece,4
+1063,Rosa ARNOLD (Current),Finland,4
+1064,Sara TRAJKOSKA,The former Yugoslav Republic of Macedonia,4
+1065,Iris pamela DURON ANTONIO,Honduras,4
+1066,Grecia daniela HERNANDEZ GUERRERO,El Salvador,4
+1067,Vinnith IM,Cambodia,4
+1068,Valentina ARNOLDI (Current),Italy,4
+1069,Nele THOMAS (Current),Germany,4
+1070,Kaitlyn BONE (Current),United States of America,4
+1071,Eilin TAN (Current),Singapore,4
+1072,Xinyue SHI (Current),China,4
+1073,Maya VÁSQUEZ (Current),Chile,4
+1074,Katharina BERGMANN (Current),Austria,4
+1075,Lukka Mörk BLOMSTERBERG (Current),Iceland,4
+1076,Momoka MIYAJIMA (Current),Japan,4
+1077,Clotilde PFISTER (Current),France,4
+1078,Ava HAMILTON (Current),United Kingdom,4
+1079,Regina SALAZAR PUGA (Current),Mexico,4
+1080,Viktorie KONECNA (Current),Czechia,4
+1081,Melissa Esther CHEN CHEN (Current),Peru,4
+1082,Jacqueline HO (Current),Canada,4
+1083,Shareen MOHD NASRAN (Current),Malaysia,4
+1084,Adela KONARIKOVA (Current),Czechia,4
+1085,Tamar COHEN (Current),Israel,4
+1086,Francesca WALTHER (Current),Switzerland,4
+1087,Lina FUNA (Current),Slovenia,4
+1088,Marilu SOMMER (Current),Switzerland,4
+1089,Sara STROCCHI (Current),Italy,4
+1090,Ana belén ARGUDO MARUGAN,Spain,3
+1091,Tereza ŠIRŮČKOVÁ,Czechia,3
+1092,Jennifer COLE,United States of America,3
+1093,Margarita SAULIMOVSKAIA,Russia,3
+1094,Catherine DESTIVELLE,France,3
+1095,Bobbie BENSMAN,United States of America,3
+1096,Marie-luise KILCHÖR,Switzerland,3
+1097,Monica MALGAROTTO,Italy,3
+1098,Larisa SPELMAN,Russia,3
+1099,Heike ORTLIEB,Germany,3
+1100,Susan PRICE,United States of America,3
+1101,Catherine MUSSO,France,3
+1102,Therese NOST,Norway,3
+1103,Natalia BAGENOVA,Russia,3
+1104,Elka JANKOVA,Bulgaria,3
+1105,Ana NICOLAI,Romania,3
+1106,Susan WINKLER,Germany,3
+1107,Galina CHURBANOVA,Kazakhstan,3
+1108,Marie ZADVORNIH,Kazakhstan,3
+1109,Catherine MIQUEL,France,3
+1110,Barbara SCHNEIDER,Germany,3
+1111,Yasue KATO,Japan,3
+1112,Cecile MAILLARD,France,3
+1113,Maja SUSTAR,Slovenia,3
+1114,Anna JAREK,Poland,3
+1115,Oliwia BECHYNE,Poland,3
+1116,Manuela MONSCHEIN,Austria,3
+1117,Eva SMEJKALOVA,Czechia,3
+1118,Lucie LOUDOVA,Czechia,3
+1119,Debbie CORBETT,United Kingdom,3
+1120,Michaela DRLIKOVA,Czechia,3
+1121,Maria RÜDISÜHLI,Switzerland,3
+1122,Federica BALTERI,Italy,3
+1123,Marina ANNECCHINI,Italy,3
+1124,Judith HIRSCH,Austria,3
+1125,Claire SARRE,France,3
+1126,Estelle PARDO,France,3
+1127,Laurence DOULAT,France,3
+1128,Soléne RYO,France,3
+1129,Younghee KIM,Republic of Korea,3
+1130,Qing ZHANG,China,3
+1131,Anne MARCHANDISE,France,3
+1132,Vanessa VALENTIM,Brazil,3
+1133,Ana luisa SHIRAWA,Brazil,3
+1134,Clothilde MORIN,France,3
+1135,Elza elizabete BARAKA,Latvia,3
+1136,Eliška BULENOVÁ,Czechia,3
+1137,Celina SCHOIBL,Austria,3
+1138,Erin STERKENBURG,South Africa,3
+1139,Megan LYNCH,United States of America,3
+1140,Evdoxia - aikaterini KALLIA,Greece,3
+1141,Tove WÅHLIN,Sweden,3
+1142,Polina KULAGINA,Russia,3
+1143,Kintana ILTIS (Current),France,3
+1144,Olga GAVRILOVA,Russia,3
+1145,Giovanna POZZOLI,Italy,3
+1146,Lucie RAJFOVA,Czechia,3
+1147,Ming-o WONG,"China, Hong Kong Special Administrative Region",3
+1148,Eva ELEZ,Spain,3
+1149,Ursula STÖHR,Austria,3
+1150,Alexis ASHER,United States of America,3
+1151,Qingzhu HUANG,China,3
+1152,Katie STEENACKERS,Belgium,3
+1153,Daila OJEDA SANCHEZ,Spain,3
+1154,Plamena BAKALOVA,Bulgaria,3
+1155,Sophie MARTIN,France,3
+1156,Lea DESLANDES,France,3
+1157,Malgorzata KUSZTELAK,Poland,3
+1158,Annina GUGGISBERG,Switzerland,3
+1159,Nadia IATSENKO,Ukraine,3
+1160,Naomi BUYS,United Kingdom,3
+1161,Maja LOZIC,Croatia,3
+1162,Yana MALKOVA,Russia,3
+1163,Salfarina MOHD DRUS,Malaysia,3
+1164,Baco achmad WILDA,Indonesia,3
+1165,Liuying LIANG,China,3
+1166,Suzanne VAN DER SLUIS,Netherlands,3
+1167,In kyoung KIM,Republic of Korea,3
+1168,Crina OCHENATU,Romania,3
+1169,Olga MEDVEDIEVA,Ukraine,3
+1170,Thirza CARPENTER,Canada,3
+1171,Victoria WELDON,Canada,3
+1172,Kasia PIETRAS,United States of America,3
+1173,Bonnie DE BRUIJN,Canada,3
+1174,Sarah AUSTIN,Canada,3
+1175,Kerry BRIGGS,Canada,3
+1176,Audrey GAWRYCH,United States of America,3
+1177,Marta SAVKINA,Russia,3
+1178,Andrea ČEPCOVÁ,Slovakia,3
+1179,Chauncenia COX,United States of America,3
+1180,Soho LANGBEHN,Chile,3
+1181,Roelien VAN DE VRIE,Netherlands,3
+1182,Jesse YOUNGWERTH,United States of America,3
+1183,Katy PIDDOCK,United Kingdom,3
+1184,Sarah SCHÜTZENBERGER,Germany,3
+1185,Weiling YANG,China,3
+1186,Jihyeon JEONG,Republic of Korea,3
+1187,Isabell HAAG,Germany,3
+1188,Andrea FICHTNER,Germany,3
+1189,Monika PROKOPIUK-KAWECKA,Poland,3
+1190,Maria CELKOVA,Canada,3
+1191,Mirthe VAN LIERE,Netherlands,3
+1192,Eva CARRO FERNÁNDEZ,Spain,3
+1193,Kaori EGUCHI,Japan,3
+1194,Konul HUSEYNOVA,Azerbaijan,3
+1195,Andrea PAVLINCOVA,Czechia,3
+1196,Jacquelyn WU,United States of America,3
+1197,Alexandra GOLOVINA,Russia,3
+1198,Anja SERBINEK,Slovenia,3
+1199,Eilleen JUBES ANGARITA,Spain,3
+1200,Elsa PONZO,France,3
+1201,Therese JOHANSEN,Norway,3
+1202,Lena HERRMANN,Germany,3
+1203,Giulia ALTON,Italy,3
+1204,Mariana FIERRO,Mexico,3
+1205,Sima SEFEROVA,Azerbaijan,3
+1206,Dana GILEMKHANOVA,Russia,3
+1207,Daria MALYSHEVA,Russia,3
+1208,Jana VINCOURKOVA,Czechia,3
+1209,Or COHEN,Israel,3
+1210,Elena BONAPACE,Austria,3
+1211,Veronika SCHEUEROVA,Czechia,3
+1212,Yana LUGOVENKO,Ukraine,3
+1213,Marisa ROMERO,United States of America,3
+1214,Jiyeon JEON,Republic of Korea,3
+1215,Olivia WYETT,Canada,3
+1216,Romane GRANDCOING,France,3
+1217,Lara ÖZAK,Turkey,3
+1218,Erica MEISTER,United States of America,3
+1219,Natsuko SHIMIZU,Japan,3
+1220,Elfe CLAES,Belgium,3
+1221,Kaja SKVARC BOZIC,Slovenia,3
+1222,Juliana PRICE,United States of America,3
+1223,Athena BIGVAND,Iran (Islamic Republic of),3
+1224,Sarah PEARCE,United States of America,3
+1225,Panchamaya TAMANG,Nepal,3
+1226,Lily CANAVAN,United States of America,3
+1227,Zoe STEINBERG,United States of America,3
+1228,Pia GRAHAM,Canada,3
+1229,Beatriz COIMBRA,Portugal,3
+1230,Ana-maria ZAHARIA,Romania,3
+1231,Nea HERFORTH BAEHR,Denmark,3
+1232,Annie CHOUINARD,Canada,3
+1233,Renzeng ZHUOMA,China,3
+1234,Joanne BRINKMANN,Switzerland,3
+1235,Yuno HARIGAE (Current),Japan,3
+1236,Chauncey CARROLL,United States of America,3
+1237,Fatemeh JAFARI MAHMODABADI,Iran (Islamic Republic of),3
+1238,Sevda GEYIK,Turkey,3
+1239,Victoria GIMENEZ,Argentina,3
+1240,Marion TRABER,France,3
+1241,Tereza KUBATOVA,Czechia,3
+1242,Sarah MCKENZIE,Australia,3
+1243,Moriwaki HONOKA,Japan,3
+1244,Kitty MORRISON,United Kingdom,3
+1245,Valentine MANGIN,France,3
+1246,Bréanne ROBERT,France,3
+1247,Cirvele KATRĪNA,Latvia,3
+1248,Julia MEIJER,Netherlands,3
+1249,Mariia MUSIENKO,Russia,3
+1250,HongChun XIANG,China,3
+1251,ZhuoYing CHEN,China,3
+1252,Hannah SEALY-FISHER,South Africa,3
+1253,Anna DAVEY,Australia,3
+1254,Beatrix EVANS,Canada,3
+1255,Luce DOUADY,France,3
+1256,Sofia alejandra HERRERA VEGA CENTENO,Peru,3
+1257,Sofia BELLESINI,Italy,3
+1258,Emily HERDIC,United States of America,3
+1259,Seoyeon PARK,Republic of Korea,3
+1260,Siobhan DOBIE,Australia,3
+1261,Olivia MA (Current),United States of America,3
+1262,Miriam DIEZ LUENGO (Current),Spain,3
+1263,Anne ACKRE (Current),Norway,3
+1264,Sarah VOUAUX (Current),France,3
+1265,Louna DESHAYES (Current),France,3
+1266,Fadya devi MONICA,Indonesia,3
+1267,Mira CAPICCHIONI,United States of America,3
+1268,Leonie HOFER (Current),Italy,3
+1269,Meije LERONDEL (Current),France,3
+1270,Zala MLAKAR STARIC (Current),Slovenia,3
+1271,Chunhua WU (Current),China,3
+1272,Yixin LIU (Current),China,3
+1273,Yongshan HUANG (Current),China,3
+1274,Jingyue FAN (Current),China,3
+1275,Karla ZRINSKI (Current),Croatia,3
+1276,Aniya HOLDER (Current),South Africa,3
+1277,María Fernanda GONZÁLEZ RÁMIREZ (Current),Mexico,3
+1278,Katya Lynn BROCKMAN (Current),Mexico,3
+1279,Tahani ALGOUHI (Current),Saudi Arabia,3
+1280,Ruby DANZIGER (Current),Israel,3
+1281,Feiyan YANG (Current),China,3
+1282,Aleya MORIN (Current),Canada,3
+1283,Madi WALSH (Current),United States of America,3
+1284,Sarina GHAFFARI (Current),Iran (Islamic Republic of),3
+1285,Kaho MURAKOSHI (Current),Japan,3
+1286,Tsz Kiu TSUI (Current),"China, Hong Kong Special Administrative Region",3
+1287,Mai KOBAYASHI (Current),Japan,3
+1288,Polina KHALKEVYCH (Current),Ukraine,3
+1289,Violeta TONINI (Current),Argentina,3
+1290,Kohana MUGISHIMA (Current),Japan,3
+1291,Lucía SEMPERE GONZÁLEZ (Current),Spain,3
+1292,Tahnia HARRIS (Current),Australia,3
+1293,Saray GARCIA (Current),Colombia,3
+1294,Mie OSHIMA,Japan,2
+1295,Isogna JAKUBOWICZ,Poland,2
+1296,Segona RUBIA,Spain,2
+1297,Monique DALMASSO,France,2
+1298,Pascale GALLAND,France,2
+1299,Paola PONS,Italy,2
+1300,Airlie ANDERSON,United Kingdom,2
+1301,Safina MEAH,United Kingdom,2
+1302,Gill LOVICK,United Kingdom,2
+1303,Angela SOPER,United Kingdom,2
+1304,Glenda HUXTER,United Kingdom,2
+1305,Sandra MIHALCEA,Romania,2
+1306,Amy IRVINE,United States of America,2
+1307,Youko KATOU,Japan,2
+1308,Elena VIZITIU,Romania,2
+1309,Martina POLACKOVA,Slovakia,2
+1310,Ivana CADOVA,Czechia,2
+1311,Raffaella NEGRETTI,Italy,2
+1312,Simona SKARJA,Slovenia,2
+1313,Agnes KUBISTA-NUGENT,Austria,2
+1314,Clara PUYADAS-MAYO,Spain,2
+1315,Allis CULLEN,Canada,2
+1316,Tatiana SEMENOVA,Russia,2
+1317,Maria HIMSL,Austria,2
+1318,Kathy YANIRO,United States of America,2
+1319,Ivana FRANCESCHI,Croatia,2
+1320,Christine LACOUR,France,2
+1321,Gaèle GIOT,France,2
+1322,Tiffany LEVINE,United States of America,2
+1323,Elizabeth ILLY,Australia,2
+1324,Anne-marie COFFY,France,2
+1325,Sian KILLEN,United Kingdom,2
+1326,Aleksandra TOMKOWICZ,Poland,2
+1327,Irina ZAYTSEVA,Russia,2
+1328,Eliza CZERWINSKA,Poland,2
+1329,Natalia NESTEROVA,Russia,2
+1330,Sarah HARRISON,United Kingdom,2
+1331,Monika WILLE,Austria,2
+1332,Michell HURNI,United States of America,2
+1333,Eerika LIPSANEN,Finland,2
+1334,Libusa HUSAROVA,Slovakia,2
+1335,Beatrice BRENGUER,France,2
+1336,Suncica HRASCANEC,Croatia,2
+1337,Yolanda SWIERSTRA,Netherlands,2
+1338,Petia gueorguieva IVANOVA,Bulgaria,2
+1339,Florence GAS,France,2
+1340,Marianne BLOM BRODERSEN,Norway,2
+1341,Marina MALAMID,Russia,2
+1342,Veronique BATOUX,France,2
+1343,Annika BERGQVIST,Sweden,2
+1344,Akiko WATAHIKI,Japan,2
+1345,Chloé VALEMBOIS,France,2
+1346,Nolwen LELINGNE,France,2
+1347,Nino TCHARKVIANI,Georgia,2
+1348,Lauren LEE,United States of America,2
+1349,Sadie RENWICK,United Kingdom,2
+1350,Natalia RYMCHA,Russia,2
+1351,Olesia KLEOCHINA,Russia,2
+1352,Hiroe TAKEZAWA,Japan,2
+1353,Blesilda marie CALICA,Philippines,2
+1354,Pleun FRANK,Netherlands,2
+1355,Adela BAJEROVA,Czechia,2
+1356,Genevieve DENNIS,United States of America,2
+1357,Kathrine elsig JENSEN,Denmark,2
+1358,Yula GOLD,Israel,2
+1359,Alessia MABBONI,Italy,2
+1360,Alexandra GULLBERG,Sweden,2
+1361,Nurul AISYAH RAMADHANI SUAT,Indonesia,2
+1362,Ashley FISHER,United States of America,2
+1363,Katja PLANINC,Slovenia,2
+1364,Aurelie DIDILLION,France,2
+1365,Kristine marie ROBLES,Philippines,2
+1366,Barbara joan RAMIRO,Philippines,2
+1367,Kit ying TANG,"China, Hong Kong Special Administrative Region",2
+1368,Xiujuan ZHU,China,2
+1369,Malin STÄMBERG,Sweden,2
+1370,Yukiko TOGAWA,Japan,2
+1371,Chika TAI,Japan,2
+1372,Nina HERZOG,Austria,2
+1373,Kitty XU,New Zealand,2
+1374,Ilmawaty LABANU,Indonesia,2
+1375,Athena LIVANIU,Greece,2
+1376,Valentine VAN WINCKEL,Belgium,2
+1377,Kimie OLIVEIRA,Portugal,2
+1378,Martina GLASEROVA,Czechia,2
+1379,Kimie KON,Portugal,2
+1380,Marisa CORREIA,Portugal,2
+1381,Zosya ASTASHOVA,Russia,2
+1382,Yevgeniya SOBOLEVA,Kazakhstan,2
+1383,Olga MYKHAILOVA,Ukraine,2
+1384,Marine BARBIER,France,2
+1385,Marine CUSA,France,2
+1386,Bangalore subbarao ARCHANA,India,2
+1387,Mustafa NORZAHARATULLAILI,Malaysia,2
+1388,Indah YULIYASTANTI,Indonesia,2
+1389,Helen KEAN,United Kingdom,2
+1390,Tamara ZULIM,Croatia,2
+1391,Anna CERMAKOVA,Czechia,2
+1392,Nee ooi SHEN,Malaysia,2
+1393,Yuet mei LUM,Malaysia,2
+1394,Rosharyani ZAINAL,Malaysia,2
+1395,M. n. VATHSALA,India,2
+1396,Hui OUYANG,China,2
+1397,Liubov SHAGINA,Russia,2
+1398,Evren KARADAĞ,Turkey,2
+1399,Aleksandra KODZIK,Poland,2
+1400,Amalia MANDRU,Romania,2
+1401,Katarina FICKULIAKOVA,Slovakia,2
+1402,Alisa GEL'FER,Ukraine,2
+1403,Julia YACHNIK,Russia,2
+1404,Xuqing LI,China,2
+1405,Sajedeh SOLTANINEJAD,Iran (Islamic Republic of),2
+1406,Daniela LOPEZ,Venezuela (Bolivarian Republic of),2
+1407,Orquidea LEÓN JUAREZ,Mexico,2
+1408,Natalia KUBRAKOVA,Russia,2
+1409,Solène LE CAR,France,2
+1410,Cosima WILLI,Switzerland,2
+1411,Charlotte JOUETT-BOSLEY,United States of America,2
+1412,Kate MCGINNIS,United States of America,2
+1413,Alyrene DOREY,United States of America,2
+1414,Portia MENLOVE,United States of America,2
+1415,Yulia TROEPOLSKAYA,Russia,2
+1416,Natalia KOROLEVA,Russia,2
+1417,Larysa MALYZHENKAVA,Belarus,2
+1418,Katarzyna MIROSLAW,Poland,2
+1419,Katy GOATACHE,Venezuela (Bolivarian Republic of),2
+1420,Rossi GABAZÚ,Venezuela (Bolivarian Republic of),2
+1421,Anna MIKUSHKINA,Russia,2
+1422,Eleanor HOWARD,United Kingdom,2
+1423,Marianne VERHAGE,Netherlands,2
+1424,Sarah GILMOUR,New Zealand,2
+1425,Olena SHURUBOR,Ukraine,2
+1426,Malin HOLMBERG,Sweden,2
+1427,Egle KIRDULYTE,Lithuania,2
+1428,Mirka KRAJCIOVA,Slovakia,2
+1429,Radka PETKOVA,Bulgaria,2
+1430,Cicada JENERIK,United States of America,2
+1431,Maria BELOMESTNOVA,Russia,2
+1432,Luisa DEUBZER,Germany,2
+1433,Julie MICHELARD,France,2
+1434,Xiaotong GUAN,China,2
+1435,Azumi IIDA,Japan,2
+1436,Eunjoung YANG,Republic of Korea,2
+1437,Youngsook CHOI,Republic of Korea,2
+1438,Janina GMITER,Poland,2
+1439,Michela FACCI,Italy,2
+1440,Anna WAGNEROVA,Czechia,2
+1441,Simona KORCOVA,Slovakia,2
+1442,Olga SHCHELNIKOVA,Russia,2
+1443,Uji ayu SUKMANDIRI,Indonesia,2
+1444,Maegan KELLEWAY,Canada,2
+1445,Amelia METCALF,United States of America,2
+1446,Giada ZAMPA,Italy,2
+1447,Iyma LAMARCHE,Canada,2
+1448,Nina WILLIAMS,United States of America,2
+1449,Eva KRIZOVA,Czechia,2
+1450,Sofia CORREA,Ecuador,2
+1451,Ayaka TAKEUCHI,Japan,2
+1452,Claudia MALDONADO,Mexico,2
+1453,Lina HIMPEL,Germany,2
+1454,Tabitha BUMA,Netherlands,2
+1455,Natalia IAKOVLEVA,Russia,2
+1456,Cathy LAFLAMME,Canada,2
+1457,Victoria KLEMM,Austria,2
+1458,Reyhan MAMMADOVA,Azerbaijan,2
+1459,Anastasiya ZAICHENKO,Ukraine,2
+1460,Yulia KHUTOROVA,Russia,2
+1461,Emilia GRUSZEWSKA,Poland,2
+1462,Buket AKÇA,Turkey,2
+1463,Antonia ioana TRIFU,Romania,2
+1464,Elizabeth VINCE,Canada,2
+1465,"Chi-heng, sharon CHIU","China, Hong Kong Special Administrative Region",2
+1466,Marta PALOU CAROL,Spain,2
+1467,Zuriñe ARRUE TOBAR,Spain,2
+1468,Ginevra CASELLATO,Italy,2
+1469,Magdalena PÖLL,Austria,2
+1470,Misato NISHIKORI,Japan,2
+1471,Asami HARADA,Japan,2
+1472,Eva SCROCCARO,Italy,2
+1473,Sophie RAUBERGER,Germany,2
+1474,Kristina JELLEMA,Canada,2
+1475,Sue BRUMM,United States of America,2
+1476,Santa GRIGORJEVA,Latvia,2
+1477,Paulina KALANDYK,Poland,2
+1478,Emilie GERHARDT,Germany,2
+1479,Maja BOZICH,Croatia,2
+1480,Yukari NAKAMURA,Japan,2
+1481,Ayane SAKAI,Japan,2
+1482,Pui-yim LAU,"China, Hong Kong Special Administrative Region",2
+1483,Purnamasari ITA TRIANA,Indonesia,2
+1484,Sima SOLTANI,Iran (Islamic Republic of),2
+1485,Siddhi shekhar MANERIKAR,India,2
+1486,Senjam debala DEVI,India,2
+1487,Flavia pereira SONALI,India,2
+1488,Fatma BASOGLU KABRAN,Turkey,2
+1489,Molly RENNIE,United States of America,2
+1490,Maddy MORRIS,United States of America,2
+1491,Luna FRIEDRICH,Germany,2
+1492,Julia TALBOT,United States of America,2
+1493,Jaylene PRATT,Canada,2
+1494,Alessandra ZANETTI,Italy,2
+1495,Aya KIKUZAWA,Japan,2
+1496,Nanna SÖDERIN,Sweden,2
+1497,Yuliya KEREMEDCHIEVA,Bulgaria,2
+1498,Miharu SOTOME,Japan,2
+1499,Kseniia MELNYKOVA,Ukraine,2
+1500,Seohyun KIM,Republic of Korea,2
+1501,Saedasom JUNG,Republic of Korea,2
+1502,Eva THOMPSON,Canada,2
+1503,Katsuki BAMBA,Japan,2
+1504,Narada DISYABUT,Thailand,2
+1505,Swastika CHAUDHARY (Current),Nepal,2
+1506,Amour PAZ,Israel,2
+1507,Ayşe NARMANLI,Turkey,2
+1508,Ivanova INTA,Latvia,2
+1509,Silvia BARRETT,Sweden,2
+1510,Suet-ying LAM,"China, Hong Kong Special Administrative Region",2
+1511,Laurel MELTON,United States of America,2
+1512,Svetlana SHAROVA,Russia,2
+1513,Emily GONZALEZ,Ecuador,2
+1514,Alisson VIZUETE,Ecuador,2
+1515,Sara MORANDINI,Italy,2
+1516,Lesley LADLAD,United States of America,2
+1517,Philippa WATKIN,United Kingdom,2
+1518,Sunga SON,Republic of Korea,2
+1519,Marie COLOT,Belgium,2
+1520,Mª Carmen ALARCÓN GRAU,Spain,2
+1521,Volha RAK,Belarus,2
+1522,Lotina DIANA,Latvia,2
+1523,Bahareh BADRABADI,Iran (Islamic Republic of),2
+1524,Hadis NAZARIROBATI,Iran (Islamic Republic of),2
+1525,Valeriia DERIABINA,Russia,2
+1526,Yevheniia CHERNIAVSKA,Ukraine,2
+1527,Kamilla KUSHAEVA,Russia,2
+1528,Polina AKSENOVA,Russia,2
+1529,Lisa HAMMER,United States of America,2
+1530,Wing Sze YUEN,"China, Hong Kong Special Administrative Region",2
+1531,Azmie NADIRAH,Singapore,2
+1532,Hoi-ying TO,"China, Hong Kong Special Administrative Region",2
+1533,Anna KRAJUSHKINA,Estonia,2
+1534,Sophia KWON,United States of America,2
+1535,Sara CARAMELLA,Italy,2
+1536,Laura LAMMER,Austria,2
+1537,Emma PALMER,United States of America,2
+1538,Sabina VEČEŘOVÁ,Czechia,2
+1539,Flora FROESE,Australia,2
+1540,Elisa VAN DER WEL,Germany,2
+1541,Annika PIDDE,Germany,2
+1542,Hannah HERMANN,Switzerland,2
+1543,Sanja-Riia COLLIN,Finland,2
+1544,Anna CALANCA,Italy,2
+1545,Lauren BAIR,United States of America,2
+1546,Romane FONTELAYE,France,2
+1547,Nitsa TVAURI,Georgia,2
+1548,Sophie BUITENDYK,Canada,2
+1549,Estelle PARK,United States of America,2
+1550,Saveena FILLINGHAM (Current),United Kingdom,2
+1551,Louise FLOCKHART,United Kingdom,2
+1552,Doriane SARAMANDIF,Mauritius,2
+1553,Lauren MUKHEIBIR (Current),South Africa,2
+1554,Rugile TAMOSIUNAITE,Lithuania,2
+1555,Barbara WÓJCIK (Current),Poland,2
+1556,Tuuli LAPPALAINEN,Finland,2
+1557,Alexandra KATERI,Greece,2
+1558,Lucie VAILLANT BULTEL,France,2
+1559,Milica MARJANOVIC,Serbia,2
+1560,Saniya farooque SHAIKH,India,2
+1561,Eka DIAN KRISMAWATI,Indonesia,2
+1562,Kailer KORDEWICK (Current),United States of America,2
+1563,Sydney WILLIAMS (Current),United States of America,2
+1564,Micaela PATAJO (Current),United States of America,2
+1565,Anna BOLIUS (Current),Austria,2
+1566,Carmen CONTRERAS,Chile,2
+1567,Giulia BERNARDINI (Current),Italy,2
+1568,Anisha VERMA,India,2
+1569,Jingyu LI (Current),China,2
+1570,Ziqi Elly GAO (Current),"China, Hong Kong Special Administrative Region",2
+1571,Sui Lin Renee TAN (Current),Malaysia,2
+1572,Jingjing MAO (Current),China,2
+1573,Valissya MAY (Current),Bulgaria,2
+1574,Sina WILLY (Current),Austria,2
+1575,Tamara Fatima ORTIZ RUIZ (Current),Peru,2
+1576,Anika DEUBLER (Current),Austria,2
+1577,Sarah FEICHTENSCHLAGER (Current),Austria,2
+1578,Arina KOZLOVA (Current),Kazakhstan,2
+1579,Lana BONNAL (Current),France,2
+1580,Lily NGUYEN (Current),United States of America,2
+1581,Lana GORIC (Current),Slovenia,2
+1582,Yubin HONG (Current),Republic of Korea,2
+1583,Shin Yee CHEN (Current),Malaysia,2
+1584,Kylie BAKER (Current),Guam,2
+1585,Ka Kei CHU (Current),"China, Macao Special Administrative Region",2
+1586,Pak Chi SOU (Current),"China, Macao Special Administrative Region",2
+1587,Cho Wing Jasmiki LAM (Current),"China, Hong Kong Special Administrative Region",2
+1588,Rowaida ALERWI (Current),Saudi Arabia,2
+1589,Jiaxuan YANG (Current),China,2
+1590,Sana OGURA (Current),Japan,2
+1591,Jisu CHOI (Current),Republic of Korea,2
+1592,Zoe YI (Current),United States of America,2
+1593,Emiko TAKEUCHI (Current),United States of America,2
+1594,Natalie PAAROVA (Current),Czechia,2
+1595,Neza ZAJC (Current),Slovenia,2
+1596,Jil COUTURE (Current),Switzerland,2
+1597,Mariam DE LA VEGA (Current),Mexico,2
+1598,Melis PEHLIVAN (Current),Turkey,2
+1599,Caiya TAYLOR AINSLIE (Current),Canada,2
+1600,Johanna NAGL (Current),Austria,2
+1601,Louise FONTAINE (Current),France,2
+1602,Sienna CHOW (Current),Canada,2
+1603,Analía DOMÍNGUEZ CRISTERNA (Current),Mexico,2
+1604,Mia GUTTENBERGER (Current),Germany,2
+1605,Kaïna VIVIAND (Current),France,2
+1606,Noor WITTE (Current),Netherlands,2
+1607,Elise VILLENEUVE (Current),Canada,2
+1608,Paula TRAVERSO LEBRÓN (Current),Spain,2
+1609,Emily Charlote PESCETTO BUDDEN (Current),Spain,2
+1610,Brooke WHITE (Current),Canada,2
+1611,Amanda CRISCUOLI TAVARES (Current),Brazil,2
+1612,Alma SAPIR HALEVI (Current),Israel,2
+1613,Xin WANG (Current),China,2
+1614,Kseniia CHERNEGA (Current),Russia,2
+1615,Tsany ALMA ARIELLA (Current),Indonesia,2
+1616,Annika MÜLLER (Current),Germany,2
+1617,Mina Josephine SCHULTZ (Current),Germany,2
+1618,Milana MELNICHENKO (Current),Russia,2
+1619,Courtney Carol SCHAGEN (Current),South Africa,2
+1620,Paula MAYER-VORFELDER (Current),Germany,2
+1621,Bibi HAMERS (Current),Netherlands,2
+1622,Cheuk-Kei WONG (Current),"China, Hong Kong Special Administrative Region",2
+1623,Colette BOBENRIETH,France,1
+1624,Nikola KRALIKOVA,Czechia,1
+1625,Renee GUERIN,France,1
+1626,Liubov ZAHAROVA,Russia,1
+1627,Ira BAKALEINIKOVA,Russia,1
+1628,Natalia LUKINA,Russia,1
+1629,Maya KOLEVA,Bulgaria,1
+1630,Anna SHOPSKA,Bulgaria,1
+1631,Daniela DOTCHEVA,Bulgaria,1
+1632,Kristen DRUMHELLER,United States of America,1
+1633,Meg HALL,United States of America,1
+1634,Marie-Agnes DUVAL,France,1
+1635,Paola PADOVAN,Italy,1
+1636,Verenijk PLANCHIN,France,1
+1637,Robyn CLELAND,United Kingdom,1
+1638,Lucy ELLIS,United Kingdom,1
+1639,Alison COWLEY,United Kingdom,1
+1640,Bernadette BRAIDLEY,United Kingdom,1
+1641,Geraldine TAYLOR,United Kingdom,1
+1642,Catherine DUFILL,United Kingdom,1
+1643,Anna GREGORY,United Kingdom,1
+1644,Helen KOLIADA,Russia,1
+1645,Claudie DUNN,United Kingdom,1
+1646,Barbara CLEMES,Canada,1
+1647,Diane RUSSELL,United States of America,1
+1648,Elena KOLIADA,Russia,1
+1649,Elena CIOROIANU,Romania,1
+1650,Jung-ae YOU,Republic of Korea,1
+1651,Ork-young CHA,Republic of Korea,1
+1652,Chun-fang LIN,China,1
+1653,Shu-mei HSU,Taiwan,1
+1654,Kusi-chib YANG,Taiwan,1
+1655,Yumiko MUROI,Japan,1
+1656,Chiaki SUGIMORI,Japan,1
+1657,Mito MASUMI,Japan,1
+1658,Anne JACOB,India,1
+1659,Alka SABHARVAL,India,1
+1660,Anna VOUTCHKOVA,Bulgaria,1
+1661,Irmgard BRAUN,Germany,1
+1662,Irina KODINA,Russia,1
+1663,Taitiana DMITRIEVSKAYA,Russia,1
+1664,Stefanie SCHREIBER,Germany,1
+1665,Catherine BARDON,France,1
+1666,Rita CSOULIMOVSKA,Russia,1
+1667,Brigitte SCHNEIDER,Austria,1
+1668,Jola SANDFORD,Canada,1
+1669,Pascale MATERA,France,1
+1670,Carolyn YOUNG,United Kingdom,1
+1671,Anne MURRAY,United Kingdom,1
+1672,Unda TOSSEBRO,Norway,1
+1673,Slavica STOJAKOVIC-POJGORNIK,Croatia,1
+1674,Galina EREMINA,Russia,1
+1675,Kyung-soon KIM,Republic of Korea,1
+1676,Fung-kin TAM,"China, Hong Kong Special Administrative Region",1
+1677,Kyung-im YOON,Republic of Korea,1
+1678,Shwu-mei SHAU,Taiwan,1
+1679,Mei-huei CHOU,Taiwan,1
+1680,Hisako TAKEDA,Japan,1
+1681,Yukiko MAESHIMA,Japan,1
+1682,Michiko AKAISHI,Japan,1
+1683,Karla RIEGLER,Austria,1
+1684,Violeta MELTHEVA,Bulgaria,1
+1685,Ana GRABOVAC,Croatia,1
+1686,Anca TARNA,Romania,1
+1687,Marie claire GONTHARET,France,1
+1688,Berit SKEJEVLING,Norway,1
+1689,Zuzana FISCHEROVA,Czechia,1
+1690,Suzanne PAULSON,United States of America,1
+1691,Sodhi DALVINDER,United Kingdom,1
+1692,Jun-sook KIM,Republic of Korea,1
+1693,Zoe KOZUB,Canada,1
+1694,Hilary HARRIS,United States of America,1
+1695,Karin SPENGLER,Germany,1
+1696,Ursi DÜGGELIN,Switzerland,1
+1697,Sandra STUDER,Switzerland,1
+1698,C. CHAUSSIS,France,1
+1699,Marie DUTRAY,France,1
+1700,Heidi WILLENER,Switzerland,1
+1701,Séverine LIZIN,Belgium,1
+1702,Irena PALOSEK,Croatia,1
+1703,Helen DOLGOVYZOVA,Kazakhstan,1
+1704,Silvia FITZPATRICK,United Kingdom,1
+1705,Maria PAZUK,Uzbekistan,1
+1706,Baiba TSIPARSONE,Latvia,1
+1707,Florance DUTARTRE,France,1
+1708,Florence LACHENAL,France,1
+1709,Renata DUMITRANA,Romania,1
+1710,Martine GOERGER,France,1
+1711,Ameli HAAGER,Germany,1
+1712,Larisa SHESTMINCEVA,Ukraine,1
+1713,Larissa BURONOVA,Russia,1
+1714,Gill BLACKBURN,United Kingdom,1
+1715,Tessa LITTLE,South Africa,1
+1716,Wilma RENKEMA,Netherlands,1
+1717,Françoise GENON,Belgium,1
+1718,Monika NIEDBALSKA,Poland,1
+1719,Pia PYLVÄNÄINEN,Finland,1
+1720,Meryl SINGER,United States of America,1
+1721,Maria JAROKH,Ukraine,1
+1722,Galina CHICHKINA,Kazakhstan,1
+1723,Kyung-soo YANG,Republic of Korea,1
+1724,Aletia OWEN,United Kingdom,1
+1725,Catherine FRENCH,United Kingdom,1
+1726,Katherine LOVE,United Kingdom,1
+1727,Lizz GRENARD,United States of America,1
+1728,Anja FÄRBER,Germany,1
+1729,Heather COLLINS,United States of America,1
+1730,Beth RODDEN,United States of America,1
+1731,Elena KOPYLOVA,Russia,1
+1732,Lucie POTESILOVA,Czechia,1
+1733,Brigitta NILSSON,Sweden,1
+1734,Anita ROSTEN,Sweden,1
+1735,Silvia GRIVA,Italy,1
+1736,Frederique COLLIERE,France,1
+1737,Marharyta USATIUK,Ukraine,1
+1738,Paola SABBION,Italy,1
+1739,Akemi HASHIMOTO,Japan,1
+1740,Zantzou VASILIKI,Greece,1
+1741,Cristina GONZALEZ,Spain,1
+1742,Ana belen UBEDA,Spain,1
+1743,Hélène ASTIE,France,1
+1744,Karine PEREZ,France,1
+1745,Elisabetta BOLDRIN,Italy,1
+1746,Mariann BAKKE,Norway,1
+1747,Auriana BEAUTE,France,1
+1748,Elodie CHAZAUD,France,1
+1749,Aicha HABBOUSE,France,1
+1750,Camilla PAYAN,France,1
+1751,Pascale HERNANDEZ,France,1
+1752,Aurélie BOUSSARD,France,1
+1753,Sidonie FROMENTIN,France,1
+1754,Daniela PETROVA DIMITROVA,Bulgaria,1
+1755,Sofo TVARADZE,Georgia,1
+1756,Sara aylin OSTALE,Chile,1
+1757,Manuela FENDER,Austria,1
+1758,Dora GILAUYI,Hungary,1
+1759,Vasiliki ZANTZOU,Greece,1
+1760,Tzveta konstantin KOJOUHAROVA,Bulgaria,1
+1761,Isabelle ROCHE,France,1
+1762,Audrey RAMIS,France,1
+1763,Juliette DESCHAMPS,France,1
+1764,Valérie CHAUVET,France,1
+1765,Alexandra GONTCHAR,Russia,1
+1766,Sara PERENZONI,Italy,1
+1767,Tam LAYCOCK,United States of America,1
+1768,Mariana ENE,Romania,1
+1769,Elsa FONTANEZ,France,1
+1770,Giovanna PASSERINI,Italy,1
+1771,Sung-shi KIM,Republic of Korea,1
+1772,Jana OMAN,Slovenia,1
+1773,Maureen KUNZ,United States of America,1
+1774,Melissa GRIFFITH,United States of America,1
+1775,April MARR,United Kingdom,1
+1776,Mustafa N.LILY,Malaysia,1
+1777,Jung-ok LEE,Republic of Korea,1
+1778,Mohamad AMIRAH MARINA,Malaysia,1
+1779,Dewi izwana BT. ALI,Malaysia,1
+1780,Tiffen DECORPS,France,1
+1781,Yekaterin KRASILNOKOVA,Kazakhstan,1
+1782,Shane BUZON,Philippines,1
+1783,Yuk-lan CHAN,"China, Hong Kong Special Administrative Region",1
+1784,Emilie PUPKO,Israel,1
+1785,Emma stöver WOLLEBAEK,Norway,1
+1786,Yael BAHARAD,Israel,1
+1787,Gabrielle TOURTELLOTTE,United States of America,1
+1788,Roosa HUHTIKORPI,Finland,1
+1789,Johanna SÖRBOM,Sweden,1
+1790,Nikoline ÖHRSTRÖM,Denmark,1
+1791,Emilia WARENSKI,Austria,1
+1792,Jana RAUTH,Austria,1
+1793,Annika STÖCKL,Austria,1
+1794,Camilla BENDAZZOLI,Italy,1
+1795,Abdul rochman SYARIFAH,Indonesia,1
+1796,Liza NOVAK,Slovenia,1
+1797,Athanasia LIOUNI,Greece,1
+1798,Chloé LESPAGNOL,France,1
+1799,Véronique POULHES,France,1
+1800,Jen LEMAIRE,United States of America,1
+1801,Elaina kristine ap FLORES,Philippines,1
+1802,Mi-hyung HWANG,Republic of Korea,1
+1803,Jian-li LI,China,1
+1804,Lai-yin NG,"China, Hong Kong Special Administrative Region",1
+1805,Kit ling TSOI,"China, Hong Kong Special Administrative Region",1
+1806,Meng-chun CHANG,Taiwan,1
+1807,Chiu-ping LEE,Taiwan,1
+1808,Janina KÄYHKÖ,Finland,1
+1809,Eva LOPEZ RIVERA,Spain,1
+1810,Masa RIBNIKAR,Slovenia,1
+1811,Polona SANTELJ,Slovenia,1
+1812,Regina KNABL,Austria,1
+1813,Marine SOUCHE,France,1
+1814,Gizelle katrina LOPEZ,Philippines,1
+1815,Sarah jane ROSETE,Philippines,1
+1816,Chiu-mei CHANG,Taiwan,1
+1817,Yi-fang HOUNG,Taiwan,1
+1818,Maho KOBAYASHI,Japan,1
+1819,Joanna GOORNEY,United Kingdom,1
+1820,A MURJAYANTI,Indonesia,1
+1821,Sarah WEBSTER,Australia,1
+1822,Stine OSTERGAARD,Denmark,1
+1823,Stephanie OUTLAND,United States of America,1
+1824,Paraskevi GIOURI,Greece,1
+1825,Lara DE BACKER,Belgium,1
+1826,Eun-na DO,Republic of Korea,1
+1827,Petra TOMANOVA,Slovakia,1
+1828,Svenja SUWELACK,Germany,1
+1829,Jasmin KREMSER,Austria,1
+1830,Zuzana ULRICHOVA,Czechia,1
+1831,Gabriela DOBROTA,Serbia,1
+1832,Cveta KOJUHAROVA,Bulgaria,1
+1833,Siyana KYUTINSKA,Bulgaria,1
+1834,Antonina SOUVOROVA,Russia,1
+1835,Laura GRIFFITHS,United States of America,1
+1836,Amanda WATTS,Australia,1
+1837,Mizuho INGRE,Sweden,1
+1838,Sunniva HAMMERAAS,Norway,1
+1839,Pauline SARROTE,France,1
+1840,Christina BEDARD,Australia,1
+1841,Lucy GRIFFITHS,United Kingdom,1
+1842,Barbara ZANGERL,Austria,1
+1843,Eva KOVACOVA,Slovakia,1
+1844,Valeriya LESHCHENKO,Ukraine,1
+1845,Lovise SPARRE,Sweden,1
+1846,Nastasiya UVAROVA,Ukraine,1
+1847,Kateryna CHORNOSKUTOVA,Ukraine,1
+1848,Bogna WILCZYNSKA,Poland,1
+1849,Alexandra DUMONT,France,1
+1850,Triana ARIESANDHI,Indonesia,1
+1851,Robiah adawiyan SITI,Indonesia,1
+1852,Ayu sukmandiri UJI,Indonesia,1
+1853,Tri ADIANTI,Indonesia,1
+1854,Natalia RUCHKA,Ukraine,1
+1855,Duygu YARSUR,Turkey,1
+1856,Karen ALLEN,Australia,1
+1857,Chrysa STERGIAKOU,Greece,1
+1858,Stella KERASIDOU,Greece,1
+1859,Sonja SCHADE,Germany,1
+1860,Mariya SOSNOVSKYKH,Ukraine,1
+1861,Mila GORDEEVA,Bulgaria,1
+1862,Filiz KARAKULAK V.D.B.KAAG,Turkey,1
+1863,Marta LENARTOWICZ,Poland,1
+1864,Agnieszka SZCZEPANIEC,Poland,1
+1865,Agnieszka MICIULA,Poland,1
+1866,Joyce KUIK,United States of America,1
+1867,Moradi BAHAREH,Iran (Islamic Republic of),1
+1868,Fatemeh SOLAIMANI,Iran (Islamic Republic of),1
+1869,Chia-ling WEI,Taiwan,1
+1870,Farnaz ESMAILZADEH,Iran (Islamic Republic of),1
+1871,Huanmiao PENG,China,1
+1872,Yoko IKEDA,Japan,1
+1873,Kiyoe TSUTSUMI,Japan,1
+1874,Nozomi MONMA,Japan,1
+1875,Léa PHILIPPON,France,1
+1876,Oksana RAZNO,Ukraine,1
+1877,Miriam PUTZ,Austria,1
+1878,Erin FORD-ZIELENIEWSKI,Canada,1
+1879,Sheena OSBORNE,Canada,1
+1880,Nicola HESSELS,Canada,1
+1881,Anna AGAPONOVA,Russia,1
+1882,Alena ANDREEVA,Russia,1
+1883,Anastasiya MYROLYUBOVA,Ukraine,1
+1884,Elena DMITRYEVA,Russia,1
+1885,Evgeniya SHAHMATOVA,Russia,1
+1886,Anna RAKITSKAYA,Russia,1
+1887,Marjorie JUAREZ,France,1
+1888,Violaine TARDY,France,1
+1889,Stéphanie SAURON,France,1
+1890,Anouk EVENE,France,1
+1891,Stefanie KOFLER,Austria,1
+1892,Annemarie-caroline STANGACIU,Romania,1
+1893,Leja KOS,Slovenia,1
+1894,Julia MIROSHNICHENKO,Russia,1
+1895,Patricija LEVSTEK,Slovenia,1
+1896,Megumi TAKAHASHI,Japan,1
+1897,Mai TONEGI,Japan,1
+1898,Yayoi OGAWA,Japan,1
+1899,Dalia HAMDY,Switzerland,1
+1900,Boróka SZÉLL,Hungary,1
+1901,Sydney MCNAIR,United States of America,1
+1902,Eva PEPIN-HELIE,Canada,1
+1903,Eline NAS,Netherlands,1
+1904,Marie line MADELAINE,France,1
+1905,Katarzyna WICHA,Poland,1
+1906,Anna GISLIMBERTI,Italy,1
+1907,Adeline EUVRARD,France,1
+1908,Magnhild OEFSTI,Norway,1
+1909,Gamez CIRIK,Turkey,1
+1910,Monika PIASECKA,Poland,1
+1911,Itziar RODRÍGUEZ MENARQEZ,Spain,1
+1912,Isabelle KÖLLE,Austria,1
+1913,Olivia HOLT,New Zealand,1
+1914,Claire GIBSON,New Zealand,1
+1915,Ana OGRINC,Slovenia,1
+1916,Szilvia VARGA,Hungary,1
+1917,Amanda BEREZOWSKI,Canada,1
+1918,Taylor CLARKIN,United States of America,1
+1919,Amy LIPSCHULTZ,United States of America,1
+1920,Selena WONG,Canada,1
+1921,Alena DEMKO,Belarus,1
+1922,Marianne VAN DER  STEEN,Netherlands,1
+1923,Elena BRUNNER,Austria,1
+1924,Barbara BÜSCHLEN,Switzerland,1
+1925,Mariya NIKOLAEVA,Russia,1
+1926,Marie DA SILVA TORTOSA,France,1
+1927,Adeline BONNACORSI,France,1
+1928,Yuna KIM,Republic of Korea,1
+1929,Minyoung HA,Republic of Korea,1
+1930,Katharina PÖLL,Austria,1
+1931,Chiara LIMONTA,Italy,1
+1932,Heather SAWITSKY,Canada,1
+1933,Regan KENNEDY,Canada,1
+1934,Dana RIDDLE,United States of America,1
+1935,Sarah SHAW,United States of America,1
+1936,Hiroyo SUMURA,Japan,1
+1937,Melissa GODOWSKI,United States of America,1
+1938,Mélissa LACASSE,Canada,1
+1939,Rianne VAN DEN BERG,Netherlands,1
+1940,María CARTRÓ IRIARTE,Spain,1
+1941,Katharina BACHER,Austria,1
+1942,Candice BAGLEY,South Africa,1
+1943,Anastasia ERMOLAEVA,Russia,1
+1944,Yuka KAGEYA,Japan,1
+1945,Amanda SUTTON,United States of America,1
+1946,Gunel QULIYEVA,Azerbaijan,1
+1947,Linda GUNDOVA,Slovakia,1
+1948,Maria fernanda de je RODRIGUEZ,Mexico,1
+1949,Mariana MENDOZA CASTILLO,Mexico,1
+1950,Adriana vanessa FOURNIER CASTILLO,Mexico,1
+1951,Dorothea KARALUS,Germany,1
+1952,Françoise JACQUES,France,1
+1953,Thu CROSLEY,Canada,1
+1954,Polina SHELPAKOVA,Russia,1
+1955,Mariya USTIMENKO,Ukraine,1
+1956,Mariya BOYKO,Ukraine,1
+1957,Densmaa BAYARSAIKHAN,Mongolia,1
+1958,Nyamkhand DUGARJAV,Mongolia,1
+1959,Ariunod BATSAIKHAN,Mongolia,1
+1960,Soyoung JUEN,Republic of Korea,1
+1961,Tanja LANZ,Switzerland,1
+1962,Alexa NAZARIAN,United States of America,1
+1963,Tegan WILSON,United States of America,1
+1964,Victoria CARTWRIGHT,United States of America,1
+1965,Danielle ROGAN,United States of America,1
+1966,Yoko METSUGI,Japan,1
+1967,Kajsa WIKLUND,Sweden,1
+1968,Yunqing LIU,China,1
+1969,Ruta KERSHIULYTE,Lithuania,1
+1970,Cindy SARARAK,France,1
+1971,Kelly DRAGER,Canada,1
+1972,Shannon RUSSELL,United States of America,1
+1973,Ayten PIRALIYEVA,Azerbaijan,1
+1974,Sems QULIYEVA,Azerbaijan,1
+1975,Safarova SIMA,Azerbaijan,1
+1976,Diana vadim HANINA,Azerbaijan,1
+1977,Maria TOLOKONINA,Russia,1
+1978,Natalia BEZBORODOVA,Russia,1
+1979,Varvara SHATALOVA,Russia,1
+1980,Maria BOGDANOVA,Russia,1
+1981,Nadazhda KRASAVINA,Russia,1
+1982,Hanbin CHOI,Republic of Korea,1
+1983,Hyunsook LEE,Republic of Korea,1
+1984,Paloma SIMON,France,1
+1985,Sabine VANDEWOESTYNE,France,1
+1986,Anastasia KARKAVINA,Russia,1
+1987,Salome MESHVELIANI,Georgia,1
+1988,Zahra REZAEI,Iran (Islamic Republic of),1
+1989,Ebru DILLI,Turkey,1
+1990,Maryam ALIKHANI,Iran (Islamic Republic of),1
+1991,Anna DULARIDZE,Georgia,1
+1992,Karla FERNANDEZ ESPONDA,Mexico,1
+1993,Sarah PASHLEY,United Kingdom,1
+1994,Tatiana SKORODUMOVA,Russia,1
+1995,Andrea POKORNA,Czechia,1
+1996,Erika MATTIOLI,Italy,1
+1997,Margarita MARSANOVA,United States of America,1
+1998,Nicole MEJIA,Ecuador,1
+1999,Teresa GALLUCCI,Italy,1
+2000,Minjung JUNG,Republic of Korea,1
+2001,Mihyeon HWANG,Republic of Korea,1
+2002,Eunkyung NAM,Republic of Korea,1
+2003,Melanie MESSER,United States of America,1
+2004,Iuliia ZAITSEVA,Russia,1
+2005,Kumari BARRY,Australia,1
+2006,Su en NEO,Canada,1
+2007,Catherine BRUNEL-GUITTON,Canada,1
+2008,Veronique GOSSELIN,Canada,1
+2009,Adriana MÁRQUEZ,Guatemala,1
+2010,Ashley VEEVERS,Canada,1
+2011,Esti TWEG,Canada,1
+2012,Kayla LIEUW,United States of America,1
+2013,Ashley EDENS,United States of America,1
+2014,Leanna LOCKHART,United States of America,1
+2015,Bettina ASCHAUER,Germany,1
+2016,Katherine LAMB,United States of America,1
+2017,Noemi LANGENKAMP,Switzerland,1
+2018,Milda KOREIVAITE,Lithuania,1
+2019,Inga PATARCIC,Croatia,1
+2020,Maria del carmen MARTINEZ,Mexico,1
+2021,Sidney TRINIDAD,United States of America,1
+2022,Elena MOSS,Canada,1
+2023,Maggy DUBE-LAROCHE,Canada,1
+2024,Evelyna TROTTIER,Canada,1
+2025,Margaux DESCHAMPS,France,1
+2026,Julia MASSULLO,Canada,1
+2027,Eline NÆSHEIM,Norway,1
+2028,Ragnhild ERIKSRUD,Norway,1
+2029,Jorun RENNAN,Norway,1
+2030,Ida marie HØIAAS,Norway,1
+2031,Bibiana dahle NESS,Norway,1
+2032,Løvmo MIA KVÅLE,Norway,1
+2033,Margot VERHAEREN,Belgium,1
+2034,Hinako FURUKAWA,Japan,1
+2035,Chisato KANAZAWA,Japan,1
+2036,Satomi TACHIBANA,Japan,1
+2037,Chea MARAK,India,1
+2038,Dhanshri LEKURWALA,India,1
+2039,Smriti SINGH,India,1
+2040,Nehaa PRAKASH,India,1
+2041,Prerna DANGI,India,1
+2042,Mayuri DESHMUKH,India,1
+2043,Olga NIEMIEC,Poland,1
+2044,Emily ZIFFER,United States of America,1
+2045,Ayleen GUARÉ,Guatemala,1
+2046,Janka MEYER,Germany,1
+2047,Amanda MEIJERING,Netherlands,1
+2048,Ruxandra-georgeta BARBULESCU,Romania,1
+2049,Judit NAGY,Romania,1
+2050,Sofie PAULUS,Germany,1
+2051,Anastasia SHYMKOVA,Ukraine,1
+2052,Nina KAPITAIN,Austria,1
+2053,Ayano SOGA,Japan,1
+2054,Akiko KAWABATA,Japan,1
+2055,Junko KITAWAKI,Japan,1
+2056,Victoria PERKINS,United States of America,1
+2057,Alexis MASCARENAS,United States of America,1
+2058,Lila NEAHRING,United States of America,1
+2059,Julianna JIMREIVAT,United States of America,1
+2060,Audrey MILLER,United States of America,1
+2061,Solmaz ESHGHI,Iran (Islamic Republic of),1
+2062,Farzaneh SHAHRAVI,Iran (Islamic Republic of),1
+2063,Shivani CHARAK,India,1
+2064,Veronika SIMKOVA,Czechia,1
+2065,Primula TEILMANN AALUND,Denmark,1
+2066,Panka FARKAS,Hungary,1
+2067,Patricia MEDINA,Portugal,1
+2068,Saskia THOMAS,South Africa,1
+2069,Katarína PIVOŇKOVÁ,Slovakia,1
+2070,Farina HANDAYANI,Indonesia,1
+2071,Jana MESSNER,Italy,1
+2072,Dana MONTEITH,Canada,1
+2073,Anastasiia FISENKO,Ukraine,1
+2074,Grace DIGIORGIO,United States of America,1
+2075,Natalia WOS,Poland,1
+2076,Isabelle ADAMS,United Kingdom,1
+2077,Gwyneth UTTLEY,United Kingdom,1
+2078,Bergljot HANSEN,Norway,1
+2079,Ingrid helene AMUNDRUD,Norway,1
+2080,Elina AVRAMOVA,Canada,1
+2081,Ysa RAKESTRAW,Netherlands,1
+2082,Maja JONJIC ARNAUTOVIC,Spain,1
+2083,Olga KUSHCH,Russia,1
+2084,Kseniya KOPUSAVA,Belarus,1
+2085,Daria TITKINA,Belarus,1
+2086,Katsiaryna PAHUDA,Belarus,1
+2087,Karina GAREEVA,Russia,1
+2088,Darina GALAGANOVA,Russia,1
+2089,Irina SABITOVA,Russia,1
+2090,Stefanie Ann LOW SU YING,Singapore,1
+2091,Yusri NADRAH,Singapore,1
+2092,"Mingxin, Judith SIM",Singapore,1
+2093,Akane KINOSHITA,Japan,1
+2094,Karin KOJIMA,Japan,1
+2095,Debbie Zi Jing TAN,Singapore,1
+2096,Sarah HAY,New Zealand,1
+2097,Justine MCCARNEY,Canada,1
+2098,Anna KELLY,United States of America,1
+2099,Gabby LAMPNER,United States of America,1
+2100,leah JEFFRIES,Australia,1
+2101,Isabell ADOLPH,Germany,1
+2102,Sandra JONSSON,Sweden,1
+2103,Sara ENGQVIST,Sweden,1
+2104,BEGÜM IŞIK,Turkey,1
+2105,Olivia CAMPTON-SMITH,Australia,1
+2106,Francesca MEDICI,Italy,1
+2107,Mia Stöver WOLLEBAEK,Norway,1
+2108,Clara VIEGAS REZENDE,Brazil,1
+2109,Denisa MERCOVA,Czechia,1
+2110,Teyha ROGERS,Canada,1
+2111,Antonia VALENZUELA,Chile,1
+2112,Isabelle HARE,Australia,1
+2113,Olga FEDYUK,Portugal,1
+2114,Lisa HARDIQUEST,Belgium,1
+2115,Elena VERETENNIKOVA,Belarus,1
+2116,Aya SUGAWARA,Japan,1
+2117,Helene WOLF,Germany,1
+2118,Myrto PETALIDOU,Greece,1
+2119,Shifra BEN AVRAHAM,Israel,1
+2120,Lurdes GADALA-MARIA,Guatemala,1
+2121,Yasmin HERRERA,Guatemala,1
+2122,Mia BAWENDI,United States of America,1
+2123,Noelia VENET GALLEGOS,Peru,1
+2124,Lilly MAGDITSCH,Australia,1
+2125,Honoka MORIWAKI,Japan,1
+2126,LiRong YAN,China,1
+2127,Hana KUDO,Japan,1
+2128,Selenge NYAMDOO,Mongolia,1
+2129,Manami AIBARA,Japan,1
+2130,Hannah KERR,United Kingdom,1
+2131,Emma FUTCHER,United Kingdom,1
+2132,Sanja-riia COLLIN,Finland,1
+2133,Lujza MICHALKOVÁ,Slovakia,1
+2134,Xu LITING,Singapore,1
+2135,Jihyeon LIM,Republic of Korea,1
+2136,Hyebin KIM,Republic of Korea,1
+2137,Addyson TALLENT,United States of America,1
+2138,Kseniia ZAKHAROVA,Ukraine,1
+2139,Eni MALENICA,Croatia,1
+2140,Fujiyanti WIDIA,Indonesia,1
+2141,Ragil rakasiwii KHARISMA,Indonesia,1
+2142,Nur ISMATUL SAKDIA,Indonesia,1
+2143,Triara PUTRI RAUDHAH,Indonesia,1
+2144,Rahmayuna FADILLAH,Indonesia,1
+2145,Noor ARSYADA,Indonesia,1
+2146,Momona TATSUKI,Japan,1
+2147,Liana nicole MORA,Philippines,1
+2148,Bianca MAGALHAES DE CASTRO,Brazil,1
+2149,Ye jin JUNG,Republic of Korea,1
+2150,Yuju MU,China,1
+2151,Nurma ANJANI,Indonesia,1
+2152,Zoe BITTERS,United States of America,1
+2153,Madeline MORRIS,United States of America,1
+2154,Barbora ZITKOVA,Czechia,1
+2155,Caterina DAL ZOTTO,Italy,1
+2156,Jordyn DAMASCO,Australia,1
+2157,Maya KLAUNZER,Austria,1
+2158,Sophia AVENDER,Austria,1
+2159,Kerry SCOTT,United States of America,1
+2160,Rebecca HOUNSELL,New Zealand,1
+2161,Isabella DOMANESCHI,New Zealand,1
+2162,Alyssa KEANINI (Current),United States of America,1
+2163,Sienna PEREZ (Current),United States of America,1
+2164,Federica MABBONI (Current),Italy,1
+2165,Joëlle NIEDERBERGER (Current),Switzerland,1
+2166,Olivia OGIER (Current),United States of America,1
+2167,Molly DREHER (Current),Canada,1
+2168,Arta CELITANE (Current),Latvia,1
+2169,Iris-olivia RIZAN (Current),Romania,1
+2170,Heesu YANG (Current),Republic of Korea,1
+2171,Victoria YSRAEL (Current),Guam,1
+2172,Xinwen ZHU (Current),China,1
+2173,Mar''atus SHOLEHA TRIANA PUTRI (Current),Indonesia,1
+2174,Taqiyya NUR AZIZA (Current),Indonesia,1
+2175,Lynnette KOH SIOK HENG (Current),Singapore,1
+2176,Najiha ZAHRA (Current),Indonesia,1
+2177,Aninda QALBI ARSYILAH (Current),Indonesia,1
+2178,Sabrina SYARIFAH CALIDRIS (Current),Indonesia,1
+2179,Marian Kiara Luna MICHERI (Current),Argentina,1
+2180,Deborah ALBUQUERQUE (Current),Brazil,1
+2181,Camila FLORES (Current),Brazil,1
+2182,Antonieta Esmeralda PARRA VEIZAGA (Current),Bolivia (Plurinational State of),1
+2183,Yui SUEZAWA (Current),Japan,1
+2184,Miranda MENDOZA BERTRAND (Current),Peru,1
+2185,Astridt Alexandra VIDES ZERON (Current),Honduras,1
+2186,Ana Carolina GUMURSKI DA ROCHA (Current),Brazil,1
+2187,Paloma SLOWIK (Current),United States of America,1
+2188,Ada KARLSBRUN (Current),Israel,1
+2189,Manami YAMA (Current),Japan,1
+2190,Agnes Matthildur FOLKMANN (Current),Iceland,1
+2191,Anastasiia LUKASHYNA (Current),Ukraine,1
+2192,Emmelie CONDERS (Current),Norway,1
+2193,Natalia BIBRO (Current),Poland,1
+2194,Maria SZWED (Current),Poland,1
+2195,Karolina PTAK (Current),Poland,1
+2196,Martyna STOKOWIEC (Current),Poland,1
+2197,Magdalena BLACHNICKA (Current),Poland,1
+2198,Maia Linda DAVIES (Current),South Africa,1
+2199,Eva-Lina RYMASZ (Current),France,1
+2200,Ambre ECAILLE (Current),France,1
+2201,Sabrina BAUMGARTNER (Current),Venezuela (Bolivarian Republic of),1
+2202,Macarena Del Valle SANCHEZ (Current),Argentina,1
+2203,Caitlin BOUWER (Current),South Africa,1
+2204,Tianxiang ZHANG (Current),China,1
+2205,Ronja Marlene WITT (Current),Germany,1
+2206,Cedar HENDRY (Current),Canada,1
+2207,Lucy SINCLAIR (Current),New Zealand,1
+2208,Zhenxuan ELISE YEE (Current),Singapore,1
+2209,Alma SHLOMOVITZ (Current),Israel,1
+2210,Jenice MA (Current),Canada,1
+2211,Yingjie CHEN (Current),China,1
+2212,Helen LEE (Current),New Zealand,1
+2213,Jiaxin TANG (Current),China,1
+2214,Katharina Rabia TCHASSANTI (Current),Switzerland,1
+2215,Leire RUÍZ DE ARGANDOÑA OTANO (Current),Spain,1
+2216,Lily STAUDT (Current),United States of America,1
+2217,Haizea PINTO ILINCHETA (Current),Spain,1
+2218,Nora GARCÍA MAESTU (Current),Spain,1
+2219,Julia PACHECO PORRAS (Current),Spain,1
+2220,María Deneb SÁNCHEZ (Current),Colombia,1
+2221,Arina NOVITSKAYA (Current),Kazakhstan,1
+2222,Julia NAVA (Current),Mexico,1
+2223,Erika CARRASCO AGUILA (Current),Spain,1
+2224,Udane MUGICA LASA (Current),Spain,1
+2225,Louise PUECH YAZID (Current),France,1
+2226,Mariana ALMEIDA (Current),Portugal,1
+2227,Nika PROKOPJEVA (Current),Estonia,1
+2228,Valeria GRIŠINA (Current),Estonia,1
+2229,Veronika SMAKALOVA (Current),Czechia,1
+2230,Jakoba RAUTER (Current),Austria,1
+2231,Mara MATUTINOVIĆ (Current),Croatia,1
+2232,Reena GAO (Current),Canada,1
+2233,Katarína HOLLÁ (Current),Slovakia,1
+2234,Rafael KAZBEKOVA (Current),Ukraine,1
+2235,Emie BRAULT (Current),France,1
+2236,Swann LAMBLIN-BURGUET (Current),France,1
+2237,Macha BREBION (Current),France,1
+2238,Veronika IGNATOVA (Current),Bulgaria,1
+2239,Mariana JANOSOVA (Current),Czechia,1

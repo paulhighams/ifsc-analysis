@@ -1,5 +1,5 @@
 ,Country,Discipline,NumAthleteswithWCupWins,NumAthleteswithWCupPodiums
-1,France,Lead,23,43
+1,France,Lead,23,44
 2,Japan,Lead,15,26
 3,Slovenia,Lead,9,14
 4,United States of America,Lead,8,16
@@ -15,8 +15,9 @@
 14,Belgium,Lead,2,3
 15,Netherlands,Lead,1,1
 16,Canada,Lead,1,1
-17,Ukraine,Lead,0,5
-18,China,Lead,0,3
-19,Poland,Lead,0,1
-20,Bulgaria,Lead,0,1
-21,Norway,Lead,0,1
+17,Indonesia,Lead,1,1
+18,Ukraine,Lead,0,5
+19,China,Lead,0,3
+20,Poland,Lead,0,1
+21,Bulgaria,Lead,0,1
+22,Norway,Lead,0,1
