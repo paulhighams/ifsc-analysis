@@ -1,17 +1,17 @@
 ,Athlete,Country,NumWCups
-0,Valentina AGUADO (Current),Argentina,29
-1,Zoe GARCIA MOLINA,Argentina,3
-2,Violeta TONINI (Current),Argentina,3
+0,Valentina AGUADO (Current),Argentina,30
+1,Violeta TONINI (Current),Argentina,4
+2,Zoe GARCIA MOLINA,Argentina,3
 3,Oceania MACKENZIE (Current),Australia,19
 4,Roxy PERRY (Current),Australia,18
 5,Lucinda ann STIRLING,Australia,17
 9,Muriel SARKANY,Belgium,93
 10,Anak VERHOEVEN,Belgium,42
-11,Heloïse DOUMONT (Current),Belgium,37
+11,Heloïse DOUMONT (Current),Belgium,38
 12,Janine CARDOSO,Brazil,17
 13,Bianca DE MAGALHAES DE CASTRO,Brazil,13
-14,Anja KÖHLER  (Current),Brazil,12
-15,Aleksandra TOTKOVA (Current),Bulgaria,21
+14,Anja KÖHLER  (Current),Brazil,13
+15,Aleksandra TOTKOVA (Current),Bulgaria,22
 16,Maria GEORGIEVA,Bulgaria,3
 17,Elka JANKOVA,Bulgaria,2
 19,Rebecca FRANGOS (Current),Canada,26
@@ -19,92 +19,98 @@
 21,Babette ROY (Current),Canada,9
 22,Alejandra CONTRERAS (Current),Chile,19
 23,Ignacia MELLADO QUINTEROS,Chile,7
-24,Matilde CABEZAS (Current),Chile,6
+24,Matilde CABEZAS (Current),Chile,7
 25,Yuetong ZHANG (Current),China,19
 26,Zhilu LUO (Current),China,18
 27,Chunhua LI,China,16
 28,Hiu ying LIU,"China, Hong Kong Special Administrative Region",12
-29,Tseng-Shun WONG (Current),"China, Hong Kong Special Administrative Region",6
-30,Hei Kiu Heidi WONG (Current),"China, Hong Kong Special Administrative Region",6
+29,Hei Kiu Heidi WONG (Current),"China, Hong Kong Special Administrative Region",7
+30,Tseng-Shun WONG (Current),"China, Hong Kong Special Administrative Region",6
 31,Si Wan LEI (Current),"China, Macao Special Administrative Region",2
-32,Sofia PARRADO (Current),Colombia,4
+32,Sofia PARRADO (Current),Colombia,5
 33,Saray GARCIA (Current),Colombia,2
-37,Michaela SMETANOVA (Current),Czechia,29
-38,Eliska ADAMOVSKA (Current),Czechia,20
-39,Tereza SIRUCKOVA (Current),Czechia,18
-43,Andrea ROJAS (Current),Ecuador,9
-44,Carolina ROSERO,Ecuador,2
-45,Sofia CORREA,Ecuador,1
-47,Iris HEIKKINEN (Current),Finland,6
-48,Eerika LIPSANEN,Finland,2
-49,Laura LOIKAS (Current),Finland,2
-50,Hélène JANICOT (Current),France,76
-51,Caroline CIAVALDINI,France,70
-52,Charlotte DURIF,France,65
-59,Danai VALSAMIDI (Current),Greece,4
-60,Athena LIVANIU,Greece,2
-61,Zantzou VASILIKI,Greece,1
-62,Victoria YSRAEL (Current),Guam,1
-63,Kylie BAKER (Current),Guam,1
-68,Svana BJARNASON (Current),Iceland,12
-69,Prateeksha ARUN (Current),India,3
-70,Saniya farooque SHAIKH,India,2
-71,Anne JACOB,India,1
-72,Sukma LINTANG CAHYANI (Current),Indonesia,15
-73,Abdul rohma SYARIFAH,Indonesia,6
-74,Nur Diatul JANNAH (Current),Indonesia,6
-75,Elnaz REKABI (Current),Iran (Islamic Republic of),5
-76,Rahil RAMEZANI,Iran (Islamic Republic of),3
-77,Moradi BAHAREH,Iran (Islamic Republic of),1
-78,Noa SHIRAN (Current),Israel,28
-79,Valeri KREMER (Current),Israel,24
-80,Netta FREDMAN,Israel,24
-81,Jenny LAVARDA,Italy,112
-82,Luisa IOVANE,Italy,61
-83,Claudia GHISOLFI (Current),Italy,53
-87,Margarita AGAMBAYEVA (Current),Kazakhstan,6
-88,Tamara KUZNETSOVA,Kazakhstan,4
-89,Aliya ISKAKOVA,Kazakhstan,4
-99,María fernanda HIDALGO AMEZQUITA,Mexico,5
-100,Arantza LUNA VELASCO (Current),Mexico,3
-101,María Fernanda GONZÁLEZ RÁMIREZ (Current),Mexico,3
-106,Nikki VAN BERGEN,Netherlands,44
-107,Lynn VAN DER MEER (Current),Netherlands,32
-108,Monica ZEILEMAKER,Netherlands,15
-112,Tina johnsen HAFSAAS,Norway,46
-113,Linn karin STENDAL,Norway,40
-114,Sunniva ØVRE-EIDE (Current),Norway,13
-115,Melissa Esther CHEN CHEN (Current),Peru,2
-116,Sofia alejandra HERRERA VEGA CENTENO,Peru,1
-126,Ja In KIM (Current),Republic of Korea,108
-127,Seuran HAN (Current),Republic of Korea,33
-128,Mi-sun GO,Republic of Korea,32
-135,Rowaida ALERWI (Current),Saudi Arabia,2
-136,Tahani ALGOUHI (Current),Saudi Arabia,1
-137,Stasa GEJO (Current),Serbia,15
-138,Marija MILOSAVLJEVIC,Serbia,2
-139,Milica MARJANOVIC,Serbia,2
-140,Natalie GOH SIHUI (Current),Singapore,3
-141,Vanessa Si Yinn TENG (Current),Singapore,2
-142,Tan SHI HUI,Singapore,1
-143,Zuzana CINTALOVA,Slovakia,12
-144,Vanda MICHALKOVA,Slovakia,7
-145,Sára ŠIMEKOVÁ (Current),Slovakia,6
-149,Alyssa MEYER,South Africa,4
-150,Tegwen OATES (Current),South Africa,4
-151,RACHELLE DE CHARMOY,South Africa,3
-161,Hung Ying LEE (Current),Taiwan,21
-162,Bai-le HUANG,Taiwan,13
-163,Hsiu-ju LIN,Taiwan,8
-164,Puntarika TUNYAVANICH (Current),Thailand,3
-165,Pratthana RAKSACHAT,Thailand,2
-166,Watchareewan TOMAS,Thailand,1
-174,Molly THOMPSON-SMITH (Current),United Kingdom,38
-175,Anne ARRAN,United Kingdom,29
-176,Felicity BUTLER,United Kingdom,27
-177,Robyn ERBESFIELD,United States of America,34
-178,Elena OVTCHINNIKOVA,United States of America,30
-179,Kyra CONDIE (Current),United States of America,22
-181,Francis RODRIGUEZ,Venezuela (Bolivarian Republic of),6
-182,Lianet CASTILLO (Current),Venezuela (Bolivarian Republic of),6
-183,Daniela LOPEZ,Venezuela (Bolivarian Republic of),2
+34,Ana Maria PATINO (Current),Colombia,1
+38,Michaela SMETANOVA (Current),Czechia,30
+39,Eliska ADAMOVSKA (Current),Czechia,20
+40,Tereza SIRUCKOVA (Current),Czechia,19
+44,Andrea ROJAS (Current),Ecuador,9
+45,Carolina ROSERO,Ecuador,2
+46,Sofia CORREA,Ecuador,1
+48,Iris HEIKKINEN (Current),Finland,6
+49,Eerika LIPSANEN,Finland,2
+50,Laura LOIKAS (Current),Finland,2
+51,Hélène JANICOT (Current),France,76
+52,Caroline CIAVALDINI,France,70
+53,Charlotte DURIF,France,65
+60,Danai VALSAMIDI (Current),Greece,4
+61,Athena LIVANIU,Greece,2
+62,Zantzou VASILIKI,Greece,1
+63,Victoria YSRAEL (Current),Guam,1
+64,Kylie BAKER (Current),Guam,1
+65,Ilse POP (Current),Guatemala,1
+66,Ana MENDEZ (Current),Guatemala,1
+71,Svana BJARNASON (Current),Iceland,13
+72,Prateeksha ARUN (Current),India,3
+73,Saniya farooque SHAIKH,India,2
+74,Anne JACOB,India,1
+75,Sukma LINTANG CAHYANI (Current),Indonesia,15
+76,Abdul rohma SYARIFAH,Indonesia,6
+77,Nur Diatul JANNAH (Current),Indonesia,6
+78,Elnaz REKABI (Current),Iran (Islamic Republic of),5
+79,Rahil RAMEZANI,Iran (Islamic Republic of),3
+80,Moradi BAHAREH,Iran (Islamic Republic of),1
+81,Noa SHIRAN (Current),Israel,29
+82,Valeri KREMER (Current),Israel,24
+83,Netta FREDMAN,Israel,24
+84,Jenny LAVARDA,Italy,112
+85,Luisa IOVANE,Italy,61
+86,Claudia GHISOLFI (Current),Italy,53
+90,Margarita AGAMBAYEVA (Current),Kazakhstan,6
+91,Tamara KUZNETSOVA,Kazakhstan,4
+92,Aliya ISKAKOVA,Kazakhstan,4
+102,María fernanda HIDALGO AMEZQUITA,Mexico,5
+103,María Fernanda GONZÁLEZ RÁMIREZ (Current),Mexico,4
+104,Arantza LUNA VELASCO (Current),Mexico,3
+109,Nikki VAN BERGEN,Netherlands,44
+110,Lynn VAN DER MEER (Current),Netherlands,33
+111,Monica ZEILEMAKER,Netherlands,15
+115,Tina johnsen HAFSAAS,Norway,46
+116,Linn karin STENDAL,Norway,40
+117,Sunniva ØVRE-EIDE (Current),Norway,14
+118,Melissa Esther CHEN CHEN (Current),Peru,2
+119,Sofia alejandra HERRERA VEGA CENTENO,Peru,1
+129,Ja In KIM (Current),Republic of Korea,109
+130,Chaehyun SEO (Current),Republic of Korea,33
+131,Seuran HAN (Current),Republic of Korea,33
+138,Rowaida ALERWI (Current),Saudi Arabia,2
+139,Tahani ALGOUHI (Current),Saudi Arabia,1
+140,Stasa GEJO (Current),Serbia,15
+141,Marija MILOSAVLJEVIC,Serbia,2
+142,Milica MARJANOVIC,Serbia,2
+143,Natalie GOH SIHUI (Current),Singapore,3
+144,Vanessa Si Yinn TENG (Current),Singapore,2
+145,Tan SHI HUI,Singapore,1
+146,Zuzana CINTALOVA,Slovakia,12
+147,Vanda MICHALKOVA,Slovakia,7
+148,Sára ŠIMEKOVÁ (Current),Slovakia,7
+152,Alyssa MEYER,South Africa,4
+153,Tegwen OATES (Current),South Africa,4
+154,RACHELLE DE CHARMOY,South Africa,3
+164,Hung Ying LEE (Current),Taiwan,21
+165,Bai-le HUANG,Taiwan,13
+166,Hsiu-ju LIN,Taiwan,8
+167,Puntarika TUNYAVANICH (Current),Thailand,3
+168,Pratthana RAKSACHAT,Thailand,2
+169,Watchareewan TOMAS,Thailand,1
+174,Olena OSTAPENKO,Ukraine,51
+175,Ievgeniia KAZBEKOVA (Current),Ukraine,35
+176,Olena KRYVONIS,Ukraine,23
+177,Molly THOMPSON-SMITH (Current),United Kingdom,38
+178,Anne ARRAN,United Kingdom,29
+179,Felicity BUTLER,United Kingdom,27
+180,Robyn ERBESFIELD,United States of America,34
+181,Elena OVTCHINNIKOVA,United States of America,30
+182,Kyra CONDIE (Current),United States of America,22
+184,Francis RODRIGUEZ,Venezuela (Bolivarian Republic of),6
+185,Lianet CASTILLO (Current),Venezuela (Bolivarian Republic of),6
+186,Daniela LOPEZ,Venezuela (Bolivarian Republic of),2
