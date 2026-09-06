@@ -65,9 +65,10 @@ st.set_page_config(
 
 st.header ("Athlete participation Statistics")
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs (["Boulder World Cup events attended",
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs (["Boulder World Cup events attended",
     "Lead World Cup events attended",
     "Speed World Cup events attended",
+    "Speed Relay World Cup events attended",
     "All discplines World Cup events attended",
     "Number of athletes representing a country by year"])
 
@@ -110,6 +111,18 @@ with tab3:
 with tab4:
     col1, col2 = st.columns([1, 1])
     with col1:
+	    st.caption(":blue[Speed Relay World Cup events attended]")
+	    #st.dataframe (df_speed_female,
+		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		#	height=850, width=1300, hide_index=True)
+    with col2:
+	    st.caption(":blue[Speed Relay World Cup events attended]")
+	    #st.dataframe (df_speed_male,
+		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		#	height=850, width=1300, hide_index=True)
+with tab5:
+    col1, col2 = st.columns([1, 1])
+    with col1:
 	    st.caption(":blue[All disciplines World Cup events attended]")
 	    st.dataframe (df_all_female,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
@@ -119,7 +132,7 @@ with tab4:
 	    st.dataframe (df_all_male,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
-with tab5:
+with tab6:
     st.plotly_chart (pic8)
 
 st.divider ()

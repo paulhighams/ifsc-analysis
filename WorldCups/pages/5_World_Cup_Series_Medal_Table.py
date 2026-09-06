@@ -29,7 +29,7 @@ tab1, tab2 = st.tabs (["World Cup series medal tables",
     "World Cup Series podium list"])
 
 with tab1:
-	col1, col2, col3, col4 = st.columns([1, 1, 1, 1])
+	col1, col2, col3, col4, col5 = st.columns([1, 1, 1, 1, 1])
 	with col1:
 	    st.caption(":blue[Boulder World Cup series medal table]")
 	    st.dataframe (df_boulder_medals,
@@ -46,6 +46,11 @@ with tab1:
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, width=400, hide_index=True)
 	with col4:
+	    st.caption(":blue[Speed Relay World Cup series medal table]")
+	    #st.dataframe (df_speed_medals,
+		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		#	height=800, width=400, hide_index=True)
+	with col5:
 	    st.caption(":blue[All disciplines World Cup series medal table]")
 	    st.dataframe (df_all_medals,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
@@ -57,6 +62,8 @@ with tab2:
 	    st.dataframe (df_lead_list, height=500, hide_index=True)
 	    st.caption(":blue[Speed: World Cup Series wins and podiums male and female]")
 	    st.dataframe (df_speed_list, height=500, hide_index=True)
+	    st.caption(":blue[Speed Relay: World Cup Series wins and podiums male and female]")
+	    #st.dataframe (df_speed_list, height=500, hide_index=True)
 
 st.divider ()
 

@@ -34,9 +34,10 @@ st.set_page_config(
 st.header ("Athlete participation Statistics")
 st.subheader (":blue[this only has a subset of countries where there are active athletes - use the Athlete Participation Global option for global rankings]", divider=True)
 
-tab1, tab2, tab3, tab4 = st.tabs (["Boulder World Cup events attended",
+tab1, tab2, tab3, tab4, tab5 = st.tabs (["Boulder World Cup events attended",
     "Lead World Cup events attended",
     "Speed World Cup events attended",
+    "Speed Relay World Cup events attended",
     "All discplines World Cup events attended"])
 
 with tab1:
@@ -82,6 +83,20 @@ with tab3:
 			column_config={ "_index": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=False)
 with tab4:
+    col1, col2 = st.columns([1, 1])
+    with col1:
+	    st.caption(":blue[Speed Relay World Cup events attended]")
+	    #st.dataframe (df_speed_female,
+		#	column_order=("_index","Athlete","Country","NumWCups"),
+		#	column_config={ "_index": st.column_config.Column("ranking")},
+		#	height=850, width=1300, hide_index=False)
+    with col2:
+	    st.caption(":blue[Speed Relay World Cup events attended]")
+	    #st.dataframe (df_speed_male,
+		#	column_order=("_index","Athlete","Country","NumWCups"),
+		#	column_config={ "_index": st.column_config.Column("ranking")},
+		#	height=850, width=1300, hide_index=False)
+with tab5:
 	col1, col2 = st.columns([1, 1])
 	with col1:
 		st.caption(":blue[All disciplines World Cup events attended]")

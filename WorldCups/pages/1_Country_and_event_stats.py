@@ -65,6 +65,7 @@ with tab1:
 	    st.metric(label=df_big_numbers['StatName'].iloc[2], value= df_big_numbers['theStats'].iloc[2])
 	    st.metric(label=df_big_numbers['StatName'].iloc[3], value= df_big_numbers['theStats'].iloc[3])
 	    st.metric(label=df_big_numbers['StatName'].iloc[4], value= df_big_numbers['theStats'].iloc[4])
+	    st.metric(label=df_big_numbers['StatName'].iloc[5], value= df_big_numbers['theStats'].iloc[5])
 with tab2:
     st.plotly_chart (pic4)
 with tab3:

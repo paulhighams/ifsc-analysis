@@ -45,15 +45,19 @@ with tab1:
 		st.dataframe (df_lead_medals,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, width=1300, hide_index=True)
+		st.caption(":blue[All disciplines World Cup country medal table]")
+		st.dataframe (df_all_medals,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, width=1300, hide_index=True)
 	with col2:
 		st.caption(":blue[Speed World Cup country medal table]")
 		st.dataframe (df_speed_medals,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=800, width=1300, hide_index=True)
-		st.caption(":blue[All disciplines World Cup country medal table]")
-		st.dataframe (df_all_medals,
-			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
-			height=800, width=1300, hide_index=True)
+		st.caption(":blue[Speed Relay World Cup country medal table]")
+		#st.dataframe (df_all_medals,
+		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		#	height=800, width=1300, hide_index=True)
 with tab2:
 	col1, col2 = st.columns([1, 1])
 	with col1:
@@ -65,15 +69,19 @@ with tab2:
 	    st.dataframe (df_lead_num_athletes,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=700, width=1300, hide_index=True)
+	    st.caption(":blue[All disciplines: Number of athletes by Country with World Cup wins and podiums]")
+	    st.dataframe (df_all_num_athletes,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=700, width=1300, hide_index=True)
 	with col2:
 	    st.caption(":blue[Speed: Number of athletes by Country with World Cup wins and podiums]")
 	    st.dataframe (df_speed_num_athletes,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=700, width=1300, hide_index=True)
-	    st.caption(":blue[All disciplines: Number of athletes by Country with World Cup wins and podiums]")
-	    st.dataframe (df_all_num_athletes,
-			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
-			height=700, width=1300, hide_index=True)
+	    st.caption(":blue[Speed Relay: Number of athletes by Country with World Cup wins and podiums]")
+	    #st.dataframe (df_all_num_athletes,
+		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+		#	height=700, width=1300, hide_index=True)
 with tab3:
     col1, col2 = st.columns([1, 1])
     with col1:
