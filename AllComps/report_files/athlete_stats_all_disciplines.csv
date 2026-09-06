@@ -1,5 +1,5 @@
 ,Athlete,Country,Gender,Discipline,First,Second,Third
-0,Janja GARNBRET,SLO,Female,Lead,32,11,5
+0,Janja GARNBRET,SLO,Female,Lead,33,11,5
 1,Ja In KIM,KOR,Female,Lead,30,13,13
 2,Angela EITER,AUT,Female,Lead,25,13,4
 3,Anna STÖHR,AUT,Female,Boulder,22,13,10
@@ -43,7 +43,7 @@
 41,Veddriq LEONARDO,INA,Male,Speed,7,0,2
 42,Patxi USOBIAGA LAKUNZA,ESP,Male,Lead,6,13,6
 43,Mariia KRASAVINA,RUS,Female,Speed,6,11,12
-44,Chaehyun SEO,KOR,Female,Lead,6,8,8
+44,Chaehyun SEO,KOR,Female,Lead,6,8,9
 45,Yuji HIRAYAMA,JPN,Male,Lead,6,7,5
 46,Olga BIBIK,RUS,Female,Boulder,6,7,5
 47,Rustam GELMANOV,RUS,Male,Boulder,6,6,6
@@ -83,31 +83,31 @@
 81,Dmitrii TIMOFEEV,RUS,Male,Speed,4,3,1
 82,Annie SANDERS,USA,Female,Lead,4,2,3
 83,Aries SUSANTI RAHAYU,INA,Female,Speed,4,2,1
-84,Annie SANDERS,USA,Female,Boulder,4,1,3
-85,Simon NADIN,GBR,Male,Lead,4,1,1
-86,Maksym STYENKOVYY,UKR,Male,Speed,4,0,6
-87,Jessica PILZ,AUT,Female,Lead,3,13,7
-88,Sean MCCOLL,CAN,Male,Lead,3,9,8
-89,Martina CUFAR,SLO,Female,Lead,3,8,5
-90,Daniel DU LAC,FRA,Male,Boulder,3,8,3
-91,Anak VERHOEVEN,BEL,Female,Lead,3,7,9
-92,Christian CORE,ITA,Male,Boulder,3,6,4
-93,Emma HUNT,USA,Female,Speed,3,5,4
-94,Dohyun LEE,KOR,Male,Boulder,3,5,2
-95,Guillaume GLAIRON MONDET,FRA,Male,Boulder,3,5,1
-96,François LOMBARD,FRA,Male,Lead,3,4,4
-97,Yoshiyuki OGATA,JPN,Male,Boulder,3,3,5
-98,Bassa MAWEM,FRA,Male,Speed,3,3,5
-99,Vladislav DEULIN,RUS,Male,Speed,3,3,4
-100,Desak MADE RITA KUSUMA DEWI,INA,Female,Speed,3,3,4
-101,Arnaud PETIT,FRA,Male,Lead,3,3,3
-102,Laurence GUYON,FRA,Female,Lead,3,3,1
-103,Jakob SCHUBERT,AUT,Male,Boulder,3,2,6
-104,Didier RABOUTOU,FRA,Male,Lead,3,2,2
-105,Daniel ANDRADA JIMENEZ,ESP,Male,Boulder,3,2,1
-106,Stéphanie BODET,FRA,Female,Boulder,3,2,0
-107,Yiling SONG,CHN,Female,Speed,3,2,0
-108,Neo SUZUKI,JPN,Male,Lead,3,2,0
+84,Neo SUZUKI,JPN,Male,Lead,4,2,0
+85,Annie SANDERS,USA,Female,Boulder,4,1,3
+86,Simon NADIN,GBR,Male,Lead,4,1,1
+87,Maksym STYENKOVYY,UKR,Male,Speed,4,0,6
+88,Jessica PILZ,AUT,Female,Lead,3,13,7
+89,Sean MCCOLL,CAN,Male,Lead,3,9,8
+90,Martina CUFAR,SLO,Female,Lead,3,8,5
+91,Daniel DU LAC,FRA,Male,Boulder,3,8,3
+92,Anak VERHOEVEN,BEL,Female,Lead,3,7,9
+93,Christian CORE,ITA,Male,Boulder,3,6,4
+94,Emma HUNT,USA,Female,Speed,3,5,4
+95,Dohyun LEE,KOR,Male,Boulder,3,5,2
+96,Guillaume GLAIRON MONDET,FRA,Male,Boulder,3,5,1
+97,François LOMBARD,FRA,Male,Lead,3,4,4
+98,Yoshiyuki OGATA,JPN,Male,Boulder,3,3,5
+99,Bassa MAWEM,FRA,Male,Speed,3,3,5
+100,Vladislav DEULIN,RUS,Male,Speed,3,3,4
+101,Desak MADE RITA KUSUMA DEWI,INA,Female,Speed,3,3,4
+102,Arnaud PETIT,FRA,Male,Lead,3,3,3
+103,Laurence GUYON,FRA,Female,Lead,3,3,1
+104,Jakob SCHUBERT,AUT,Male,Boulder,3,2,6
+105,Didier RABOUTOU,FRA,Male,Lead,3,2,2
+106,Daniel ANDRADA JIMENEZ,ESP,Male,Boulder,3,2,1
+107,Stéphanie BODET,FRA,Female,Boulder,3,2,0
+108,Yiling SONG,CHN,Female,Speed,3,2,0
 109,Aleksei RUBTSOV,RUS,Male,Boulder,3,1,10
 110,Toby ROBERTS,GBR,Male,Lead,3,1,4
 111,Svitlana TUZHYLINA,UKR,Female,Speed,3,1,2
@@ -178,26 +178,26 @@
 176,Luisa IOVANE,ITA,Female,Lead,1,2,3
 177,Serik KAZBEKOV,UKR,Male,Boulder,1,2,2
 178,François AUCLAIR,FRA,Male,Lead,1,2,2
-179,Tsukuru HORI,JPN,Male,Boulder,1,2,2
-180,Katrin SEDLMAYER,GER,Female,Lead,1,2,1
-181,Alexei GADEEV,RUS,Male,Speed,1,2,1
-182,Daniel WOODS,USA,Male,Boulder,1,2,1
-183,Katharina SAURWEIN,AUT,Female,Boulder,1,2,1
-184,Klaudia BUCZEK,POL,Female,Speed,1,2,1
-185,Jinbao LONG,CHN,Male,Speed,1,2,1
-186,Xinshang WANG,CHN,Male,Speed,1,2,1
-187,Olena OSTAPENKO,UKR,Female,Speed,1,2,0
-188,Keiichiro KORENAGA,JPN,Male,Lead,1,2,0
-189,Zélia AVEZOU,FRA,Female,Boulder,1,2,0
-190,Brooke RABOUTOU,USA,Female,Boulder,1,1,6
-191,Ja In KIM,KOR,Female,Boulder,1,1,4
-192,Hélène JANICOT,FRA,Female,Lead,1,1,4
-193,Hyunbin MIN,KOR,Male,Lead,1,1,3
-194,Yaroslav GONTARYK,UKR,Male,Speed,1,1,3
-195,Chloé MINORET,FRA,Female,Lead,1,1,2
-196,Alexandra EYER,SUI,Female,Lead,1,1,2
-197,Xiaojie CHEN,CHN,Male,Speed,1,1,2
-198,Satone YOSHIDA,JPN,Male,Lead,1,1,2
+179,Satone YOSHIDA,JPN,Male,Lead,1,2,2
+180,Tsukuru HORI,JPN,Male,Boulder,1,2,2
+181,Katrin SEDLMAYER,GER,Female,Lead,1,2,1
+182,Alexei GADEEV,RUS,Male,Speed,1,2,1
+183,Daniel WOODS,USA,Male,Boulder,1,2,1
+184,Katharina SAURWEIN,AUT,Female,Boulder,1,2,1
+185,Klaudia BUCZEK,POL,Female,Speed,1,2,1
+186,Jinbao LONG,CHN,Male,Speed,1,2,1
+187,Xinshang WANG,CHN,Male,Speed,1,2,1
+188,Olena OSTAPENKO,UKR,Female,Speed,1,2,0
+189,Keiichiro KORENAGA,JPN,Male,Lead,1,2,0
+190,Zélia AVEZOU,FRA,Female,Boulder,1,2,0
+191,Brooke RABOUTOU,USA,Female,Boulder,1,1,6
+192,Ja In KIM,KOR,Female,Boulder,1,1,4
+193,Hélène JANICOT,FRA,Female,Lead,1,1,4
+194,Hyunbin MIN,KOR,Male,Lead,1,1,3
+195,Yaroslav GONTARYK,UKR,Male,Speed,1,1,3
+196,Chloé MINORET,FRA,Female,Lead,1,1,2
+197,Alexandra EYER,SUI,Female,Lead,1,1,2
+198,Xiaojie CHEN,CHN,Male,Speed,1,1,2
 199,Mayya PIRATINSKAYA,RUS,Female,Speed,1,1,1
 200,Andreas BINDHAMMER,GER,Male,Lead,1,1,1
 201,Nataliya PERLOVA,UKR,Female,Boulder,1,1,1
@@ -241,23 +241,23 @@
 239,Charlotte DURIF,FRA,Female,Lead,1,0,2
 240,Stéphan JULIEN,FRA,Male,Boulder,1,0,2
 241,Leonardo GONTERO,ITA,Male,Speed,1,0,2
-242,Carlos BRASCOE,ESP,Male,Lead,1,0,1
-243,Renata PISZCZEK,POL,Female,Speed,1,0,1
-244,Bernardino LAGNI,ITA,Male,Lead,1,0,1
-245,Ludovic LAURENCE,FRA,Male,Boulder,1,0,1
-246,Marietta UHDEN,GER,Female,Boulder,1,0,1
-247,Liv SANSOZ,FRA,Female,Boulder,1,0,1
-248,Klemen BECAN,SLO,Male,Lead,1,0,1
-249,Malcolm SMITH,GBR,Male,Boulder,1,0,1
-250,Andrew EARL,GBR,Male,Boulder,1,0,1
-251,Mykhaylo SHALAGIN,UKR,Male,Boulder,1,0,1
-252,Aspar ASPAR,INA,Male,Speed,1,0,1
-253,Mei KOTAKE,JPN,Female,Lead,1,0,1
-254,Lucelia BLANCO,VEN,Female,Speed,1,0,1
-255,Esther BRUCKNER,FRA,Female,Speed,1,0,1
-256,Alban LEVIER,FRA,Male,Boulder,1,0,1
-257,Rahmad ADI MULYONO,INA,Male,Speed,1,0,1
-258,Putra TRI RAMADANI,INA,Male,Lead,1,0,1
+242,Putra TRI RAMADANI,INA,Male,Lead,1,0,2
+243,Carlos BRASCOE,ESP,Male,Lead,1,0,1
+244,Renata PISZCZEK,POL,Female,Speed,1,0,1
+245,Bernardino LAGNI,ITA,Male,Lead,1,0,1
+246,Ludovic LAURENCE,FRA,Male,Boulder,1,0,1
+247,Marietta UHDEN,GER,Female,Boulder,1,0,1
+248,Liv SANSOZ,FRA,Female,Boulder,1,0,1
+249,Klemen BECAN,SLO,Male,Lead,1,0,1
+250,Malcolm SMITH,GBR,Male,Boulder,1,0,1
+251,Andrew EARL,GBR,Male,Boulder,1,0,1
+252,Mykhaylo SHALAGIN,UKR,Male,Boulder,1,0,1
+253,Aspar ASPAR,INA,Male,Speed,1,0,1
+254,Mei KOTAKE,JPN,Female,Lead,1,0,1
+255,Lucelia BLANCO,VEN,Female,Speed,1,0,1
+256,Esther BRUCKNER,FRA,Female,Speed,1,0,1
+257,Alban LEVIER,FRA,Male,Boulder,1,0,1
+258,Rahmad ADI MULYONO,INA,Male,Speed,1,0,1
 259,Marcello BOMBARDI,ITA,Male,Lead,1,0,0
 260,Guido KÖSTERMEYER,GER,Male,Lead,1,0,0
 261,Yulia INOZEMTSEVA,RUS,Female,Speed,1,0,0
@@ -284,15 +284,15 @@
 282,Melissa LE NEVE,FRA,Female,Boulder,0,4,6
 283,Meichi NARASAKI,JPN,Male,Boulder,0,4,1
 284,Gérome POUVREAU,FRA,Male,Lead,0,3,5
-285,Fanny GIBERT,FRA,Female,Boulder,0,3,3
-286,Jimin JEONG,KOR,Female,Speed,0,3,2
-287,Severino SCASSA,ITA,Male,Lead,0,3,1
-288,Csaba KOMONDI,HUN,Male,Speed,0,3,1
-289,Christian BINDHAMMER,GER,Male,Lead,0,3,0
-290,Hannah MEUL,GER,Female,Boulder,0,3,0
-291,Anna TSYGANOVA,RUS,Female,Speed,0,2,6
-292,Jorg VERHOEVEN,NED,Male,Boulder,0,2,5
-293,Brooke RABOUTOU,USA,Female,Lead,0,2,4
+285,Brooke RABOUTOU,USA,Female,Lead,0,3,4
+286,Fanny GIBERT,FRA,Female,Boulder,0,3,3
+287,Jimin JEONG,KOR,Female,Speed,0,3,2
+288,Severino SCASSA,ITA,Male,Lead,0,3,1
+289,Csaba KOMONDI,HUN,Male,Speed,0,3,1
+290,Christian BINDHAMMER,GER,Male,Lead,0,3,0
+291,Hannah MEUL,GER,Female,Boulder,0,3,0
+292,Anna TSYGANOVA,RUS,Female,Speed,0,2,6
+293,Jorg VERHOEVEN,NED,Male,Boulder,0,2,5
 294,Natalia GROSSMAN,USA,Female,Lead,0,2,4
 295,Ryo OMASA,JPN,Male,Speed,0,2,4
 296,Luca ZARDINI,ITA,Male,Lead,0,2,3

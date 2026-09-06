@@ -1,11 +1,11 @@
 ,Country,Discipline,Gold,Silver,Bronze,Total
 1,France,Lead,102,99,116,317
-2,Slovenia,Lead,76,60,52,188
+2,Slovenia,Lead,77,60,52,189
 3,Austria,Lead,65,56,44,165
-4,Japan,Lead,38,50,49,137
-5,Spain,Lead,30,35,23,88
-6,Republic of Korea,Lead,38,23,26,87
-7,United States of America,Lead,30,29,27,86
+4,Japan,Lead,39,51,49,139
+5,Republic of Korea,Lead,38,23,27,88
+6,Spain,Lead,30,35,23,88
+7,United States of America,Lead,30,30,27,87
 8,Italy,Lead,19,26,22,67
 9,Belgium,Lead,23,27,15,65
 10,Czechia,Lead,27,19,12,58
@@ -17,7 +17,7 @@
 16,Canada,Lead,3,9,8,20
 17,Ukraine,Lead,0,5,7,12
 18,China,Lead,0,3,1,4
-19,Indonesia,Lead,1,0,1,2
+19,Indonesia,Lead,1,0,2,3
 20,Bulgaria,Lead,0,1,1,2
 21,Norway,Lead,0,0,2,2
 22,Poland,Lead,0,0,1,1
