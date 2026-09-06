@@ -494,9 +494,10 @@ if  __name__ == '__main__':
 	WCBoulderLeadEv = dtf_5.at[1,'NumComps']
 	WCLeadEv = dtf_5.at[2,'NumComps']
 	WCSpeedEv = dtf_5.at[3,'NumComps']
+	WCSSpeedRelayEv = dtf_5.at[4,'NumComps']
 
-	data = {'StatName': ['Number of World Cup Events', 'Number of Boulder Competitions', 'Number of Boulder-Lead Competitions', 'Number of Lead Competitions', 'Number of Speed Competitions'],
-		'theStats': [WCTotEv, WCBoulderEv, WCBoulderLeadEv, WCLeadEv, WCSpeedEv]}
+	data = {'StatName': ['Number of World Cup Events', 'Number of Boulder Competitions', 'Number of Boulder-Lead Competitions', 'Number of Lead Competitions', 'Number of Speed Competitions', 'Number of Speed Relay Competitions'],
+		'theStats': [WCTotEv, WCBoulderEv, WCBoulderLeadEv, WCLeadEv, WCSpeedEv, WCSSpeedRelayEv]}
 	#print (data)
 	big_number_df = pd.DataFrame(data)
 
