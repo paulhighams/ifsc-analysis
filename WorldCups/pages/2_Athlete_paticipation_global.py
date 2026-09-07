@@ -7,9 +7,11 @@ import plotly.graph_objects as go
 df_boulder_female = pd.read_csv('WorldCups/report_files/Number_of_Boulder_World_Cups_attended_female_Top_20.csv')
 df_boulder_male = pd.read_csv('WorldCups/report_files/Number_of_Boulder_World_Cups_attended_male_Top_20.csv')
 df_lead_female = pd.read_csv('WorldCups/report_files/Number_of_Lead_World_Cups_attended_female_Top_20.csv')
-df_lead_male = pd.read_csv('WorldCups/report_files/Number_of_Lead_World_Cups_attended_fale_Top_20.csv')
+df_lead_male = pd.read_csv('WorldCups/report_files/Number_of_Lead_World_Cups_attended_male_Top_20.csv')
 df_speed_female = pd.read_csv('WorldCups/report_files/Number_of_Speed_World_Cups_attended_female_Top_20.csv')
 df_speed_male = pd.read_csv('WorldCups/report_files/Number_of_Speed_World_Cups_attended_male_Top_20.csv')
+df_speedrelay_female = pd.read_csv('WorldCups/report_files/Number_of_Speed_Relay_World_Cups_attended_female_Top_20.csv')
+df_speedrelay_male = pd.read_csv('WorldCups/report_files/Number_of_Speed_Relay_World_Cups_attended_male_Top_20.csv')
 df_all_female = pd.read_csv('WorldCups/report_files/Number_of_all_disciplines_World_Cups_attended_female_Top_20.csv')
 df_all_male = pd.read_csv('WorldCups/report_files/Number_of_all_disciplines_World_Cups_attended_male_Top_20.csv')
 df_pic8 = pd.read_csv('WorldCups/report_files/Number_of_athletes_representing_Country_by_Year.csv')
@@ -65,70 +67,70 @@ st.set_page_config(
 
 st.header ("Athlete participation Statistics")
 
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs (["Boulder World Cup events attended",
-    "Lead World Cup events attended",
-    "Speed World Cup events attended",
-    "Speed Relay World Cup events attended",
-    "All discplines World Cup events attended",
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs (["Boulder World Cup comps attended",
+    "Lead World Cup comps attended",
+    "Speed World Cup comps attended",
+    "Speed Relay World Cup comps attended",
+    "All discplines World Cup comps attended",
     "Number of athletes representing a country by year"])
 
 with tab1:
     col1, col2 = st.columns([1, 1])
     with col1:
-	    st.caption(":blue[Boulder World Cup events attended]")
+	    st.caption(":blue[Boulder World Cup comps attended]")
 	    st.dataframe (df_boulder_female,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
     with col2:
-	    st.caption(":blue[Boulder World Cup events attended]")
+	    st.caption(":blue[Boulder World Cup comps attended]")
 	    st.dataframe (df_boulder_male,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
 with tab2:
     col1, col2 = st.columns([1, 1])
     with col1:
-	    st.caption(":blue[Lead World Cup events attended]")
+	    st.caption(":blue[Lead World Cup comps attended]")
 	    st.dataframe (df_lead_female,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
     with col2:
-	    st.caption(":blue[Lead World Cup events attended]")
+	    st.caption(":blue[Lead World Cup comps attended]")
 	    st.dataframe (df_lead_male,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
 with tab3:
     col1, col2 = st.columns([1, 1])
     with col1:
-	    st.caption(":blue[Speed World Cup events attended]")
+	    st.caption(":blue[Speed World Cup comps attended]")
 	    st.dataframe (df_speed_female,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
     with col2:
-	    st.caption(":blue[Speed World Cup events attended]")
+	    st.caption(":blue[Speed World Cup comps attended]")
 	    st.dataframe (df_speed_male,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
 with tab4:
     col1, col2 = st.columns([1, 1])
     with col1:
-	    st.caption(":blue[Speed Relay World Cup events attended]")
-	    #st.dataframe (df_speed_female,
-		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
-		#	height=850, width=1300, hide_index=True)
+	    st.caption(":blue[Speed Relay World Cup comps attended]")
+	    st.dataframe (df_speedrelay_female,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=850, width=1300, hide_index=True)
     with col2:
-	    st.caption(":blue[Speed Relay World Cup events attended]")
-	    #st.dataframe (df_speed_male,
-		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
-		#	height=850, width=1300, hide_index=True)
+	    st.caption(":blue[Speed Relay World Cup comps attended]")
+	    st.dataframe (df_speedrelay_male,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=850, width=1300, hide_index=True)
 with tab5:
     col1, col2 = st.columns([1, 1])
     with col1:
-	    st.caption(":blue[All disciplines World Cup events attended]")
+	    st.caption(":blue[All disciplines World Cup comps attended]")
 	    st.dataframe (df_all_female,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
     with col2:
-	    st.caption(":blue[All disciplines World Cup events attended]")
+	    st.caption(":blue[All disciplines World Cup comps attended]")
 	    st.dataframe (df_all_male,
 			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
 			height=850, width=1300, hide_index=True)
