@@ -261,6 +261,16 @@ if  __name__ == '__main__':
 		RETURN ath.PersonName AS Athlete,cntry.CountryName AS Country, count(cmp.CompetitionName) as NumWCups
 		ORDER BY NumWCups DESC
 	'''
+	query_24R = '''MATCH (cntry:Country)<-[r:REPRESENTS]-(ath:Athlete {Sex: "Female"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+		MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed-Relay"})
+		RETURN ath.PersonName AS Athlete,cntry.CountryName AS Country, count(cmp.CompetitionName) as NumWCups
+		ORDER BY NumWCups DESC
+	'''
+	query_25R = '''MATCH (cntry:Country)<-[r:REPRESENTS]-(ath:Athlete {Sex: "Male"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+		MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed-Relay"})
+		RETURN ath.PersonName AS Athlete,cntry.CountryName AS Country, count(cmp.CompetitionName) as NumWCups
+		ORDER BY NumWCups DESC
+	'''
 	# as above but all disciplines
 	query_26 = '''MATCH (cntry:Country)<-[r:REPRESENTS]-(ath:Athlete {Sex: "Female"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 		RETURN ath.PersonName AS Athlete,cntry.CountryName AS Country, count(cmp.CompetitionName) as NumWCups
@@ -419,7 +429,7 @@ if  __name__ == '__main__':
 	'''
 
 	# get male speed fastest and slowest qualifying times
-	query_43 = '''MATCH (ath:Athlete {Sex: "Male"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+	query_46 = '''MATCH (ath:Athlete {Sex: "Male"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	WHERE (att.FinalScore IS NOT NULL OR att.EightFinalScore IS NOT NULL OR att.QtrFinalScore IS NOT NULL OR att.SemiFinalScore IS NOT NULL)
@@ -429,7 +439,7 @@ if  __name__ == '__main__':
 	'''
 
 	# get female speed fastest and slowest qualifying times
-	query_44 = '''MATCH (ath:Athlete {Sex: "Female"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+	query_47 = '''MATCH (ath:Athlete {Sex: "Female"})-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
 	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType {CompTypeName: "Speed"})
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
 	WHERE (att.FinalScore IS NOT NULL OR att.EightFinalScore IS NOT NULL OR att.QtrFinalScore IS NOT NULL OR att.SemiFinalScore IS NOT NULL)
@@ -464,6 +474,8 @@ if  __name__ == '__main__':
 	dtf_23 = pd.DataFrame([dict(_) for _ in conn.query(query_23)])
 	dtf_24 = pd.DataFrame([dict(_) for _ in conn.query(query_24)])
 	dtf_25 = pd.DataFrame([dict(_) for _ in conn.query(query_25)])
+	dtf_24R = pd.DataFrame([dict(_) for _ in conn.query(query_24R)])
+	dtf_25R = pd.DataFrame([dict(_) for _ in conn.query(query_25R)])
 	dtf_26 = pd.DataFrame([dict(_) for _ in conn.query(query_26)])
 	dtf_27 = pd.DataFrame([dict(_) for _ in conn.query(query_27)])
 	#dtf_28 = pd.DataFrame([dict(_) for _ in conn.query(query_28)])
@@ -484,8 +496,8 @@ if  __name__ == '__main__':
 	dtf_40 = pd.DataFrame([dict(_) for _ in conn.query(query_40)])
 	dtf_41 = pd.DataFrame([dict(_) for _ in conn.query(query_41)])
 	dtf_42 = pd.DataFrame([dict(_) for _ in conn.query(query_42)])
-	dtf_43 = pd.DataFrame([dict(_) for _ in conn.query(query_43)])
-	dtf_44 = pd.DataFrame([dict(_) for _ in conn.query(query_44)])
+	dtf_46 = pd.DataFrame([dict(_) for _ in conn.query(query_46)])
+	dtf_47 = pd.DataFrame([dict(_) for _ in conn.query(query_47)])
 		
 	WCTotEv = dtf_1.at[0,'Total']
 	
@@ -550,9 +562,11 @@ if  __name__ == '__main__':
 	dtf_12_lead = dtf_12[dtf_12['Discipline'] == 'Lead']
 	dtf_12_speed = dtf_12[dtf_12['Discipline'] == 'Speed']
 	dtf_12_boulder = dtf_12[dtf_12['Discipline'] == 'Boulder']
+	dtf_12_speedrelay = dtf_12[dtf_12['Discipline'] == 'Speed-Relay']
 	dtf_12_lead.reset_index(drop=True, inplace=True); dtf_12_lead.index = dtf_12_lead.index + 1
 	dtf_12_speed.reset_index(drop=True, inplace=True); dtf_12_speed.index = dtf_12_speed.index + 1
 	dtf_12_boulder.reset_index(drop=True, inplace=True); dtf_12_boulder.index = dtf_12_boulder.index + 1
+	dtf_12_speedrelay.reset_index(drop=True, inplace=True); dtf_12_speedrelay.index = dtf_12_speedrelay.index + 1
 	dtf_13.reset_index(drop=True, inplace=True); dtf_13.index = dtf_13.index + 1
 
 	dtf_14_Lead = dtf_14[dtf_14['CompType'] == 'Lead']
@@ -563,9 +577,11 @@ if  __name__ == '__main__':
 	dtf_18_lead = dtf_18[dtf_18['Discipline'] == 'Lead']
 	dtf_18_speed = dtf_18[dtf_18['Discipline'] == 'Speed']
 	dtf_18_boulder = dtf_18[dtf_18['Discipline'] == 'Boulder']
+	dtf_18_speedrelay = dtf_18[dtf_18['Discipline'] == 'Speed-Relay']
 	dtf_18_lead.reset_index(drop=True, inplace=True); dtf_18_lead.index = dtf_18_lead.index + 1
 	dtf_18_speed.reset_index(drop=True, inplace=True); dtf_18_speed.index = dtf_18_speed.index + 1
 	dtf_18_boulder.reset_index(drop=True, inplace=True); dtf_18_boulder.index = dtf_18_boulder.index + 1
+	dtf_18_speedrelay.reset_index(drop=True, inplace=True); dtf_18_speedrelay.index = dtf_18_speedrelay.index + 1
 	dtf_19.reset_index(drop=True, inplace=True); dtf_19.index = dtf_19.index + 1
 
 	# add a column to current atletes to indicate they are currently competing
@@ -707,6 +723,48 @@ if  __name__ == '__main__':
 	dtf_25_filtered.drop(columns=['Status'], inplace = True)
 
 	# add current flag to the global list
+	dtf_24R_gbl = pd.merge(dtf_24R, dtf_29F, how="left", on=["Athlete", "Country"])
+	dtf_24R_gbl['Athlete'] = dtf_24R_gbl.apply(lambda x: combine_Athlete_Status(x.Athlete, x.Status), axis=1)
+	dtf_24R_gbl.drop(columns=['Status'], inplace = True)
+
+	# get dataframe sorted by NumWCups in each Country, and then get top 3 for each Country
+	dtf_24R_temp = dtf_24R.groupby('Country').head(3).reset_index(drop=True)
+	dtf_24R_temp.sort_values(by=['Country','NumWCups'], ascending = [True,False], inplace=True)
+	#join the current competitors to the most attends, so you can see new records
+	dtf_24R_cur = pd.merge(dtf_24R_temp, dtf_29F, how="left", on=["Athlete", "Country"])
+	#filter so only countries where someone is current is left
+	#create a list of countries with a current
+	dtf_24R_country = dtf_24R_cur.loc[dtf_24R_cur['Status'] == ' (Current)','Country']
+	dtf_24R_country.drop_duplicates(keep='first',inplace=True)
+	l24R = dtf_24R_country.values.tolist()
+	#use the list to filter for countries
+	dtf_24R_filtered = dtf_24R_cur[dtf_24R_cur['Country'].isin(l24R)]
+	dtf_24R_filtered = dtf_24R_filtered.fillna('')
+	dtf_24R_filtered['Athlete'] = dtf_24R_filtered.apply(lambda x: combine_Athlete_Status(x.Athlete, x.Status), axis=1)
+	dtf_24R_filtered.drop(columns=['Status'], inplace = True)
+
+	# add current flag to the global list
+	dtf_25R_gbl = pd.merge(dtf_25R, dtf_29M, how="left", on=["Athlete", "Country"])
+	dtf_25R_gbl['Athlete'] = dtf_25R_gbl.apply(lambda x: combine_Athlete_Status(x.Athlete, x.Status), axis=1)
+	dtf_25R_gbl.drop(columns=['Status'], inplace = True)
+
+	# get dataframe sorted by NumWCups in each Country, and then get top 3 for each Country
+	dtf_25R_temp = dtf_25R.groupby('Country').head(3).reset_index(drop=True)
+	dtf_25R_temp.sort_values(by=['Country','NumWCups'], ascending = [True,False], inplace=True)
+	#join the current competitors to the most attends, so you can see new records
+	dtf_25R_cur = pd.merge(dtf_25R_temp, dtf_29M, how="left", on=["Athlete", "Country"])
+	#filter so only countries where someone is current is left
+	#create a list of countries with a current
+	dtf_25R_country = dtf_25R_cur.loc[dtf_25R_cur['Status'] == ' (Current)','Country']
+	dtf_25R_country.drop_duplicates(keep='first',inplace=True)
+	l25R = dtf_25R_country.values.tolist()
+	#use the list to filter for countries
+	dtf_25R_filtered = dtf_25R_cur[dtf_25R_cur['Country'].isin(l25R)]
+	dtf_25R_filtered = dtf_25R_filtered.fillna('')
+	dtf_25R_filtered['Athlete'] = dtf_25R_filtered.apply(lambda x: combine_Athlete_Status(x.Athlete, x.Status), axis=1)
+	dtf_25R_filtered.drop(columns=['Status'], inplace = True)
+
+	# add current flag to the global list
 	dtf_26_gbl = pd.merge(dtf_26, dtf_29F, how="left", on=["Athlete", "Country"])
 	dtf_26_gbl['Athlete'] = dtf_26_gbl.apply(lambda x: combine_Athlete_Status(x.Athlete, x.Status), axis=1)
 	dtf_26_gbl.drop(columns=['Status'], inplace = True)
@@ -789,6 +847,8 @@ if  __name__ == '__main__':
 	dtf_23_gbl.index = dtf_23_gbl.index + 1
 	dtf_24_gbl.index = dtf_24_gbl.index + 1
 	dtf_25_gbl.index = dtf_25_gbl.index + 1
+	dtf_24R_gbl.index = dtf_24R_gbl.index + 1
+	dtf_25R_gbl.index = dtf_25R_gbl.index + 1
 	dtf_26_gbl.index = dtf_26_gbl.index + 1
 	dtf_27_gbl.index = dtf_27_gbl.index + 1
 
@@ -813,9 +873,11 @@ if  __name__ == '__main__':
 	dtf_20_gbl.to_csv('Number_of_Boulder_World_Cups_attended_female_Top_20.csv', header=True, index=True)
 	dtf_21_gbl.to_csv('Number_of_Boulder_World_Cups_attended_male_Top_20.csv', header=True, index=True)
 	dtf_22_gbl.to_csv('Number_of_Lead_World_Cups_attended_female_Top_20.csv', header=True, index=True)
-	dtf_23_gbl.to_csv('Number_of_Lead_World_Cups_attended_fale_Top_20.csv', header=True, index=True)
+	dtf_23_gbl.to_csv('Number_of_Lead_World_Cups_attended_male_Top_20.csv', header=True, index=True)
 	dtf_24_gbl.to_csv('Number_of_Speed_World_Cups_attended_female_Top_20.csv', header=True, index=True)
 	dtf_25_gbl.to_csv('Number_of_Speed_World_Cups_attended_male_Top_20.csv', header=True, index=True)
+	dtf_24R_gbl.to_csv('Number_of_Speed_Relay_World_Cups_attended_female_Top_20.csv', header=True, index=True)
+	dtf_25R_gbl.to_csv('Number_of_Speed_Relay_World_Cups_attended_male_Top_20.csv', header=True, index=True)
 	dtf_26_gbl.to_csv('Number_of_all_disciplines_World_Cups_attended_female_Top_20.csv', header=True, index=True)
 	dtf_27_gbl.to_csv('Number_of_all_disciplines_World_Cups_attended_male_Top_20.csv', header=True, index=True)
 	dtf_8final.to_csv('Number_of_athletes_representing_Country_by_Year.csv', header=True, index=True)
@@ -828,6 +890,8 @@ if  __name__ == '__main__':
 	dtf_23_filtered.to_csv('Number_of_Lead_World_Cups_attended_by_Country_male_Top_3.csv', header=True, index=True)
 	dtf_24_filtered.to_csv('Number_of_Speed_World_Cups_attended_by_Country_female_Top_3.csv', header=True, index=True)
 	dtf_25_filtered.to_csv('Number_of_Speed_World_Cups_attended_by_Country_male_Top_3.csv', header=True, index=True)
+	dtf_24R_filtered.to_csv('Number_of_Speed_Relay_World_Cups_attended_by_Country_female_Top_3.csv', header=True, index=True)
+	dtf_25R_filtered.to_csv('Number_of_Speed_Relay_World_Cups_attended_by_Country_male_Top_3.csv', header=True, index=True)
 	dtf_26_filtered.to_csv('Number_of_all_disciplines_World_Cups_attended_by_Country_female_Top_3.csv', header=True, index=True)
 	dtf_27_filtered.to_csv('Number_of_all_disciplines_World_Cups_attended_by_Country_male_Top_3.csv', header=True, index=True)
 
@@ -835,6 +899,7 @@ if  __name__ == '__main__':
 	dtf_12_boulder.to_csv('World_Cups_Medal_Table_for_Boulder.csv', header=True, index=True)
 	dtf_12_lead.to_csv('World_Cups_Medal_Table_for_Lead.csv', header=True, index=True)
 	dtf_12_speed.to_csv('World_Cups_Medal_Table_for_Speed.csv', header=True, index=True)
+	dtf_12_speedrelay.to_csv('World_Cups_Medal_Table_for_Speed_Relay.csv', header=True, index=True)
 	dtf_13.to_csv('World_Cups_Medal_Table_for_All_disciplines.csv', header=True, index=True)
 	dtf_10_11_boulder.to_csv('Number_of_athletes_per_Country_with_World_Cup_wins_and_podiums_for_Boulder.csv', header=True, index=True)
 	dtf_10_11_lead.to_csv('Number_of_athletes_per_Country_with_World_Cup_wins_and_podiums_for_Lead.csv', header=True, index=True)
@@ -849,6 +914,7 @@ if  __name__ == '__main__':
 	dtf_18_boulder.to_csv('World_Cup_Series_Medal_Table_for_Boulder.csv', header=True, index=True)
 	dtf_18_lead.to_csv('World_Cup_Series_Medal_Table_for_Lead.csv', header=True, index=True)
 	dtf_18_speed.to_csv('World_Cup_Series_Medal_Table_for_Speed.csv', header=True, index=True)
+	dtf_18_speedrelay.to_csv('World_Cup_Series_Medal_Table_for_Speed_Relay.csv', header=True, index=True)
 	dtf_19.to_csv('World_Cup_Series_Medal_Table_all_Disciplines.csv', header=True, index=True)
 	dtf_40B.to_csv('World_Cup_Series_Boulder_podium_list_male_and_female.csv', header=True, index=True)
 	dtf_41B.to_csv('World_Cup_Series_Lead_podium_list_male_and_female.csv', header=True, index=True)
@@ -861,8 +927,8 @@ if  __name__ == '__main__':
 	dtf_39.to_csv('Lead_Tops_in_Semi_Finals_by_Year', header=True, index=True)
 	dtf_38_39.to_csv('Lead_Tops_in_Finals_Semi_Finals_by_Year', header=True, index=True)
 	dtf_7.to_csv('Number_of_athletes_competing_per_discipline_by_year', header=True, index=True)
-	dtf_43.to_csv('Male_Speed_Qualifying_per_Event_fastest_and_slowest.csv', header=True, index=True)
-	dtf_44.to_csv('Female_Speed_Qualifying_per_Event_fastest_and_slowest.csv', header=True, index=True)
+	dtf_46.to_csv('Male_Speed_Qualifying_per_Event_fastest_and_slowest.csv', header=True, index=True)
+	dtf_47.to_csv('Female_Speed_Qualifying_per_Event_fastest_and_slowest.csv', header=True, index=True)
 	#
 	# how to close the connection to the database
 	#

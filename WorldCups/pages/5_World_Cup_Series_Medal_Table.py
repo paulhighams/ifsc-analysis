@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 df_boulder_medals = pd.read_csv('WorldCups/report_files/World_Cup_Series_Medal_Table_for_Boulder.csv')
 df_lead_medals = pd.read_csv('WorldCups/report_files/World_Cup_Series_Medal_Table_for_Lead.csv')
 df_speed_medals = pd.read_csv('WorldCups/report_files/World_Cup_Series_Medal_Table_for_Speed.csv')
+df_speed_relay_medals = pd.read_csv('WorldCups/report_files/World_Cup_Series_Medal_Table_for_Speed_Relay.csv')
 df_all_medals = pd.read_csv('WorldCups/report_files/World_Cup_Series_Medal_Table_all_Disciplines.csv')
 df_boulder_list = pd.read_csv('WorldCups/report_files/World_Cup_Series_Boulder_podium_list_male_and_female.csv')
 df_lead_list = pd.read_csv('WorldCups/report_files/World_Cup_Series_Lead_podium_list_male_and_female.csv')
@@ -47,9 +48,9 @@ with tab1:
 			height=800, width=400, hide_index=True)
 	with col4:
 	    st.caption(":blue[Speed Relay World Cup series medal table]")
-	    #st.dataframe (df_speed_medals,
-		#	column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
-		#	height=800, width=400, hide_index=True)
+	    st.dataframe (df_speed_relay_medals,
+			column_config={ "Unnamed: 0": st.column_config.Column("ranking")},
+			height=800, width=400, hide_index=True)
 	with col5:
 	    st.caption(":blue[All disciplines World Cup series medal table]")
 	    st.dataframe (df_all_medals,
