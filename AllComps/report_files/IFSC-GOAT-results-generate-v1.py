@@ -336,12 +336,14 @@ if  __name__ == '__main__':
 	dtf_1_boulder = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder'].copy()
 	dtf_1_combined = dtf_1_trim[dtf_1_trim['Discipline'] == 'Combined'].copy()
 	dtf_1_boulderlead = dtf_1_trim[dtf_1_trim['Discipline'] == 'Boulder-Lead'].copy()
+	dtf_1_speedrelay = dtf_1_trim[dtf_1_trim['Discipline'] == 'Speed Relay'].copy()
 	#drop the discipline column as we dont want to show it
 	dtf_1_lead.drop(columns=['Discipline'], inplace=True)
 	dtf_1_speed.drop(columns=['Discipline'], inplace=True)
 	dtf_1_boulder.drop(columns=['Discipline'], inplace=True)
 	dtf_1_combined.drop(columns=['Discipline'], inplace=True)
 	dtf_1_boulderlead.drop(columns=['Discipline'], inplace=True)
+	dtf_1_speedrelay.drop(columns=['Discipline'], inplace=True)
 
 	#get rid of people with 0 medals
 	dtf_2_trim = dtf_2[(dtf_2.WChampGold != 0) | (dtf_2.WChampSilver != 0) | (dtf_2.WChampBronze != 0)]
@@ -351,11 +353,13 @@ if  __name__ == '__main__':
 	dtf_2_boulder = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder'].copy()
 	dtf_2_combined = dtf_2_trim[dtf_2_trim['Discipline'] == 'Combined'].copy()
 	dtf_2_boulderlead = dtf_2_trim[dtf_2_trim['Discipline'] == 'Boulder-Lead'].copy()
+	dtf_2_speedrelay = dtf_2_trim[dtf_2_trim['Discipline'] == 'Speed Relay'].copy()
 	#drop the discipline column as we dont want to show it
 	dtf_2_lead.drop(columns=['Discipline'], inplace=True)
 	dtf_2_speed.drop(columns=['Discipline'], inplace=True)
 	dtf_2_boulder.drop(columns=['Discipline'], inplace=True)
 	dtf_2_combined.drop(columns=['Discipline'], inplace=True)
+	dtf_2_speedrelay.drop(columns=['Discipline'], inplace=True)
 
 	#get rid of people with 0 medals
 	dtf_3_trim = dtf_3[(dtf_3.WChampGold != 0) | (dtf_3.WChampSilver != 0) | (dtf_3.WChampBronze != 0)]

@@ -177,13 +177,13 @@ if  __name__ == '__main__':
 	ORDER BY Gender, StartDate, Position
 	'''
 
-	#query_3 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
-	#MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
-	#MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	#WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Boulder-Lead" and yr.YearName in [2024,2025,2026]
-	#RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position, yr.YearName AS Year
-	#ORDER BY Gender, StartDate, Position
-	#'''
+	query_3 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"})
+	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
+	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
+	WHERE att.FinishPosition < 4 AND ct.CompTypeName = "Speed-Relay" and yr.YearName in [2024,2025,2026]
+	RETURN COLLECT(ath.PersonName) AS Athletes, ev.StartDate AS StartDate, cmp.CompetitionName AS Competition, att.FinishPosition AS Position, yr.YearName AS Year
+	ORDER BY StartDate, Position
+	'''
 
 	query_10 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
 	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
@@ -209,13 +209,13 @@ if  __name__ == '__main__':
 	ORDER BY Gender, StartDate, Position
 	'''
 
-	#query_13 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
-	#MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
-	#MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
-	#WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Boulder-Lead" and yr.YearName in [2024,2025,2026]
-	#RETURN ath.Sex AS Gender, ath.PersonName AS Athlete, ev.EventName AS Event, ev.StartDate AS StartDate, att.FinishPosition AS Position
-	#ORDER BY Gender, StartDate, Position
-	#'''
+	query_13 = '''MATCH (ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType)
+	MATCH (ev:Event)-[oc:OCCURS_IN]->(yr:Year)
+	MATCH (cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
+	WHERE e.EventTypeName <> "World Cup" AND att.FinishPosition < 4 AND ct.CompTypeName = "Speed-Relay" and yr.YearName in [2024,2025,2026]
+	RETURN COLLECT(ath.PersonName) AS Athletes, ev.StartDate AS StartDate, cmp.CompetitionName AS Competition, att.FinishPosition AS Position
+	ORDER BY StartDate, Position
+	'''
 
 
 	#query_40 = '''
@@ -227,11 +227,11 @@ if  __name__ == '__main__':
 	dtf_0 = pd.DataFrame([dict(_) for _ in conn.query(query_0)])
 	dtf_1 = pd.DataFrame([dict(_) for _ in conn.query(query_1)])
 	dtf_2 = pd.DataFrame([dict(_) for _ in conn.query(query_2)])
-	#dtf_3 = pd.DataFrame([dict(_) for _ in conn.query(query_3)])
+	dtf_3 = pd.DataFrame([dict(_) for _ in conn.query(query_3)])
 	dtf_10 = pd.DataFrame([dict(_) for _ in conn.query(query_10)])
 	dtf_11 = pd.DataFrame([dict(_) for _ in conn.query(query_11)])
 	dtf_12 = pd.DataFrame([dict(_) for _ in conn.query(query_12)])
-	#dtf_13 = pd.DataFrame([dict(_) for _ in conn.query(query_13)])
+	dtf_13 = pd.DataFrame([dict(_) for _ in conn.query(query_13)])
 	#dtf_41 = pd.DataFrame([dict(_) for _ in conn.query(query_41)])
 	
 	#remove results for 2025 Wujiang because you can't pivot a tie
@@ -252,13 +252,16 @@ if  __name__ == '__main__':
 	dtf_0A = dtf_0.pivot(index=['Year','StartDate','Event'],columns=['Gender','Position'], values='Athlete')
 	dtf_1A = dtf_1fixed.pivot(index=['Year','StartDate','Event'],columns=['Gender','Position'], values='Athlete')
 	dtf_2A = dtf_2.pivot(index=['Year','StartDate','Event'],columns=['Gender','Position'], values='Athlete')
-	#dtf_3A = dtf_3.pivot(index=['Year','StartDate','Event'],columns=['Gender','Position'], values='Athlete')
-
+	dtf_3A = dtf_3.pivot(index=['Year','StartDate','Competition'],columns=['Position'], values='Athletes')
 
 	dtf_10A = dtf_10.pivot(index=['StartDate','Event'],columns=['Gender','Position'], values='Athlete')
 	dtf_11A = dtf_11.pivot(index=['StartDate','Event'],columns=['Gender','Position'], values='Athlete')
 	dtf_12A = dtf_12.pivot(index=['StartDate','Event'],columns=['Gender','Position'], values='Athlete')
-	#dtf_13A = dtf_13.pivot(index=['StartDate','Event'],columns=['Gender','Position'], values='Athlete')
+	is_empty = dtf_13.empty
+	if is_empty:
+		dtf_13A = pd.DataFrame(columns=['StartDate','Competition','1','2','3'])
+	else:
+		dtf_13A = dtf_13.pivot(index=['StartDate','Competition'],columns=['Position'], values='Athlete')
 	
 	#produce report files
 
@@ -285,8 +288,8 @@ if  __name__ == '__main__':
 
 
 	#title="Boulder-Lead Events"
-	#dtf_3A.to_csv('last_3_years_world_cups_boulderlead.csv', header=True, index=True)
-	#dtf_13A.to_csv('last_3_years_world_champs_boulderlead.csv', header=True, index=True)
+	dtf_3A.to_csv('last_3_years_world_cups_speedrelay.csv', header=True, index=True)
+	dtf_13A.to_csv('last_3_years_world_champs_speedrelay.csv', header=True, index=False)
 
 
 	#

@@ -180,6 +180,13 @@ if  __name__ == '__main__':
 	RETURN cntry.CountryName as Country, ct.CompTypeName as Discipline, COUNT(att.FinOne) as Gold, COUNT(att.FinTwo) AS Silver, COUNT(att.FinThree) AS Bronze, COUNT(att.FinThree) + COUNT(att.FinTwo) + COUNT(att.FinOne) AS Total
 	ORDER BY Total DESC, Gold DESC, Silver DESC, Bronze DESC
 	'''
+	# and need to count by team for speed-relay
+	query_12SR = '''MATCH (cntry:Country)<-[r:REPRESENTS]-(sq:Squad)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"}),
+	(cmp:Competition)<-[cl:CLASSIFIES]-(ct:CompType)
+	WHERE att.FinishPosition < 4
+	RETURN cntry.CountryName as Country, ct.CompTypeName as Discipline, COUNT(att.FinOne) as Gold, COUNT(att.FinTwo) AS Silver, COUNT(att.FinThree) AS Bronze, COUNT(att.FinThree) + COUNT(att.FinTwo) + COUNT(att.FinOne) AS Total
+	ORDER BY Total DESC, Gold DESC, Silver DESC, Bronze DESC
+	'''
 
 	#Country Medal Table World Cups - medals by gold, silver, bronze, Total
 	query_13 = '''MATCH (cntry:Country)<-[r:REPRESENTS]-(ath:Athlete)-[att:ATTENDS]->(cmp:Competition)<-[cs:CONSISTS_OF]-(ev:Event)-[:IDENTIFIED_BY]->(e:EventType {EventTypeName: "World Cup"}),
@@ -461,6 +468,7 @@ if  __name__ == '__main__':
 	dtf_10 = pd.DataFrame([dict(_) for _ in conn.query(query_10)])
 	dtf_11 = pd.DataFrame([dict(_) for _ in conn.query(query_11)])
 	dtf_12 = pd.DataFrame([dict(_) for _ in conn.query(query_12)])
+	dtf_12SR = pd.DataFrame([dict(_) for _ in conn.query(query_12SR)])
 	dtf_13 = pd.DataFrame([dict(_) for _ in conn.query(query_13)])
 	dtf_14 = pd.DataFrame([dict(_) for _ in conn.query(query_14)])
 	#dtf_15 = pd.DataFrame([dict(_) for _ in conn.query(query_15)])
@@ -562,7 +570,7 @@ if  __name__ == '__main__':
 	dtf_12_lead = dtf_12[dtf_12['Discipline'] == 'Lead']
 	dtf_12_speed = dtf_12[dtf_12['Discipline'] == 'Speed']
 	dtf_12_boulder = dtf_12[dtf_12['Discipline'] == 'Boulder']
-	dtf_12_speedrelay = dtf_12[dtf_12['Discipline'] == 'Speed-Relay']
+	dtf_12_speedrelay = dtf_12SR
 	dtf_12_lead.reset_index(drop=True, inplace=True); dtf_12_lead.index = dtf_12_lead.index + 1
 	dtf_12_speed.reset_index(drop=True, inplace=True); dtf_12_speed.index = dtf_12_speed.index + 1
 	dtf_12_boulder.reset_index(drop=True, inplace=True); dtf_12_boulder.index = dtf_12_boulder.index + 1
