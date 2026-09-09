@@ -5,8 +5,8 @@ import plotly.express as px
 #df_Female_athlete_stats = pd.read_csv('AllComps/report_files/athlete_stats_speed_female.csv')
 #df_Male_athlete_stats = pd.read_csv('AllComps/report_files/athlete_stats_speed_male.csv')
 #df_wins_by_athlete_by_country = pd.read_csv('AllComps/report_files/speed_wins_by_athlete_by_country.csv')
-#df_last_3_years_world_cups = pd.read_csv('AllComps/report_files/last_3_years_world_cups_speed.csv') 
-#df_last_3_years_world_champs = pd.read_csv('AllComps/report_files/last_3_years_world_champs_speed.csv')
+df_last_3_years_world_cups = pd.read_csv('AllComps/report_files/last_3_years_world_cups_speedrelay.csv', dtype={'Year': str}) 
+df_last_3_years_world_champs = pd.read_csv('AllComps/report_files/last_3_years_world_champs_speedrelay.csv')
 #df_world_speed_records = pd.read_csv('AllComps/report_files/speed_world_records.csv')
 #df_region_male_speed_records = pd.read_csv('AllComps/report_files/speed_regional_records_male.csv')
 #df_region_female_speed_records = pd.read_csv('AllComps/report_files/speed_regional_records_female.csv')
@@ -14,8 +14,8 @@ import plotly.express as px
 # set the indexes to start at 1
 #df_Female_athlete_stats.index = df_Female_athlete_stats.index + 1
 #df_Male_athlete_stats.index = df_Male_athlete_stats.index + 1
-#df_last_3_years_world_cups.index = df_last_3_years_world_cups.index + 1
-#df_last_3_years_world_champs.index = df_last_3_years_world_champs.index + 1
+df_last_3_years_world_cups.index = df_last_3_years_world_cups.index + 1
+df_last_3_years_world_champs.index = df_last_3_years_world_champs.index + 1
 
 # generate graphs
 #pic1 = px.treemap(df_wins_by_athlete_by_country,path=['Nation','Winner'],
@@ -48,19 +48,13 @@ with tab3:
 	#st.plotly_chart (pic1)
 	st.caption(":blue[coming soon]")
 with tab4:
-	#st.dataframe (df_last_3_years_world_cups,
-	#	column_config={
-	#		"Gender": st.column_config.Column(""),
-	#		"Unnamed: 1": st.column_config.Column("Start Date"),
-	#		"Unnamed: 2": st.column_config.Column("Event"),
-	#		"Female": st.column_config.Column("Female 1st"),
-	#		"Female.1": st.column_config.Column("2nd"),
-	#		"Female.2": st.column_config.Column("3rd"),
-	#		"Male": st.column_config.Column("Male 1st"),
-	#		"Male.1": st.column_config.Column("2nd"),
-	#		"Male.2": st.column_config.Column("3rd"),
-	#	},
-	#	height=750, hide_index=True)
+	st.dataframe (df_last_3_years_world_cups,
+		column_config={
+			"1": st.column_config.Column("1st Team"),
+			"2": st.column_config.Column("2nd Team"),
+			"3": st.column_config.Column("3rd Team"),
+		},
+		height=750, hide_index=True)
 	#st.dataframe (df_last_3_years_world_champs,
 	#	column_config={
 	#		"Gender": st.column_config.Column("Start Date"),
@@ -73,7 +67,7 @@ with tab4:
 	#		"Male.2": st.column_config.Column("3rd"),
 	#	},
 	#	height=500, hide_index=True)
-	st.caption(":blue[coming soon]")
+	st.caption(":blue[sort on columns available]")
 with tab5:
 	#st.subheader ("World Records")
 	#st.dataframe (df_world_speed_records, hide_index=True)
