@@ -7,9 +7,12 @@ import plotly.express as px
 #df_wins_by_athlete_by_country = pd.read_csv('AllComps/report_files/speed_wins_by_athlete_by_country.csv')
 df_last_3_years_world_cups = pd.read_csv('AllComps/report_files/last_3_years_world_cups_speedrelay.csv', dtype={'Year': str}) 
 df_last_3_years_world_champs = pd.read_csv('AllComps/report_files/last_3_years_world_champs_speedrelay.csv')
-#df_world_speed_records = pd.read_csv('AllComps/report_files/speed_world_records.csv')
-#df_region_male_speed_records = pd.read_csv('AllComps/report_files/speed_regional_records_male.csv')
-#df_region_female_speed_records = pd.read_csv('AllComps/report_files/speed_regional_records_female.csv')
+df_world_speed_relay_records = pd.read_csv('AllComps/report_files/speed_relay_world_records.csv')
+df_region_africa_speed_relay_records = pd.read_csv('AllComps/report_files/speed_relay_regional_records_africa.csv')
+df_region_asia_speed_relay_records = pd.read_csv('AllComps/report_files/speed_relay_regional_records_asia.csv')
+df_region_europe_speed_relay_records = pd.read_csv('AllComps/report_files/speed_relay_regional_records_europe.csv')
+df_region_oceania_speed_relay_records = pd.read_csv('AllComps/report_files/speed_relay_regional_records_oceania.csv')
+df_region_panamerica_speed_relay_records = pd.read_csv('AllComps/report_files/speed_relay_regional_records_panamerica.csv')
 
 # set the indexes to start at 1
 #df_Female_athlete_stats.index = df_Female_athlete_stats.index + 1
@@ -69,14 +72,18 @@ with tab4:
 	#	height=500, hide_index=True)
 	st.caption(":blue[sort on columns available]")
 with tab5:
-	#st.subheader ("World Records")
-	#st.dataframe (df_world_speed_records, hide_index=True)
-	#st.subheader ("Male regional records")
-	#st.dataframe (df_region_male_speed_records,  hide_index=True)
-	#st.subheader ("Female regional records")
-	#st.dataframe (df_region_female_speed_records, hide_index=True)
-	st.caption(":blue[coming soon]")
-
+	st.subheader ("World Records")
+	st.dataframe (df_world_speed_relay_records, hide_index=True)
+	st.subheader ("African regional records")
+	st.dataframe (df_region_africa_speed_relay_records, hide_index=True)
+	st.subheader ("Asian regional records")
+	st.dataframe (df_region_asia_speed_relay_records, hide_index=True)
+	st.subheader ("European regional records")
+	st.dataframe (df_region_europe_speed_relay_records, hide_index=True)
+	st.subheader ("Oceania regional records")
+	st.dataframe (df_region_oceania_speed_relay_records, hide_index=True)
+	st.subheader ("Pan-American regional records")
+	st.dataframe (df_region_panamerica_speed_relay_records, hide_index=True)
 
 st.divider ()
 

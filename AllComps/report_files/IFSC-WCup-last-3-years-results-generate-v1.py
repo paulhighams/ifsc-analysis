@@ -138,6 +138,108 @@ if  __name__ == '__main__':
 
 	# end of getting the speed records
 
+	# connect to ifsc api
+	# api-endpoint
+	method = "get"
+	base_url = "https://ifsc.results.info/api/v1/speed_relay_records"
+
+	#do the auth thing
+	HEADERS = {
+        'accept': 'application/json',
+        'x-auth-token': MY_TOKEN
+	    }
+
+	try:
+	    r = requests.request(method, url = f'{base_url}', headers = HEADERS)
+	    r.raise_for_status()
+	except requests.exceptions.RequestException as e:
+	    print (f"Error while connecting to {base_url}: {e}")
+	
+	# extracting data in json format
+	data = r.json()
+	#print(data)
+
+	world_speed_relay_records = jm.search("""
+	world_record.*[].{
+		Squad: name,
+		Nation: country,
+		Time: time,
+		When: date,
+		Type: gender,
+		Athletes: squad_members[].values(merge({x:firstname}, {y:lastname})),
+		Where: event
+	}
+	""",data)
+
+	region_africa_speed_relay_records = jm.search("""
+	continental_records.Africa.*[].{
+		Squad: name,
+		Nation: country,
+		Time: time,
+		When: date,
+		Type: gender,
+		Athletes: squad_members[].values(merge({x:firstname}, {y:lastname})),
+		Where: event
+	}
+	""",data)
+
+	region_asia_speed_relay_records = jm.search("""
+	continental_records.Asia.*[].{
+		Squad: name,
+		Nation: country,
+		Time: time,
+		When: date,
+		Type: gender,
+		Athletes: squad_members[].values(merge({x:firstname}, {y:lastname})),
+		Where: event
+	}
+	""",data)
+
+	region_europe_speed_relay_records = jm.search("""
+	continental_records.Europe.*[].{
+		Squad: name,
+		Nation: country,
+		Time: time,
+		When: date,
+		Type: gender,
+		Athletes: squad_members[].values(merge({x:firstname}, {y:lastname})),
+		Where: event
+	}
+	""",data)
+
+	region_oceania_speed_relay_records = jm.search("""
+	continental_records.Oceania.*[].{
+		Squad: name,
+		Nation: country,
+		Time: time,
+		When: date,
+		Type: gender,
+		Athletes: squad_members[].values(merge({x:firstname}, {y:lastname})),
+		Where: event
+	}
+	""",data)
+
+	region_panamerica_speed_relay_records = jm.search("""
+	continental_records."Pan-America".*[].{
+		Squad: name,
+		Nation: country,
+		Time: time,
+		When: date,
+		Type: gender,
+		Athletes: squad_members[].values(merge({x:firstname}, {y:lastname})),
+		Where: event
+	}
+	""",data)
+
+	world_speed_relay_records_df = pd.DataFrame(world_speed_relay_records)
+	region_oceania_speed_relay_records_df = pd.DataFrame(region_oceania_speed_relay_records)
+	region_asia_speed_relay_records_df = pd.DataFrame(region_asia_speed_relay_records)
+	region_europe_speed_relay_records_df = pd.DataFrame(region_europe_speed_relay_records)
+	region_africa_speed_relay_records_df = pd.DataFrame(region_africa_speed_relay_records)
+	region_panamerica_speed_relay_records_df = pd.DataFrame(region_panamerica_speed_relay_records)
+	#print(world_speed_relay_records_df)
+	#print(region_panamerica_speed_relay_records_df)
+
 	#-----------------------------------------------------------------------------------------------------------------------------------
 	#
 	#make a connection to the neo4j database
@@ -282,12 +384,18 @@ if  __name__ == '__main__':
 	dtf_12A.to_csv('last_3_years_world_champs_speed.csv', header=True, index=True) 
 	world_speed_records_df.to_csv('speed_world_records.csv', header=True, index=True) 
 	region_male_speed_records_df.to_csv('speed_regional_records_male.csv', header=True, index=True) 
-	region_female_speed_records_df.to_csv('speed_regional_records_female.csv', header=True, index=True) 
+	region_female_speed_records_df.to_csv('speed_regional_records_female.csv', header=True, index=True)
+	world_speed_relay_records_df.to_csv('speed_relay_world_records.csv', header=True, index=False)
+	region_africa_speed_relay_records_df.to_csv('speed_relay_regional_records_africa.csv', header=True, index=False)
+	region_asia_speed_relay_records_df.to_csv('speed_relay_regional_records_asia.csv', header=True, index=False)
+	region_europe_speed_relay_records_df.to_csv('speed_relay_regional_records_europe.csv', header=True, index=False)
+	region_oceania_speed_relay_records_df.to_csv('speed_relay_regional_records_oceania.csv', header=True, index=False)
+	region_panamerica_speed_relay_records_df.to_csv('speed_relay_regional_records_panamerica.csv', header=True, index=False)
 	#dp.Plot (pic20ms, label='Male Top 10 Ranking for 2025', caption=updateSpeedCaption),
 	#dp.Plot (pic20fs, label='Female Top 10 Ranking for 2025', caption=updateSpeedCaption),
 
 
-	#title="Boulder-Lead Events"
+	#title="Speed-Relay Events"
 	dtf_3A.to_csv('last_3_years_world_cups_speedrelay.csv', header=True, index=True)
 	dtf_13A.to_csv('last_3_years_world_champs_speedrelay.csv', header=True, index=False)
 
