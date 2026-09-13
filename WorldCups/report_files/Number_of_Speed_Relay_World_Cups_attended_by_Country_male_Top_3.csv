@@ -1,55 +1,62 @@
 ,Athlete,Country,NumWCups
 0,Hayden BARTON (Current),Australia,1
 1,Fin Luc SANDECK (Current),Australia,1
-2,Kevin AMON (Current),Austria,2
-3,Alexander BERGMANN (Current),Austria,2
-4,Tobias PLANGGER (Current),Austria,1
+2,Kevin AMON (Current),Austria,3
+3,Lukas WINDISCHER (Current),Austria,2
+4,Alexander BERGMANN (Current),Austria,2
 5,Pedro EGG (Current),Brazil,1
 6,Caio Felipe EGG (Current),Brazil,1
-7,Alexander KOVATS (Current),Canada,2
-8,Ethan PITCHER (Current),Canada,1
-9,Jianguo LONG (Current),China,1
-10,Shouhong CHU (Current),China,1
-11,Jie YANG (Current),China,1
-12,Adam FILIP (Current),Czechia,1
-13,Gabriel CANCEL (Current),Ecuador,2
-14,Carlos Felipe GRANJA LOPEZ (Current),Ecuador,1
-15,Gabriel CANCEL (Current),France,2
-16,Marceau GARNIER (Current),France,2
-17,Guillaume MORO (Current),France,1
-18,Sebastian LUCKE (Current),Germany,2
-19,Leander CARMANNS (Current),Germany,2
-20,Aodhan UMLAUF (Current),Germany,1
-21,Raharjati NURSAMSA (Current),Indonesia,2
-22,Antasyafi ROBBY AL HILMI (Current),Indonesia,2
-23,Veddriq LEONARDO (Current),Indonesia,1
-24,Ludovico FOSSALI (Current),Italy,2
-25,Luca ROBBIATI (Current),Italy,2
-26,Matteo ZURLONI (Current),Italy,1
-27,Tsukika ONISHI (Current),Japan,2
-28,Haku OISHI (Current),Japan,2
-29,Motonori TABUCHI (Current),Japan,1
-30,Damir TOKTAROV (Current),Kazakhstan,1
-31,Rishat KHAIBULLIN (Current),Kazakhstan,1
-32,Amir MAIMURATOV (Current),Kazakhstan,1
-33,Andrés ALENCASTER (Current),Mexico,1
-34,Ned JOHNSTON (Current),New Zealand,2
-35,Julian DAVID (Current),New Zealand,1
-36,Marcin DZIENSKI (Current),Poland,2
-37,Oskar SZALECKI (Current),Poland,2
-38,Mikolaj WROBLEWSKI (Current),Poland,1
-39,Dongjun KIM (Current),Republic of Korea,2
-40,Jinyong JO (Current),Republic of Korea,2
-41,Erik NOYA CARDONA (Current),Spain,2
-42,Miguel GÓMEZ BARRIOS (Current),Spain,2
-43,Gilles MEILI (Current),Switzerland,1
-44,Sofiane VIAL (Current),Switzerland,1
-45,Aphiwit LIMPANICHPAKDEE (Current),Thailand,1
-46,Yaroslav TKACH (Current),Ukraine,2
-47,Hryhorii ILCHYSHYN (Current),Ukraine,1
-48,Ihor PICHKA (Current),Ukraine,1
-49,Andrew GOODALL (Current),United Kingdom,2
-50,Luke TURNER (Current),United Kingdom,1
-51,Samuel WATSON (Current),United States of America,2
-52,Zach HAMMER (Current),United States of America,1
-53,Noah BRATSCHI (Current),United States of America,1
+7,Ethan PITCHER (Current),Canada,3
+8,Alexander KOVATS (Current),Canada,2
+9,Dylan LE (Current),Canada,1
+10,Gastón PAREDES (Current),Chile,1
+11,Cristobal ANDRADE (Current),Chile,1
+12,Jie YANG (Current),China,2
+13,Ziyu ZHOU (Current),China,2
+14,Yongzhi LING (Current),China,2
+15,Cheuk-Nam WONG (Current),"China, Hong Kong Special Administrative Region",1
+16,Kwing Fai WONG (Current),"China, Hong Kong Special Administrative Region",1
+17,Adam FILIP (Current),Czechia,1
+18,Gabriel CANCEL (Current),Ecuador,2
+19,Carlos Felipe GRANJA LOPEZ (Current),Ecuador,1
+20,Gabriel CANCEL (Current),France,2
+21,Marceau GARNIER (Current),France,2
+22,Jérôme MOREL (Current),France,2
+23,Sebastian LUCKE (Current),Germany,3
+24,Leander CARMANNS (Current),Germany,3
+25,Andrin ZEDLER (Current),Germany,2
+26,Raharjati NURSAMSA (Current),Indonesia,4
+27,Antasyafi ROBBY AL HILMI (Current),Indonesia,4
+28,Veddriq LEONARDO (Current),Indonesia,1
+29,Ludovico FOSSALI (Current),Italy,4
+30,Luca ROBBIATI (Current),Italy,4
+31,Matteo ZURLONI (Current),Italy,2
+32,Motonori TABUCHI (Current),Japan,3
+33,Shuto FUJINO (Current),Japan,2
+34,Tsukika ONISHI (Current),Japan,2
+35,Damir TOKTAROV (Current),Kazakhstan,1
+36,Rishat KHAIBULLIN (Current),Kazakhstan,1
+37,Amir MAIMURATOV (Current),Kazakhstan,1
+38,Andrés ALENCASTER (Current),Mexico,1
+39,Ned JOHNSTON (Current),New Zealand,4
+40,Julian DAVID (Current),New Zealand,2
+41,Marcin DZIENSKI (Current),Poland,2
+42,Oskar SZALECKI (Current),Poland,2
+43,Mikolaj WROBLEWSKI (Current),Poland,1
+44,Dongjun KIM (Current),Republic of Korea,4
+45,Jinyong JO (Current),Republic of Korea,3
+46,Sangwon CHOI (Current),Republic of Korea,1
+47,John-David MULLER (Current),South Africa,1
+48,Erik NOYA CARDONA (Current),Spain,3
+49,Miguel GÓMEZ BARRIOS (Current),Spain,3
+50,Gilles MEILI (Current),Switzerland,2
+51,Sofiane VIAL (Current),Switzerland,2
+52,Aphiwit LIMPANICHPAKDEE (Current),Thailand,1
+53,Yaroslav TKACH (Current),Ukraine,4
+54,Hryhorii ILCHYSHYN (Current),Ukraine,2
+55,Ihor PICHKA (Current),Ukraine,1
+56,Andrew GOODALL (Current),United Kingdom,2
+57,Luke TURNER (Current),United Kingdom,1
+58,Samuel WATSON (Current),United States of America,4
+59,Zach HAMMER (Current),United States of America,2
+60,Michael HOM (Current),United States of America,2

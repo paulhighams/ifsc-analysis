@@ -1,27 +1,27 @@
 ,Athlete,Country,NumWCups
-0,Valentin STERNIK (Current),Argentina,11
+0,Valentin STERNIK (Current),Argentina,12
 1,Santiago CHRISTENSEN,Argentina,2
 2,Simón PADIN,Argentina,2
 3,Hayden BARTON (Current),Australia,6
 4,Campbell HARRISON (Current),Australia,3
 5,Sam LAVENDER,Australia,2
 6,Lukas KNAPP (Current),Austria,33
-7,Kevin AMON (Current),Austria,19
+7,Kevin AMON (Current),Austria,20
 8,Tobias PLANGGER (Current),Austria,17
 15,Salah BOULBAHAIEM,Belgium,16
 16,Nicolas COLLIN (Current),Belgium,11
 17,Simon LORENZI (Current),Belgium,8
 18,Pedro EGG (Current),Brazil,10
 19,Cesar GROSSO,Brazil,6
-20,Felipe HO FOGANHOLO (Current),Brazil,3
+20,Caio Felipe EGG (Current),Brazil,4
 24,Sean MCCOLL (Current),Canada,35
-25,Ethan PITCHER (Current),Canada,22
+25,Ethan PITCHER (Current),Canada,23
 26,Michael FINN-HENRY,Canada,16
 27,Benjamin VARGAS (Current),Chile,3
 28,Emilio RIOS,Chile,3
 29,Joaquin TAPIA (Current),Chile,3
 30,Qixin ZHONG,China,50
-31,Jianguo LONG (Current),China,24
+31,Jianguo LONG (Current),China,25
 32,Penghui LIN,China,17
 33,Chi-Fung AU (Current),"China, Hong Kong Special Administrative Region",21
 34,Cheung-Chi Shoji CHAN (Current),"China, Hong Kong Special Administrative Region",21
@@ -32,27 +32,27 @@
 47,Guillaume MORO (Current),France,52
 48,Bassa MAWEM (Current),France,45
 49,Pierre REBREYEND (Current),France,22
-53,Linus BADER (Current),Germany,22
-54,Sebastian LUCKE (Current),Germany,22
-55,Leander CARMANNS (Current),Germany,20
+53,Sebastian LUCKE (Current),Germany,23
+54,Linus BADER (Current),Germany,22
+55,Leander CARMANNS (Current),Germany,21
 59,Deepu MALLESH (Current),India,7
 60,Hritik MARNE,India,3
 61,Ganesh BHUJEL,India,2
 62,Alfian MUHAMMAD FAJRI (Current),Indonesia,29
 63,Veddriq LEONARDO (Current),Indonesia,27
 64,Kiromal KATIBIN (Current),Indonesia,22
-65,Reza ALIPOUR SHENAZANDIFARD (Current),Iran (Islamic Republic of),46
+65,Reza ALIPOUR SHENAZANDIFARD (Current),Iran (Islamic Republic of),47
 66,Morteza MOHAMMADI,Iran (Islamic Republic of),7
 67,Milad ALIPOURSHENAZANDIFARD (Current),Iran (Islamic Republic of),6
 68,Nimrod MARCUS (Current),Israel,7
 69,Yuval SHEMLA (Current),Israel,4
 70,Ram LEVIN (Current),Israel,4
-71,Ludovico FOSSALI (Current),Italy,57
+71,Ludovico FOSSALI (Current),Italy,58
 72,Leonardo GONTERO,Italy,47
 73,Gian Luca ZODDA (Current),Italy,43
-74,Ryo OMASA (Current),Japan,25
-75,Shuto FUJINO (Current),Japan,25
-76,Jun YASUKAWA (Current),Japan,15
+74,Ryo OMASA (Current),Japan,26
+75,Shuto FUJINO (Current),Japan,26
+76,Jun YASUKAWA (Current),Japan,16
 77,Amir MAIMURATOV (Current),Kazakhstan,38
 78,Rishat KHAIBULLIN (Current),Kazakhstan,23
 79,Alisher MURAT (Current),Kazakhstan,21
@@ -61,9 +61,9 @@
 82,Janis PRIZAVOITS,Latvia,1
 87,Andrés ALENCASTER (Current),Mexico,8
 88,Pablo RODRIGUEZ MURADAS (Current),Mexico,3
-95,Julian DAVID (Current),New Zealand,17
+95,Julian DAVID (Current),New Zealand,18
 96,Flynn CHISHOLM (Current),New Zealand,7
-97,Ned JOHNSTON (Current),New Zealand,5
+97,Ned JOHNSTON (Current),New Zealand,6
 102,Kenu PUERTA WONG (Current),Peru,1
 106,Marcin DZIENSKI (Current),Poland,68
 107,Lukasz SWIRK,Poland,40
@@ -77,19 +77,19 @@
 127,Joshua BRUYNS (Current),South Africa,11
 128,Christopher COSSER (Current),South Africa,4
 129,Calrin CURTIS (Current),South Africa,2
-130,Erik NOYA CARDONA (Current),Spain,30
+130,Erik NOYA CARDONA (Current),Spain,31
 131,Javier CANO BLAZQUEZ (Current),Spain,14
 132,Jonatan FLOR VAZQUEZ,Spain,10
 133,Hannes PUMAN (Current),Sweden,7
 134,Said BELHAJ,Sweden,1
 135,Anders LANZ,Sweden,1
 136,Sascha LEHMANN (Current),Switzerland,6
-137,Gilles MEILI (Current),Switzerland,4
-138,Dimitri VOGT,Switzerland,3
+137,Gilles MEILI (Current),Switzerland,5
+138,Sofiane VIAL (Current),Switzerland,4
 139,Yeu-shiang CHANG,Taiwan,2
 140,Jiun-jie TZENG,Taiwan,2
 141,Chia Hsiang LIN (Current),Taiwan,2
-142,Aphiwit LIMPANICHPAKDEE (Current),Thailand,7
+142,Aphiwit LIMPANICHPAKDEE (Current),Thailand,8
 143,Ardch INTRACHUPONGSE (Current),Thailand,4
 144,Thattana RAKSACHAT,Thailand,2
 145,Ismail OZTURK,Turkey,1
@@ -101,6 +101,6 @@
 151,Rafe STOKES (Current),United Kingdom,9
 152,Andrew GOODALL (Current),United Kingdom,9
 153,Luke TURNER (Current),United Kingdom,9
-154,Noah BRATSCHI (Current),United States of America,31
+154,Noah BRATSCHI (Current),United States of America,32
 155,John BROSLER (Current),United States of America,28
-156,Samuel WATSON (Current),United States of America,26
+156,Samuel WATSON (Current),United States of America,27
