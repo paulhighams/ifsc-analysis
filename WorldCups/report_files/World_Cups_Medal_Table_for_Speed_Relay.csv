@@ -1,6 +1,9 @@
 ,Country,Discipline,Gold,Silver,Bronze,Total
-1,China,Speed-Relay,2,0,1,3
-2,United States of America,Speed-Relay,1,1,0,2
-3,Indonesia,Speed-Relay,0,1,1,2
+1,China,Speed-Relay,4,2,1,7
+2,Indonesia,Speed-Relay,1,1,1,3
+3,United States of America,Speed-Relay,1,1,1,3
 4,Poland,Speed-Relay,0,1,0,1
-5,Ukraine,Speed-Relay,0,0,1,1
+5,Spain,Speed-Relay,0,1,0,1
+6,Republic of Korea,Speed-Relay,0,0,1,1
+7,Austria,Speed-Relay,0,0,1,1
+8,Ukraine,Speed-Relay,0,0,1,1

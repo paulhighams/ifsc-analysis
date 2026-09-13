@@ -1,69 +1,79 @@
 ,Athlete,Country,NumWCups
-1,Marcin DZIENSKI (Current),Poland,2
-2,Ludovico FOSSALI (Current),Italy,2
-3,Sebastian LUCKE (Current),Germany,2
-4,Leander CARMANNS (Current),Germany,2
-5,Oskar SZALECKI (Current),Poland,2
-6,Raharjati NURSAMSA (Current),Indonesia,2
-7,Samuel WATSON (Current),United States of America,2
-8,Yaroslav TKACH (Current),Ukraine,2
-9,Erik NOYA CARDONA (Current),Spain,2
-10,Andrew GOODALL (Current),United Kingdom,2
-11,Kevin AMON (Current),Austria,2
-12,Gabriel CANCEL (Current),Ecuador,2
-13,Gabriel CANCEL (Current),France,2
-14,Luca ROBBIATI (Current),Italy,2
-15,Marceau GARNIER (Current),France,2
-16,Ned JOHNSTON (Current),New Zealand,2
-17,Miguel GÓMEZ BARRIOS (Current),Spain,2
-18,Dongjun KIM (Current),Republic of Korea,2
-19,Jinyong JO (Current),Republic of Korea,2
-20,Antasyafi ROBBY AL HILMI (Current),Indonesia,2
-21,Tsukika ONISHI (Current),Japan,2
-22,Alexander KOVATS (Current),Canada,2
-23,Alexander BERGMANN (Current),Austria,2
-24,Haku OISHI (Current),Japan,2
-25,Zach HAMMER (Current),United States of America,1
-26,Motonori TABUCHI (Current),Japan,1
-27,Julian DAVID (Current),New Zealand,1
-28,Damir TOKTAROV (Current),Kazakhstan,1
-29,Ethan PITCHER (Current),Canada,1
-30,Pedro EGG (Current),Brazil,1
-31,Guillaume MORO (Current),France,1
-32,Rishat KHAIBULLIN (Current),Kazakhstan,1
-33,Amir MAIMURATOV (Current),Kazakhstan,1
-34,Noah BRATSCHI (Current),United States of America,1
-35,Jianguo LONG (Current),China,1
-36,Matteo ZURLONI (Current),Italy,1
-37,Veddriq LEONARDO (Current),Indonesia,1
-38,Tobias PLANGGER (Current),Austria,1
-39,Shuto FUJINO (Current),Japan,1
-40,Aditya TRI SYAHRIA (Current),Indonesia,1
-41,Hayden BARTON (Current),Australia,1
-42,Mikolaj WROBLEWSKI (Current),Poland,1
-43,Aodhan UMLAUF (Current),Germany,1
-44,Hryhorii ILCHYSHYN (Current),Ukraine,1
-45,Michael HOM (Current),United States of America,1
-46,Jérôme MOREL (Current),France,1
-47,Shouhong CHU (Current),China,1
-48,Luke TURNER (Current),United Kingdom,1
-49,Jie YANG (Current),China,1
-50,Robert ZAJAC (Current),Poland,1
-51,Lukas WINDISCHER (Current),Austria,1
-52,Andrin ZEDLER (Current),Germany,1
-53,Gilles MEILI (Current),Switzerland,1
-54,Ziyu ZHOU (Current),China,1
-55,Francesco PONZINIBIO (Current),Italy,1
-56,Caio Felipe EGG (Current),Brazil,1
-57,Sofiane VIAL (Current),Switzerland,1
-58,Fin Luc SANDECK (Current),Australia,1
-59,Rashid KHAIBULLIN (Current),Kazakhstan,1
-60,Aphiwit LIMPANICHPAKDEE (Current),Thailand,1
-61,Alisher MURAT (Current),Kazakhstan,1
-62,Andrés ALENCASTER (Current),Mexico,1
-63,Carlos Felipe GRANJA LOPEZ (Current),Ecuador,1
-64,Ben JENNINGS (Current),United States of America,1
-65,Yongzhi LING (Current),China,1
-66,Yicheng ZHAO (Current),China,1
+1,Ludovico FOSSALI (Current),Italy,4
+2,Raharjati NURSAMSA (Current),Indonesia,4
+3,Samuel WATSON (Current),United States of America,4
+4,Yaroslav TKACH (Current),Ukraine,4
+5,Luca ROBBIATI (Current),Italy,4
+6,Ned JOHNSTON (Current),New Zealand,4
+7,Dongjun KIM (Current),Republic of Korea,4
+8,Antasyafi ROBBY AL HILMI (Current),Indonesia,4
+9,Motonori TABUCHI (Current),Japan,3
+10,Ethan PITCHER (Current),Canada,3
+11,Sebastian LUCKE (Current),Germany,3
+12,Leander CARMANNS (Current),Germany,3
+13,Erik NOYA CARDONA (Current),Spain,3
+14,Kevin AMON (Current),Austria,3
+15,Miguel GÓMEZ BARRIOS (Current),Spain,3
+16,Jinyong JO (Current),Republic of Korea,3
+17,Zach HAMMER (Current),United States of America,2
+18,Julian DAVID (Current),New Zealand,2
+19,Marcin DZIENSKI (Current),Poland,2
+20,Matteo ZURLONI (Current),Italy,2
+21,Oskar SZALECKI (Current),Poland,2
+22,Shuto FUJINO (Current),Japan,2
+23,Andrew GOODALL (Current),United Kingdom,2
+24,Gabriel CANCEL (Current),Ecuador,2
+25,Gabriel CANCEL (Current),France,2
+26,Marceau GARNIER (Current),France,2
+27,Hryhorii ILCHYSHYN (Current),Ukraine,2
+28,Michael HOM (Current),United States of America,2
+29,Jérôme MOREL (Current),France,2
+30,Jie YANG (Current),China,2
+31,Lukas WINDISCHER (Current),Austria,2
+32,Andrin ZEDLER (Current),Germany,2
+33,Gilles MEILI (Current),Switzerland,2
+34,Tsukika ONISHI (Current),Japan,2
+35,Ziyu ZHOU (Current),China,2
+36,Francesco PONZINIBIO (Current),Italy,2
+37,Sofiane VIAL (Current),Switzerland,2
+38,Alexander KOVATS (Current),Canada,2
+39,Alexander BERGMANN (Current),Austria,2
+40,Haku OISHI (Current),Japan,2
+41,Yongzhi LING (Current),China,2
+42,Yicheng ZHAO (Current),China,2
+43,Damir TOKTAROV (Current),Kazakhstan,1
+44,Pedro EGG (Current),Brazil,1
+45,Guillaume MORO (Current),France,1
+46,Rishat KHAIBULLIN (Current),Kazakhstan,1
+47,Amir MAIMURATOV (Current),Kazakhstan,1
+48,Noah BRATSCHI (Current),United States of America,1
+49,Jianguo LONG (Current),China,1
+50,Veddriq LEONARDO (Current),Indonesia,1
+51,Tobias PLANGGER (Current),Austria,1
+52,Aditya TRI SYAHRIA (Current),Indonesia,1
+53,Hayden BARTON (Current),Australia,1
+54,Mikolaj WROBLEWSKI (Current),Poland,1
+55,Aodhan UMLAUF (Current),Germany,1
+56,Shouhong CHU (Current),China,1
+57,Luke TURNER (Current),United Kingdom,1
+58,Robert ZAJAC (Current),Poland,1
+59,Caio Felipe EGG (Current),Brazil,1
+60,Fin Luc SANDECK (Current),Australia,1
+61,Rashid KHAIBULLIN (Current),Kazakhstan,1
+62,Aphiwit LIMPANICHPAKDEE (Current),Thailand,1
+63,Alisher MURAT (Current),Kazakhstan,1
+64,Andrés ALENCASTER (Current),Mexico,1
+65,Carlos Felipe GRANJA LOPEZ (Current),Ecuador,1
+66,Ben JENNINGS (Current),United States of America,1
 67,Adam FILIP (Current),Czechia,1
 68,Ihor PICHKA (Current),Ukraine,1
+69,Cheuk-Nam WONG (Current),"China, Hong Kong Special Administrative Region",1
+70,Dylan LE (Current),Canada,1
+71,Xu LI (Current),China,1
+72,Zechuan SHI (Current),China,1
+73,Kwing Fai WONG (Current),"China, Hong Kong Special Administrative Region",1
+74,Sangwon CHOI (Current),Republic of Korea,1
+75,Gastón PAREDES (Current),Chile,1
+76,Cristobal ANDRADE (Current),Chile,1
+77,John-David MULLER (Current),South Africa,1
+78,Alikhan TATAMBAY (Current),Kazakhstan,1
