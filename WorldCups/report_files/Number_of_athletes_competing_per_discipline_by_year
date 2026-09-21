@@ -45,15 +45,15 @@
 43,Chile,Speed,15
 44,Chile,Speed-Relay,2
 45,China,Lead,84
-46,China,Speed,118
+46,China,Speed,121
 47,China,Boulder,63
 48,China,Boulder-Lead,3
-49,China,Speed-Relay,16
+49,China,Speed-Relay,20
 50,"China, Hong Kong Special Administrative Region",Lead,44
 51,"China, Hong Kong Special Administrative Region",Boulder,36
-52,"China, Hong Kong Special Administrative Region",Speed,21
+52,"China, Hong Kong Special Administrative Region",Speed,22
 53,"China, Hong Kong Special Administrative Region",Boulder-Lead,3
-54,"China, Hong Kong Special Administrative Region",Speed-Relay,2
+54,"China, Hong Kong Special Administrative Region",Speed-Relay,3
 55,"China, Macao Special Administrative Region",Boulder,7
 56,"China, Macao Special Administrative Region",Lead,3
 57,Colombia,Lead,10
@@ -264,10 +264,10 @@
 262,United Kingdom,Boulder-Lead,1
 263,United Kingdom,Speed-Relay,3
 264,United States of America,Lead,185
-265,United States of America,Speed,94
+265,United States of America,Speed,95
 266,United States of America,Boulder,206
 267,United States of America,Boulder-Lead,7
-268,United States of America,Speed-Relay,10
+268,United States of America,Speed-Relay,12
 269,Uzbekistan,Lead,4
 270,Venezuela (Bolivarian Republic of),Lead,14
 271,Venezuela (Bolivarian Republic of),Speed,15
