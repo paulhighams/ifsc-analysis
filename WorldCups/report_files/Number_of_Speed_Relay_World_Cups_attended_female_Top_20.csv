@@ -1,65 +1,67 @@
 ,Athlete,Country,NumWCups
-1,Beatrice COLLI (Current),Italy,4
-2,Rajiah SALLSABILLAH (Current),Indonesia,4
-3,Capucine VIGLIONE (Current),France,4
-4,Giulia RANDI (Current),Italy,4
-5,Jimin JEONG (Current),Republic of Korea,4
-6,Hanareum SUNG (Current),Republic of Korea,4
-7,Sophia CURCIO (Current),United States of America,4
-8,Yuju MOU (Current),China,3
-9,Carla MARTÍNEZ VIDAL (Current),Spain,3
-10,Ai TAKEUCHI (Current),Japan,3
-11,Leslie Adriana ROMERO PÉREZ (Current),Spain,3
-12,Nele THOMAS (Current),Germany,3
-13,Polina KHALKEVYCH (Current),Ukraine,3
-14,Sarah TETZLAFF (Current),New Zealand,3
-15,Ren KOYAMATSU (Current),Japan,3
-16,Arina NOVITSKAYA (Current),Kazakhstan,3
-17,Yafei ZHOU (Current),China,2
-18,Anna BALARSHINA (Current),Kazakhstan,2
-19,Andrea ROJAS (Current),Ecuador,2
-20,Desak MADE RITA KUSUMA DEWI (Current),Indonesia,2
-21,Piper KELLY (Current),United States of America,2
-22,Narada DISYABUT (Current),Thailand,2
-23,Yumei QIN (Current),China,2
-24,Daria TKACHOVA (Current),Ukraine,2
-25,Adi Asih KADEK (Current),Indonesia,2
-26,Berthdigna Devi Surya KUSUMA (Current),Indonesia,2
-27,Mina Josephine SCHULTZ (Current),Germany,2
-28,Johanna NAGL (Current),Austria,2
-29,Louise FONTAINE (Current),France,2
-30,Ambre ECAILLE (Current),France,2
-31,Julia NAVA (Current),Mexico,2
-32,Avery MACDONALD (Current),Canada,2
-33,Maya WALTER (Current),Austria,2
-34,Emma HUNT (Current),United States of America,2
-35,Valeria MACIAS FERREIRA (Current),Mexico,2
-36,Aleksandra MIROSLAW (Current),Poland,1
-37,Tamara ULZHABAYEVA (Current),Kazakhstan,1
-38,Patrycja CHUDZIAK (Current),Poland,1
-39,Lijuan DENG (Current),China,1
-40,Sarah VOUAUX (Current),France,1
-41,Aleksandra KALUCKA (Current),Poland,1
-42,Natalia KALUCKA (Current),Poland,1
-43,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,1
-44,Karin HAYASHI (Current),Japan,1
-45,Sara STROCCHI (Current),Italy,1
-46,Isis ROTHFORK (Current),United States of America,1
-47,Agnese FIORIO (Current),Italy,1
-48,Aleya MORIN (Current),Canada,1
-49,Lily STAUDT (Current),United States of America,1
-50,Valentina Camila FLORES CORTEZ (Current),Ecuador,1
-51,Napat DISYABUT (Current),Thailand,1
-52,Anna BROZEK (Current),Poland,1
-53,Ava HAMILTON (Current),United Kingdom,1
-54,Magdalena BLACHNICKA (Current),Poland,1
-55,Lucie MRAZOVA (Current),Czechia,1
-56,Shaoqin ZHANG (Current),China,1
-57,Shengyan WANG (Current),China,1
-58,Haruka KANETANI (Current),Japan,1
-59,Helen LEE (Current),New Zealand,1
-60,Jingyue FAN (Current),China,1
-61,Yua NISHIMURA (Current),Japan,1
-62,Aniya HOLDER (Current),South Africa,1
-63,Mengli ZHANG (Current),China,1
-64,Elise VILLENEUVE (Current),Canada,1
+1,Beatrice COLLI (Current),Italy,6
+2,Rajiah SALLSABILLAH (Current),Indonesia,6
+3,Capucine VIGLIONE (Current),France,6
+4,Giulia RANDI (Current),Italy,6
+5,Sophia CURCIO (Current),United States of America,5
+6,Arina NOVITSKAYA (Current),Kazakhstan,5
+7,Yuju MOU (Current),China,4
+8,Carla MARTÍNEZ VIDAL (Current),Spain,4
+9,Jimin JEONG (Current),Republic of Korea,4
+10,Hanareum SUNG (Current),Republic of Korea,4
+11,Leslie Adriana ROMERO PÉREZ (Current),Spain,4
+12,Nele THOMAS (Current),Germany,4
+13,Adi Asih KADEK (Current),Indonesia,4
+14,Polina KHALKEVYCH (Current),Ukraine,4
+15,Sarah TETZLAFF (Current),New Zealand,4
+16,Anna BALARSHINA (Current),Kazakhstan,3
+17,Piper KELLY (Current),United States of America,3
+18,Ai TAKEUCHI (Current),Japan,3
+19,Johanna NAGL (Current),Austria,3
+20,Louise FONTAINE (Current),France,3
+21,Julia NAVA (Current),Mexico,3
+22,Emma HUNT (Current),United States of America,3
+23,Valeria MACIAS FERREIRA (Current),Mexico,3
+24,Ren KOYAMATSU (Current),Japan,3
+25,Helen LEE (Current),New Zealand,3
+26,Yafei ZHOU (Current),China,2
+27,Andrea ROJAS (Current),Ecuador,2
+28,Desak MADE RITA KUSUMA DEWI (Current),Indonesia,2
+29,Aleksandra KALUCKA (Current),Poland,2
+30,Natalia KALUCKA (Current),Poland,2
+31,Narada DISYABUT (Current),Thailand,2
+32,Isis ROTHFORK (Current),United States of America,2
+33,Yumei QIN (Current),China,2
+34,Daria TKACHOVA (Current),Ukraine,2
+35,Berthdigna Devi Surya KUSUMA (Current),Indonesia,2
+36,Mina Josephine SCHULTZ (Current),Germany,2
+37,Ambre ECAILLE (Current),France,2
+38,Avery MACDONALD (Current),Canada,2
+39,Maya WALTER (Current),Austria,2
+40,Anna BROZEK (Current),Poland,2
+41,Shaoqin ZHANG (Current),China,2
+42,Jingyue FAN (Current),China,2
+43,Yua NISHIMURA (Current),Japan,2
+44,Aniya HOLDER (Current),South Africa,2
+45,Elise VILLENEUVE (Current),Canada,2
+46,Xinyi HUANG (Current),China,2
+47,Aleksandra MIROSLAW (Current),Poland,1
+48,Tamara ULZHABAYEVA (Current),Kazakhstan,1
+49,Patrycja CHUDZIAK (Current),Poland,1
+50,Lijuan DENG (Current),China,1
+51,Sarah VOUAUX (Current),France,1
+52,Arantza FERNÁNDEZ GUTIERREZ (Current),Mexico,1
+53,Karin HAYASHI (Current),Japan,1
+54,Sara STROCCHI (Current),Italy,1
+55,Agnese FIORIO (Current),Italy,1
+56,Aleya MORIN (Current),Canada,1
+57,Lily STAUDT (Current),United States of America,1
+58,Valentina Camila FLORES CORTEZ (Current),Ecuador,1
+59,Napat DISYABUT (Current),Thailand,1
+60,Ava HAMILTON (Current),United Kingdom,1
+61,Magdalena BLACHNICKA (Current),Poland,1
+62,Lucie MRAZOVA (Current),Czechia,1
+63,Shengyan WANG (Current),China,1
+64,Haruka KANETANI (Current),Japan,1
+65,Mengli ZHANG (Current),China,1
+66,Yumei BAI (Current),China,1
