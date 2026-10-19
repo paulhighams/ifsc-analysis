@@ -1,9 +1,9 @@
 ,Athlete,Country,NumWCups
 2,Valentin STERNIK (Current),Argentina,14
 3,Diego martín MARSELLA,Argentina,12
-4,Lautaro nicolás SORIA SANCHEZ,Argentina,7
+4,Alejo SUTER (Current),Argentina,8
 5,Campbell HARRISON (Current),Australia,45
-6,Dylan PARKS (Current),Australia,23
+6,Dylan PARKS (Current),Australia,24
 7,James KASSAY,Australia,22
 8,Jakob SCHUBERT (Current),Austria,159
 9,Kilian FISCHHUBER,Austria,107
@@ -17,16 +17,16 @@
 24,Felipe HO FOGANHOLO (Current),Brazil,36
 25,Cesar GROSSO,Brazil,30
 26,Rodrigo IASI HANADA (Current),Brazil,27
-28,Nikolay RUSEV (Current),Bulgaria,32
-29,Slav KIROV (Current),Bulgaria,26
+28,Nikolay RUSEV (Current),Bulgaria,33
+29,Slav KIROV (Current),Bulgaria,27
 30,Milen VIDENOVSKI,Bulgaria,18
 32,Sean MCCOLL (Current),Canada,178
-33,Oscar BAUDRAND (Current),Canada,48
+33,Oscar BAUDRAND (Current),Canada,49
 34,Elan JONASMCRAE,Canada,46
-35,Benjamin VARGAS (Current),Chile,33
+35,Benjamin VARGAS (Current),Chile,34
 36,Joaquin URRUTIA (Current),Chile,25
 37,Tomas RAVANAL,Chile,20
-38,Yufei PAN (Current),China,73
+38,Yufei PAN (Current),China,74
 39,Qixin ZHONG,China,57
 40,Haibin QU,China,36
 41,Cheung-Chi Shoji CHAN (Current),"China, Hong Kong Special Administrative Region",67
@@ -36,7 +36,7 @@
 45,Chon Hou LEI (Current),"China, Macao Special Administrative Region",7
 46,Wan i LO,"China, Macao Special Administrative Region",1
 47,Tomás ARCE (Current),Colombia,8
-48,Juan Sebastian SANCHEZ MARTIN (Current),Colombia,6
+48,Juan Sebastian SANCHEZ MARTIN (Current),Colombia,7
 49,Alejandro ROA (Current),Colombia,3
 50,Ry MORRISON,Costa Rica,2
 51,Tomas CASAS (Current),Costa Rica,2
@@ -57,18 +57,18 @@
 85,Theodoros KONSTANTAKOPOULOS,Greece,11
 86,Matthaios VALSAMIDIS (Current),Greece,11
 87,Orfeas TSIAOUSIS (Current),Greece,7
-88,Allen LACTAOEN (Current),Guam,4
+88,Allen LACTAOEN (Current),Guam,5
 89,Quitugua MICHAEL (Current),Guam,1
 90,Donovan VICENTE (Current),Guam,1
 91,Emilio FLORES (Current),Guatemala,4
 92,Ahren CASTILLO (Current),Guatemala,2
 93,Bryan MÉRIDA,Guatemala,1
 94,Daniel alejandro MERINO ORDÓÑEZ,Honduras,4
-95,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,3
+95,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,4
 96,Erick CÓRDOVA A.,Honduras,1
 97,Csaba KOMONDI,Hungary,46
-98,Gyula JUHASZ,Hungary,14
-99,Nimród Sebestyén TUSNÁDY  (Current),Hungary,14
+98,Nimród Sebestyén TUSNÁDY  (Current),Hungary,15
+99,Gyula JUHASZ,Hungary,14
 100,Guðmundur freyr ARNARSON,Iceland,3
 101,Birgir óli SNORRASON,Iceland,2
 102,Sólon Thorberg HELGASON (Current),Iceland,2
@@ -114,7 +114,7 @@
 144,Khairul hafiz ABU HASSAN,Malaysia,6
 146,Mauricio HUERTA,Mexico,36
 147,Santiago DE ALBA FLORES (Current),Mexico,24
-148,Diego luis GONZÁLEZ,Mexico,11
+148,Thor VILLEGAS GARCÍA (Current),Mexico,12
 158,Julian DAVID (Current),New Zealand,23
 159,Ned JOHNSTON (Current),New Zealand,12
 160,George SANDERS,New Zealand,8
@@ -156,13 +156,16 @@
 217,Chih-En FAN (Current),Taiwan,16
 218,Yeu-shiang CHANG,Taiwan,10
 219,Chun-hsiang WANG,Taiwan,6
-220,Ardch INTRACHUPONGSE (Current),Thailand,22
+220,Ardch INTRACHUPONGSE (Current),Thailand,23
 221,Auswin AUEAREECHIT (Current),Thailand,15
 222,Aphiwit LIMPANICHPAKDEE (Current),Thailand,9
-223,Viktor TRPOVSKI (Current),The former Yugoslav Republic of Macedonia,6
-224,Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,5
-225,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,5
+223,Viktor TRPOVSKI (Current),The former Yugoslav Republic of Macedonia,7
+224,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,6
+225,Ilija RISTOVSKI,The former Yugoslav Republic of Macedonia,5
+226,Rafet serkan ERCAN,Turkey,11
+227,Övgün YILDIRIM,Turkey,5
+228,Muhammed Oğuz KAĞANOĞLU (Current),Turkey,5
 229,Emmanuel ONYANGO (Current),Uganda,2
 236,Sean BAILEY,United States of America,65
-237,Colin DUFFY (Current),United States of America,49
+237,Colin DUFFY (Current),United States of America,50
 238,John BROSLER (Current),United States of America,44

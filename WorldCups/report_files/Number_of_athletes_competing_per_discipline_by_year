@@ -1,7 +1,7 @@
 ,Country,Discipline,Athletes
 0,Andorra,Lead,2
 1,Argentina,Lead,20
-2,Argentina,Boulder,27
+2,Argentina,Boulder,29
 3,Argentina,Speed,7
 4,Australia,Lead,43
 5,Australia,Speed,14
@@ -48,7 +48,7 @@
 46,China,Speed,121
 47,China,Boulder,63
 48,China,Boulder-Lead,3
-49,China,Speed-Relay,20
+49,China,Speed-Relay,21
 50,"China, Hong Kong Special Administrative Region",Lead,44
 51,"China, Hong Kong Special Administrative Region",Boulder,36
 52,"China, Hong Kong Special Administrative Region",Speed,22
@@ -93,7 +93,7 @@
 91,Georgia,Boulder,9
 92,Germany,Lead,143
 93,Germany,Speed,46
-94,Germany,Boulder,126
+94,Germany,Boulder,127
 95,Germany,Boulder-Lead,5
 96,Germany,Speed-Relay,6
 97,Greece,Lead,29
@@ -102,7 +102,7 @@
 100,Guam,Lead,4
 101,Guatemala,Boulder,10
 102,Guatemala,Lead,4
-103,Honduras,Boulder,5
+103,Honduras,Boulder,6
 104,Honduras,Lead,4
 105,Hungary,Lead,32
 106,Hungary,Boulder,27
@@ -132,7 +132,7 @@
 130,Italy,Boulder,109
 131,Italy,Speed-Relay,8
 132,Japan,Lead,180
-133,Japan,Boulder,146
+133,Japan,Boulder,147
 134,Japan,Speed,48
 135,Japan,Boulder-Lead,16
 136,Japan,Speed-Relay,9
@@ -181,7 +181,7 @@
 179,Norway,Boulder-Lead,1
 180,Pakistan,Speed,4
 181,Pakistan,Lead,2
-182,Peru,Boulder,11
+182,Peru,Boulder,12
 183,Peru,Lead,3
 184,Peru,Speed,1
 185,Philippines,Lead,14
@@ -212,7 +212,7 @@
 210,Serbia,Lead,9
 211,Serbia,Boulder,4
 212,Serbia,Speed,1
-213,Singapore,Boulder,14
+213,Singapore,Boulder,15
 214,Singapore,Speed,14
 215,Singapore,Boulder-Lead,1
 216,Singapore,Lead,8
@@ -224,7 +224,7 @@
 222,Slovenia,Speed,12
 223,Slovenia,Boulder-Lead,3
 224,South Africa,Lead,27
-225,South Africa,Boulder,24
+225,South Africa,Boulder,25
 226,South Africa,Speed,11
 227,South Africa,Speed-Relay,2
 228,Spain,Lead,96
@@ -260,12 +260,12 @@
 258,Ukraine,Speed-Relay,5
 259,United Kingdom,Lead,145
 260,United Kingdom,Speed,39
-261,United Kingdom,Boulder,110
+261,United Kingdom,Boulder,111
 262,United Kingdom,Boulder-Lead,1
 263,United Kingdom,Speed-Relay,3
 264,United States of America,Lead,185
 265,United States of America,Speed,95
-266,United States of America,Boulder,206
+266,United States of America,Boulder,210
 267,United States of America,Boulder-Lead,7
 268,United States of America,Speed-Relay,12
 269,Uzbekistan,Lead,4

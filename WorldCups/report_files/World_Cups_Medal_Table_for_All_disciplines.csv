@@ -1,7 +1,7 @@
 ,Country,Gold,Silver,Bronze,Total
-1,France,182,178,192,552
+1,France,183,178,192,553
 2,Russia,161,179,169,509
-3,Japan,97,122,116,335
+3,Japan,97,122,118,337
 4,Austria,115,85,84,284
 5,Slovenia,102,79,59,240
 6,United States of America,67,66,60,193
@@ -13,7 +13,7 @@
 12,Czechia,39,39,28,106
 13,Poland,39,35,30,104
 14,Indonesia,29,31,33,93
-15,United Kingdom,28,25,25,78
+15,United Kingdom,28,27,25,80
 16,Germany,18,26,32,76
 17,Belgium,25,30,20,75
 18,Switzerland,12,15,27,54
@@ -25,9 +25,9 @@
 24,Hungary,0,3,1,4
 25,Kazakhstan,0,3,0,3
 26,Serbia,0,0,3,3
-27,Bulgaria,0,1,1,2
-28,Sweden,0,0,2,2
-29,Norway,0,0,2,2
-30,"China, Hong Kong Special Administrative Region",1,0,0,1
-31,Israel,1,0,0,1
+27,Israel,2,0,0,2
+28,Bulgaria,0,1,1,2
+29,Sweden,0,0,2,2
+30,Norway,0,0,2,2
+31,"China, Hong Kong Special Administrative Region",1,0,0,1
 32,Finland,0,0,1,1
