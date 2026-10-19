@@ -1,10 +1,10 @@
 ,Athlete,Country,NumWCups
 3,James KASSAY,Australia,22
-4,Christopher WEBB-PARSONS,Australia,19
-5,Dylan PARKS (Current),Australia,19
+4,Dylan PARKS (Current),Australia,20
+5,Christopher WEBB-PARSONS,Australia,19
 6,Kilian FISCHHUBER,Austria,83
 7,Jakob SCHUBERT (Current),Austria,56
-8,Lukas ENNEMOSER,Austria,41
+8,Jan-Luca POSCH (Current),Austria,41
 15,Nicolas COLLIN (Current),Belgium,29
 16,Simon LORENZI (Current),Belgium,25
 17,Hannes VAN DUYSEN (Current),Belgium,21
@@ -12,16 +12,16 @@
 20,Rodrigo IASI HANADA (Current),Brazil,18
 21,Felipe HO FOGANHOLO (Current),Brazil,12
 22,Mateus RODRIGUES BELLOTTO (Current),Brazil,8
-24,Nikolay RUSEV (Current),Bulgaria,22
-25,Slav KIROV (Current),Bulgaria,17
+24,Nikolay RUSEV (Current),Bulgaria,23
+25,Slav KIROV (Current),Bulgaria,18
 26,Nikola PETROV,Bulgaria,8
 28,Sean MCCOLL (Current),Canada,73
-29,Sebastien LAZURE,Canada,26
-30,Oscar BAUDRAND (Current),Canada,25
-31,Benjamin VARGAS (Current),Chile,16
+29,Oscar BAUDRAND (Current),Canada,26
+30,Sebastien LAZURE,Canada,26
+31,Benjamin VARGAS (Current),Chile,17
 32,Christian WAGNER (Current),Chile,10
 33,Joaquin URRUTIA (Current),Chile,8
-34,Yufei PAN (Current),China,33
+34,Yufei PAN (Current),China,34
 35,Haibin QU,China,13
 36,Zida MA,China,11
 37,Cheung-Chi Shoji CHAN (Current),"China, Hong Kong Special Administrative Region",23
@@ -30,7 +30,7 @@
 40,Wan Tong LOK (Current),"China, Macao Special Administrative Region",15
 41,Chon Hou LEI (Current),"China, Macao Special Administrative Region",5
 42,Wan i LO,"China, Macao Special Administrative Region",1
-43,Juan Sebastian SANCHEZ MARTIN (Current),Colombia,3
+43,Juan Sebastian SANCHEZ MARTIN (Current),Colombia,4
 44,Tomás ARCE (Current),Colombia,3
 45,Nicolas SHERMAN CUEVO,Colombia,1
 46,Ry MORRISON,Costa Rica,2
@@ -49,14 +49,14 @@
 81,Theodoros KONSTANTAKOPOULOS,Greece,10
 82,Ioannis-Filippos NOEL-BAKER (Current),Greece,6
 83,Matthaios VALSAMIDIS (Current),Greece,5
-84,Allen LACTAOEN (Current),Guam,3
+84,Allen LACTAOEN (Current),Guam,4
 85,Quitugua MICHAEL (Current),Guam,1
 86,Donovan VICENTE (Current),Guam,1
-90,Daniel alejandro MERINO ORDÓÑEZ,Honduras,2
-91,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,2
+90,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,3
+91,Daniel alejandro MERINO ORDÓÑEZ,Honduras,2
 92,Erick CÓRDOVA A.,Honduras,1
 93,Tamás FARKAS (Current),Hungary,8
-94,Nimród Sebestyén TUSNÁDY  (Current),Hungary,7
+94,Nimród Sebestyén TUSNÁDY  (Current),Hungary,8
 95,Arpad CSEKO,Hungary,5
 96,Guðmundur freyr ARNARSON,Iceland,1
 97,Birgir óli SNORRASON,Iceland,1
@@ -99,7 +99,7 @@
 134,Khairul hafiz ABU HASSAN,Malaysia,1
 136,Mauricio HUERTA,Mexico,19
 137,Santiago DE ALBA FLORES (Current),Mexico,8
-138,Thor VILLEGAS GARCÍA (Current),Mexico,6
+138,Thor VILLEGAS GARCÍA (Current),Mexico,7
 139,Chuluunbaatar MANDAKHBAYAR (Current),Mongolia,1
 149,Olukayode Adeyemi SONUGA (Current),Nigeria,1
 150,Thilo jeldrik SCHRÖTER,Norway,23
@@ -113,7 +113,7 @@
 167,Dohyun LEE (Current),Republic of Korea,24
 168,Jabee KIM,Republic of Korea,20
 169,Claudiu MIU,Romania,9
-170,Călin ENACHE (Current),Romania,8
+170,Călin ENACHE (Current),Romania,9
 171,Alexandru-Florian ZAHARIA (Current),Romania,7
 175,Taher ALHADDAD (Current),Saudi Arabia,2
 176,Sulaiman ALYAHYA (Current),Saudi Arabia,1
@@ -127,7 +127,7 @@
 187,Anze PEHARC (Current),Slovenia,45
 188,Klemen BECAN,Slovenia,42
 189,Christopher COSSER (Current),South Africa,9
-190,Jack BURNINGHAM (Current),South Africa,6
+190,Jack BURNINGHAM (Current),South Africa,7
 191,Calrin CURTIS (Current),South Africa,5
 195,Hannes PUMAN (Current),Sweden,21
 196,Daniel ANDERSSON,Sweden,11
@@ -135,12 +135,12 @@
 201,Chih-En FAN (Current),Taiwan,8
 202,Chun-hsiang WANG,Taiwan,6
 203,Chia Hsiang LIN (Current),Taiwan,3
-204,Ardch INTRACHUPONGSE (Current),Thailand,17
+204,Ardch INTRACHUPONGSE (Current),Thailand,18
 205,Winai RUANGRIT,Thailand,4
 206,Auswin AUEAREECHIT (Current),Thailand,4
-207,Viktor TRPOVSKI (Current),The former Yugoslav Republic of Macedonia,4
-208,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,3
+207,Viktor TRPOVSKI (Current),The former Yugoslav Republic of Macedonia,5
+208,Jovan IVANOV (Current),The former Yugoslav Republic of Macedonia,4
 209,Matej MARKOV,The former Yugoslav Republic of Macedonia,2
-219,Colin DUFFY (Current),United States of America,28
+219,Colin DUFFY (Current),United States of America,29
 220,Sean BAILEY,United States of America,27
-221,Benjamin HANNA (Current),United States of America,25
+221,Benjamin HANNA (Current),United States of America,26
