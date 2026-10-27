@@ -1,12 +1,12 @@
 ,Discipline,Country,Gold,Silver,Bronze,Total
 1,Lead,FRA,19,22,18,59
-2,Lead,SLO,11,9,8,28
+2,Lead,SLO,11,10,8,29
 3,Lead,AUT,10,6,7,23
-4,Lead,BEL,5,4,2,11
-5,Lead,JPN,5,3,12,20
-6,Lead,USA,5,2,7,14
-7,Lead,KOR,4,7,2,13
-8,Lead,ESP,4,6,2,12
+4,Lead,JPN,6,3,12,21
+5,Lead,USA,6,2,7,15
+6,Lead,BEL,5,4,2,11
+7,Lead,KOR,4,7,3,14
+8,Lead,ESP,4,6,3,13
 9,Lead,CZE,4,2,5,11
 10,Lead,GBR,3,0,1,4
 11,Lead,ITA,2,5,6,13
@@ -14,4 +14,5 @@
 13,Lead,SUI,0,2,2,4
 14,Lead,GER,0,1,1,2
 15,Lead,CAN,0,1,1,2
-16,Lead,UKR,0,0,1,1
+16,Lead,INA,0,1,0,1
+17,Lead,UKR,0,0,1,1

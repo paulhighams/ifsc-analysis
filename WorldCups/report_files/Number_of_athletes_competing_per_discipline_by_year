@@ -1,6 +1,6 @@
 ,Country,Discipline,Athletes
 0,Andorra,Lead,2
-1,Argentina,Lead,20
+1,Argentina,Lead,21
 2,Argentina,Boulder,29
 3,Argentina,Speed,7
 4,Australia,Lead,43
@@ -25,7 +25,7 @@
 23,Bosnia and Herzegovina,Lead,2
 24,Botswana,Boulder,1
 25,Brazil,Lead,29
-26,Brazil,Speed,15
+26,Brazil,Speed,17
 27,Brazil,Boulder,35
 28,Brazil,Boulder-Lead,2
 29,Brazil,Speed-Relay,2
@@ -37,10 +37,10 @@
 35,Cambodia,Lead,2
 36,Canada,Lead,81
 37,Canada,Boulder,120
-38,Canada,Speed,36
+38,Canada,Speed,37
 39,Canada,Boulder-Lead,2
 40,Canada,Speed-Relay,6
-41,Chile,Lead,26
+41,Chile,Lead,30
 42,Chile,Boulder,15
 43,Chile,Speed,15
 44,Chile,Speed-Relay,2
@@ -56,11 +56,11 @@
 54,"China, Hong Kong Special Administrative Region",Speed-Relay,3
 55,"China, Macao Special Administrative Region",Boulder,7
 56,"China, Macao Special Administrative Region",Lead,3
-57,Colombia,Lead,10
+57,Colombia,Lead,11
 58,Colombia,Boulder,7
 59,Colombia,Speed,4
 60,Costa Rica,Boulder,3
-61,Costa Rica,Lead,5
+61,Costa Rica,Lead,6
 62,Croatia,Lead,20
 63,Croatia,Boulder,20
 64,Croatia,Speed,1
@@ -76,7 +76,7 @@
 74,Denmark,Speed,1
 75,Ecuador,Boulder,9
 76,Ecuador,Speed,26
-77,Ecuador,Lead,17
+77,Ecuador,Lead,18
 78,Ecuador,Speed-Relay,4
 79,El Salvador,Boulder,2
 80,El Salvador,Lead,2
@@ -101,7 +101,7 @@
 99,Guam,Boulder,5
 100,Guam,Lead,4
 101,Guatemala,Boulder,10
-102,Guatemala,Lead,4
+102,Guatemala,Lead,5
 103,Honduras,Boulder,6
 104,Honduras,Lead,4
 105,Hungary,Lead,32
@@ -131,7 +131,7 @@
 129,Italy,Speed,66
 130,Italy,Boulder,109
 131,Italy,Speed-Relay,8
-132,Japan,Lead,180
+132,Japan,Lead,181
 133,Japan,Boulder,147
 134,Japan,Speed,49
 135,Japan,Boulder-Lead,16
@@ -182,7 +182,7 @@
 180,Pakistan,Speed,4
 181,Pakistan,Lead,2
 182,Peru,Boulder,12
-183,Peru,Lead,3
+183,Peru,Lead,7
 184,Peru,Speed,1
 185,Philippines,Lead,14
 186,Philippines,Speed,5
@@ -252,7 +252,7 @@
 250,The former Yugoslav Republic of Macedonia,Boulder,9
 251,Turkey,Lead,23
 252,Turkey,Boulder,30
-253,Turkey,Speed,5
+253,Turkey,Speed,6
 254,Uganda,Lead,1
 255,Ukraine,Lead,61
 256,Ukraine,Speed,81
@@ -263,12 +263,13 @@
 261,United Kingdom,Boulder,111
 262,United Kingdom,Boulder-Lead,1
 263,United Kingdom,Speed-Relay,3
-264,United States of America,Lead,185
+264,United States of America,Lead,186
 265,United States of America,Speed,95
 266,United States of America,Boulder,210
 267,United States of America,Boulder-Lead,7
 268,United States of America,Speed-Relay,12
-269,Uzbekistan,Lead,4
-270,Venezuela (Bolivarian Republic of),Lead,14
-271,Venezuela (Bolivarian Republic of),Speed,15
-272,Venezuela (Bolivarian Republic of),Boulder,7
+269,Uruguay,Lead,3
+270,Uzbekistan,Lead,4
+271,Venezuela (Bolivarian Republic of),Lead,16
+272,Venezuela (Bolivarian Republic of),Speed,15
+273,Venezuela (Bolivarian Republic of),Boulder,7

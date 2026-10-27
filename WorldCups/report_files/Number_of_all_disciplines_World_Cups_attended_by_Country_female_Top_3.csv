@@ -1,8 +1,8 @@
 ,Athlete,Country,NumWCups
-0,Valentina AGUADO (Current),Argentina,65
+0,Valentina AGUADO (Current),Argentina,66
 1,Zoe GARCIA MOLINA,Argentina,7
 2,Rocio ailen BECERRA,Argentina,6
-3,Oceania MACKENZIE (Current),Australia,55
+3,Oceania MACKENZIE (Current),Australia,56
 4,Lucinda ann STIRLING,Australia,26
 5,Samantha BERRY,Australia,25
 6,Barbara BACHER,Austria,161
@@ -10,10 +10,10 @@
 8,Jessica PILZ (Current),Austria,103
 15,Muriel SARKANY,Belgium,95
 16,Chloe CAULIER (Current),Belgium,92
-17,Heloïse DOUMONT (Current),Belgium,55
+17,Heloïse DOUMONT (Current),Belgium,56
 18,Antonieta Esmeralda PARRA VEIZAGA (Current),Bolivia (Plurinational State of),1
 19,Janine CARDOSO,Brazil,20
-20,Anja KÖHLER  (Current),Brazil,18
+20,Anja KÖHLER  (Current),Brazil,19
 21,Bianca DE MAGALHAES DE CASTRO,Brazil,17
 22,Aleksandra TOTKOVA (Current),Bulgaria,33
 23,Ina DZHAMBAZOVA,Bulgaria,9
@@ -21,7 +21,7 @@
 26,Alannah YIP (Current),Canada,71
 27,Rebecca FRANGOS (Current),Canada,44
 28,Babette ROY (Current),Canada,27
-29,Alejandra CONTRERAS (Current),Chile,43
+29,Alejandra CONTRERAS (Current),Chile,44
 30,Muykuay SILVA (Current),Chile,14
 31,Ignacia MELLADO QUINTEROS,Chile,12
 32,Yuetong ZHANG (Current),China,53
@@ -39,7 +39,7 @@
 44,Anja SANTINI MIKULIĆ (Current),Croatia,7
 45,Sandra BAKULIC,Croatia,5
 46,Maja LOZIC,Croatia,3
-47,Michaela SMETANOVA (Current),Czechia,38
+47,Michaela SMETANOVA (Current),Czechia,39
 48,Silvie RAJFOVA,Czechia,37
 49,Vera KOTASOVA-KOSTRUHOVA,Czechia,32
 53,Andrea ROJAS (Current),Ecuador,53
@@ -62,7 +62,7 @@
 74,Evdoxia - aikaterini KALLIA,Greece,3
 75,Kylie BAKER (Current),Guam,2
 76,Victoria YSRAEL (Current),Guam,1
-77,Ana MENDEZ (Current),Guatemala,2
+77,Ana MENDEZ (Current),Guatemala,3
 78,Adriana MÁRQUEZ,Guatemala,1
 79,Ayleen GUARÉ,Guatemala,1
 80,Iris pamela DURON ANTONIO,Honduras,4
@@ -83,10 +83,10 @@
 98,Noa SHIRAN (Current),Israel,37
 99,Ayala KEREM (Current),Israel,32
 100,Jenny LAVARDA,Italy,156
-101,Laura ROGORA (Current),Italy,73
+101,Laura ROGORA (Current),Italy,74
 102,Luisa IOVANE,Italy,62
 103,Akiyo NOGUCHI,Japan,149
-104,Miho NONAKA (Current),Japan,91
+104,Miho NONAKA (Current),Japan,92
 105,Yuka KOBAYASHI,Japan,89
 106,Tamara ULZHABAYEVA (Current),Kazakhstan,24
 107,Tamara KUZNETSOVA,Kazakhstan,23
@@ -127,7 +127,7 @@
 170,Martina BURŠÍKOVÁ (Current),Slovakia,14
 171,Mina MARKOVIC,Slovenia,147
 172,Natalija GROS,Slovenia,92
-173,Janja GARNBRET (Current),Slovenia,90
+173,Janja GARNBRET (Current),Slovenia,91
 174,Tegwen OATES (Current),South Africa,12
 175,Aniya HOLDER (Current),South Africa,8
 176,RACHELLE DE CHARMOY,South Africa,6
@@ -152,6 +152,8 @@
 202,Kyra CONDIE (Current),United States of America,67
 203,Brooke RABOUTOU (Current),United States of America,49
 204,Natalia GROSSMAN (Current),United States of America,39
-206,Lucelia BLANCO,Venezuela (Bolivarian Republic of),26
-207,Francis RODRIGUEZ,Venezuela (Bolivarian Republic of),22
-208,Lianet CASTILLO (Current),Venezuela (Bolivarian Republic of),9
+205,Silvina LUONGO (Current),Uruguay,1
+206,Sofía MARTÍNEZ (Current),Uruguay,1
+208,Lucelia BLANCO,Venezuela (Bolivarian Republic of),26
+209,Francis RODRIGUEZ,Venezuela (Bolivarian Republic of),22
+210,Lianet CASTILLO (Current),Venezuela (Bolivarian Republic of),9

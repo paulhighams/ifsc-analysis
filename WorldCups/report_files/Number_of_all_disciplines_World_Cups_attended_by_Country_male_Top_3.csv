@@ -1,8 +1,8 @@
 ,Athlete,Country,NumWCups
 2,Valentin STERNIK (Current),Argentina,15
 3,Diego martín MARSELLA,Argentina,12
-4,Alejo SUTER (Current),Argentina,8
-5,Campbell HARRISON (Current),Australia,45
+4,Alejo SUTER (Current),Argentina,9
+5,Campbell HARRISON (Current),Australia,46
 6,Dylan PARKS (Current),Australia,24
 7,James KASSAY,Australia,22
 8,Jakob SCHUBERT (Current),Austria,159
@@ -20,16 +20,16 @@
 28,Nikolay RUSEV (Current),Bulgaria,33
 29,Slav KIROV (Current),Bulgaria,27
 30,Milen VIDENOVSKI,Bulgaria,18
-32,Sean MCCOLL (Current),Canada,178
+32,Sean MCCOLL (Current),Canada,179
 33,Oscar BAUDRAND (Current),Canada,49
 34,Elan JONASMCRAE,Canada,46
 35,Benjamin VARGAS (Current),Chile,34
-36,Joaquin URRUTIA (Current),Chile,25
+36,Joaquin URRUTIA (Current),Chile,26
 37,Tomas RAVANAL,Chile,20
 38,Yufei PAN (Current),China,74
 39,Qixin ZHONG,China,57
 40,Haibin QU,China,36
-41,Cheung-Chi Shoji CHAN (Current),"China, Hong Kong Special Administrative Region",68
+41,Cheung-Chi Shoji CHAN (Current),"China, Hong Kong Special Administrative Region",69
 42,Chi-Fung AU (Current),"China, Hong Kong Special Administrative Region",63
 43,Ka-Chun YAU (Current),"China, Hong Kong Special Administrative Region",36
 44,Wan Tong LOK (Current),"China, Macao Special Administrative Region",17
@@ -38,8 +38,8 @@
 47,Juan Sebastian SANCHEZ MARTIN (Current),Colombia,8
 48,Tomás ARCE (Current),Colombia,8
 49,Alejandro ROA (Current),Colombia,3
-50,Ry MORRISON,Costa Rica,2
-51,Tomas CASAS (Current),Costa Rica,2
+50,Tomas CASAS (Current),Costa Rica,3
+51,Ry MORRISON,Costa Rica,2
 52,Julio ARCE,Costa Rica,1
 56,Charalampos GEMENETZI,Cyprus,4
 57,Christos SOFOKLEOUS (Current),Cyprus,3
@@ -52,16 +52,16 @@
 74,Axel LINDFORS (Current),Finland,15
 75,Nalle HUKKATAIVAL,Finland,14
 82,Jan HOJER,Germany,97
-83,Christoph HANKE (Current),Germany,70
-84,Yannick FLOHÉ (Current),Germany,70
+83,Sebastian HALENKE (Current),Germany,71
+84,Christoph HANKE (Current),Germany,70
 85,Theodoros KONSTANTAKOPOULOS,Greece,11
 86,Matthaios VALSAMIDIS (Current),Greece,11
 87,Orfeas TSIAOUSIS (Current),Greece,7
 88,Allen LACTAOEN (Current),Guam,5
 89,Quitugua MICHAEL (Current),Guam,1
 90,Donovan VICENTE (Current),Guam,1
-91,Emilio FLORES (Current),Guatemala,4
-92,Ahren CASTILLO (Current),Guatemala,2
+91,Emilio FLORES (Current),Guatemala,5
+92,Ahren CASTILLO (Current),Guatemala,3
 93,Bryan MÉRIDA,Guatemala,1
 94,Daniel alejandro MERINO ORDÓÑEZ,Honduras,4
 95,Jonathan Odiel BENITEZ RODRIGUEZ (Current),Honduras,4
@@ -114,14 +114,14 @@
 144,Khairul hafiz ABU HASSAN,Malaysia,6
 146,Mauricio HUERTA,Mexico,36
 147,Santiago DE ALBA FLORES (Current),Mexico,24
-148,Thor VILLEGAS GARCÍA (Current),Mexico,12
+148,Thor VILLEGAS GARCÍA (Current),Mexico,13
 158,Julian DAVID (Current),New Zealand,24
 159,Ned JOHNSTON (Current),New Zealand,13
 160,George SANDERS,New Zealand,8
 161,Olukayode Adeyemi SONUGA (Current),Nigeria,1
 168,Diego LEQUERICA BUSCAGLIA (Current),Peru,16
 169,Kenu PUERTA WONG (Current),Peru,8
-170,Jaime hendrik QUINTANA,Peru,1
+170,Sebastian MESIAS VASQUEZ (Current),Peru,2
 174,Tomasz OLEKSY,Poland,96
 175,Marcin DZIENSKI (Current),Poland,84
 176,Lukasz SWIRK,Poland,40
@@ -150,7 +150,7 @@
 211,Hannes PUMAN (Current),Sweden,75
 212,Peter BOSMA,Sweden,27
 213,Magnus HÖGSTRÖM,Sweden,19
-214,Sascha LEHMANN (Current),Switzerland,83
+214,Sascha LEHMANN (Current),Switzerland,84
 215,Cédric LACHAT,Switzerland,72
 216,Matthias MÜLLER,Switzerland,49
 217,Chih-En FAN (Current),Taiwan,16
@@ -169,3 +169,4 @@
 236,Sean BAILEY,United States of America,65
 237,Colin DUFFY (Current),United States of America,50
 238,John BROSLER (Current),United States of America,44
+239,Santiago BARDIER (Current),Uruguay,1
